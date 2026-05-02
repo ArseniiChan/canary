@@ -1,0 +1,64 @@
+{
+  "runs": [
+    {
+      "cohort_id": "WCOM",
+      "n_train_filings": 19,
+      "n_train_sentences": 1477,
+      "n_val_sentences": 369,
+      "final_train_loss": 0.0008809984722975842,
+      "final_val_loss": 0.0010735368123278022,
+      "best_val_loss": 0.001061424845829606,
+      "best_epoch": 54,
+      "n_epochs_run": 75,
+      "model_path": "data/processed/models/WCOM.pt"
+    },
+    {
+      "cohort_id": "TYC",
+      "n_train_filings": 11,
+      "n_train_sentences": 861,
+      "n_val_sentences": 215,
+      "final_train_loss": 0.000828141665638045,
+      "final_val_loss": 0.0011293526040390134,
+      "best_val_loss": 0.0011180824367329478,
+      "best_epoch": 50,
+      "n_epochs_run": 71,
+      "model_path": "data/processed/models/TYC.pt"
+    },
+    {
+      "cohort_id": "HRC",
+      "n_train_filings": 29,
+      "n_train_sentences": 2283,
+      "n_val_sentences": 571,
+      "final_train_loss": 0.000736105897288014,
+      "final_val_loss": 0.0009468573261983693,
+      "best_val_loss": 0.0009420388378202915,
+      "best_epoch": 59,
+      "n_epochs_run": 80,
+      "model_path": "data/processed/models/HRC.pt"
+    },
+    {
+      "cohort_id": "VRX",
+      "n_train_filings": 55,
+      "n_train_sentences": 4327,
+      "n_val_sentences": 1082,
+      "final_train_loss": 0.0009112971301303963,
+      "final_val_loss": 0.0010220279218629003,
+      "best_val_loss": 0.0010204188292846084,
+      "best_epoch": 58,
+      "n_epochs_run": 79,
+      "model_path": "data/processed/models/VRX.pt"
+    },
+    {
+      "cohort_id": "LEH",
+      "n_train_filings": 43,
+      "n_train_sentences": 3367,
+      "n_val_sentences": 842,
+      "final_train_loss": 0.0008789845516075385,
+      "final_val_loss": 0.0010294144740328193,
+      "best_val_loss": 0.0010243303840979934,
+      "best_epoch": 51,
+      "n_epochs_run": 72,
+      "model_path": "data/processed/models/LEH.pt"
+    }
+  ]
+}
