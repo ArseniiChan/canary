@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --page: hsl(212, 30%, 98%);
+  --surface: hsl(0, 0%, 100%);
+  --surface-2: hsl(212, 24%, 96%);
+  --rule: hsl(212, 18%, 90%);
+  --rule-strong: hsl(212, 18%, 80%);
+  --ink: hsl(213, 60%, 12%);
+  --ink-2: hsl(212, 18%, 36%);
+  --ink-3: hsl(212, 14%, 54%);
+}
+
+html, body {
+  background-color: var(--page);
+  color: var(--ink);
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.font-serif {
+  font-family: "Source Serif 4", "Source Serif Pro", Georgia, serif;
+  font-feature-settings: "kern", "liga";
+  letter-spacing: -0.018em;
+}
+
+/* Section heading — Inter, not serif. Used for h2 below hero */
+.h-section {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.012em;
+  color: var(--ink);
+}
+
+/* Eyebrow label — small uppercase tag above headlines */
+.eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--ink-3);
+}
+
+/* Subtle accent rule under hero h1 */
+.h1-rule {
+  display: inline-block;
+  height: 3px;
+  width: 56px;
+  background: hsl(218, 80%, 46%);
+  border-radius: 2px;
+  margin-top: 1.25rem;
+}
+
+.num {
+  font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum", "ss01";
+}
+
+/* Subtle background pattern for hero — Refactoring UI: decorate backgrounds */
+.bg-grid {
+  background-image:
+    linear-gradient(to right, hsla(213, 30%, 50%, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, hsla(213, 30%, 50%, 0.05) 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+
+/* Accent border-top — institutional pattern (Refactoring UI p195) */
+.accent-border-top {
+  border-top: 3px solid hsl(213, 70%, 32%);
+}
+.accent-border-top--gold { border-top-color: hsl(38, 75%, 46%); }
+.accent-border-top--low  { border-top-color: hsl(160, 50%, 36%); }
+.accent-border-top--mixed { border-top-color: hsl(38, 75%, 46%); }
+.accent-border-top--high { border-top-color: hsl(0, 60%, 45%); }
+
+/* Drag-and-drop visual states */
+.dropzone {
+  border: 2px dashed var(--rule-strong);
+  background-color: var(--surface);
+  transition: border-color 120ms ease, background-color 120ms ease;
+}
+.dropzone--active {
+  border-color: hsl(213, 70%, 42%);
+  background-color: hsl(213, 75%, 96%);
+}
+
+/* Custom checkmark list — Refactoring UI: supercharge defaults */
+ul.checklist {
+  list-style: none;
+  padding-left: 0;
+}
+ul.checklist > li {
+  position: relative;
+  padding-left: 1.75rem;
+  margin-bottom: 0.5rem;
+}
+ul.checklist > li::before {
+  content: "";
+  position: absolute;
+  left: 0; top: 0.45em;
+  width: 1rem; height: 1rem;
+  border-radius: 9999px;
+  background-color: hsl(213, 70%, 92%);
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' width='16' height='16'><path d='M6.5 11L3.5 8l1-1 2 2 5-5 1 1z' fill='hsl(213, 65%, 24%)'/></svg>");
+  background-size: 14px 14px;
+  background-repeat: no-repeat;
+  background-position: center;
+}

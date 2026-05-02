@@ -1,0 +1,67 @@
+{
+  "aggregate": {
+    "hit_at_1": 0.0,
+    "hit_at_3": 0.2,
+    "hit_at_5": 0.2,
+    "random_hit_at_1": 0.0782051282051282,
+    "random_hit_at_3": 0.23461538461538461,
+    "random_hit_at_5": 0.3910256410256411
+  },
+  "leave_one_fraud_out": [
+    {
+      "removed": "HRC",
+      "aggregate": {
+        "hit_at_1": 0.0,
+        "hit_at_3": 0.25,
+        "hit_at_5": 0.25,
+        "random_hit_at_1": 0.07692307692307693,
+        "random_hit_at_3": 0.23076923076923078,
+        "random_hit_at_5": 0.38461538461538464
+      }
+    },
+    {
+      "removed": "LEH",
+      "aggregate": {
+        "hit_at_1": 0.0,
+        "hit_at_3": 0.0,
+        "hit_at_5": 0.0,
+        "random_hit_at_1": 0.07852564102564102,
+        "random_hit_at_3": 0.23557692307692307,
+        "random_hit_at_5": 0.3926282051282052
+      }
+    },
+    {
+      "removed": "TYC",
+      "aggregate": {
+        "hit_at_1": 0.0,
+        "hit_at_3": 0.25,
+        "hit_at_5": 0.25,
+        "random_hit_at_1": 0.07852564102564102,
+        "random_hit_at_3": 0.23557692307692307,
+        "random_hit_at_5": 0.3926282051282052
+      }
+    },
+    {
+      "removed": "VRX",
+      "aggregate": {
+        "hit_at_1": 0.0,
+        "hit_at_3": 0.25,
+        "hit_at_5": 0.25,
+        "random_hit_at_1": 0.07852564102564102,
+        "random_hit_at_3": 0.23557692307692307,
+        "random_hit_at_5": 0.3926282051282052
+      }
+    },
+    {
+      "removed": "WCOM",
+      "aggregate": {
+        "hit_at_1": 0.0,
+        "hit_at_3": 0.25,
+        "hit_at_5": 0.25,
+        "random_hit_at_1": 0.07852564102564102,
+        "random_hit_at_3": 0.23557692307692307,
+        "random_hit_at_5": 0.3926282051282052
+      }
+    }
+  ]
+}
