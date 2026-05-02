@@ -1,0 +1,75 @@
+{
+  "per_fraud": [
+    {
+      "ticker": "LEH",
+      "accession": "0001104659-08-005476",
+      "n_token_classes_masked": 11,
+      "n_mentions_replaced_approx": 93,
+      "original_score": 0.001395,
+      "masked_score": 0.0013940928038209677,
+      "original_rank": 3,
+      "masked_rank": 3,
+      "n_total_in_cohort": 13,
+      "rank_delta": 0,
+      "masked_boot_lower_95": 1.0,
+      "masked_boot_upper_95": 6.0
+    },
+    {
+      "ticker": "HRC",
+      "accession": "0001005150-02-000448",
+      "n_token_classes_masked": 7,
+      "n_mentions_replaced_approx": 6,
+      "original_score": 0.001266,
+      "masked_score": 0.0012608994729816914,
+      "original_rank": 7,
+      "masked_rank": 7,
+      "n_total_in_cohort": 12,
+      "rank_delta": 0,
+      "masked_boot_lower_95": 4.0,
+      "masked_boot_upper_95": 10.0
+    },
+    {
+      "ticker": "TYC",
+      "accession": "0000912057-01-544874",
+      "n_token_classes_masked": 8,
+      "n_mentions_replaced_approx": 93,
+      "original_score": 0.001271,
+      "masked_score": 0.0012216418981552124,
+      "original_rank": 9,
+      "masked_rank": 11,
+      "n_total_in_cohort": 13,
+      "rank_delta": 2,
+      "masked_boot_lower_95": 9.0,
+      "masked_boot_upper_95": 13.0
+    },
+    {
+      "ticker": "VRX",
+      "accession": "0000885590-15-000015",
+      "n_token_classes_masked": 12,
+      "n_mentions_replaced_approx": 31,
+      "original_score": 0.001295,
+      "masked_score": 0.0012914022663608193,
+      "original_rank": 8,
+      "masked_rank": 9,
+      "n_total_in_cohort": 13,
+      "rank_delta": 1,
+      "masked_boot_lower_95": 6.0,
+      "masked_boot_upper_95": 12.0
+    },
+    {
+      "ticker": "WCOM",
+      "accession": "0001005477-02-001226",
+      "n_token_classes_masked": 9,
+      "n_mentions_replaced_approx": 267,
+      "original_score": 0.001259,
+      "masked_score": 0.0012236371403560042,
+      "original_rank": 12,
+      "masked_rank": 12,
+      "n_total_in_cohort": 13,
+      "rank_delta": 0,
+      "masked_boot_lower_95": 10.0,
+      "masked_boot_upper_95": 13.0
+    }
+  ],
+  "label": "post-hoc; not pre-registered"
+}
