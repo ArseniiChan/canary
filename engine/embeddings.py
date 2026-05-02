@@ -84,7 +84,21 @@ class EmbeddingEngine:
         batch_size: int = 64,
         force: bool = False,
     ) -> FilingEmbeddings:
-        """Encode an entire filing's sentences, hitting the on-disk cache when present."""
+        """Encode an entire filing's sentences, hitting the on-disk cache when present.
+
+        Always returns ``embeddings`` as a 2-D ``(n_sentences, 384)`` array even
+        when ``sentences`` is empty — consumers downstream of this method
+        (``engine.scoring.score_filing``, the Modal endpoint) rely on the
+        2-D contract. Caught by the local stress test 2026-05-02.
+        """
+        if not sentences:
+            return FilingEmbeddings(
+                accession=accession,
+                model_name=self.model_name,
+                sentences=[],
+                embeddings=np.zeros((0, 384), dtype=np.float32),
+            )
+
         path = _cache_path(accession, self.model_name)
         if path.exists() and not force:
             cached_sentences, cached_emb = _load(path)

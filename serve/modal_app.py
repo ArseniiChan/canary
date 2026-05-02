@@ -62,7 +62,12 @@ app = modal.App(APP_NAME, image=image)
 
 # Five cohort tickers (Enron is excluded — no cohort model exists).
 COHORTS = ["LEH", "WCOM", "TYC", "HRC", "VRX"]
-MAX_FILE_BYTES = 12 * 1024 * 1024  # 12 MB; large 10-Ks are ~6 MB
+# Largest real 10-K in the project corpus is ~6 MB and scores in <20s warm.
+# At ~12 MB / ~280k sentences the embedder hits Modal's 180s container timeout,
+# so the endpoint returns 500. Cap the upload at 8 MB to keep a comfortable
+# margin, and short-circuit on sentence count (Phase 7 stress test, 2026-05-02).
+MAX_FILE_BYTES = 8 * 1024 * 1024  # 8 MB
+MAX_SENTENCES   = 10_000          # ~3-4x the largest real filing in the corpus
 
 
 @app.cls(
@@ -163,6 +168,19 @@ class Inference:
                 "error": f"only {len(sentences)} sentence(s) found — need at least 5",
                 "extraction_method": extraction_method,
                 "extraction_chars": extraction_chars,
+            }
+        if len(sentences) > MAX_SENTENCES:
+            return {
+                "ok": False,
+                "error": (
+                    f"input produces {len(sentences):,} sentences — exceeds "
+                    f"the {MAX_SENTENCES:,} sentence cap (would not finish "
+                    f"within the request timeout). Trim the input or paste "
+                    f"only the MD&A (Item 7) section."
+                ),
+                "extraction_method": extraction_method,
+                "extraction_chars": extraction_chars,
+                "n_sentences_seen": len(sentences),
             }
 
         fe = self.encoder.encode_filing("uploaded", sentences)
