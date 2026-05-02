@@ -1,0 +1,1356 @@
+and Analysis of Financial Condition
+ and Results of Operations
+
+ Results of Operations
+
+ Overview
+
+ CenturyTel, Inc. and its subsidiaries (the "Company") is a regional
+integrated communications company engaged primarily in providing local exchange,
+wireless, long distance, Internet access and data services to customers in 21
+states.
+
+ On July 31, 2000 and September 29, 2000, affiliates of the Company
+acquired over 490,000 telephone access lines and related local exchange assets
+in Arkansas, Missouri and Wisconsin from affiliates of Verizon Communications
+Inc. ("Verizon") for an aggregate of approximately $1.5 billion cash. The
+operations of these acquired properties are included in the Company's results of
+operations beginning on the respective dates of acquisition. See Acquisitions
+and Note 2 of Notes to Consolidated Financial Statements for additional
+information.
+
+ On May 14, 1999, the Company sold substantially all of its Alaska-based
+operations serving approximately 134,900 telephone access lines and 3,000
+cellular subscribers. On June 1, 1999, the Company sold the assets of its
+Brownsville and McAllen, Texas cellular operations serving approximately 7,500
+cellular subscribers. In February 2000, the Company sold the assets of its
+remaining Alaska cellular operations serving approximately 10,600 cellular
+subscribers. The operations of these disposed properties are included in the
+Company's results of operations up to the respective dates of disposition.
+
+ During the three years ended December 31, 2001, the Company has acquired
+and sold various other operations, the impact of which has not been material to
+the financial position or results of operations of the Company.
+
+ The net income of the Company for 2001 was $343.0 million, compared to
+$231.5 million during 2000 and $239.8 million during 1999. Diluted earnings per
+share for 2001 were $2.41 compared to $1.63 in 2000 and $1.70 in 1999.
+
+<TABLE>
+<CAPTION>
+Year ended December 31, 2001 2000 1999
+-------------------------------------------------------------------------------------------------
+ (Dollars, except per share amounts,
+ and shares in thousands)
+<S> <C> <C> <C>
+Operating income
+ Telephone $ 423,420 376,290 351,559
+ Wireless 112,401 117,865 133,930
+ Other 22,098 31,258 22,580
+-------------------------------------------------------------------------------------------------
+ 557,919 525,413 508,069
+Nonrecurring gains and losses, net 199,971 20,593 62,808
+Interest expense (225,523) (183,302) (150,557)
+Income from unconsolidated cellular entities 27,460 26,986 27,675
+Minority interest (11,812) (10,201) (27,913)
+Other income and expense 5,041 6,696 9,190
+Income tax expense (210,025) (154,711) (189,503)
+-------------------------------------------------------------------------------------------------
+Net income $ 343,031 231,474 239,769
+=================================================================================================
+Basic earnings per share $ 2.43 1.65 1.72
+=================================================================================================
+Diluted earnings per share $ 2.41 1.63 1.70
+=================================================================================================
+Average basic shares outstanding 140,743 140,069 138,848
+=================================================================================================
+Average diluted shares outstanding 142,307 141,864 141,432
+=================================================================================================
+</TABLE>
+
+ During the three years ended December 31, 2001, the Company has recorded
+certain nonrecurring items. Net income (and diluted earnings per share)
+excluding nonrecurring items for 2001, 2000 and 1999 was $225.7 million ($1.59),
+$228.8 million ($1.61), and $238.3 million ($1.69), respectively. The following
+reconciliation table shows how the amounts of various line items reported under
+generally accepted accounting principles were impacted by these nonrecurring
+items.
+
+<TABLE>
+<CAPTION>
+
+Year ended December 31, 2001 2000 1999
+---------------------------------------------------------------------------------------------------------
+ (Dollars, except per share
+ amounts, in thousands)
+
+<S> <C> <C> <C>
+Operating income, as reported $ 557,919 525,413 508,069
+Less: Nonrecurring operating expenses (1) (2,000) (504) (2,749)
+---------------------------------------------------------------------------------------------------------
+Operating income, excluding nonrecurring items $ 559,919 525,917 510,818
+=========================================================================================================
+
+Nonrecurring gains and losses, net, as reported $ 199,971 20,593 62,808
+Less nonrecurring items:
+ Gain on sale of assets 243,656 20,593 62,808
+ Write down of non-operating assets (43,685) - -
+---------------------------------------------------------------------------------------------------------
+Nonrecurring gains and losses, net, excluding
+ nonrecurring items $ - - -
+=========================================================================================================
+
+Income from unconsolidated cellular entities, as reported $ 27,460 26,986 27,675
+Less nonrecurring items:
+ Proportionate share of nonrecurring charges
+ recorded by entities in which the Company
+ owns a minority interest (10,054) (5,330) (6,860)
+ Company's share of gain on sale of assets 2,164 - -
+---------------------------------------------------------------------------------------------------------
+Income from unconsolidated cellular entities,
+ excluding nonrecurring items $ 35,350 32,316 34,535
+=========================================================================================================
+
+Minority interest, as reported $ (11,812) (10,201) (27,913)
+Less: Minority interest effect of gain on sale of assets (13) - (14,926)
+---------------------------------------------------------------------------------------------------------
+Minority interest, excluding nonrecurring items $ (11,799) (10,201) (12,987)
+=========================================================================================================
+
+Other income and expense, as reported $ 5,041 6,696 9,190
+Less nonrecurring items:
+ Costs associated with unsolicited takeover proposal (6,000) - -
+ Settlement of interest rate hedge contracts - (7,947) -
+---------------------------------------------------------------------------------------------------------
+Other income and expense, excluding nonrecurring items $ 11,041 14,643 9,190
+=========================================================================================================
+
+Income tax expense, as reported $ (210,025) (154,711) (189,503)
+Less: Tax effect of nonrecurring items (66,698) (4,166) (36,821)
+---------------------------------------------------------------------------------------------------------
+Income tax expense, excluding nonrecurring items $ (143,327) (150,545) (152,682)
+=========================================================================================================
+
+Net income, as reported $ 343,031 231,474 239,769
+Less: Effect of nonrecurring items 117,370 2,646 1,452
+---------------------------------------------------------------------------------------------------------
+Net income, excluding nonrecurring items $ 225,661 228,828 238,317
+=========================================================================================================
+
+Basic earnings per share, as reported $ 2.43 1.65 1.72
+Less: Effect of nonrecurring items .83 .02 .01
+---------------------------------------------------------------------------------------------------------
+Basic earnings per share, excluding nonrecurring items $ 1.60 1.63 1.71
+=========================================================================================================
+
+Diluted earnings per share, as reported $ 2.41 1.63 1.70
+Less: Effect of nonrecurring items .82 .02 .01
+---------------------------------------------------------------------------------------------------------
+Diluted earnings per share, excluding nonrecurring items $ 1.59 1.61 1.69
+=========================================================================================================
+</TABLE>
+(1) Nonrecurring operating expenses for 2001 relate to expenses incurred as
+ the result of an ice storm.
+
+ For additional information concerning the nonrecurring items described in
+the above table, see "Nonrecurring Gains and Losses, Net", "Income from
+Unconsolidated Cellular Entities", "Minority Interest", and "Other Income and
+Expense".
+
+ Contributions to operating revenues and operating income by the Company's
+telephone, wireless and other operations for each of the years in the three-year
+period ended December 31, 2001 were as follows:
+
+<TABLE>
+<CAPTION>
+
+Year ended December 31, 2001 2000 1999
+----------------------------------------------------------------------------
+<S> <C> <C> <C>
+Operating revenues
+ Telephone operations 71.1% 67.9 67.2
+ Wireless operations 20.7% 24.0 25.2
+ Other operations 8.2% 8.1 7.6
+Operating income
+ Telephone operations 75.9% 71.6 69.2
+ Wireless operations 20.1% 22.4 26.4
+ Other operations 4.0% 6.0 4.4
+----------------------------------------------------------------------------
+</TABLE>
+
+ In August 2001, the Company announced that it is exploring the potential
+separation of its wireless business from its other operations.
+
+ In addition to historical information, management's discussion and
+analysis includes certain forward-looking statements regarding events and
+financial trends that may affect the Company's future operating results and
+financial position. Such forward-looking statements are subject to uncertainties
+that could cause the Company's actual results to differ materially from such
+statements. Such uncertainties include but are not limited to: the Company's
+ability to effectively manage its growth, including integrating newly-acquired
+businesses into the Company's operations, successfully financing and timely
+consummating pending acquisitions, hiring adequate numbers of qualified staff
+and successfully upgrading its billing and other information systems; the
+results of the Company's effort to separate its wireless operations; the risks
+inherent in rapid technological change; the effects of ongoing changes in the
+regulation of the telecommunications industry; the effects of greater than
+anticipated competition in the Company's markets; possible changes in the demand
+for, or pricing of, the Company's products and services; the Company's ability
+to successfully introduce new product or service offerings on a timely and
+cost-effective basis; and the effects of more general factors such as changes in
+interest rates, in general market or economic conditions or in legislation,
+regulation or public policy. These and other uncertainties related to the
+business are described in greater detail in Item 1 to the Company's Annual
+Report on Form 10-K for the year ended December 31, 2001. You are cautioned not
+to place undue reliance on these forward-looking statements, which speak only as
+of the date of this report. The Company undertakes no obligation to update any
+of its forward-looking statements for any reason.
+
+<PAGE>
+
+Telephone Operations
+
+ The Company conducts its telephone operations in rural, suburban and small
+urban communities in 21 states. As of December 31, 2001, approximately 87% of
+the Company's 1.8 million access lines were in Wisconsin, Arkansas, Washington,
+Missouri, Michigan, Louisiana, Colorado, Ohio, and Oregon. The operating
+revenues, expenses and income of the Company's telephone operations for 2001,
+2000 and 1999 are summarized below.
+
+<TABLE>
+<CAPTION>
+
+Year ended December 31, 2001 2000 1999
+----------------------------------------------------------------------------------------
+ (Dollars in thousands)
+<S> <C> <C> <C>
+Operating revenues
+ Local service $ 491,529 408,538 353,534
+ Network access 874,458 727,797 654,003
+ Other 139,746 117,634 118,575
+----------------------------------------------------------------------------------------
+ 1,505,733 1,253,969 1,126,112
+----------------------------------------------------------------------------------------
+
+Operating expenses
+ Plant operations 380,466 290,062 251,704
+ Customer operations 117,080 105,950 88,552
+ Corporate and other 186,483 163,761 160,631
+ Depreciation and amortization 398,284 317,906 273,666
+----------------------------------------------------------------------------------------
+ 1,082,313 877,679 774,553
+----------------------------------------------------------------------------------------
+Operating income $ 423,420 376,290 351,559
+========================================================================================
+</TABLE>
+
+ Local service revenues. Local service revenues are derived from the
+monthly provision of local exchange telephone services in the Company's service
+areas. Of the $83.0 million (20.3%) increase in local service revenues in 2001,
+$73.7 million was due to the acquisition of the Verizon properties in 2000. The
+remaining $9.3 million increase was due to a $6.9 million increase due to
+increased rates in certain jurisdictions and an increase in the average number
+of customer access lines in incumbent markets and a $3.9 million increase due to
+the increased provision of custom calling features. Of the $55.0 million (15.6%)
+increase in local service revenues in 2000, $46.5 million was due to the
+acquisition of the Verizon properties, which was partially offset by a $14.4
+million decrease attributable to the sale of the Company's Alaska-based
+operations in the second quarter of 1999. The remaining $22.9 million increase
+was due to a $16.4 million increase in the average number of customer access
+lines in incumbent markets and a $5.4 million increase due to the increased
+provision of custom calling features. Access lines declined 0.2% during 2001.
+Internal access line growth during 2000 and 1999 was 2.8% and 4.8%,
+respectively. The decline in internal access line growth during 2001 is
+substantially due to the slowing growth in the Company's service areas due to
+general economic conditions and disconnecting customers for nonpayment.
+
+ Network access revenues. Network access revenues are primarily derived
+from charges to long distance companies and other customers for access to the
+Company's local exchange carrier ("LEC") networks in connection with the
+completion of interstate or intrastate long distance telephone calls. Certain of
+the Company's interstate network access revenues are based on tariffed access
+charges filed directly with the Federal Communications Commission ("FCC"); the
+remainder of such revenues are derived under revenue sharing arrangements with
+other LECs administered by the National Exchange Carrier Association. Intrastate
+network access revenues are based on tariffed access charges filed with state
+regulatory agencies or are derived under revenue sharing arrangements with other
+LECs.
+
+ Network access revenues increased $146.7 million (20.2%) in 2001 and
+$73.8 million (11.3%) in 2000 due to the following factors:
+
+<TABLE>
+<CAPTION>
+ 2001 2000
+ increase increase
+ (decrease) (decrease)
+---------------------------------------------------------------------------------------
+ (Dollars in thousands)
+
+<S> <C> <C>
+Acquisitions of Verizon properties in
+ third quarter 2000 $ 139,866 75,938
+Increased recovery from the federal
+ Universal Service Fund ("USF") 8,507 15,753
+Disposition of Alaska properties - (23,348)
+Partial recovery of increased operating
+ costs through revenue sharing arrangements
+ with other telephone companies, increased
+ minutes of use, increased recovery from
+ state support funds and return on rate base 13,204 3,637
+Revision of prior year revenue settlement agreements (16,876) 4,228
+Other, net 1,960 (2,414)
+---------------------------------------------------------------------------------------
+ $ 146,661 73,794
+=======================================================================================
+</TABLE>
+
+ Other revenues. Other revenues include revenues related to (i) leasing,
+selling, installing, maintaining and repairing customer premise
+telecommunications equipment and wiring ("CPE services"), (ii) providing billing
+and collection services for long distance carriers and (iii) participating in
+the publication of local directories. Other revenues increased $22.1 million in
+2001, primarily due to a $20.5 million increase attributable to revenues
+contributed by the Verizon properties. The remainder of the increase in 2001 was
+due primarily to a $7.0 million increase in revenues from CPE services
+(primarily due to an increase in rates) which was partially offset by a $5.0
+million decrease in billing and collection revenues. Other revenues decreased
+$941,000 in 2000, primarily due to a $6.3 million decrease due to the sale of
+the Alaska properties and a $5.4 million decrease from the provision of CPE
+services, which benefited in 1999 from sales to customers readying their
+equipment for the Year 2000. Such decreases were substantially offset by a $10.8
+million increase attributable to revenues contributed by the Verizon properties.
+
+ Operating expenses. Plant operations expenses during 2001 and 2000
+increased $90.4 million (31.2%) and $38.4 million (15.2%), respectively. Of the
+$90.4 million increase in 2001, $87.3 million was attributable to the properties
+acquired from Verizon. The remaining $3.1 million increase was primarily due to
+a $6.1 million increase in salaries and benefits, a $2.7 million increase in
+network operations expenses and a $2.6 million increase in digital subscriber
+line ("DSL") expenses. Such increases were substantially offset by a $9.9
+million decrease in engineering expenses. Of the $38.4 million increase in 2000,
+$44.8 million was attributable to the properties acquired from Verizon, which
+was partially offset by a $13.0 million decrease due to the sale of the Alaska
+properties. The remaining $6.6 million increase was primarily due to a $4.7
+million increase in salaries and benefits and a $2.4 million increase in network
+operations and engineering expenses.
+
+ Customer operations, corporate and other expenses increased $33.9 million
+(12.6%) in 2001 and $20.5 million (8.2%) in 2000. Of the $33.9 million increase
+in 2001, $42.5 million related to the Verizon properties. The remaining $8.6
+million decrease in 2001 was primarily due to a $4.3 million decrease in the
+provision for doubtful accounts and a $3.1 million decrease in operating taxes.
+Of the $20.5 million increase in 2000, $34.0 million related to the Verizon
+properties, which was partially offset by an $11.4 million decrease due to the
+sale of the Alaska properties in 1999. The remaining $2.1 million decrease in
+2000 was primarily due to a $5.6 million decrease in contract labor expenses
+primarily associated with nonrecurring costs incurred in 1999 attributable to
+readying the Company's system to be Year 2000 compliant and an $8.2 million
+decrease in operating taxes. Such decreases were partially offset by a $7.7
+million increase in the provision for doubtful accounts and a $2.4 million
+increase in information technology expenses.
+
+ Depreciation and amortization increased $80.4 million (25.3%) and $44.2
+million (16.2%) in 2001 and 2000, respectively. Of the $80.4 million increase in
+2001, $65.2 million was attributable to the properties acquired from Verizon
+(which included $14.7 million of amortization of goodwill) and the remainder was
+primarily due to higher levels of plant in service. Of the $44.2 million
+increase in 2000, $44.6 million was attributable to the properties acquired from
+Verizon (which included $8.5 million of amortization of goodwill) and $11.8
+million was primarily due to higher levels of plant in service. Such increases
+were partially offset by a $10.6 million reduction resulting from the sale of
+the Company's Alaska properties. Exclusive of acquisitions, depreciation expense
+included nonrecurring additional depreciation charges approved by regulators in
+certain jurisdictions which aggregated $4.1 million in 2000. The composite
+depreciation rate for the Company's regulated telephone properties, including
+the additional depreciation charges, was 6.8% for 2001, 7.2% for 2000 and 7.0%
+for 1999.
+
+ Other. For additional information regarding certain matters that have
+impacted or may impact the Company's telephone operations, see Regulation and
+Competition.
+
+<PAGE>
+
+Wireless Operations and Income from Unconsolidated Cellular Entities
+<TABLE>
+<CAPTION>
+
+Year ended December 31, 2001 2000 1999
+----------------------------------------------------------------------------------------------
+ (Dollars in thousands)
+<S> <C> <C> <C>
+Operating income - wireless operations $ 112,401 117,865 133,930
+Minority interest - wireless operations,
+ exclusive of the effect of asset sales in 1999 (11,510) (11,598) (12,911)
+Income from unconsolidated cellular entities 27,460 26,986 27,675
+----------------------------------------------------------------------------------------------
+ $ 128,351 133,253 148,694
+==============================================================================================
+</TABLE>
+
+ The Company's wireless operations (discussed below) reflect 100% of the
+results of operations of the cellular entities in which the Company has a
+majority ownership interest. The minority interest owners' share of the income
+of such entities is reflected in the Company's Consolidated Statements of Income
+as an expense in "Minority interest." See Minority Interest for additional
+information. The Company's share of earnings from the cellular entities in which
+it has less than a majority interest is accounted for using the equity method
+and is reflected in the Company's Consolidated Statements of Income in "Income
+from unconsolidated cellular entities." See Income from Unconsolidated Cellular
+Entities for additional information.
+
+Wireless Operations
+
+ All of the Company's wireless operations are located in Michigan,
+Louisiana, Wisconsin, Mississippi, Texas and Arkansas. The operating revenues,
+expenses and income of the Company's wireless operations for 2001, 2000 and 1999
+are summarized below.
+
+<TABLE>
+<CAPTION>
+Year ended December 31, 2001 2000 1999
+---------------------------------------------------------------------------------------------------------
+ (Dollars in thousands)
+<S> <C> <C> <C>
+Operating revenues
+ Service $ 336,850 328,956 305,006
+ Roaming 90,192 99,791 106,486
+ Equipment sales 10,923 14,822 10,777
+---------------------------------------------------------------------------------------------------------
+ 437,965 443,569 422,269
+---------------------------------------------------------------------------------------------------------
+Operating expenses
+ Cost of equipment sold 23,453 30,064 21,408
+ System operations 75,628 69,641 56,866
+ General, administrative and customer service 85,467 78,087 79,569
+ Sales and marketing 74,670 82,673 61,903
+ Depreciation and amortization 66,346 65,239 68,593
+---------------------------------------------------------------------------------------------------------
+ 325,564 325,704 288,339
+---------------------------------------------------------------------------------------------------------
+Operating income $ 112,401 117,865 133,930
+=========================================================================================================
+</TABLE>
+
+ Operating revenues. Service revenues include monthly service fees for
+providing access and airtime to customers and toll revenue. Roaming revenues
+include service fees for providing airtime to other carriers' customers roaming
+through the Company's service areas.
+
+ The $7.9 million increase in service revenues in 2001 was due primarily to
+an increase in the number of customers and increased minutes of use per
+customer, both of which were partially offset by reduced rates. The $9.6 million
+decrease in roaming revenues in 2001 was due to a reduction in roaming rates
+(which was partially offset by an increase in roaming minutes of use), a
+downward trend in rates that the Company anticipates will continue in the near
+future. Of the $24.0 million increase in service revenues in 2000, $31.6 million
+was due to growth in the number of customers and increased minutes of use per
+customer, both of which were partially offset by reduced rates. Such increase
+was partially offset by an $8.0 million decrease due to the sale of the Texas
+and Alaska cellular properties. Of the $6.7 million decrease in roaming revenues
+in 2000, $3.2 million was due to a reduction in roaming rates (which was
+partially offset by an increase in roaming minutes of use). The remainder of the
+decrease in roaming revenues in 2000 was due to the sale of the Texas and Alaska
+cellular properties in mid-1999.
+
+ The following table illustrates the growth in the Company's wireless
+customer base in its majority-owned markets:
+
+<TABLE>
+<CAPTION>
+Year ended December 31, 2001 2000 1999
+--------------------------------------------------------------------------------------
+<S> <C> <C> <C>
+Customers at beginning of period 751,200 707,486 624,290
+Gross units added internally 316,353 339,247 240,084
+Disconnects 270,213 284,880 146,325
+Net units added internally 46,140 54,367 93,759
+Effect of property dispositions - (10,653) (10,563)
+Customers at end of period 797,340 751,200 707,486
+Average monthly churn rate
+ (excluding prepaid customers) 2.33% 1.95% 2.02%
+--------------------------------------------------------------------------------------
+</TABLE>
+
+ The average monthly revenue (excluding equipment sales) per customer
+declined to $46 during 2001 from $49 in 2000 and $53 in 1999 primarily due to
+reductions in service rates charged to the Company's customers and reductions in
+roaming rates charged to other cellular operators. The average monthly revenue
+per customer is expected to further decline (i) as competitive pressures
+(including those causing further reductions in service rates) from current and
+future wireless communications providers intensify and (ii) as the Company
+continues to receive pressure from other cellular operators to reduce roaming
+rates. The Company is responding to such competitive pressures by, among other
+things, modifying certain of its price plans and implementing certain other
+plans and promotions, some of which are likely to result in lower average
+revenue per customer.
+
+ During 2001 the Company added approximately 47,700 net contract customers
+while the prepaid customer base declined by 1,560 customers. The Company will
+continue to focus on adding contract customers while decreasing its focus on
+prepaid plans for future customer growth. At December 31, 2001, over 90% of the
+Company's wireless customers were contract customers.
+
+ Operating expenses. Cost of equipment sold decreased $6.6 million (22.0%)
+in 2001 primarily due to a decrease in the number of phones sold and a decrease
+in the average cost per unit. Cost of equipment sold increased $8.7 million
+(40.4%) in 2000 primarily due to an increase in the number of phones sold and an
+increase in average cost per unit primarily due to a higher percentage of
+digital phones sold.
+
+ System operations expenses increased $6.0 million (8.6%) in 2001 primarily
+due to a $6.5 million increase in network costs and cell site expenses
+associated with operating a greater number of cell sites and a $3.3 million
+increase in the net amounts paid to other carriers for service provided to the
+Company's customers who roam in the other carriers' service areas. Such
+increases were partially offset by a $2.2 million decrease in toll costs. System
+operations expenses increased $12.8 million (22.5%) in 2000 primarily due to a
+$5.9 million increase associated with operating a greater number of cell sites
+and a $4.5 million increase in the net amounts paid to other carriers for
+service provided to the Company's customers who roam in the other carriers'
+service areas.
+
+ Exclusive of cell sites in its PCS markets, the Company operated 739 cell
+sites at December 31, 2001 in entities in which it had a majority interest,
+compared to 667 at December 31, 2000 and 639 at December 31, 1999.
+
+ General, administrative and customer service expenses increased $7.4
+million (9.5%) in 2001, of which $3.7 million was due to an increase in customer
+service and retention costs and $2.0 million was attributable to an increase in
+the provision for doubtful accounts. General, administrative and customer
+service expenses decreased $1.5 million (1.9%) in 2000, of which $3.3 million
+was attributable to a decrease in operating taxes and $1.5 million was due to
+the sale of the Alaska and Texas properties. Such decreases were partially
+offset by a $2.2 million increase in the provision for doubtful accounts.
+
+ Sales and marketing expenses decreased $8.0 million (9.7%) in 2001 due
+primarily to a $2.8 million decrease in advertising and sales promotion
+expenses; a $2.1 million decrease in sales commissions paid to agents due to a
+decrease in the number of units sold; and a $1.1 million decrease in costs
+associated with operating a fewer number of retail locations. Sales and
+marketing expenses increased $20.8 million (33.6%) in 2000 due primarily to an
+$8.6 million increase in advertising and sales promotion expenses; a $5.2
+million increase in sales commissions paid to agents due to an increase in the
+number of units sold; and a $4.2 million increase in costs incurred in selling
+products and services in retail locations primarily due to an increase in the
+number of retail locations.
+
+ Depreciation and amortization increased $1.1 million in 2001 primarily due
+to a higher level of plant in service. Depreciation and amortization decreased
+$3.4 million (4.9%) in 2000, primarily due to the sale of the Alaska and Texas
+properties.
+
+ Other. For additional information regarding certain matters that have
+impacted or may impact the Company's wireless operations, see Regulation and
+Competition.
+
+Other Operations
+
+ Other operations includes the results of operations of subsidiaries of the
+Company which are not included in the telephone or wireless segments including,
+but not limited to, the Company's non-regulated long distance operations,
+Internet operations, call center operations (which ceased operations in the
+third quarter of 2000), competitive local exchange carrier ("CLEC") operations,
+fiber network business and security monitoring operations. The operating
+revenues, expenses and income of the Company's other operations for 2001, 2000
+and 1999 are summarized below.
+
+<TABLE>
+<CAPTION>
+
+Year ended December 31, 2001 2000 1999
+------------------------------------------------------------------------------------------
+ (Dollars in thousands)
+<S> <C> <C> <C>
+Operating revenues
+ Long distance $ 117,363 104,435 83,087
+ Internet 39,057 23,491 16,818
+ Other 17,351 20,462 28,383
+------------------------------------------------------------------------------------------
+ 173,771 148,388 128,288
+------------------------------------------------------------------------------------------
+Operating expenses
+ Cost of sales and operating expenses 142,919 112,219 99,151
+ Depreciation and amortization 8,754 4,911 6,557
+------------------------------------------------------------------------------------------
+ 151,673 117,130 105,708
+------------------------------------------------------------------------------------------
+Operating income $ 22,098 31,258 22,580
+==========================================================================================
+</TABLE>
+
+ Long distance revenues increased $12.9 million (12.4%) and $21.3 million
+(25.7%) in 2001 and 2000, respectively, due primarily to the growth in the
+number of customers and increased minutes of use, primarily due to penetration
+of the Verizon markets acquired in 2000. The number of long distance customers
+as of December 31, 2001, 2000, and 1999 was 465,870, 363,300, and 303,700,
+respectively. Internet revenues increased $15.6 million (66.3%) in 2001
+primarily due to a $12.6 million increase due to growth in the number of
+customers (including growth in the Company's DSL product offering) and a $1.8
+million increase due to Internet operations acquired in mid-2000. Internet
+revenues increased $6.7 million (39.7%) in 2000 primarily due to a $6.9 million
+increase due to growth in the number of customers and a $1.4 million increase
+due to Internet operations acquired in late 1999 and mid-2000. Such increases
+were partially offset by a $2.3 million decrease due to the sale of the
+Company's Alaska Internet operations in mid-1999. Other revenues declined $3.1
+million and $7.9 million in 2001 and 2000, respectively, primarily due to the
+planned phase-out of the Company's third party call center operations during
+2000.
+
+ Cost of sales and operating expenses increased $30.7 million (27.4%) in
+2001 primarily due to (i) a $23.5 million increase in expenses related to the
+provision of Internet access primarily due to the expansion of the Company's DSL
+product offering, (ii) an increase of $9.3 million in expenses of the Company's
+long distance operations primarily due to an increase in the number of customers
+and an increase in marketing expenses, and (iii) an $8.3 million increase due to
+the expansion of the Company's CLEC business. Such increases were partially
+offset by a $6.5 million reduction in expenses due to the winding down of the
+Company's third party call center operations during 2000.
+
+ Cost of sales and operating expenses during 2000 increased $13.1 million
+(13.2%) primarily due to an increase of $12.3 million in expenses of the
+Company's long distance operations primarily due to increased minutes of use due
+to an increase in the number of customers which was partially offset by reduced
+rates; a $9.8 million increase in expenses associated with expanding the
+Company's Internet operations and a $3.4 million increase in expenses primarily
+due to start-up costs of the Company's CLEC business. Such increases were
+partially offset by a $9.0 million reduction in expenses due to winding down the
+Company's third party call center operations during 2000 and a $2.4 million
+decrease due to the 1999 sale of the Company's Alaska Internet operations.
+
+ Depreciation and amortization increased $3.8 million in 2001 primarily due
+to increased depreciation expense in the Company's Internet and fiber network
+businesses. Depreciation and amortization decreased $1.6 million in 2000
+primarily due to the write down of assets of the call center operations to
+estimated net realizable value in 1999.
+
+ The Company incurred combined operating losses in 2001 of $16.5 million in
+its CLEC and fiber network businesses and expects to incur a combined operating
+loss ranging from $15 to $20 million in 2002 related to these operations.
+
+ Certain of the Company's service subsidiaries provide managerial,
+operational, technical, accounting and administrative services, along with
+materials and supplies, to the Company's telephone subsidiaries. In accordance
+with regulatory accounting, intercompany profit on transactions with regulated
+affiliates has not been eliminated in connection with consolidating the results
+of operations of the Company. When the regulated operations of the Company no
+longer qualify for the application of Statement of Financial Accounting
+Standards No. 71, "Accounting for the Effects of Certain Types of Regulation"
+("SFAS 71"), such intercompany profit will be eliminated in subsequent financial
+statements, the primary result of which will be a decrease in operating expenses
+applicable to the Company's telephone operations and an increase in operating
+expenses applicable to the Company's other operations. The amount of
+intercompany profit with regulated affiliates which was not eliminated was
+approximately $22.0 million, $17.1 million and $14.0 million in 2001, 2000 and
+1999, respectively. For additional information applicable to SFAS 71, see
+Regulation and Competition -- Other Matters and Note 14 of Notes to Consolidated
+Financial Statements.
+
+<PAGE>
+
+NONRECURRING GAINS AND LOSSES, NET
+
+ In 2001, the Company's aggregate favorable nonrecurring gains and losses
+were $200.0 million. The Company recorded a pre-tax gain of approximately $185.1
+million ($117.7 million after-tax; $.83 per diluted share) due to the sale of 30
+PCS licenses to Leap Wireless International, Inc. ("Leap"). In conjunction with
+the sale of licenses to Leap, the Company also recorded a pre-tax charge of
+$18.2 million ($11.6 million after-tax; $.08 per share) due to the write-down in
+the value of certain non-operating assets. Also during 2001, the Company
+recorded a pre-tax gain on the sale of its remaining shares of Illuminet
+Holdings, Inc. ("Illuminet") common stock aggregating $54.6 million ($35.5
+million after-tax; $.25 per diluted share) and a pre-tax gain of $4.0 million
+($2.6 million after-tax; $.02 per diluted share) on the sale of certain other
+assets.
+
+ Additionally in 2001, the Company recorded pre-tax charges of $25.5
+million ($16.6 million after-tax; $.12 per diluted share) due to the write-down
+in the value of certain non-operating investments in which the Company owns a
+minority interest.
+
+ In 2000, the Company recorded pre-tax gains aggregating $20.6 million.
+Approximately $9.9 million ($5.2 million after tax; $.04 per diluted share) was
+due to the sale of the assets of the Company's remaining Alaska cellular
+operations and approximately $10.7 million ($6.4 million after tax; $.05 per
+diluted share) was due to the sale of the Company's minority interest in a
+non-strategic cellular partnership.
+
+ In 1999, the Company recorded pre-tax gains aggregating $62.8 million.
+Approximately $39.6 million of the pre-tax gains ($7.8 million after-tax loss;
+$.05 per diluted share) was due to the sale of the Company's Brownsville and
+McAllen, Texas cellular properties. Approximately $10.4 million of the pre-tax
+gains ($6.7 million after tax; $.04 per diluted share) was due to the sale of
+the Company's remaining common shares of MCIWorldCom, Inc. The remainder of the
+gains in 1999 was primarily due to an $11.6 million pre-tax gain ($7.6 million
+after tax; $.05 per diluted share) due to the sale of the Company's shares of
+common stock of Telephone and Data Systems, Inc.
+
+ Certain other nonrecurring items for the three year period ended December
+31, 2001 are reflected in other line items of the Company's consolidated
+financial statements. See Income from Unconsolidated Cellular Entities, Minority
+Interest and Other Income and Expense.
+
+INTEREST EXPENSE
+
+ Interest expense increased $42.2 million in 2001 compared to 2000
+primarily due to an increase in interest expense related to outstanding
+indebtedness incurred to acquire the Verizon operations.
+
+ Interest expense increased $32.7 million in 2000 primarily due to $41.5
+million in interest expense related to the Verizon acquisition indebtedness and
+a $6.8 million increase caused by higher interest rates. Such increases were
+partially offset by interest expense reductions primarily due to a decrease in
+outstanding indebtedness exclusive of debt associated with the Verizon
+acquisitions.
+
+INCOME FROM UNCONSOLIDATED CELLULAR ENTITIES
+
+ Earnings from unconsolidated cellular entities, net of the amortization of
+associated goodwill, increased $474,000 (1.8%) in 2001 and decreased $689,000
+(2.5%) in 2000. The $474,000 increase in 2001 was primarily due to (i) the
+Company's proportionate share ($5.3 million) of non-cash charges recorded in the
+first quarter of 2000 by two cellular entities in which the Company owns a
+minority interest, (ii) a $2.2 million favorable adjustment related to the gain
+on the sale of PCS licenses to Leap by a cellular entity in which the Company
+owns a minority interest, and (iii) a $3.1 million increase due to increased
+earnings of certain cellular entities in which the Company owns a minority
+interest. Such increases were offset by a $10.1 million unfavorable non-cash,
+nonrecurring charge that was recorded in 2001 by a cellular entity in which the
+Company owns a minority interest.
+
+ The $689,000 decrease in 2000 was primarily due to (i) the Company's
+proportionate share ($5.3 million) of non-cash, nonrecurring charges that were
+recorded in 2000 by cellular entities in which the Company owns a minority
+interest and (ii) a $2.3 million decrease due to decreased earnings of certain
+cellular entities in which the Company owns a minority interest. Such decreases
+were offset by a $6.9 million non-cash charge recorded in 1999 by cellular
+entities in which the Company owns a minority interest.
+
+MINORITY INTEREST
+
+ Minority interest is the expense recorded by the Company to reflect the
+minority interest owners' share of the earnings of the Company's majority-owned
+subsidiaries. Minority interest increased $1.6 million in 2001 compared to 2000
+due primarily to increased profitability of certain of the Company's
+majority-owned and operated entities.
+
+ Minority interest decreased $17.7 million during 2000 compared to 1999
+primarily due to the minority partners' share of the gain on sale of assets of
+the Brownsville and McAllen, Texas cellular properties recorded in 1999.
+Excluding the effect of this gain, minority interest decreased $2.8 million
+primarily due to the decreased profitability of the Company's majority-owned and
+operated cellular entities ($1.3 million) and due to the minority partners'
+share of the loss incurred by certain of the operations acquired from Verizon by
+CenturyTel's majority-owned affiliates ($1.6 million).
+
+OTHER INCOME AND EXPENSE
+
+ Other income and expense decreased $1.7 million in 2001 compared to 2000
+primarily due to $6.0 million of costs incurred in 2001 associated with
+responding to an unsolicited takeover proposal and to other expense increases.
+These 2001 expense increases were partially offset by a favorable comparison to
+expenses in 2000, when the Company recorded a $7.9 million charge related to the
+settlement of certain interest rate hedge contracts entered into in connection
+with financing the Verizon acquisitions.
+
+ Other income and expense decreased $2.5 million in 2000 compared to 1999
+primarily due to the $7.9 million charge related to the settlement of certain
+interest rate hedge contracts entered into in connection with financing the
+Verizon acquisitions. Such decrease was partially offset by a $4.1 million
+increase in interest income.
+
+INCOME TAX EXPENSE
+
+ The Company's effective income tax rate was 38.0%, 40.1% and 44.1% in
+2001, 2000 and 1999, respectively. Exclusive of the effect of income tax expense
+on asset sales, the effective income tax rate was 39.0%, 39.9% and 39.0% in
+2001, 2000 and 1999, respectively.
+
+ACQUISITIONS
+
+ On July 31, 2000 and September 29, 2000, affiliates of the Company
+acquired over 490,000 telephone access lines and related assets from Verizon in
+four separate transactions for approximately $1.5 billion in cash. Under these
+transactions:
+
+o On July 31, 2000, the Company purchased approximately 231,000 telephone
+ access lines and related local exchange assets comprising 106 exchanges
+ throughout Arkansas for approximately $842 million in cash.
+
+o On July 31, 2000, Spectra Communications Group, LLC ("Spectra") purchased
+ approximately 127,000 telephone access lines and related local exchange
+ assets comprising 107 exchanges throughout Missouri for approximately $297
+ million cash. As of December 31, 2001, the Company owns 75.7% of Spectra,
+ which was organized to acquire and operate these Missouri properties. At
+ closing, the Company made a preferred equity investment in Spectra of
+ approximately $55 million (which represented a 57.1% interest) and
+ financed substantially all of the remainder of the purchase price. In the
+ first quarter of 2001, the Company purchased an additional 18.6% interest
+ in Spectra for $47.1 million.
+
+o On September 29, 2000, the Company purchased approximately 70,500
+ telephone access lines and related local exchange assets comprising 42
+ exchanges throughout Wisconsin for approximately $197 million in cash.
+
+o On September 29, 2000, Telephone USA of Wisconsin, LLC ("TelUSA")
+ purchased approximately 62,900 telephone access lines and related local
+ exchange assets comprising 35 exchanges throughout Wisconsin for
+ approximately $172 million in cash. The Company owns 89% of TelUSA, which
+ was organized to acquire and own these Wisconsin properties. At closing,
+ the Company made an equity investment in TelUSA of approximately $37.8
+ million and financed substantially all of the remainder of the purchase
+ price.
+
+ To finance these acquisitions on a short-term basis, the Company borrowed
+$1.157 billion on a floating-rate basis under its $1.5 billion credit facility
+with Bank of America, N.A. and Citibank, N.A. and borrowed $300 million on a
+floating-rate basis under its 1997 credit facility with Bank of America, N.A.
+
+ On October 19, 2000, the Company issued $500 million of 8.375% Senior
+Notes, Series H, due 2010, and $400 million of 7.75% Remarketable Senior Notes,
+Series I, due 2012 (with a remarketing date of October 15, 2002) under its $2.0
+billion shelf registration statement filed in May 2000. The net proceeds of
+approximately $908 million (excluding the Company's payments of approximately
+$12.3 million associated with related interest rate hedging) were used to repay
+a portion of the $1.457 billion of aggregate indebtedness the Company incurred
+under its credit facilities in connection with the Verizon acquisitions.
+
+ In October 2001, the Company entered into definitive agreements to
+purchase from affiliates of Verizon assets comprising all of Verizon's
+operations in Missouri and Alabama for $2.159 billion cash. For additional
+information related to these acquisitions, see Liquidity and Capital Resources -
+Financing Activities.
+
+CRITICAL ACCOUNTING POLICIES
+
+ Revenue recognition. Certain of the Company's telephone subsidiaries
+participate in revenue sharing arrangements with other telephone companies for
+interstate revenue and for certain intrastate revenue. Under such sharing
+arrangements, which are typically administered by quasi-governmental agencies,
+participating telephone companies contribute toll revenue or access charges
+within state jurisdictions and access charges in the interstate market. These
+revenues are pooled by the administrative agencies and used to reimburse
+exchange carriers for their costs. Typically, participating companies have 24
+months to update or correct data previously submitted. As a result, revenues
+earned through the various sharing arrangements are initially recorded based on
+the Company's estimates. Historically, revisions of previous revenue estimates
+as a percentage of consolidated revenues have not been material.
+
+ Accounting for the Effects of Regulation. The Company's regulated
+telephone operations are subject to the provisions of SFAS 71. Property, plant
+and equipment of the Company's regulated telephone operations has been
+depreciated using the straight line method over lives approved by regulators;
+such lives have generally exceeded the depreciable lives used by nonregulated
+entities. In addition, in accordance with SFAS 71, retirements of regulated
+telephone property have been charged to accumulated depreciation, along with the
+costs of removal, less salvage, with no gain or loss recognized. These policies
+have resulted in accumulated depreciation being significantly less than if the
+Company's telephone operations had not been regulated.
+
+ Statement of Financial Accounting Standards No. 101, "Regulated
+Enterprises - Accounting for the Discontinuance of Application of FASB Statement
+No. 71" ("SFAS 101"), specifies the accounting required when an enterprise
+ceases to meet the criteria for application of SFAS 71. SFAS 101 requires the
+elimination of the effects of any actions of regulators that have been
+recognized as assets and liabilities in accordance with SFAS 71 but would not
+have been recognized as assets and liabilities by non-regulated enterprises,
+along with an adjustment of certain accumulated depreciation accounts to reflect
+the difference between recorded depreciation and the amount of depreciation that
+would have been recorded had the Company's telephone operations not been subject
+to rate regulation. SFAS 101 further provides that the carrying amounts of
+property, plant and equipment are to be adjusted only to the extent the assets
+are impaired and that impairment shall be judged in the same manner as for
+non-regulated enterprises. Deferred tax liabilities and deferred investment tax
+credits will be impacted based on the change in the temporary differences for
+property, plant and equipment and accumulated depreciation.
+
+ The Company is monitoring the ongoing applicability of SFAS 71 to its
+regulated telephone operations by, among other things, assessing the extent of
+its interstate and intrastate operations that are subject to various forms of
+alternative regulation instead of traditional rate of return regulation. It is
+possible that changes in regulation, legislation or competition or in the demand
+for regulated services or products could result in the Company's telephone
+operations no longer being subject to SFAS 71 in the near future. When the
+regulated operations of the Company no longer qualify for the application of
+SFAS 71, the net adjustments required may result in a material, noncash charge
+against earnings which would be reported as an extraordinary item. For
+regulatory purposes, the accounting and reporting of the Company's telephone
+subsidiaries will not be affected by the discontinued application of SFAS 71.
+
+ The properties to be acquired from Verizon in 2002 are not expected to be
+accounted for under the provisions of SFAS 71.
+
+ Long-lived assets. Through December 31, 2001, in accordance with Statement
+of Financial Accounting Standards No. 121, "Accounting for the Impairment of
+Long-lived Assets and for Long-lived Assets to be Disposed of," ("SFAS 121") the
+carrying value of long-lived assets, including property, plant and equipment and
+allocated goodwill, was reviewed for impairment at least annually, or whenever
+events or changes in circumstances indicated that such carrying value was not
+recoverable, by assessing the recoverability of such carrying value through
+estimated undiscounted future net cash flows expected to be generated by the
+assets or the acquired business. Effective January 1, 2002, the Company will be
+required to test for impairment under two new accounting standards, Statement of
+Financial Accounting Standards No. 142, "Goodwill and Other Intangible Assets"
+("SFAS 142"), and Statement of Financial Accounting Standards No. 144,
+"Accounting for the Impairment or Disposal of Long-Lived Assets" ("SFAS 144").
+
+ SFAS 142 requires goodwill recorded in business combinations to be
+reviewed for impairment and requires write-downs only in periods in which the
+recorded amount of goodwill exceeds the fair value. Under SFAS 142, impairment
+of goodwill will be tested by comparing the fair value of the reporting unit to
+its carrying value (including goodwill). Estimates of the fair value of the
+reporting unit will be based on valuation models using techniques such as
+multiples of earnings. If the fair value of the reporting unit is less than the
+carrying value, a second calculation is required in which the implied fair value
+of goodwill is compared to its carrying value. If the implied fair value of
+goodwill is less than its carrying value, goodwill must be written down to its
+implied fair value. The Company is in the process of determining the impact, if
+any, of the transitional goodwill impairment rules of SFAS 142.
+
+ Under SFAS 144, the carrying value of long-lived assets other than
+goodwill is reviewed for impairment by assessing the recoverability of the
+carrying value through estimated undiscounted net cash flows expected to be
+generated by the assets. If the undiscounted net cash flows are less than the
+carrying value, an impairment loss would be measured as the excess of the
+carrying value of a long-lived asset over its fair value.
+
+ For additional information on the Company's critical accounting policies,
+see Accounting Pronouncements and Regulation and Competition - Other Matters,
+and the footnotes to the Company's consolidated financial statements.
+
+ACCOUNTING PRONOUNCEMENTS
+
+ Effective January 1, 2001, the Company adopted Statement of Financial
+Accounting Standards No. 133, "Accounting for Derivative Instruments and Hedging
+Activities" ("SFAS 133"). SFAS 133 established accounting and reporting
+standards for derivative instruments and for hedging activities by requiring
+that entities recognize all derivatives as either assets or liabilities at fair
+value on the balance sheet. The Company had no derivative instruments
+outstanding at January 1, 2001 and thus no transition adjustment was recorded
+upon adoption of SFAS 133.
+
+ As of December 31, 2001, the Company had outstanding an interest rate swap
+relating to $199.1 million of floating rate debt designed to eliminate the
+variability of cash flows in the payment of interest related to such debt. Under
+SFAS 133, the Company does not expect fluctuations in the fair value of the swap
+to be recorded in its statements of income. In addition, the Company has from
+time to time entered into interest rate hedge contracts in anticipation of
+certain debt issuances to manage interest rate exposure. The Company does not
+utilize derivative financial instruments for trading or other speculative
+purposes.
+
+ In July 2001, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards No. 141, "Business Combinations" ("SFAS 141") and
+SFAS 142. SFAS 141 requires all business combinations consummated after June 30,
+2001 to be accounted for under the purchase method of accounting; the pooling of
+interests method is no longer permitted. SFAS 142 requires goodwill recorded in
+a business combination to be reviewed for impairment and would be written down
+only in periods in which the recorded amount of goodwill exceeds its fair value.
+Effective January 1, 2002, systematic amortization of goodwill is no longer
+required. The Company's amortization of goodwill for the year ended December 31,
+2001 totaled approximately $69.2 million. The application of the transitional
+goodwill impairment rules of SFAS 142 is not expected to have a material effect
+on the results of operations of the Company.
+
+ In October 2001, the Financial Accounting Standards Board issued SFAS 144,
+which replaces SFAS 121, and supersedes the accounting and reporting provisions
+related to discontinued operations under Accounting Principles Board Opinion No.
+30. SFAS 144 addresses financial accounting and reporting for the impairment or
+disposal of long-lived assets and also broadens the reporting of discontinued
+operations to include all components of an entity with operations that can be
+distinguished from the rest of the entity and that will be eliminated from the
+ongoing operations of the entity in a disposal transaction. The provisions of
+SFAS 144 are effective for financial statements issued for fiscal years
+beginning after December 15, 2001. The adoption of SFAS 144 is not expected to
+have a material effect on the results of operations of the Company.
+
+INFLATION
+
+ The effects of increased costs historically have been mitigated by the
+Company's ability to recover certain costs applicable to its regulated telephone
+operations through the rate-making process. While the rate-making process does
+not permit the Company to immediately recover the costs of replacing its
+physical plant, the Company has historically been able to recapture these costs
+over time. Possible future regulatory changes may alter the Company's ability to
+recover increased costs in its regulated operations. For additional information
+regarding the current regulatory environment, see Regulation and Competition. As
+operating expenses in the Company's non-regulated lines of business increase as
+a result of inflation, the Company, to the extent permitted by competition,
+recovers the costs by increasing prices for its services and equipment.
+
+MARKET RISK
+
+ Approximately 90% of the Company's long-term debt obligations are fixed
+rate. At December 31, 2001, the fair value of the Company's long-term debt was
+estimated to be $3.0 billion based on the overall weighted average rate of the
+Company's long-term debt of 6.7% and an overall weighted maturity of 10 years
+compared to terms and rates currently available in long-term financing markets.
+For purposes hereof, market risk is estimated as the potential decrease in fair
+value of the Company's long-term debt resulting from a hypothetical increase of
+67 basis points in interest rates (which represents ten percent of the Company's
+overall weighted average borrowing rate). Such an increase in interest rates
+would result in approximately a $96.4 million decrease in fair value of the
+Company's long-term debt. As of December 31, 2001, the Company owed $353.0
+million of debt on a floating-rate basis.
+
+ As of December 31, 2001, the Company had outstanding an interest rate swap
+relating to $191.1 million of its floating rate debt designed to eliminate the
+variability of cash flows in the payment of interest related to such debt. Under
+this swap, which expires in August 2002, the Company realizes a fixed effective
+rate of 4.845% and receives or makes settlement payments based upon the 3-month
+London InterBank Offered Rate, with settlement and rate reset dates at
+three-month intervals through the expiration date.
+
+OTHER
+
+ The Company is in the process of developing an integrated billing and
+customer care system. The costs to develop such system have been capitalized in
+accordance with Statement of Position 98-1, "Accounting for the Costs of
+Computer Software Developed or Obtained for Internal Use," and aggregated $139.5
+million at December 31, 2001. Such costs are expected to aggregate approximately
+$200 million upon completion (which is expected to occur in early 2003) and are
+expected to be amortized over a twenty-year period.
+
+ LIQUIDITY AND CAPITAL RESOURCES
+
+ Excluding cash used for acquisitions, the Company relies on cash provided
+by operations to provide for its cash needs. The Company's operations have
+historically provided a stable source of cash flow which has helped the Company
+continue its long-term program of capital improvements.
+
+ Operating activities. Net cash provided by operating activities was $665.4
+million, $562.5 million and $408.7 million in 2001, 2000 and 1999, respectively.
+The Company's accompanying consolidated statements of cash flows identify major
+differences between net income and net cash provided by operating activities for
+each of those years. For additional information relating to the telephone
+operations, wireless operations and other operations of the Company, see Results
+of Operations.
+
+ Investing activities. Net cash provided by (used in) investing activities
+was $(275.7) million, $(1.914) billion and $69.8 million in 2001, 2000 and 1999,
+respectively. Cash used for acquisitions was $47.1 million in 2001, $1.541
+billion in 2000 (substantially all of which relates to the Verizon acquisitions)
+and $21.0 million in 1999. Proceeds from the sales of assets were $166.2 million
+in 2001 compared to $29.5 million in 2000 and $484.5 million in 1999. Capital
+expenditures for 2001 were $351.0 million for telephone operations, $71.2
+million for wireless operations and $84.5 million for other operations. Capital
+expenditures during 2000 and 1999 were $449.5 million and $390.0 million,
+respectively. In connection with the sale of PCS licenses to Leap in 2001, the
+Company received an $86.5 million promissory note, all of which was subsequently
+collected during 2001.
+
+ Financing activities. Net cash provided by (used in) financing activities
+was $(395.4) million in 2001, $1.314 billion in 2000 and $(427.6) million in
+1999. Net payments of debt in 2001 were $375.6 million, which reflects
+utilization of cash received from asset sales. Net proceeds from the issuance of
+debt was $1.340 billion during 2000 primarily due to an increase in borrowings
+due to the purchase of assets from Verizon. Net payments of debt were $422.9
+million in 1999.
+
+ On July 31, 2000 and September 29, 2000, affiliates of the Company
+acquired over 490,000 telephone access lines and related assets from Verizon in
+four separate transactions for approximately $1.5 billion in cash. See
+Acquisitions and Note 2 of Notes to Consolidated Financial Statements for
+additional information. To finance these acquisitions on a short-term basis, the
+Company borrowed $1.157 billion on a floating-rate basis under its $1.5 billion
+credit facility with Bank of America, N.A. and Citibank, N.A., and borrowed $300
+million on a floating-rate basis under its 1997 credit facility with Bank of
+America, N.A.
+
+ On October 19, 2000, the Company issued $500 million of 8.375% Senior
+Notes, Series H, due 2010, and $400 million of 7.75% Remarketable Senior Notes,
+Series I, due 2012 (with a remarketing date of October 15, 2002) under its $2.0
+billion shelf registration statement filed in May 2000. The net proceeds of
+approximately $908 million (excluding the Company's payments of approximately
+$12.3 million associated with related interest rate hedging) were used to repay
+a portion of the $1.457 billion of aggregate indebtedness the Company incurred
+under its credit facilities in connection with the Verizon acquisitions.
+
+ In second quarter 2001, the Company completed the sale of 30 PCS (Personal
+Communications Service) operating licenses for an aggregate of $195 million to
+Leap. The Company received approximately $108 million of the purchase price in
+cash at closing and the remainder was collected in installments through the
+fourth quarter of 2001 under the terms of a promissory note. In third quarter
+2001, the Company sold its remaining shares of its investment in Illuminet
+common stock for an aggregate of approximately $58.2 million. Proceeds from
+these sales were used to repay indebtedness.
+
+ On October 22, 2001, the Company entered into definitive agreements to
+purchase from affiliates of Verizon assets comprising all of Verizon's local
+telephone operations in Missouri and Alabama. In exchange, the Company has
+agreed to pay approximately $2.159 billion in cash, subject to certain
+adjustments which are not expected to be material. Under each definitive
+agreement, the Company has agreed to pay Verizon 10% of the transaction
+consideration if the purchase is not consummated under certain specified
+conditions, including the Company's incapacity to finance the transaction. The
+acquisitions are subject to the receipt of various state and federal regulatory
+approvals and other closing conditions. The Company's financing plans are not
+yet complete and will be dependent upon the Company's review of its alternatives
+and market conditions.
+
+ The properties to be acquired are currently subject to price-cap
+regulation for interstate purposes, and the Company has no plans to change this.
+Because most of the Company's other telephone properties are subject to
+rate-of-return regulation, the Company's plans to retain price-cap regulation
+for the acquired properties will require it to seek a waiver of the FCC's "all
+or nothing" regulation that generally requires a rate-of-return company
+acquiring a price-cap company to convert all of its operations to price-cap
+regulation. Although the FCC has granted similar waivers to other carriers over
+the past couple of years, no assurances can be provided that the FCC will grant
+a waiver to the Company. The Company's failure to obtain this waiver would
+adversely impact the financial benefits that the Company anticipates receiving
+in connection with its purchases of the Verizon properties.
+
+ For additional information on these pending Verizon acquisitions, see Item
+1 of the Company's Annual Report on Form 10-K for the year ended December 31,
+2001.
+
+ Other. Budgeted capital expenditures for 2002 total $315 million for
+telephone operations, $65 million for wireless operations and $45 million for
+other operations. The Company anticipates that capital expenditures in its
+telephone operations will continue to include the installation of fiber optic
+cable and the upgrading of its plant and equipment, including its digital
+switches, to provide enhanced services, particularly in its newly acquired
+markets. Capital expenditures in the wireless operations are expected to
+continue to focus on constructing additional cell sites (which will provide
+additional capacity and expanded areas where cellular phones may be used) and
+providing digital service.
+
+ The Company continually evaluates the possibility of acquiring additional
+telecommunications operations and expects to continue its long-term strategy of
+pursuing the acquisition of attractive communications properties in exchange for
+cash, securities or both. The Company generally does not announce its
+acquisitions until it has entered into a preliminary or definitive agreement.
+Over the past few years, the amount and size of communications properties
+available to be purchased by the Company has increased substantially. The
+Company may require additional financing in connection with any such
+acquisitions, the consummation of which could have a material impact on the
+Company's financial condition or operations. Approximately 4.6 million shares of
+CenturyTel common stock and 200,000 shares of CenturyTel preferred stock remain
+available for future issuance in connection with acquisitions under CenturyTel's
+acquisition shelf registration statement.
+
+ The following table contains certain information concerning the Company's
+material contractual obligations as of December 31, 2001.
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+ Payments due by period
+----------------------------------------------------------------------------------------------------------
+Total contractual Less than After
+ obligations Total 1 year 1-3 years 4-5 years 5 years
+----------------------------------------------------------------------------------------------------------
+ (Dollars in thousands)
+<S> <C> <C> <C> <C> <C>
+Long-term debt,
+ including current
+ maturities $3,043,334 955,834 141,546 360,399 1,585,555
+
+Verizon purchase
+ price obligation $2,159,000 2,159,000 - - -
+----------------------------------------------------------------------------------------------------------
+</TABLE>
+
+ As of December 31, 2001, the Company has an aggregate of $499.1 million of
+debt outstanding under a credit facility and a note that expires or becomes due
+in August 2002 and has an additional $400 million in bonds that must be
+mandatorily redeemed by the Company in October 2002 if the remarketing dealer
+for these bonds does not purchase and remarket the bonds in accordance with a
+remarketing agreement. The Company intends to refinance such debt on a long-term
+basis.
+
+ As of December 31, 2001, the Company had available $470.1 million of
+undrawn committed bank lines of credit and the Company's telephone subsidiaries
+had available for use $123.0 million of commitments for long-term financing from
+the Rural Utilities Service and Rural Telephone Bank. In addition, in October
+2000 the Company implemented a commercial paper program that authorizes the
+Company to have outstanding up to $1.5 billion in commercial paper at any one
+time. As of December 31, 2001, the Company had outstanding $23.0 million under
+such program. The Company also has access to debt and equity capital markets,
+including its shelf registration statements.
+
+ Moody's Investors Service ("Moody's") rates CenturyTel's long-term debt
+rating Baa2 (with a stable outlook) and Standard & Poor's ("S&P") rates
+CenturyTel's long-term debt BBB+ (with a negative outlook). The Company's
+commercial paper program is rated P2 by Moody's and A2 by S&P.
+
+ The following table reflects the Company's debt to total capitalization
+percentage and ratio of earnings to fixed charges and preferred stock dividends
+as of and for the years ended December 31:
+
+<TABLE>
+<CAPTION>
+ 2001 2000 1999
+------------------------------------------------------------------------------
+<S> <C> <C> <C>
+Debt to total capitalization 57.0% 63.1 53.7
+Ratio of earnings to fixed charges
+ and preferred stock dividends 3.40 3.07 3.75
+Ratio of earnings, excluding nonrecurring
+ items, to fixed charges and
+ preferred stock dividends 2.57 3.01 3.45
+------------------------------------------------------------------------------
+</TABLE>
+
+<PAGE>
+ REGULATION AND COMPETITION
+
+ The communications industry continues to undergo various fundamental
+regulatory, legislative, competitive and technological changes. These changes
+may have a significant impact on the future financial performance of all
+communications companies.
+
+ Events affecting the communications industry. In 1996, the United States
+Congress enacted the Telecommunications Act of 1996 (the "1996 Act"), which
+obligates LECs to permit competitors to interconnect their facilities to the
+LEC's network and to take various other steps that are designed to promote
+competition. The 1996 Act provides certain exemptions for rural LECs such as
+those operated by the Company. Under the FCC's August 1996 order implementing
+most of the 1996 Act's interconnection provisions, rural LECs have the burden of
+proving the availability of these exemptions.
+
+ Prior to and since the enactment of the 1996 Act, the FCC and a number of
+state legislative and regulatory bodies have also taken steps to foster local
+exchange competition. Coincident with this recent movement toward increased
+competition has been the gradual reduction of regulatory oversight of LECs.
+These cumulative changes have led to the continued growth of various companies
+providing services that compete with LECs' services. Wireless services entities
+are also expected to increasingly compete with LECs.
+
+ As mandated by the 1996 Act, in May 2001 the FCC modified its existing
+universal service support mechanism for rural telephone companies. The FCC
+adopted an interim mechanism for a five-year period, effective July 1, 2001,
+based on embedded, or historical, costs that will provide predictable levels of
+support to rural local exchange carriers, including substantially all of the
+Company's local exchange carriers. The Company estimates (based on current
+operations, the current nationwide average cost per loop and other factors) that
+such ruling will increase the Company's level of universal service support
+receipts by approximately $7 million on an annualized basis compared to previous
+levels. During 2001 the Company's revenues from the federal universal service
+fund totaled approximately $168.7 million (which includes $21.6 million from the
+Verizon properties acquired in 2000). During 2000, such revenues totaled $146.4
+million (which includes $8.3 million from the Verizon properties.)
+
+ On October 11, 2001, the FCC modified its interstate access charge
+rules and universal service support system for rate of return local exchange
+carriers, which includes all of the Company's local exchange carriers. This
+order, among other things, (i) increases the caps on the subscriber line charges
+("SLC") to the levels paid by most subscribers nationwide; (ii) allows limited
+SLC deaveraging, which is expected to enhance the competitiveness of rate of
+return carriers by giving them pricing flexibility; (iii) lowers per minute
+rates collected for federal access charges, which might increase competition
+with CenturyTel's long distance operations to the extent other carriers seek to
+take advantage of this change; (iv) creates a new explicit universal service
+support mechanism that will replace other implicit support mechanisms in a
+manner designed to ensure that rate structure changes do not affect the overall
+recovery of interstate access costs by rate of return carriers serving high cost
+areas and (v) terminates the FCC's proceeding on the represcription of the
+authorized rate of return for rate of return LECs, which will remain at 11.25%.
+The Company expects the order to be implemented on a revenue neutral basis for
+interstate purposes, although there can be no assurance to this effect. Other
+proposals submitted to the FCC by the Multi-Association Group representing rural
+carriers were rejected or deferred for additional comment.
+
+ Recent events affecting the Company. During the last few years, several
+states in which the Company has substantial operations took legislative or
+regulatory steps to further introduce competition into the LEC business. The
+number of companies which have requested authorization to provide local exchange
+service in the Company's service areas has increased in recent years, especially
+in the newly-acquired Verizon markets, and it is anticipated that similar action
+may be taken by others in the future.
+
+ State alternative regulation plans recently adopted by certain of the
+Company's LECs have also affected revenue growth recently. Although the Company
+believes that these plans may be favorable in the future as additional revenue
+streams are added and cost efficiencies are obtained, there can be no assurance
+that current or future alternative regulation plans will not reduce future
+revenue growth.
+
+ Certain long distance carriers continue to request that the Company reduce
+intrastate access tariffed rates for certain of its LECs. There is no assurance
+that these requests will not result in reduced intrastate access revenues in the
+future. In addition, the Company continues to receive pressure from other
+cellular operators to reduce roaming rates in the Company's cellular markets. In
+response, the Company anticipates that it will continue to enter into agreements
+that will reduce its roaming rates from current levels. The Company further
+anticipates that the adverse impact of reduced roaming rates may be partially
+offset by increased roaming traffic.
+
+ In August 2001, the Company was awarded an interim access rate increase by
+the WPSC for the former Verizon properties in Wisconsin in an amount of
+approximately $7.9 million annually. Such rates are subject to refund pending an
+order establishing permanent rates.
+
+ On October 31, 2001, the WPSC approved a permanent rate increase of $8.3
+million annually for the local exchange properties that the Company acquired
+from Ameritech in December 1998. The WPSC ordered the Company to refund a
+portion ($1.5 million) of the previously approved interim rates. Such refund had
+the effect of a one-time reduction in revenue of approximately $300,000 as the
+Company was not recognizing 100% of the interim rates as revenue. Separately,
+the WPSC ordered the Company to refund $14.7 million related to access charges
+collected from interexchange carriers on the former Ameritech properties from
+December 1998 through 2000. Such ruling was upheld upon appeal in Wisconsin
+State Court. The Company is currently appealing this ruling to the State of
+Wisconsin Court of Appeals. If this appeal is unsuccessful, the Company will
+have to record a one-time charge of $.03 per share.
+
+ In August 2001, the Arkansas Public Utility Commission ("APUC") approved
+tariff amendments that limit the number of minutes included for a flat rate in
+certain optional calling plans in certain of the acquired Verizon markets. Once
+fully implemented in January 2002, the Company anticipates that these tariff
+revisions will reduce the level of its operating expenses by approximately $20
+million annually.
+
+ On March 13, 2002, the Arkansas Court of Appeals vacated two orders issued
+by the APUC in connection with the Company's acquisition of its Arkansas' LECs
+from Verizon in July 2000, and remanded the case back to the APUC for further
+hearings. The Court took these actions in response to challenges to the rates
+the Company has charged other LECs for intrastate switched access service. The
+Company intends to move for a rehearing of the Court's decision, and is
+currently evaluating the legal and financial implications of the Court's
+decision.
+
+ Competition to provide traditional telephone services has thus far
+affected large urban areas to a greater extent than rural, suburban and small
+urban areas such as those in which the Company's telephone operations are
+located. Although the Company does not believe that the increased competition it
+has thus far experienced is likely to materially affect it in the near term, the
+Company anticipates that regulatory changes and competitive pressures may result
+in future revenue reductions. While the Company expects its telephone revenues
+to continue to grow, its internal telephone revenue growth rate has started to
+slow in recent years and may continue to slow during upcoming periods.
+
+ The Company's wireless operations are subject to increased competition
+from large wireless carriers offering nationwide calling plans. The Company does
+not offer a nationwide calling plan at this time and may be hindered in its
+ability to compete for customers seeking these plans. Additionally, several
+wireless carriers have taken initial steps to abandon the TDMA standard used by
+the Company and to provide enhanced "next generation" wireless services
+utilizing different technologies. If the Company elects to continue to use the
+TDMA standard or to forego implementation of enhanced wireless services, there
+can be no assurance that the Company will be able to receive support from
+vendors or to compete effectively against competitors using different
+technologies or offering more services. For these and other reasons, in August
+2001, the Company announced that it is exploring the potential separation of its
+wireless business from its other operations.
+
+ Other matters. The Company's regulated telephone operations are subject to
+the provisions of SFAS 71, under which the Company is required to account for
+the economic effects of the rate-making process, including the recognition of
+depreciation of plant and equipment over lives approved by regulators. The
+ongoing applicability of SFAS 71 to the Company's regulated telephone operations
+is being monitored due to the changing regulatory, competitive and legislative
+environments. When the regulated operations of the Company no longer qualify for
+the application of SFAS 71, the net adjustments required may result in a
+material, extraordinary, noncash charge against earnings. The properties to be
+acquired from Verizon in 2002 are not expected to be accounted for under the
+provisions of SFAS 71. See Note 14 of Notes to Consolidated Financial Statements
+for additional information.
+
+ The Company has certain obligations based on federal, state and local laws
+relating to the protection of the environment. Costs of compliance through 2001
+have not been material, and the Company currently has no reason to believe that
+such costs will become material.

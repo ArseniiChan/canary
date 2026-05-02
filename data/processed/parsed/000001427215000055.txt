@@ -1,0 +1,3427 @@
+AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+EXECUTIVE SUMMARY
+Bristol-Myers Squibb Company (which may be referred to as Bristol-Myers Squibb, BMS, the Company, we, our or us) is a global specialty biopharmaceutical company whose mission is to discover, develop and deliver innovative medicines that help patients prevail over serious diseases.
+We continue to evolve our business to a leading diversified specialty biopharma company. The evolution was accelerated as a result of the diabetes business divestiture and continued focus on certain therapeutic areas, including immuno-oncology. The following provides a brief summary of certain key events in 2014 ,as discussed in more detail throughout this report.
+Opdivo
+ was approved in the U.S. and Japan for unresectable or metastatic melanoma, and we announced positive results from certain other studies in melanoma, lung, Hodgkin Lymphoma and renal cell carcinoma. Several clinical collaborations were also entered into by us to seek opportunities to strategically combine
+Opdivo
+ with other targeted agents in more than a dozen tumor types.
+Eliquis
+obtained an important label extension in 2014. We received regulatory approvals for our Hepatitis C Franchise, including
+Daklinza
+ in the EU and our dual regimen of
+Daklinza
+ and
+Sunvepra
+ in Japan. Several business development transactions were completed in 2014, to advance our pipeline in other therapeutic areas, including fibrosis and genetically defined diseases. We are also expanding our biologics manufacturing capacity at Devens, Massachusetts and announced plans to build a new facility in Ireland.
+Our revenues decreased by 3% in 2014 as a result of the diabetes business divestiture, exclusivity losses and expiration of rights partially offset by higher sales of key products, including recently launched products in certain markets. Our focus to optimize global brands and key markets accelerated growth of several key products.
+Eliquis
+ sales increased in 2014 by $628 million following its global launch in 2013.
+Yervoy
+ sales increased by 36%, or $348 million, from continued penetration in the U.S. community-based setting and first line indication and improved access internationally. Hepatitis C Franchise sales were $256 million following launches in Japan and certain EU countries. We expect these products will continue to grow in 2015 along with
+Orencia, Sprycel
+ and recently launched
+Opdivo
+which will partially offset revenue reductions resulting from the expiration of certain rights pertaining to
+Abilify*
+ in the U.S., royalty and alliance agreements, exclusivity losses for
+Baraclude
+ in the U.S. and changes in foreign currency rates.
+Higher pension and research and development related charges contributed to the reduction of GAAP EPS from $1.54 in 2013 to $1.20 in 2014. Non-GAAP EPS increased from $1.82 to $1.85. Proceeds from the diabetes divestiture increased cash and marketable securities by $3.5 billion.
+Highlights
+The following table summarizes our financial information:
+
+Year Ended December 31,
+Dollars in Millions, except per share data
+
+2014
+
+2013
+
+2012
+Total Revenues
+
+$
+15,879
+
+$
+16,385
+
+$
+17,621
+Total Expenses
+
+13,498
+
+13,494
+
+15,281
+Earnings before Income Taxes
+
+2,381
+
+2,891
+
+2,340
+Provision for/(Benefit from) Income Taxes
+
+352
+
+311
+
+(161
+)
+Effective tax/(benefit) rate
+
+14.8
+%
+
+10.8
+%
+
+(6.9
+)%
+
+Net Earnings Attributable to BMS
+
+GAAP
+
+2,004
+
+2,563
+
+1,960
+Non-GAAP
+
+3,085
+
+3,019
+
+3,364
+
+Diluted Earnings Per Share
+
+GAAP
+
+1.20
+
+1.54
+
+1.16
+Non-GAAP
+
+1.85
+
+1.82
+
+1.99
+
+Cash, Cash Equivalents and Marketable Securities
+
+11,843
+
+8,272
+
+6,352
+Our non-GAAP financial measures, including non-GAAP earnings and related EPS information, are adjusted to exclude specified items which represent certain costs, expenses, gains and losses and other items impacting the comparability of financial results. For a detailed listing of all specified items and further information and reconciliations of non-GAAP financial measures see “—Non-GAAP Financial Measures."
+31
+Strategy
+We continue to transform BMS into a leading diversified specialty biopharma company focused exclusively on discovering, developing, and delivering innovative medicines that address serious unmet medical needs. We continue to evolve driven by this fundamental objective as we grow our marketed products and progress our pipeline.
+We are developing new medicines in the following core therapeutic areas: oncology, virology, immuno-oncology, specialty cardiovascular disease, fibrosis and genetically defined diseases. We are pioneering innovative medicines in the area of immuno-oncology which unlock the body’s own immune system to battle cancer.
+Yervoy
+ (ipilimumab), our first immuno-oncology agent, was introduced in 2011 for the treatment of metastatic melanoma. During 2014, we announced multiple regulatory milestones in the U.S. and European Union (EU) for
+Opdivo
+ (nivolumab), an investigational PD-1 immune checkpoint inhibitor. We continue to invest significantly in our deep pipeline of innovative medicines covering a broad array of cancers and have entered into several collaboration agreements to research and develop
+Opdivo
+ and other approved or investigational oncology agents in combination regiments.
+We are evolving our commercial model and growing our marketed product portfolio in a manner consistent with our overall strategy. In oncology, we are building on the success of
+Yervoy
+, which yielded 2014 revenues of approximately
+$1.3 billion
+, and other products such as
+Sprycel
+ (dasatinib) and
+Erbitux*
+ (cetuximab). Beyond oncology, we remain strongly committed to
+Eliquis
+ (apixaban) which launched globally in 2013 via our alliance with Pfizer, Inc (Pfizer).
+Eliquis
+ received regulatory approval in the U.S. and EU for the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) in adults, among other related indications. We also continue to support key brands in our virology franchise such as
+Reyataz
+ (atazanavir sulfate) and
+Baraclude
+ (entecavir). In 2014, we achieved several regulatory milestones for our hepatitis C portfolio and launched the
+Daklinza
+ (daclatasvir) and
+Sunvepra
+(asunaprevir) dual regimen in Japan and launched
+Daklinza
+ in the EU. In addition, we continue to invest in
+Orencia
+ (abatacept) which accounted for approximately $1.7 billion in revenues in 2014.
+Looking ahead, we will continue to implement our biopharma strategy by driving the growth of key brands, executing new product launches, investing in our pipeline, focusing on prioritized markets, increasing investments in our biologics manufacturing capabilities, maintaining a culture of continuous improvement and pursuing disciplined capital allocation, including through business development.
+Product and Pipeline Developments
+Our R&D programs are managed on a portfolio basis from early discovery through late-stage development. We continually evaluate our portfolio to ensure that there is an appropriate balance of early-stage and late-stage programs to support future growth. Our R&D programs in Phase III development are considered significant, as these programs constitute our late-stage development pipeline. These development programs include both investigational compounds in Phase III development for initial indications and marketed products in Phase III development for additional indications or formulations. Spending on these programs represents approximately 30-45% of our annual R&D expenses. No individual investigational compound or marketed product represented 10% or more of our R&D expenses in any of the last three years. Our late-stage development programs could potentially have an impact on our revenue and earnings within the next few years, although we do not expect all of our late-stage development programs to make it to market. The following are the recent significant developments in our marketed products and our late-stage pipeline:
+Opdivo
+(nivolumab) - a fully human monoclonal antibody that binds to the programmed death receptor-1 (PD-1) on T and NKT cells that is being investigated as an anti-cancer treatment.
+Opdivo
+ is part of our alliance with Ono.
+Unresectable (inoperable) or metastatic (advanced) melanoma
+•
+In December 2014, the Company announced that the U.S. Food and Drug Administration (FDA) approved
+Opdivo
+for the treatment of unresectable or metastatic melanoma and disease progression following
+Yervoy
+ (ipilimumab) and, if BRAF V600 mutation positive, a BRAF inhibitor. This indication is approved under accelerated approval based on tumor response rate and durability of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
+•
+In November 2014, the Company announced results from CheckMate-066, a Phase III randomized double blind study, comparing
+Opdivo
+ to the chemotherapy dacarbazine (DTIC) in patients with treatment naïve BRAF wild-type advanced melanoma (n=418). The study met the primary endpoint of overall survival (OS) with the median OS not reached
+
+for
+Opdivo
+versus 10.8 months for DTIC. The one-year survival rate was 73% for
+Opdivo
+versus 42% for DTIC and there was a 58% decrease in the risk of death for patients treated with
+Opdivo
+ (Hazard Ratio for death [HR]: 0.42, P<0.0001). This survival advantage was also observed in
+Opdivo
+-treated patients in both PD-L1 positive and PD-L1 negative patients.
+•
+In September 2014, the Company announced results from CheckMate-037, a Phase III randomized, controlled open-label study of
+Opdivo
+versus investigator’s choice chemotherapy (ICC) in patients with advanced melanoma who were previously treated with
+Yervoy
+. Based on a planned interim analysis of the co-primary endpoint, the objective response rate was 32% (95% CI = 24, 41) in the
+Opdivo
+ arm (n=120) and 11% (95% CI = 4, 23) in the ICC reference arm (n=47) in patients with at least six months of follow up.
+32
+•
+In September 2014, the European Medicines Agency (EMA) validated for review the Marketing Authorization Application (MAA) for
+Opdivo
+ in advanced melanoma. The application has also been granted accelerated assessment by the EMA’s Committee for Medicinal Products for Human Use (CHMP).
+•
+In June 2014, the Company announced that a randomized blinded comparative Phase III study evaluating
+Opdivo
+ versus dacarbazine in patients with previously untreated BRAF wild-type advanced melanoma (CheckMate-066) was stopped early because an analysis conducted by the independent Data Monitoring Committee (DMC) showed evidence of superior OS in patients receiving
+Opdivo
+ compared to the control arm. Patients in the trial will be unblinded and allowed to cross over to
+Opdivo
+.
+•
+In June 2014, the Company announced follow up results from a Phase Ib dose-ranging trial evaluating the safety and activity of the combination regimen of
+Opdivo
+ and
+Yervoy
+ given either concurrently or sequentially in patients with advanced melanoma (Study-004, n=127). After an additional year of follow up of the cohort that received the concurrent combination regimen of
+Opdivo
+ 1 mg/kg plus
+Yervoy
+ 3 mg/kg (n=17), the one-year OS rate was 94% and the two-year OS rate was 88%. These are the doses used in the ongoing Phase II and Phase III melanoma trials, CheckMate-069 and -067. No new safety signals were reported in the concurrent combination cohorts with additional follow up (n=53).
+•
+In May 2014, the Company announced updated survival data from the advanced melanoma cohort (n=107) of the expanded Phase Ib dose-ranging study of
+Opdivo
+, administered as a single agent (Study-003). Results showed sustained activity in this heavily pre-treated patient population as defined by two- and three-year survival rates of 48% and 41%, respectively, across dose cohorts.
+Non-small cell lung cancer
+•
+In January 2015, the Company announced that an open-label, randomized Phase III study evaluating
+Opdivo
+ versus docetaxel in previously treated patients with advanced squamous cell non-small cell lung cancer (NSCLC) was stopped early because an assessment conducted by the independent DMC concluded that the study met its endpoint, demonstrating superior OS in patients receiving
+Opdivo
+ compared to the control arm. The Company will share this data – which for the first time indicate a survival advantage with an anti-PD1 immune checkpoint inhibitor in lung cancer – with health authorities.
+•
+In October 2014, the Company announced results from CheckMate-063, a Phase II single-arm, open-label study of
+Opdivo
+, administered as a single agent in patients with advanced squamous cell NSCLC who have progressed after at least two prior systemic treatments with 65% receiving three or more prior therapies (n=117). With approximately 11 months of minimum follow up, the objective response rate (the study’s primary endpoint) was 15% (95% CI = 8.7, 22.2), as assessed by an independent review committee (IRC) using RECIST 1.1 criteria and the median duration of response was not reached. The estimated one-year survival rate was 41% (95% CI = 31.6, 49.7) and the median overall survival (mOS) was 8.2 months (95% CI = 6.05, 10.91).
+•
+In September 2014, the EMA validated for review the MAA for
+Opdivo
+ in advanced squamous cell NSCLC, the first completed regulatory submission for a PD-1 immune checkpoint inhibitor in this tumor type.
+•
+In May 2014, the Company announced results from a Phase1b study evaluating the safety and efficacy of
+Opdivo
+ as a single agent in patients with advanced squamous cell NSCLC who were previously treated (Study-003) and a Phase 1b study evaluating
+Opdivo
+ as a single agent in chemotherapy-naïve patients (CheckMate-012). In Study-003, the two-year survival rate was 24% across doses (n=129) for previously-treated patients who received
+Opdivo
+ as a single agent and highest at 45% in patients who received the 3 mg/kg dose (n=37). In CheckMate-012, the overall response rate was 50% in PD-L1 positive tumors and 0% in PD-L1 negative tumors for chemotherapy-naïve patients who received
+Opdivo
+ as a single agent (n=20). The types of treatment-related serious adverse events (SAEs) in CheckMate-012 were consistent with those in other
+Opdivo
+ trials with 15% of patients experiencing grade 3-4 treatment-related SAEs. CheckMate-012 is a multi-arm study evaluating
+Opdivo
+ as both monotherapy and in combination with other agents.
+•
+In April 2014, the Company met with the FDA regarding the results of Study 063, which evaluated
+Opdivo
+ in third-line squamous cell NSCLC, and initiated a rolling submission for this indication based on Study-063. The Company completed the rolling submission in December 2014.
+Other indications
+•
+In December 2014, the Company announced results from a cohort of patients in its ongoing Phase 1b trial (CheckMate-039) which evaluated
+Opdivo
+ in patients with relapsed or refractory hematological malignancies (n=23). Results showed high levels of response in patients with relapsed or refractory classical Hodgkin Lymphoma (HL), with an overall response rate of 87% (n=20) and stable disease in 13% (n=3).
+•
+In May 2014, the Company announced that the FDA has granted
+Opdivo
+ Breakthrough Therapy Designation for the treatment of patients with HL after failure of autologous stem cell transplant and brentuximab.
+•
+In May 2014, the Company announced results from a Phase II and a Phase Ib study of
+Opdivo
+ in patients with advanced or metastatic renal cell carcinoma. In the Phase II CheckMate-010 dose-ranging trial (n=168), the overall response rates for
+Opdivo
+ as a single agent ranged from 20-22% with a one-year survival rate that ranged from 63-72% in patients who received prior anti-angiogenic treatment. In the Phase 1b CheckMate-016 trial, overall response rate for the investigational combination regimen of
+33
+Opdivo
+ and
+Yervoy
+ (n=44) ranged from 43-48% with a 24-week progression free survival rate that ranged from 64-65% in previously treated and treatment-naïve patients.
+Hepatitis C Portfolio -
+Daklinza
+ (Daclatasvir (DCV)) - an NS5A replication complex inhibitor;
+Sunvepra (
+Asunaprevir (ASV)) - an NS3 protease inhibitor; Beclabuvir (BCV) - an NS5B non-nucleoside polymerase inhibitor in development
+•
+In February 2015, the FDA notified the Company of its intention to rescind the Breakthrough Therapy Designation for certain genotype 1 Hepatitis C regimens related to daclatasvir and other investigational BMS therapies. This will not impact our current submission/resubmission timetable of the new drug application for daclatasvir in combination with other antiviral agents for the treatment of Hepatitis C.
+•
+In November 2014, the Company announced that the FDA has issued a Complete Response Letter (CRL) regarding the New Drug Application (NDA) for DCV in combination with other agents for the treatment of hepatitis C virus (HCV). The initial DCV NDA submitted to the FDA focused on its use in combination with ASV. Given the withdrawal of ASV by BMS in October, the FDA is requesting additional data for DCV in combination with other antiviral agents for the treatment of HCV. BMS is in discussions with the FDA about the scope of these data.
+•
+In November 2014, the Company announced results from the UNITY Trial program investigating a 12-week regimen of its all-oral DCV-TRIO regimen – a fixed-dose combination of DCV with ASV and BCV (DCV-TRIO) – in a broad range of patients with genotype 1 HCV. The primary endpoint for both studies was the percentage of patients who achieved a cure, defined as HCV RNA<LLOQ TD/TND at post-treatment week 12 for treatment-naïve and treatment-experienced patients. The UNITY-2 study, which evaluated cirrhotic patients in a 12-week regimen of the DCV-TRIO, showed sustained virologic response at 12 weeks after treatment (SVR12) among 98% of treatment-naïve and 93% of treatment-experienced cirrhotic patients with ribavirin (RBV) and 93% of treatment-naïve and 87% of treatment-experienced cirrhotic patients without RBV.
+•
+In November 2014, the Company announced results from the landmark ALLY Trial investigating a ribavirin-free 12-week regimen of DCV in combination with sofosbuvir (SOF) in genotype 3 HCV patients, a population that has emerged as one of the most difficult to treat. The results of the study showed sustained virologic response 12 weeks after treatment (SVR12) in 90% of treatment-naïve and 86% of treatment-experienced patients. SOF is a product of Gilead Sciences, Inc. (Gilead).
+•
+In October 2014, the Company announced that it will not pursue the FDA approval of the dual regimen of DCV and ASV for the treatment of HCV genotype 1b patients in the U.S. and has therefore withdrawn its NDA for asunaprevir. The Company will continue to pursue the FDA approval of DCV, which is currently being investigated globally in multiple treatment regimens for HCV patients with high unmet needs.
+•
+In August 2014, the Company announced the European Commission (EC) approved
+Daklinza
+ for use in combination with other medicinal products across genotypes 1, 2, 3 and 4 for the treatment of chronic HCV infection in adults.
+Daklinza,
+ when used in combination with SOF, is an all-oral, interferon-free regimen that provided cure rates of up to 100% in clinical trials, including patients with advanced liver disease, genotype 3 and those who have previously failed treatment with protease inhibitors.
+Daklinza
+ is the first NS5A complex inhibitor approved in the EU and is available for use in combination with other medicinal products, providing a shorter treatment duration (12 or 24 weeks) compared to 48 weeks of treatment with interferon- and ribavirin-based regimens.
+•
+In July 2014, the Company announced that the Japanese Ministry of Health, Labor and Welfare approved
+Daklinza
+ and
+Sunvepra
+as a new HCV treatment that can lead to a cure for many patients in Japan who currently have no treatment options. The
+Daklinza
++
+Sunvepra
+ dual regimen is Japan’s first all-oral, interferon- and ribavirin-free treatment regimen for patients with genotype 1 chronic HCV infection, including those with compensated cirrhosis. The indications for
+Daklinza
+ and
+Sunvepra
+in Japan are for: (1) patients who are ineligible or intolerant to interferon-based therapy, and (2) patients who have failed to respond to interferon-based therapy.
+Elotuzumab - a humanized monoclonal antibody being investigated as an anticancer treatment. Elotuzumab is part of our alliance with AbbVie Inc. (AbbVie)
+•
+In May 2014, the Company and AbbVie announced the FDA granted elotuzumab Breakthrough Therapy Designation for use in combination with lenalidomide and dexamethasone for the treatment of multiple myeloma in patients who have received one or more prior therapies. The designation is based on findings from a randomized Phase II, open-label study that evaluated two dose levels of elotuzumab in combination with lenalidomide and low-dose dexamethasone in previously-treated patients, including the 10 mg/kg dose that is being studied in the Phase III trials.
+34
+Reyataz
+ (atazanavir sulfate)
+Franchise
+ - a protease inhibitor for the treatment of the human immunodeficiency virus (HIV), which includes
+Reyataz
+and is also included in the combination therapy,
+Evotaz
+ (atazanavir 300 mg and cobicistat 150 mg).
+Evotaz
+ is part of our alliance with Gilead.
+•
+In January 2015, the Company announced the FDA approved
+Evotaz
+tablets for the treatment of HIV-1 infection in adults, a once-daily single tablet two drug regimen combining
+Reyataz
+ and
+Tybost*
+.
+Sustiva
+ (efavirenz)
+ Franchise
+ - a non-nucleoside reverse transcriptase inhibitor for the treatment of HIV, which includes
+Sustiva
+, an antiretroviral drug, and bulk efavirenz, which is also included in the combination therapy,
+Atripla*
+(efavirenz 600 mg/emtricitabine 200 mg/tenofovir disoproxil fumarate 300 mg), a product sold through our joint venture with Gilead
+•
+In October 2014, the Company announced it has successfully resolved all outstanding U.S. patent litigation relating to efavirenz, an active ingredient contained in
+Sustiva
+ and
+Atripla*
+, and that loss of exclusivity in the U.S. for efavirenz is not expected to occur until December 2017.
+Yervoy
+ (ipilimumab) - a monoclonal antibody for the treatment of patients with unresectable or metastatic melanoma
+•
+In June 2014, the Company announced results from a Phase III randomized, double blind study demonstrating that
+Yervoy
+10 mg/kg significantly improved recurrence-free survival (RFS, the length of time before recurrence or death) versus placebo for patients with stage 3 melanoma who are at high risk of recurrence following complete surgical resection, an adjuvant setting. A 25% reduction in the risk of recurrence or death was observed. At three years, an estimated 46.5% of patients treated with
+Yervoy
+ were free of disease recurrence compared to an estimated 34.8% of patients on placebo. The median RFS was 26.1 months for
+Yervoy
+ versus 17.1 months for placebo, with a median follow-up of 2.7 years.
+Orencia
+(abatacept) - a fusion protein indicated for adult patients with moderate to severe active rheumatoid arthritis (RA) and is also indicated for reducing signs and symptoms in certain pediatric patients with moderately to severely active polyarticular juvenile idiopathic arthritis.
+•
+In November 2014, the Company announced results of several new sub-analyses of the Phase IIIb AVERT (Assessing Very Early Rheumatoid arthritis Treatment) trial that investigated the use of
+Orencia
+ plus methotrexate (MTX) in biologic and MTX-naïve citrullinated protein (CCP)-positive early moderate to severe RA patients. First-line therapy with Orencia in combination with MTX resulted in patients with early RA achieving significantly higher rates of stringent measures of remission, including 37 percent of patients achieving Boolean-defined remission and 42 percent of patients achieving CDAI- and SDAI-defined remission at 12 months versus patients on MTX alone (22.4 percent, 27.6 percent, and 25.0 percent, respectively; P<0.05 for all three measures).
+•
+In June 2014, the Company announced its first release of new data from a Phase IIIb AVERT trial showing that
+Orencia
+ in combination with MTX achieved significantly higher rates of DAS-defined remission at 12 months than treatment with standard of care agent MTX in biologic and MTX-naïve patients with early active RA.
+Eliquis
+ (apixaban) - an oral Factor Xa inhibitor, targeted at stroke prevention in nonvalvular atrial fibrillation (NVAF) and the prevention and treatment of venous thromboembolic (VTE) disorders.
+Eliquis
+ is part of our alliance with Pfizer.
+•
+In November 2014, the Company, Pfizer and Portola Pharmaceuticals announced results from the first part of the Phase 3 ANNEXATM-A (Andexanet Alfa a Novel Antidote to the Anticoagulant Effects of fXA Inhibitors – Apixaban) studies. Andexanet alfa produced rapid and nearly complete reversal (by approximately 94 percent, p value <0.0001) of the anticoagulant effect of
+Eliquis
+ in healthy volunteers ages 50 to 75.
+•
+In August 2014, the Company and Pfizer announced results of a pre-specified secondary analysis of the
+Eliquis
+ Phase 3 AMPLIFY-EXT trial (Apixaban after the initial Management of PuLmonary embolIsm and deep vein thrombosis with First-line therapY-EXTended Treatment). The analysis evaluated clinical and demographic predictors of all-cause hospitalization in patients with VTE, which includes the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE). Results from this analysis demonstrated that during the 12-month extended treatment of VTE,
+Eliquis
+significantly reduced the risk of hospitalization versus placebo.
+•
+In August 2014, the Company and Pfizer announced the FDA approved a Supplemental New Drug Application (sNDA) for
+Eliquis
+for the treatment of DVT and PE, and for the reduction in the risk of recurrent DVT and PE following initial therapy.
+•
+In July 2014, the Company and Pfizer announced the EC approved
+Eliquis
+ for the treatment of DVT and PE in adults.
+•
+In July 2014, the Company and Pfizer announced the first patient has been enrolled into a Phase IV clinical trial called EMANATE assessing the effectiveness and safety of
+Eliquis
+ in patients with NVAF undergoing cardioversion.
+35
+•
+In March 2014, the Company and Pfizer announced the results of a pre-specified subanalysis of the Phase III ARISTOTLE trial assessing the effect of blood pressure control on outcomes. The study showed the results for stroke risk reduction for
+Eliquis
+ versus warfarin were consistent with the overall ARISTOTLE study results, demonstrating that
+Eliquis
+ reduced stroke or systemic embolism, caused fewer major bleeding events and reduced all-cause mortality, as compared to warfarin, regardless of blood pressure control. The results also showed that poor blood pressure control was associated with a substantially higher risk of stroke or systemic embolism, independent of
+Eliquis
+ or warfarin treatment.
+•
+In March 2014, the Company and Pfizer announced the FDA approved a sNDA for
+Eliquis
+ for the prophylaxis of deep vein thrombosis, which may lead to PE in patients who have undergone hip or knee replacement surgery.
+•
+In February 2014, the Company and Pfizer announced results of a pre-specified subanalysis of the Phase III ARISTOTLE trial in relation to patient age. ARISTOTLE was designed to evaluate the efficacy and safety of
+Eliquis
+ compared to warfarin for reducing the risk of stroke or systemic embolism in patients with NVAF. This subanalysis found consistent results across age groups for reducing the risk of stroke and systemic embolism and reducing the risk of all-cause death with fewer bleeding events for
+Eliquis
+versus warfarin. Owing to the higher risk at older age (age 75 and older), the absolute benefit to patients with NVAF was greater with
+ Eliquis
+in the older population.
+RESULTS OF OPERATIONS
+Total Revenues
+The composition of the changes in revenues was as follows:
+
+Year Ended December 31,
+
+2014 vs. 2013
+
+2013 vs. 2012
+
+Total Revenues
+
+Analysis of % Change
+
+Analysis of % Change
+
+Total
+
+Foreign
+
+Total
+
+Foreign
+Dollars in Millions
+
+2014
+
+2013
+
+2012
+
+Change
+
+Volume
+
+Price
+
+Exchange
+
+Change
+
+Volume
+
+Price
+
+Exchange
+United States
+
+$
+7,716
+
+$
+8,318
+
+$
+10,384
+
+(7
+)%
+
+(10
+)%
+
+3
+ %
+
+—
+
+(20
+)%
+
+(19
+)%
+
+(1
+)%
+
+—
+Europe
+
+3,592
+
+3,930
+
+3,706
+
+(9
+)%
+
+(2
+)%
+
+(7
+)%
+
+—
+
+6
+ %
+
+7
+ %
+
+(3
+)%
+
+2
+ %
+Rest of the World
+
+3,459
+
+3,295
+
+3,204
+
+5
+ %
+
+11
+ %
+
+(1
+)%
+
+(5
+)%
+
+3
+ %
+
+11
+ %
+
+(2
+)%
+
+(6
+)%
+Other
+(a)
+
+1,112
+
+842
+
+327
+
+32
+ %
+
+N/A
+
+N/A
+
+N/A
+
+**
+
+N/A
+
+N/A
+
+N/A
+Total
+
+$
+15,879
+
+$
+16,385
+
+$
+17,621
+
+(3
+)%
+
+(2
+)%
+
+—
+
+(1
+)%
+
+(7
+)%
+
+(5
+)%
+
+(1
+)%
+
+(1
+)%
+(a)
+Other revenues include royalties and other alliance-related revenues for products not sold by our regional commercial organizations.
+**
+Change in excess of 100%.
+No single country outside the U.S. contributed more than 10% of total revenues in any period presented. In general, our business is not seasonal.
+The change in U.S. revenues in 2014 attributed to volume resulted from the diabetes business divestiture in February 2014, partially offset by increased demand for
+Eliquis, Yervoy
+ and
+Sprycel.
+ The change in U.S. revenues in 2013 attributed to volume resulted from the exclusivity loss of
+Plavix*
+ in May 2012 and
+Avapro*
+/
+Avalide*
+ in March 2012, partially offset by increased demand for
+Sprycel
+ and
+Yervoy
+ and Amylin-related diabetes product revenues following the completion of our acquisition in August 2012.
+The change in U.S. revenues in 2014 attributed to price resulted from higher average net selling prices for
+Abilify*
+(aripiprazole) and other key products. The change in U.S. revenues in 2013 attributed to price resulted from the reduction in our share of
+Abilify*
+ revenues from 51.5% in 2012 to
+34.0%
+ in 2013 (8% impact) mostly offset by higher average net selling prices of
+Abilify*
+ and other key products. See “—Key Products” for further discussion of total revenues by key product.
+The change in Europe revenues in 2014 attributed to volume resulted from the expiration of EU commercialization rights to
+Abilify*
+in June 2014, the diabetes business divestiture in February 2014 and loss of exclusivity of
+Sustiva
+in November 2013, partially offset by increased demand for
+Eliquis,
+
+Yervoy
+and
+Orencia
+ and the launch of
+Daklinza
+in certain EU countries. The change in Europe revenues in 2013 attributed to volume resulted from increased demand for most key products, particularly
+Yervoy, Sprycel
+ and
+Orencia
+and Amylin-related product revenues following the transition of non-U.S. operations in the second quarter of 2013 partially offset by the restructured Sanofi agreement. See "Item 8. Financial Statements—Note
+3
+. Alliances" for further discussion. Revenues in both periods continued to be negatively impacted by fiscal challenges in many European countries as healthcare payers, including government agencies, have reduced and are expected to continue to reduce healthcare costs through actions that directly or indirectly impose additional price reductions. These measures include mandatory discounts, rebates, and other restrictive measures. The change in Europe revenues in 2014 attributed to price also resulted from a reduction in
+Atripla*
+revenue sharing and average net selling prices.
+36
+The change in Rest of the World revenues in 2014 attributed to volume resulted from increased demand for key products, particularly
+Eliquis
+,
+Yervoy, Sprycel
+ and the launch of
+Daklinza
+and
+Sunvepra
+in Japan
+
+partially offset by the diabetes business divestiture. The change in Rest of the World revenues in 2013 attributed to volume resulted from growth in most key products partially offset by the restructured Sanofi agreement and generic competition for mature brands. Both periods were impacted by unfavorable foreign exchange (primarily in Japan).
+Other revenues increased in both periods due to higher royalties, mature brand and over-the-counter product alliances and diabetes product supply sales in 2014. Certain alliance and other revenues are expected to decline by approximately $400 million in 2015 and continue to decline in 2016 upon the expiration of the related royalty and alliance agreements. "Item 8. Financial Statements—Note
+3
+. Alliances" for further discussion of the alliances.
+We recognize revenue net of gross-to-net adjustments that are further described in "—Critical Accounting Policies". Our share of certain
+Abilify*
+ and
+Atripla*
+revenues is reflected net of all gross-to-net adjustments in alliance and other revenues. Although not presented as a gross-to-net adjustment in the below tables, our share of
+Abilify*
+ and
+Atripla*
+ gross-to-net adjustments were approximately $1.6 billion in
+2014
+, $1.3 billion in
+2013
+ and $1.5 billion in
+2012
+. Changes in these gross-to-net adjustments were impacted by additional rebates and discounts required under U.S. healthcare reform and a reduction in our share of
+Abilify*
+ revenues.
+The activities and ending reserve balances for each significant category of gross-to-net adjustments were as follows:
+Dollars in Millions
+
+Charge-Backs
+Related to
+Government
+Programs
+
+Cash
+Discounts
+
+Managed Healthcare
+Rebates and
+Other
+Contract
+Discounts
+
+Medicaid
+Rebates
+
+Sales
+Returns
+
+Other
+Adjustments
+
+Total
+Balance at January 1, 2013
+
+$
+41
+
+$
+13
+
+$
+175
+
+$
+351
+
+$
+345
+
+$
+183
+
+$
+1,108
+Provision related to sale made in:
+
+Current period
+
+563
+
+154
+
+504
+
+360
+
+114
+
+540
+
+2,235
+Prior period
+
+—
+
+—
+
+(5
+)
+
+(85
+)
+
+(52
+)
+
+(6
+)
+
+(148
+)
+Returns and payments
+
+(565
+)
+
+(153
+)
+
+(477
+)
+
+(388
+)
+
+(107
+)
+
+(479
+)
+
+(2,169
+)
+Assets/related liabilities held-for-sale
+
+(2
+)
+
+(2
+)
+
+(48
+)
+
+(11
+)
+
+(20
+)
+
+(1
+)
+
+(84
+)
+Impact of foreign currency translation
+
+—
+
+—
+
+(2
+)
+
+—
+
+(1
+)
+
+(1
+)
+
+(4
+)
+Balance at December 31, 2013
+
+$
+37
+
+$
+12
+
+$
+147
+
+$
+227
+
+$
+279
+
+$
+236
+
+$
+938
+Provision related to sale made in:
+
+Current period
+
+614
+
+141
+
+398
+
+394
+
+94
+
+558
+
+2,199
+Prior period
+
+—
+
+—
+
+1
+
+(24
+)
+
+(33
+)
+
+(10
+)
+
+(66
+)
+Returns and payments
+
+(610
+)
+
+(138
+)
+
+(394
+)
+
+(400
+)
+
+(105
+)
+
+(483
+)
+
+(2,130
+)
+Impact of foreign currency translation
+
+—
+
+—
+
+(4
+)
+
+(4
+)
+
+(3
+)
+
+(23
+)
+
+(34
+)
+Balance at December 31, 2014
+
+$
+41
+
+$
+15
+
+$
+148
+
+$
+193
+
+$
+232
+
+$
+278
+
+$
+907
+The reconciliation of gross product sales to net product sales by each significant category of gross-to-net adjustments was as follows:
+
+Year Ended December 31,
+Dollars in Millions
+
+2014
+
+2013
+
+2012
+Gross product sales
+
+$
+13,793
+
+$
+14,391
+
+$
+15,849
+Gross-to-Net Adjustments
+
+Charge-Backs Related to Government Programs
+
+(614
+)
+
+(563
+)
+
+(651
+)
+Cash Discounts
+
+(141
+)
+
+(154
+)
+
+(192
+)
+Managed Healthcare Rebates and Other Contract Discounts
+
+(399
+)
+
+(499
+)
+
+(284
+)
+Medicaid Rebates
+
+(370
+)
+
+(275
+)
+
+(386
+)
+Sales Returns
+
+(61
+)
+
+(62
+)
+
+(248
+)
+Other Adjustments
+
+(548
+)
+
+(534
+)
+
+(434
+)
+Total Gross-to-Net Adjustments
+
+(2,133
+)
+
+(2,087
+)
+
+(2,195
+)
+Net product sales
+
+$
+11,660
+
+$
+12,304
+
+$
+13,654
+Gross-to-net adjustment rates are primarily a function of changes in revenue mix and contractual and legislative discounts and rebates. Gross-to-net adjustments increased in
+2014
+ and decreased in
+2013
+ due to:
+•
+Chargebacks related to government programs and cash discounts in 2013 decreased as a result of lower
+Plavix*
+ sales following its loss of exclusivity in 2012.
+•
+Managed healthcare rebates and other contract discounts decreased in 2014 following the diabetes business divestiture in February 2014, partially offset by higher
+Eliquis
+sales. Managed healthcare rebates and other contract discounts increased in 2013 primarily due to higher Amylin-related sales.
+37
+•
+Medicaid rebates increased in 2014 due to incremental discounts from price increases taken in excess of inflation; higher program participation rates and higher provision reversals related to sales made in prior periods in 2013. Medicaid rebates decreased in 2013 due to lower
+Plavix*
+ sales and higher provision reversals related to sales made in prior periods in 2013.
+•
+Sales returns decreased in 2013 due to additional reserves established in 2012 following
+Plavix*
+ and
+Avapro*
+/
+Avalide*
+ loss of exclusivity. The U.S. sales return reserves for
+Plavix*
+ and
+Avapro*/Avalide*
+ were
+$86 million
+ and
+$147 million
+ at December 31, 2014 and 2013, respectively, and were determined after considering several factors including estimated inventory levels in the distribution channels. In accordance with Company policy, these products are eligible to be returned between six months prior and twelve months after product expiration. Adjustments might be required in the future resulting from actual returns expected to occur in 2015.
+•
+Other adjustments increased in 2013 primarily due to higher government rebates in non-U.S. markets.
+38
+Product Revenues
+
+Year Ended December 31,
+
+% Change
+
+% Change Attributable to
+Foreign Exchange
+Dollars in Millions
+
+2014
+
+2013
+
+2012
+
+2014 vs. 2013
+
+2013 vs. 2012
+
+2014 vs. 2013
+
+2013 vs. 2012
+Virology
+
+Baraclude (entecavir)
+
+$
+1,441
+
+$
+1,527
+
+$
+1,388
+
+(6
+)%
+
+10
+ %
+
+(2
+)%
+
+(3
+)%
+U.S.
+
+215
+
+289
+
+241
+
+(26
+)%
+
+20
+ %
+
+—
+
+—
+Non-U.S.
+
+1,226
+
+1,238
+
+1,147
+
+(1
+)%
+
+8
+ %
+
+(2
+)%
+
+(3
+)%
+
+Hepatitis C Franchise
+(daclatasvir and asunaprevir)
+
+256
+
+—
+
+—
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+Non-U.S.
+
+256
+
+—
+
+—
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+Reyataz (atazanavir sulfate)
+
+1,362
+
+1,551
+
+1,521
+
+(12
+)%
+
+2
+ %
+
+(1
+)%
+
+(1
+)%
+U.S.
+
+689
+
+769
+
+783
+
+(10
+)%
+
+(2
+)%
+
+—
+
+—
+Non-U.S.
+
+673
+
+782
+
+738
+
+(14
+)%
+
+6
+ %
+
+(3
+)%
+
+(2
+)%
+
+Sustiva (efavirenz) Franchise
+
+1,444
+
+1,614
+
+1,527
+
+(11
+)%
+
+6
+ %
+
+—
+
+—
+U.S.
+
+1,118
+
+1,092
+
+1,016
+
+2
+ %
+
+7
+ %
+
+—
+
+—
+Non-U.S.
+
+326
+
+522
+
+511
+
+(38
+)%
+
+2
+ %
+
+—
+
+1
+ %
+
+Oncology
+
+Erbitux* (cetuximab)
+
+723
+
+696
+
+702
+
+4
+ %
+
+(1
+)%
+
+N/A
+
+—
+U.S.
+
+682
+
+682
+
+688
+
+—
+
+(1
+)%
+
+—
+
+—
+Non-U.S.
+
+41
+
+14
+
+14
+
+**
+
+—
+
+N/A
+
+—
+
+Opdivo (nivolumab)
+
+6
+
+—
+
+—
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+U.S.
+
+1
+
+—
+
+—
+
+N/A
+
+N/A
+
+—
+
+—
+Non-U.S.
+
+5
+
+—
+
+—
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+Sprycel (dasatinib)
+
+1,493
+
+1,280
+
+1,019
+
+17
+ %
+
+26
+ %
+
+(2
+)%
+
+(4
+)%
+U.S.
+
+671
+
+541
+
+404
+
+24
+ %
+
+34
+ %
+
+—
+
+—
+Non-U.S.
+
+822
+
+739
+
+615
+
+11
+ %
+
+20
+ %
+
+(5
+)%
+
+(7
+)%
+
+Yervoy (ipilimumab)
+
+1,308
+
+960
+
+706
+
+36
+ %
+
+36
+ %
+
+(2
+)%
+
+—
+U.S.
+
+709
+
+577
+
+503
+
+23
+ %
+
+15
+ %
+
+—
+
+—
+Non-U.S.
+
+599
+
+383
+
+203
+
+56
+ %
+
+89
+ %
+
+(4
+)%
+
+—
+
+Neuroscience
+
+Abilify* (aripiprazole)
+
+2,020
+
+2,289
+
+2,827
+
+(12
+)%
+
+(19
+)%
+
+—
+
+—
+U.S.
+
+1,572
+
+1,519
+
+2,102
+
+3
+ %
+
+(28
+)%
+
+—
+
+—
+Non-U.S.
+
+448
+
+770
+
+725
+
+(42
+)%
+
+6
+ %
+
+—
+
+1
+ %
+
+Immunoscience
+
+Orencia (abatacept)
+
+1,652
+
+1,444
+
+1,176
+
+14
+ %
+
+23
+ %
+
+(2
+)%
+
+(2
+)%
+U.S.
+
+1,064
+
+954
+
+797
+
+12
+ %
+
+20
+ %
+
+—
+
+—
+Non-U.S.
+
+588
+
+490
+
+379
+
+20
+ %
+
+29
+ %
+
+(6
+)%
+
+(8
+)%
+
+Cardiovascular
+
+Eliquis (apixaban)
+
+774
+
+146
+
+2
+
+**
+
+**
+
+N/A
+
+N/A
+U.S.
+
+404
+
+97
+
+—
+
+**
+
+N/A
+
+—
+
+—
+Non-U.S.
+
+370
+
+49
+
+2
+
+**
+
+**
+
+N/A
+
+N/A
+
+Diabetes Alliance
+
+295
+
+1,683
+
+972
+
+(82
+)%
+
+73
+ %
+
+—
+
+—
+U.S.
+
+110
+
+1,242
+
+774
+
+(91
+)%
+
+60
+ %
+
+—
+
+—
+Non-U.S.
+
+185
+
+441
+
+198
+
+(58
+)%
+
+**
+
+—
+
+(1
+)%
+
+Mature Products and All Other
+
+3,105
+
+3,195
+
+5,781
+
+(3
+)%
+
+(45
+)%
+
+(1
+)%
+
+—
+U.S.
+
+481
+
+556
+
+3,076
+
+(13
+)%
+
+(82
+)%
+
+—
+
+—
+Non-U.S.
+
+2,624
+
+2,639
+
+2,705
+
+(1
+)%
+
+(2
+)%
+
+(2
+)%
+
+(1
+)%
+** Change in excess of 100%
+39
+Baraclude
+ — an oral antiviral agent for the treatment of chronic hepatitis B
+•
+U.S. revenues decreased in 2014 due to the launch of generic entecavir by Teva Pharmaceutical Industries Ltd. in September 2014. U.S. revenues increased in 2013 due to higher average net selling prices and demand.
+•
+International revenues increased in 2013 due to higher demand.
+Hepatitis C Franchise —
+Daklinza
+ - an NS5A replication complex inhibitor;
+Sunvepra
+ - an NS3 protease inhibitor
+•
+Daklinza
+was launched in Germany in August 2014 and certain other EU countries in September 2014.
+Daklinza
+and
+Sunvepra
+dual regimen was launched in Japan in September 2014.
+Reyataz
+ — a protease inhibitor for the treatment of the HIV
+•
+U.S. revenues decreased in both periods due to lower demand resulting from competitors' products.
+•
+International revenues decreased in 2014 due to the timing of government purchases in certain countries and lower demand resulting from competitors' products. International revenues increased in 2013 due to higher demand and the timing of government purchases in certain countries. Both periods were impacted by unfavorable foreign exchange.
+Sustiva Franchise
+ — a non-nucleoside reverse transcriptase inhibitor for the treatment of HIV, which includes
+Sustiva
+, an antiretroviral drug, and bulk efavirenz, which is also included in the combination therapy,
+Atripla*
+ , a product sold through our alliance with Gilead
+•
+U.S. revenues increased in both periods due to higher average net selling prices partially offset by lower demand.
+•
+International revenues decreased in 2014 due to
+Sustiva's
+loss of exclusivity in Europe in November 2013, which negatively impacted demand, average net selling prices and
+Atripla*
+ revenue sharing.
+Erbitux
+* — a monoclonal antibody designed to exclusively target and block the Epidermal Growth Factor Receptor, which is expressed on the surface of certain cancer cells in multiple tumor types as well as normal cells and is currently indicated for use in the treatment of patients with certain types of metastatic colorectal cancer and squamous cell carcinoma of the head and neck.
+Erbitux
+* is part of our alliance with Lilly.
+•
+U.S. revenues remained flat in both periods.
+Opdivo
+ — a fully human monoclonal antibody that binds to the PD-1 on T and NKT cells that is being investigated as an anti-cancer treatment.
+Opdivo
+ is part of our alliance with Ono.
+•
+Opdivo
+ was launched in the U.S. in December 2014 and Japan in September 2014 for the treatment of unresectable or metastatic melanoma.
+Sprycel
+ — an oral inhibitor of multiple tyrosine kinases indicated for the first-line treatment of adults with Philadelphia chromosome-positive chronic myeloid leukemia in chronic phase and the treatment of adults with chronic, accelerated, or myeloid or lymphoid blast phase chronic myeloid leukemia with resistance or intolerance to prior therapy, including
+Gleevec*
+ (imatinib meslylate).
+Sprycel
+ is part of our alliance with Otsuka Pharmaceutical Co., Ltd (Otsuka).
+•
+U.S. revenues increased in both periods primarily due to higher demand.
+•
+International revenues increased in both periods primarily due to higher demand partially offset by unfavorable foreign exchange.
+Yervoy
+ — a monoclonal antibody for the treatment of patients with unresectable or metastatic melanoma
+•
+U.S. revenues increased in both periods due to higher demand. U.S. revenues in 2013 were also favorably impacted by the recognition of $27 million of revenues that were previously deferred.
+•
+International revenues increased in both periods due to higher demand.
+Abilify* —
+ an antipsychotic agent for the treatment of schizophrenia, bipolar mania disorder and major depressive disorder and is part of our alliance with Otsuka
+•
+U.S. revenues increased in 2014 primarily due to higher average net selling prices partially offset by the reduction in our share of
+Abilify*
+ revenues from 34% in 2013 to 33%. U.S. revenues decreased in 2013 due to a reduction in our contractual share of revenues from 51.5% in 2012 to 34.0% in 2013, which was partially offset by higher average net selling prices. Our U.S. commercialization rights to
+Abilify*
+ expire on April 20, 2015 upon the expected loss of product exclusivity which will result in a significant decline in
+Abilify*
+ revenues.
+•
+International revenues decreased in 2014 primarily due to the expiration of our EU commercialization rights in June 2014 and Otsuka becoming the principal for the end customer sales in certain markets. International revenues in 2013 increased primarily due to higher demand.
+40
+Orencia
+ — a fusion protein indicated for adult patients with moderate to severe active RA and is also indicated for reducing signs and symptoms in certain pediatric patients with moderately to severely active polyarticular juvenile idiopathic arthritis.
+•
+U.S. revenues increased in both periods primarily due to higher average net selling prices and higher demand for the subcutaneous formulation.
+•
+International revenues increased in both periods primarily due to higher demand for the subcutaneous formulation, partially offset by unfavorable foreign exchange.
+Eliquis
+ — an oral Factor Xa inhibitor, targeted at stroke prevention in non-valvular atrial fibrillation and the prevention and treatment of VTE disorders.
+Eliquis
+ is part of our alliance with Pfizer.
+•
+U.S. and international revenues continued to increase following the 2013 launches in most major markets for the reduction of the risk of stroke and systemic embolism for patients with NVAF and the treatment of VTE in 2014 in the U.S.
+Diabetes Alliance — includes
+Bydureon*, Byetta*, Farxiga*, Onglyza*/Kombiglyze*, Myalept*
+and
+ Symlin*,
+which
+
+were part of our alliance with AstraZeneca.
+•
+Revenues decreased in 2014 due to the diabetes business divestiture in February 2014. Revenues increased in 2013 due to the Amylin acquisition in August 2012 and higher demand and average net selling prices for
+Onglyza*/Kombiglyze*.
+See "Item 8. Financial Statements—Note
+3
+. Alliances" for further discussion.
+Mature Products and All Other — includes all other products, including those which have lost exclusivity in major markets, over-the-counter brands and royalty-related revenue
+•
+U.S. revenues decreased in both periods due to the continued generic erosion of certain products, including
+Plavix*
+and
+Avapro*/Avalide*
+ which lost exclusivity in 2012 resulting in lower revenue of $2.4 billion in 2013.
+•
+International revenues remained relatively flat in 2014 due to the continued generic erosion of other products offset by higher revenues attributed to certain alliances. International revenues in 2013 were impacted by changes attributed to the restructured Sanofi agreement for
+Avapro*/Avalide*
+and
+Plavix*
+. See “Item 8. Financial Statements—Note
+3
+. Alliances” for further discussion.
+•
+Revenues are expected to significantly decline in 2015 due to a reduction of approximately $400 million related to the expiration of certain royalty and alliance agreements, as well as the continued decline of mature products.
+Estimated End-User Demand
+Pursuant to the U.S. Securities and Exchange Commission (SEC) Consent Order described below under “—SEC Consent Order”, we monitor the level of inventory on hand in the U.S. wholesaler distribution channel and outside of the U.S. in the direct customer distribution channel. We are obligated to disclose products with levels of inventory in excess of one month on hand or expected demand, subject to a de minimis exception. Estimated levels of inventory in the distribution channel in excess of one month on hand for the following products were not material to our results of operations as of the dates indicated.
+Reyataz
+ had 1.3 months of inventory on hand internationally at September 30, 2014, compared to 1.1 months of inventory on hand at June 30, 2014. The level of inventory exceeds one month on hand primarily due to government purchasing patterns in Brazil.
+Efferalgan
+, an analgesic product sold principally in Europe, had 1.1 months of inventory on hand internationally at September 30, 2014 and at June 30, 2014. The level of inventory on hand was primarily due to the ordering patterns of pharmacists in France.
+In the U.S., we generally determine our months on hand estimates using inventory levels of product on hand and the amount of out-movement provided by our three largest wholesalers, which account for approximately 90% of total gross sales of U.S. products. Factors that may influence our estimates include generic competition, seasonality of products, wholesaler purchases in light of increases in wholesaler list prices, new product launches, new warehouse openings by wholesalers and new customer stockings by wholesalers. In addition, these estimates are calculated using third-party data, which may be impacted by their recordkeeping processes.
+For our businesses outside of the U.S., we have significantly more direct customers. Limited information on direct customer product level inventory and corresponding out-movement information and the reliability of third-party demand information, where available, varies widely. When direct customer product level inventory, ultimate patient/consumer demand or out-movement data does not exist or is otherwise not available, we have developed a variety of other methodologies to estimate such data, including using such factors as historical sales made to direct customers and third-party market research data related to prescription trends and end-user demand. Accordingly, we rely on a variety of methods to estimate direct customer product level inventory and to calculate months on hand. Factors that may affect our estimates include generic competition, seasonality of products, direct customer purchases in light of price increases, new product launches, new warehouse openings by direct customers, new customer stockings by direct customers and expected direct customer purchases for governmental bidding situations. As such, all of the information required to estimate months on hand in the direct customer distribution channel for non-U.S. business for the year ended December 31,
+2014
+ is not available prior to the filing of this annual report on Form 10-K. We will disclose any product with levels of inventory in excess of one month on hand or expected demand, subject to a de minimis exception, in the next quarterly report on Form 10-Q.
+41
+Expenses
+
+% Change
+Dollar in Millions
+
+2014
+
+2013
+
+2012
+
+2014 vs. 2013
+
+2013 vs. 2012
+Cost of products sold
+
+$
+3,932
+
+$
+4,619
+
+$
+4,610
+
+(15
+)%
+
+—
+Marketing, selling and administrative
+
+4,088
+
+4,084
+
+4,220
+
+—
+
+(3
+)%
+Advertising and product promotion
+
+734
+
+855
+
+797
+
+(14
+)%
+
+7
+ %
+Research and development
+
+4,534
+
+3,731
+
+3,904
+
+22
+ %
+
+(4
+)%
+Impairment charge for BMS-986094 intangible asset
+
+—
+
+—
+
+1,830
+
+—
+
+(100
+)%
+Other (income)/expense
+
+210
+
+205
+
+(80
+)
+
+2
+ %
+
+**
+Total Expenses
+
+$
+13,498
+
+$
+13,494
+
+$
+15,281
+
+—
+
+(12
+)%
+** Change in excess of 100%
+Cost of products sold
+Cost of products sold include material costs, internal labor and overhead from our owned manufacturing sites, third-party processing costs, other supply chain costs and the settlement of foreign currency forward contracts used to hedge forecasted intercompany inventory purchase transactions. Essentially all of these costs are managed by our global manufacturing and supply organization. Cost of products also includes royalties and profit sharing attributed to licensed products and alliances, amortization of acquired developed technology costs from business combinations and milestone payments that occur on or after regulatory approval.
+Cost of products sold can vary between periods as a result of product mix (particularly resulting from royalties and profit sharing expenses in connection with our alliances), price, inflation and costs attributed to the rationalization of manufacturing sites resulting in accelerated depreciation, impairment charges and other stranded costs. In addition, changes in foreign currency may also provide volatility as certain costs are denominated in foreign currencies. Cost of products sold as a percentage of total revenues was
+24.8%
+ in
+2014
+,
+28.2%
+ in
+2013
+, and
+26.2%
+ in
+2012
+.
+•
+Cost of products sold decreased in 2014 primarily due to the diabetes business divestiture ($1.1 billion), partially offset by higher
+Eliquis
+profit sharing with Pfizer and accelerated depreciation for certain manufacturing facilities.
+•
+Cost of products sold remained relatively flat in 2013 as higher profit sharing expenses and higher net amortization costs following the Amylin acquisition were offset by lower royalties following the loss of exclusivity of
+Plavix*
+ and
+Avapro*/Avalide*
+ and lower impairment charges in 2013.
+•
+Impairment charges of $147 million were recognized in 2012, including $120 million related to continued competitive pricing pressures and a reduction in the undiscounted projected cash flows to an amount less than the carrying value of a developed technology intangible asset. The remaining $27 million impairment charge related to the abandonment of a manufacturing facility resulting from the outsourcing of a manufacturing process.
+Marketing, selling and administrative
+Marketing, selling and administrative expenses include salary and benefit costs, third-party professional and marketing fees, outsourcing fees, shipping and handling costs and other expenses that are not attributed to product manufacturing costs or research and development expenses. Expenses are managed through regional commercialization organizations or global corporate organizations such as finance, legal, information technology and human resources. Certain expenses are shared with alliance partners based upon contractual agreements.
+•
+Marketing, selling and administrative expenses remained relatively flat in 2014 as increased sales-related activities supporting
+Eliquis
+,
+Yervoy
+,
+Opdivo
+ and the Hepatitis C Franchise, higher variable employee compensation and an additional Branded Prescription Drug Fee in 2014 were offset by lower expenses following the diabetes business divestiture ($500 million).
+•
+On July 28, 2014, the IRS issued final rules and regulations for the Branded Prescription Drug Fee, an annual non-tax-deductible fee payable to the federal government under the Affordable Care Act based on an allocation of a company’s market share for branded prescription drugs sold to certain government programs in the prior year. The final rules accelerated BMS's and other industry participants' expense recognition criteria for the fee obligation from the year in which the fee is paid, to the year in which the market share used to allocate the fee is determined. As a result, an additional year of expense was recognized in the third quarter of 2014, including $96 million in marketing, selling and administrative expenses and $16 million in other expense. The final rules and regulations did not change the amount or timing of annual fees to be paid.
+•
+Marketing, selling and administrative expenses decreased in 2013 due to the accelerated vesting of Amylin stock options and restricted stock units ($67 million) in 2012, a lower Branded Prescription Drug Fee, and a reduction in sales related activities for certain products to coincide with their respective lifecycles partially offset by higher spending to support the launch of new key products and additional spending following the Amylin acquisition.
+42
+Advertising and product promotion
+Advertising and product promotion expenses include media, sample and direct to consumer programs.
+•
+Advertising and product promotion expenses decreased in 2014 following the diabetes business divestiture.
+•
+Advertising and product promotion expenses increased in 2013 due to newly launched products.
+Research and development
+Research and development expenses include salary and benefit costs, third-party grants and fees paid to clinical research organizations, supplies and facility costs. Research and development expenses also include the costs of discovery research, preclinical development, early- and late-clinical development and drug formulation, as well as clinical trials and medical support of marketed products, proportionate allocations of enterprise-wide costs, facilities, information technology, and employee stock compensation costs, and other appropriate costs. Upfront licensing fees and other related payments upon the achievement of regulatory or other contractual milestones are also included. Certain expenses are shared with alliance partners based upon contractual agreements.
+Expenses attributed to development activities managed by our global research and development organization were approximately $2.3 billion in 2014, $2.2 billion in 2013 and $1.9 billion in 2012, with the remainder attributed to preclinical and research activities. Expenses can vary between periods for a number of reasons, including the timing of upfront, milestone and other licensing payments.
+•
+Research and development expenses increased in 2014 due to
+$343 million
+ IPRD impairment charges (including $310 million for peginterferon lambda), higher variable employee compensation and clinical development costs, a $148 million charge for the acquisition of iPierian, and upfront and contingent milestone payments of $130 million in 2014. See “Item 8. Financial Statements —Note
+4
+. Acquisitions and Note
+14
+. Goodwill and other intangible assets” for further information.
+•
+Research and development expenses decreased in 2013 due to prior year charges including $142 million IPRD impairment charges, $27 million from accelerated vesting of Amylin stock options and restricted stock units and $47 million of upfront, milestone and other licensing payments partially offset by additional costs following the Amylin acquisition and higher clinical grant spending.
+Impairment charge for BMS-986094 intangible asset
+A $1.8 billion impairment charge was recognized in 2012 when the development of BMS-986094 (formerly INX-189), a compound which we acquired as part of our acquisition of Inhibitex to treat HCV, was discontinued in the interest of patient safety. See “Item 8. Financial Statements —Note
+14
+. Goodwill and Other Intangible Assets” for further information.
+Intangible assets are highly vulnerable to impairment charges, particularly newly acquired assets for recently launched products or IPRD. These assets are initially measured at fair value and therefore a reduction in expectations used in the valuations could potentially lead to an impairment. See “—Critical Accounting Policies” for further discussion.
+Other (income)/expense
+
+Year Ended December 31,
+Dollars in Millions
+
+2014
+
+2013
+
+2012
+Interest expense
+
+$
+203
+
+$
+199
+
+$
+182
+Investment income
+
+(101
+)
+
+(104
+)
+
+(106
+)
+Provision for restructuring
+
+163
+
+226
+
+174
+Litigation charges/(recoveries)
+
+23
+
+20
+
+(45
+)
+Equity in net income of affiliates
+
+(107
+)
+
+(166
+)
+
+(183
+)
+Out-licensed intangible asset impairment
+
+29
+
+—
+
+38
+Gain on sale of product lines, businesses and assets
+
+(564
+)
+
+(2
+)
+
+(53
+)
+Other alliance and licensing income
+
+(404
+)
+
+(148
+)
+
+(312
+)
+Pension curtailments, settlements and special termination benefits
+
+877
+
+165
+
+158
+Other
+
+91
+
+15
+
+67
+Other (income)/expense
+
+$
+210
+
+$
+205
+
+$
+(80
+)
+•
+Provision for restructuring was primarily attributable to employee termination benefits resulting from workforce reductions of manufacturing, selling, administrative, and research and development personnel across all geographic regions. Additional charges of approximately
+$100 million
+ related to specialty care transformation initiatives are expected in 2015. See "Item 8. Financial Statements—Note
+7
+. Restructuring" for further discussion.
+•
+Litigation charges/(recoveries) in 2012 included $172 million for our share of an Apotex damages award concerning
+Plavix*.
+43
+•
+Equity in net income of affiliates is primarily related to our international partnership with Sanofi in Europe and Asia which decreased in both periods as a result of our restructuring of the Sanofi agreement and continues to be negatively impacted by generic competition for
+Plavix*
+ in Europe and Asia.
+•
+Out-licensed intangible asset impairment charges in 2014 and 2012 are related to certain assets acquired in the Medarex and ZymoGenetics, Inc. acquisitions and resulted from unfavorable clinical trial results and/or abandonment of these programs.
+•
+Gain on sale of product lines, businesses and assets resulted primarily from the diabetes business divestiture in 2014. See “Item 8. Financial Statements—Note
+3
+. Alliances” for further details.
+•
+Alliance and licensing income in 2014 includes royalties, transitional service fees and amortization of deferred income attributed to a development agreement resulting from the diabetes business divestiture. The decrease in U.S.
+Plavix*
+ sales resulted in lower development royalties owed to Sanofi in 2013. Royalties received from Sanofi (except in Europe and Asia) are presented in revenues beginning in 2013 as a result of the restructured Sanofi agreement. See "Item 8. Financial Statements—Note
+3
+. Alliances" for further discussion.
+•
+A pension settlement charge of $713 million was recognized in 2014 following the purchase of a group annuity contract from Prudential in December 2014. Additional pension settlement charges were also recognized after determining the annual lump sum payments would exceed the annual interest and service costs for certain pension plans, including the primary U.S. pension plan in 2014, 2013 and 2012. The charges include the acceleration of a portion of unrecognized actuarial losses. Similar charges may occur in the future. See “Item 8. Financial Statements—Note
+19
+. Pension, Postretirement and Postemployment Liabilities” for further details.
+Income Taxes
+Dollars in Millions
+2014
+
+2013
+
+2012
+Earnings Before Income Taxes
+$
+2,381
+
+$
+2,891
+
+$
+2,340
+Provision for/(benefit from) income taxes
+352
+
+311
+
+(161
+)
+Effective tax/(benefit) rate
+14.8
+%
+
+10.8
+%
+
+(6.9
+)%
+Historically, the effective income tax rate is lower than the U.S. statutory rate of 35% due to our decision to indefinitely reinvest the earnings for certain of our manufacturing operations in Ireland and Puerto Rico. We have favorable tax rates in Ireland and Puerto Rico under grants not scheduled to expire prior to 2023.
+The increase in the effective tax rate in 2014 resulted from an unfavorable earnings mix between high and low tax jurisdictions, the retroactive reinstatement of the 2012 R&D credit legislation in 2013 and additional tax reserves for transfer pricing matters, partially offset by higher tax benefits attributed to specified items. Minimal income taxes were attributed to the diabetes business divestiture gain because of the capital loss deduction on the sale of the Amylin shares and tax basis differences resulting primarily from allocated goodwill and Amylin deferred taxes. No tax benefits were attributed to the research and development charge resulting from the acquisition of iPierian.
+The change in the effective tax rate in 2013 resulted from a $392 million tax benefit in 2012 attributed to a capital loss deduction resulting from the tax insolvency of Inhibitex. The impact of this deduction reduced the effective tax rate by 16.7 percentage points in 2012. Other changes resulting from lower discrete tax benefits attributed to intangible asset impairment charges in 2012 ($1,830 million impairment charge for BMS-986094 in 2012) and higher charges from contingent tax matters in 2013 were offset by favorable earnings mix in 2013 (higher U.S. Plavix sales in 2012) and the retroactive reinstatement of the 2012 R&D credit legislation in 2013. See “Item 8. Financial Statements—Note 8. Income Taxes” for further details.
+Noncontrolling Interest
+See “Item 8. Financial Statements—Note
+3
+. Alliances” for a discussion of our
+Plavix*
+ and
+Avapro*
+/
+Avalide*
+ partnerships with Sanofi for the territory covering the Americas. The decrease in noncontrolling interest in 2013 resulted from the exclusivity loss in the U.S. of
+Plavix*
+ in May 2012 and
+Avapro*
+/
+Avalide*
+ in March 2012. A summary of noncontrolling interest is as follows:
+
+Year Ended December 31,
+Dollars in Millions
+
+2014
+
+2013
+
+2012
+Sanofi partnerships
+
+$
+38
+
+$
+36
+
+$
+844
+Other
+
+9
+
+1
+
+14
+Noncontrolling interest-pre-tax
+
+47
+
+37
+
+858
+Income taxes
+
+(22
+)
+
+(20
+)
+
+(317
+)
+Net earnings attributable to noncontrolling interest
+
+$
+25
+
+$
+17
+
+$
+541
+44
+Non-GAAP Financial Measures
+Our non-GAAP financial measures, including non-GAAP earnings and related EPS information, are adjusted to exclude certain costs, expenses, gains and losses and other specified items that due to their significant and/or unusual nature are evaluated on an individual basis. Similar charges or gains for some of these items have been recognized in prior periods and it is reasonably possible that they could reoccur in future periods. Non-GAAP information is intended to portray the results of our baseline performance which include the discovery, development, licensing, manufacturing, marketing, distribution and sale of pharmaceutical products on a global basis and to enhance an investor’s overall understanding of our past financial performance and prospects for the future. For example, non-GAAP earnings and EPS information is an indication of our baseline performance before items that are considered by us to not be reflective of our ongoing results. In addition, this information is among the primary indicators we use as a basis for evaluating performance, allocating resources, setting incentive compensation targets, and planning and forecasting for future periods. This information is not intended to be considered in isolation or as a substitute for net earnings or diluted EPS prepared in accordance with GAAP.
+Specified items were as follows:
+
+Year Ended December 31,
+Dollars in Millions
+
+2014
+
+2013
+
+2012
+Accelerated depreciation, asset impairment and other shutdown costs
+
+$
+151
+
+$
+36
+
+$
+147
+Amortization of acquired Amylin intangible assets
+
+—
+
+549
+
+229
+Amortization of Amylin alliance proceeds
+
+—
+
+(273
+)
+
+(114
+)
+Amortization of Amylin inventory adjustment
+
+—
+
+14
+
+23
+Cost of products sold
+
+151
+
+326
+
+285
+
+Stock compensation from accelerated vesting of Amylin awards
+
+—
+
+—
+
+67
+Additional year of Branded Prescription Drug Fee
+
+96
+
+—
+
+—
+Process standardization implementation costs
+
+9
+
+16
+
+18
+Marketing, selling and administrative
+
+105
+
+16
+
+85
+
+Stock compensation from accelerated vesting of Amylin awards
+
+—
+
+—
+
+27
+Upfront, milestone and other licensing payments
+
+278
+
+16
+
+47
+IPRD impairment
+
+343
+
+—
+
+142
+Research and development
+
+621
+
+16
+
+216
+
+Impairment charge for BMS-986094 intangible asset
+
+—
+
+—
+
+1,830
+
+Provision for restructuring
+
+163
+
+226
+
+174
+Gain on sale of product lines, businesses and assets
+
+(559
+)
+
+—
+
+(51
+)
+Pension curtailments, settlements and special termination benefits
+
+877
+
+161
+
+151
+Acquisition and alliance related items
+(a)
+
+72
+
+(10
+)
+
+43
+Litigation charges/(recoveries)
+
+27
+
+(23
+)
+
+(45
+)
+Loss on debt redemption
+
+45
+
+—
+
+27
+Out-licensed intangible asset impairment
+
+11
+
+—
+
+38
+Upfront, milestone and other licensing receipts
+
+(10
+)
+
+(14
+)
+
+(10
+)
+Other (income)/expense
+
+626
+
+340
+
+327
+
+Increase to pretax income
+
+1,503
+
+698
+
+2,743
+
+Income tax on items above
+
+(545
+)
+
+(242
+)
+
+(947
+)
+Specified tax charge/(benefit)
+(b)(c)
+
+123
+
+—
+
+(392
+)
+Income taxes
+
+(422
+)
+
+(242
+)
+
+(1,339
+)
+Increase to net earnings
+
+$
+1,081
+
+$
+456
+
+$
+1,404
+(a) Includes $16 million of additional year of Branded Prescription Drug Fee in the third quarter of 2014.
+(b) The 2014 specified tax charge relates to transfer pricing matters.
+(c) The 2012 specified tax benefit relates to a capital loss deduction.
+45
+The reconciliations from GAAP to Non-GAAP were as follows:
+
+Year Ended December 31,
+Dollars in Millions, except per share data
+
+2014
+
+2013
+
+2012
+Net Earnings Attributable to BMS — GAAP
+
+$
+2,004
+
+$
+2,563
+
+$
+1,960
+Earnings attributable to unvested restricted shares
+
+—
+
+—
+
+(1
+)
+Net Earnings Attributable to BMS used for Diluted EPS Calculation — GAAP
+
+$
+2,004
+
+$
+2,563
+
+$
+1,959
+
+Net Earnings Attributable to BMS — GAAP
+
+$
+2,004
+
+$
+2,563
+
+$
+1,960
+Less Specified Items
+
+1,081
+
+456
+
+1,404
+Net Earnings Attributable to BMS — Non-GAAP
+
+3,085
+
+3,019
+
+3,364
+Earnings attributable to unvested restricted shares
+
+—
+
+—
+
+(1
+)
+Net Earnings Attributable to BMS used for Diluted EPS Calculation — Non-GAAP
+
+$
+3,085
+
+$
+3,019
+
+$
+3,363
+
+Average Common Shares Outstanding — Diluted
+
+1,670
+
+1,662
+
+1,688
+
+Diluted EPS Attributable to BMS — GAAP
+
+$
+1.20
+
+$
+1.54
+
+$
+1.16
+Diluted EPS Attributable to Specified Items
+
+0.65
+
+0.28
+
+0.83
+Diluted EPS Attributable to BMS — Non-GAAP
+
+$
+1.85
+
+$
+1.82
+
+$
+1.99
+Financial Position, Liquidity and Capital Resources
+Our net cash/(debt) position was as follows:
+Dollars in Millions
+
+2014
+
+2013
+Cash and cash equivalents
+
+$
+5,571
+
+$
+3,586
+Marketable securities — current
+
+1,864
+
+939
+Marketable securities — non-current
+
+4,408
+
+3,747
+Total cash, cash equivalents and marketable securities
+
+11,843
+
+8,272
+Short-term borrowings
+
+(590
+)
+
+(359
+)
+Long-term debt
+
+(7,242
+)
+
+(7,981
+)
+Net cash/(debt) position
+
+$
+4,011
+
+$
+(68
+)
+Cash, cash equivalents and marketable securities held in the U.S. were approximately
+$2.5 billion
+ at December 31,
+2014
+. Most of the remaining
+$9.3 billion
+ is held primarily in low-tax jurisdictions and is attributable to earnings that are expected to be indefinitely reinvested offshore. Cash repatriations are subject to restrictions in certain jurisdictions and may be subject to withholding and additional U.S. income taxes. We believe that our existing cash, cash equivalents and marketable securities together with cash generated from operations will be sufficient to satisfy our normal cash requirements for at least the next few years, including dividends, capital expenditures, milestone payments and working capital.
+Dividends were $2.4 billion in 2014 and $2.3 billion in 2013 and 2012. Dividend decisions are made on a quarterly basis by our Board of Directors. Capital expenditures were approximately $500 million during each of the past three years and are expected to increase to approximately $1.0 billion during 2015 and 2016. The higher spending is expected as a result of expanding our biologics manufacturing capabilities and other facility-related activities. For example, we are planning to construct a new large-scale biologics manufacturing facility in Ireland that will produce multiple therapies for our growing biologics portfolio when completed in 2019.
+In February 2014, we sold to AstraZeneca substantially all of the diabetes business comprising our alliance with them, resulting in $3.8 billion of cash flow in 2014 (including royalties). See “Item 8. Financial Statements—Note 3. Alliances” for further discussion. We also redeemed our 5.45% Notes due 2018 in their entirety. The outstanding principal amount of the notes was $582 million. Management periodically evaluates potential opportunities to repurchase certain debt securities and terminate certain interest rate swap contracts prior to their maturity. No commercial paper borrowings were outstanding as of December 31, 2014.
+Our marketable securities portfolio is subject to changes in fair value as a result of interest rate fluctuations and other market factors, which may impact our results of operations. Our investment policy places limits on these investments and the amount and time to maturity of investments with any institution. The policy also requires that investments are only entered into with corporate and financial institutions that meet high credit quality standards. See “Item 8. Financial Statements—Note
+10
+. Financial Instruments and Fair Value Measurements.”
+46
+Two separate $1.5 billion five-year revolving credit facilities are maintained from a syndicate of lenders. The facilities provide for customary terms and conditions with no financial covenants and are extendable on any anniversary date with the consent of the lenders. No borrowings were outstanding under either revolving credit facility at December 31,
+2014
+ or
+2013
+.
+Additional regulations in the U.S. could be passed in the future which could further reduce our results of operations, operating cash flow, liquidity and financial flexibility. We also continue to monitor the potential impact of the economic conditions in certain European countries and the related impact on prescription trends, pricing discounts, creditworthiness of our customers, and our ability to collect outstanding receivables from our direct customers. Currently, we believe these economic conditions in the EU will not have a material impact on our liquidity, cash flow or financial flexibility.
+Our exposure with certain European government-backed entities have a higher risk of default. These government-backed entities are monitored through economic factors including credit ratings, credit-default swap rates and debt-to-gross domestic product ratios in addition to entity specific factors. Our exposure was reduced by factoring certain receivables, including receivables in Italy, Portugal and Spain of
+$454 million
+ in
+2014
+,
+$509 million
+ in
+2013
+ and
+$322 million
+ in
+2012
+. Factoring of receivables in Japan were
+$358 million
+ in
+2014
+,
+$522 million
+ in
+2013
+ and
+$634 million
+ in
+2012
+. Our factoring agreements do not allow for recourse in the event of uncollectibility and we do not retain interest to the underlying assets once sold.
+We continue to manage our operating cash flows by focusing on working capital items that are most directly affected by changes in sales volume, such as receivables, inventories, and accounts payable.
+Dollars in Millions
+December 31, 2014
+
+December 31, 2013
+Net trade receivables
+$
+2,100
+
+$
+1,690
+Inventories
+1,560
+
+1,498
+Accounts payable
+(2,487
+)
+
+(2,559
+)
+Total
+$
+1,173
+
+$
+629
+Credit Ratings
+Moody’s Investors Service long-term and short-term credit ratings are A2 and Prime-1, respectively, and their long-term credit outlook is negative. Standard & Poor’s long-term and short-term credit ratings are A+ and A-1+, respectively, and their long-term credit outlook is stable. Fitch's long-term and short-term credit ratings are A- and F2, respectively, and revised our long-term credit outlook from negative to stable in December 2014. Our credit ratings are considered investment grade. Our long-term ratings reflect the agencies' opinion that we have a low default risk but are somewhat susceptible to adverse effects of changes in circumstances and economic conditions. Our short-term ratings reflect the agencies' opinion that we have good to extremely strong capacity for timely repayment.
+Cash Flows
+The following is a discussion of cash flow activities:
+Dollars in Millions
+
+2014
+
+2013
+
+2012
+Cash flow provided by/(used in):
+
+Operating activities
+
+$
+3,148
+
+$
+3,545
+
+$
+6,941
+Investing activities
+
+1,216
+
+(572
+)
+
+(6,727
+)
+Financing activities
+
+(2,437
+)
+
+(1,068
+)
+
+(4,333
+)
+47
+Operating Activities
+Cash flow from operating activities represents the cash receipts and cash disbursements from all of our activities other than investing activities and financing activities. Operating cash flow is derived by adjusting net earnings for noncontrolling interest, non-cash operating items, gains and losses attributed to investing and financing activities and changes in operating assets and liabilities resulting from timing differences between the receipts and payments of cash and when the transactions are recognized in our results of operations. As a result, changes in cash from operating activities reflect the timing of cash collections from customers and alliance partners; payments to suppliers, alliance partners and employees; pension contributions; and tax payments in the ordinary course of business.
+The
+$397 million
+ decrease in cash provided by operating activities in 2014 was primarily attributable to:
+•
+Lower upfront and contingent alliance proceeds of approximately $600 million (Reckitt alliance proceeds of $485 million in 2013); and
+•
+Additional net working capital requirements of $400 million.
+Partially offset by:
+•
+The timing of other cash collections and payments in the ordinary course of business including among other items, lower pension contributions, restructuring and annual bonus payments.
+The
+$3.4 billion
+ decrease in cash provided by operating activities in 2013 was primarily attributable to:
+•
+Lower upfront and contingent alliance proceeds of approximately $2.7 billion (Amylin alliance proceeds of $3.6 billion in 2012); and
+•
+Lower operating cash flows attributed to
+Plavix*
+ and
+Avapro*/Avalide*
+ revenue reductions following the loss of exclusivity of approximately $700 million.
+Investing Activities
+Cash requirements from investing activities include cash used for business acquisitions, manufacturing and facility-related capital expenditures and purchase of marketable securities with maturities greater than 90 days reduced by proceeds from business divestitures and the sale and maturity of marketable securities.
+The
+$1.8 billion
+ decrease in cash used in investing activities in 2014 was primarily attributable to:
+•
+Proceeds of $3.5 billion allocated to the diabetes business divestiture in 2014.
+Partially offset by:
+•
+Higher net purchases of marketable securities (approximately
+$1.6 billion
+); and
+•
+Cash used to acquire iPierian ($175 million) in 2014.
+The
+$6.2 billion
+ decrease in cash used in investing activities in 2013 was primarily attributable to:
+•
+Cash used to acquire Amylin ($5.0 billion) and Inhibitex ($2.5 billion) in 2012.
+Partially offset by:
+•
+Higher net proceeds from sales, purchases, and maturities of marketable securities (approximately
+$1.3 billion
+).
+Financing Activities
+Cash requirements from financing activities include cash used to pay dividends, repurchase common stock and repay long-term debt and other borrowings reduced by proceeds from the exercise of stock options and issuance of long-term debt and other borrowings.
+The
+$1.4 billion
+ increase in cash used in financing activities in 2014 was primarily attributable to:
+•
+Lower net borrowings from long-term debt transactions of $1.6 billion (
+$676 million
+ of repayments in 2014 and
+$892 million
+ of net borrowings in 2013); and
+•
+Lower proceeds from stock option exercises (
+$288 million
+ in 2014 and
+$564 million
+ in 2013, including excess tax benefits).
+Partially offset by:
+•
+Lower cash used to repurchase common stock (none in 2014 and $433 million in 2013).
+The
+$3.3 billion
+ decrease in cash used in financing activities in 2013 was primarily attributable to:
+•
+Lower cash used to repurchase common stock of $2.0 billion ($433 million in 2013 and $2.4 billion in 2012);
+•
+Higher net borrowings from long-term debt transactions of $1.1 billion ($892 million of net borrowings in 2013 and
+$158 million
+ of net repayments in 2012 including debt assumed in the Amylin acquisition); and
+•
+Higher proceeds from stock option exercises ($564 million in 2013 and
+$463 million
+ in 2012, including excess tax benefits).
+48
+Contractual Obligations
+Payments due by period for our contractual obligations at December 31,
+2014
+ were as follows:
+
+Obligations Expiring by Period
+Dollars in Millions
+
+Total
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+Later Years
+Short-term borrowings
+
+$
+590
+
+$
+590
+
+$
+—
+
+$
+—
+
+$
+—
+
+$
+—
+
+$
+—
+Long-term debt
+
+6,804
+
+—
+
+611
+
+750
+
+—
+
+500
+
+4,943
+Interest on long-term debt
+(a)
+
+5,100
+
+243
+
+258
+
+241
+
+236
+
+232
+
+3,890
+Operating leases
+
+572
+
+136
+
+121
+
+94
+
+83
+
+57
+
+81
+Purchase obligations
+
+2,296
+
+632
+
+391
+
+323
+
+312
+
+226
+
+412
+Uncertain tax positions
+(b)
+
+142
+
+142
+
+—
+
+—
+
+—
+
+—
+
+—
+Other long-term liabilities
+
+618
+
+—
+
+211
+
+45
+
+30
+
+33
+
+299
+ Total
+
+$
+16,122
+
+$
+1,743
+
+$
+1,592
+
+$
+1,453
+
+$
+661
+
+$
+1,048
+
+$
+9,625
+(a)
+Includes estimated future interest payments and periodic cash settlements of derivatives.
+(b)
+Includes only short-term uncertain tax benefits because of uncertainties regarding the timing of resolution.
+In addition to the above, we are committed to an aggregated $3.8 billion of potential future research and development milestone payments to third parties for in-licensing and development programs including early-stage milestones of $900 million (milestones achieved through Phase III clinical trials) and late-stage milestones of $2.9 billion (milestones achieved post Phase III clinical trials). Payments generally are due and payable only upon achievement of certain developmental and regulatory milestones for which the specific timing cannot be predicted. Some of these agreements also provide for sales-based milestones aggregating $1.2 billion that we would be obligated to pay to alliance partners upon achievement of certain sales levels in addition to royalties. We also have certain manufacturing, development, and commercialization obligations in connection with alliance arrangements. It is not practicable to estimate the amount of these obligations. See “Item 8. Financial Statements—Note
+3
+. Alliances” for further information regarding our alliances.
+For a discussion of contractual obligations, see “Item 8. Financial Statements—Note 8. Income Taxes,” “—Note
+10
+. Financial Instruments and Fair Value Measurements,” “—Note
+19
+. Pension, Postretirement and Postemployment Liabilities” and “—Note
+21
+. Leases.”
+SEC Consent Order
+As previously disclosed, on August 4, 2004, we entered into a final settlement with the SEC, concluding an investigation concerning certain wholesaler inventory and accounting matters. The settlement was reached through a Consent, a copy of which was attached as Exhibit 10 to our quarterly report on Form 10-Q for the period ended September 30, 2004.
+Under the terms of the Consent, we agreed, subject to certain defined exceptions, to limit sales of all products sold to our direct customers (including wholesalers, distributors, hospitals, retail outlets, pharmacies and government purchasers) based on expected demand or on amounts that do not exceed approximately one month of inventory on hand, without making a timely public disclosure of any change in practice. We also agreed in the Consent to certain measures that we have implemented including: (a) establishing a formal review and certification process of our annual and quarterly reports filed with the SEC; (b) establishing a business risk and disclosure group; (c) retaining an outside consultant to comprehensively study and help re-engineer our accounting and financial reporting processes; (d) publicly disclosing any sales incentives offered to direct customers for the purpose of inducing them to purchase products in excess of expected demand; and (e) ensuring that our budget process gives appropriate weight to inputs that come from the bottom to the top, and not just from the top to the bottom, and adequately documenting that process.
+We have established a company-wide policy to limit our sales to direct customers for the purpose of complying with the Consent. This policy includes the adoption of various procedures to monitor and limit sales to direct customers in accordance with the terms of the Consent. These procedures include a governance process to escalate to appropriate management levels potential questions or concerns regarding compliance with the policy and timely resolution of such questions or concerns. In addition, compliance with the policy is monitored on a regular basis.
+We maintain inventory management agreements (IMAs) with our U.S. pharmaceutical wholesalers, which account for nearly 100% of our gross U.S. revenues. Under the current terms of the IMAs, our wholesaler customers provide us with weekly information with respect to months on hand product-level inventories and the amount of out-movement of products. The three largest wholesalers currently account for approximately 90% of our gross U.S. revenues. The inventory information received from our wholesalers, together with our internal information, is used to estimate months on hand product level inventories at these wholesalers. We estimate months on hand product inventory levels for our U.S. business’s wholesaler customers other than the three largest wholesalers by extrapolating from the months on hand calculated for the three largest wholesalers. In contrast, our non-U.S. business has significantly more direct customers, limited information on direct customer product level inventory and corresponding out-movement information and the reliability of third-party
+49
+demand information, where available, varies widely. Accordingly, we rely on a variety of methods to estimate months on hand product level inventories for these business units.
+We believe the above-described procedures provide a reasonable basis to ensure compliance with the Consent.
+Recently Issued Accounting Standards
+For recently issued accounting standards, see “Item 8. Financial Statements—Note
+1
+. Accounting Policies—Recently Issued Accounting Standards.”
+Critical Accounting Policies
+The preparation of financial statements requires the use of estimates and assumptions that affect the reported amounts of assets and liabilities and the reported amounts of revenue and expenses. Our critical accounting policies are those that significantly impact our financial condition and results of operations and require the most difficult, subjective or complex judgments, often as a result of the need to make estimates about the effect of matters that are inherently uncertain. Because of this uncertainty, actual results may vary from these estimates. These accounting policies were discussed with the Audit Committee of the Board of Directors.
+Revenue Recognition
+Our accounting policy for revenue recognition has a substantial impact on reported results and relies on certain estimates. Revenue is recognized when persuasive evidence of an arrangement exists, the sales price is fixed and determinable, collectability is reasonably assured and title and substantially all of the risks and rewards of ownership have transferred (generally upon shipment except in certain EU markets which does not occur until delivery of the products to the customer). In 2014, we deferred approximately $300 million for products sold under an early access program in the EU. A portion of this amount will be recognized as revenue, subject to final price negotiations with the local government which are expected to be concluded in 2015. Revenue is also reduced for gross-to-net sales adjustments discussed below, all of which involve significant estimates and judgment after considering legal interpretations of applicable laws and regulations, historical experience, payer channel mix (e.g. Medicare or Medicaid), current contract prices under applicable programs, unbilled claims and processing time lags and inventory levels in the distribution channel. Estimates are assessed each period and adjusted as required to revised information or actual experience. In addition, See “—Total Revenues” above for further discussion and analysis of each significant category of gross-to-net sales adjustments.
+In alliance arrangements involving the delivery of more than one element, each undelivered element is evaluated whether it qualifies as a separate unit of accounting. The consideration that is fixed or determinable is then allocated to each undelivered element and is recognized as the related goods or services are delivered, limited to the consideration that is not contingent upon future deliverables. Consideration associated with contingent milestones and royalties are allocated among the underlying elements if and when the amounts are determined to be payable to BMS.
+Gross-to-Net Adjustments
+The following categories of gross-to-net adjustments involve significant estimates, judgments and information obtained from external sources.
+Charge-backs related to government programs
+Our U.S. business participates in programs with government entities, the most significant of which are the U.S. Department of Defense and the U.S. Department of Veterans Affairs, and other parties, including covered entities under the 340B Drug Pricing Program, whereby pricing on products is extended below wholesaler list price to participating entities. These entities purchase products through wholesalers at the lower program price and the wholesalers then charge us the difference between their acquisition cost and the lower program price. Accounts receivable is reduced for the estimated amount of unprocessed charge-back claims attributable to a sale (typically within a two to four week time lag).
+Cash discounts
+In the U.S. and certain other countries, cash discounts are offered as an incentive for prompt payment, generally approximating 2% of the sales price. Accounts receivable is reduced for the estimated amount of unprocessed cash discounts (typically within a one month time lag).
+50
+Managed healthcare rebates and other contract discounts
+Rebates and discounts are offered to managed healthcare organizations in the U.S. managing prescription drug programs and Medicare Advantage prescription drug plans covering the Medicare Part D drug benefit in addition to their commercial plans, as well as other contract counterparties such as hospitals and group purchasing organizations globally. Rebates are also required under the U.S. Department of Defense TRICARE Retail Pharmacy Refund Program. The estimated amount of unpaid or unbilled rebates and discounts is presented as a liability. A $67 million reversal for the estimated amount of 2011 Medicare Part D coverage gap discounts occurred in 2012 after receipt of the actual invoices.
+Medicaid rebates
+Our U.S. business participates in state government Medicaid programs and other qualifying Federal and state government programs requiring discounts and rebates to participating state and local government entities. All discounts and rebates provided through these programs are included in our Medicaid rebate accrual. Medicaid rebates have also been extended to drugs used in managed Medicaid plans. The estimated amount of unpaid or unbilled rebates is presented as a liability. The estimated Medicaid rebates attributable to prior period revenues were reduced by
+$24 million
+ in
+2014
+,
+$85 million
+ in
+2013
+ and
+$37 million
+ in 2012.
+Sales returns
+Products are typically eligible to be returned between six months prior to and twelve months after product expiration, in accordance with our policy. Estimated returns for established products are determined after considering historical experience and other factors including levels of inventory in the distribution channel, estimated shelf life, product recalls, product discontinuances, price changes of competitive products, introductions of generic products, introductions of competitive new products and lower demand following the loss of exclusivity. The estimated amount for product returns is presented as a liability. Reserves were established in 2012 for
+Plavix
+* and
+Avapro*
+/
+Avalide*
+following their loss of exclusivity. Remaining reserves were
+$86 million
+ and
+$147 million
+ at
+December 31, 2014
+ and
+2013
+, respectively, after considering the relevant factors as well as estimated future retail and wholesale inventory work down that would occur after the loss of exclusivity.
+Estimated returns for new products are determined after considering historical sales return experience of similar products, such as those within the same product line or similar therapeutic category. We defer recognition of revenue until the right of return expires or until sufficient historical experience to estimate sales returns is developed in limited circumstances. This typically occurs when the new product is not an extension of an existing line of product or when historical experience with products in a similar therapeutic category is lacking. Estimated levels of inventory in the distribution channel and projected demand are also considered in estimating sales returns for new products.
+Use of information from external sources
+Information from external sources is used to estimate gross-to-net adjustments. Our estimate of inventory at the wholesalers are based on the projected prescription demand-based sales for our products and historical inventory experience, as well as our analysis of third-party information, including written and oral information obtained from certain wholesalers with respect to their inventory levels and sell-through to customers and third-party market research data, and our internal information. The inventory information received from wholesalers is a product of their recordkeeping process and excludes inventory held by intermediaries to whom they sell, such as retailers and hospitals.
+We have also continued the practice of combining retail and mail prescription volume on a retail-equivalent basis. We use this methodology for internal demand forecasts. We also use information from external sources to identify prescription trends, patient demand and average selling prices. Our estimates are subject to inherent limitations of estimates that rely on third-party information, as certain third-party information was itself in the form of estimates, and reflect other limitations including lags between the date as of which third-party information is generated and the date on which we receive third-party information.
+Retirement Benefits
+Accounting for pension and postretirement benefit plans requires actuarial valuations based on significant assumptions for discount rates and expected long-term rates of return on plan assets. In consultation with our actuaries, these significant assumptions and others such as salary growth, retirement, turnover, healthcare trends and mortality rates are evaluated and selected based on expectations or actual experience during each remeasurement date. Pension expense could vary within a range of outcomes and have a material effect on reported earnings, projected benefit obligations and future cash funding. Actual results in any given year may differ from those estimated because of economic and other factors.
+51
+The yield on high quality corporate bonds that coincides with the cash flows of the plans’ estimated payouts is used in determining the discount rate. The Citigroup Pension Discount curve is used for the U.S. plans. The U.S. plans’ pension expense for
+2014
+ was determined using a 4.3% weighted-average discount rate. The present value of benefit obligations at December 31,
+2014
+ for the U.S. pension plans was determined using a 3.8% discount rate. If the discount rate used in determining the U.S. plans’ pension expense for
+2014
+ was reduced by an additional 1%, such expense would increase by approximately $9 million. If the assumed discount rate used in determining the U.S. pension plans’ projected benefit obligation at December 31,
+2014
+ was reduced by an additional 1%, the projected benefit obligation would increase by approximately $1.1 billion.
+New mortality tables (RP-2014) and mortality improvement scales (MP-2014) were issued by the Society of Actuaries in 2014 reflecting longer life expectancies than the previous tables. The new tables were used to measure the U.S. pension and post-retirement obligations beginning at September 30, 2014, resulting in an increase in the obligations of approximately $600 million. The revised mortality rates are not expected to materially impact pension expense in future periods.
+The expected long-term rate of return on plan assets is estimated considering expected returns for individual asset classes with input from external advisors. We also consider long-term historical returns including actual performance compared to benchmarks for similar investments. The U.S. plans’ pension expense for
+2014
+ was determined using an 8.1% expected long-term rate of return on plan assets. If the expected long-term rate of return on plan assets used in determining the U.S. plans’ pension expense for
+2014
+ was reduced by 1%, such expense would increase by $49 million.
+For a more detailed discussion on retirement benefits, see “Item 8. Financial Statements—Note
+19
+. Pension, Postretirement and Postemployment Liabilities.”
+Business Combinations and Divestitures
+Goodwill and other intangible assets acquired in business combinations, licensing and other transactions were
+$8.8 billion
+ (representing
+26%
+ of total assets) at December 31,
+2014
+.
+Accounting for transactions as business combinations and divestitures is significantly different than asset acquisitions and divestitures. For example, acquired IPRD is capitalized for business combinations and expensed for asset acquisitions and the fair value of contingent consideration and goodwill are only recognized in business combination transactions. Likewise, when a portion of a reporting unit that constitutes a business is divested, goodwill associated with that business is included in the carrying value of the business in determining the gain or loss. Derecognition of goodwill does not occur in asset dispositions. As a result, it is important to determine whether a business or an asset or group of assets is acquired or divested. A business is defined in ASC 805 - Business Combinations as an integrated set of inputs and processes that are capable of generating outputs that have the ability to provide a return to its investors or owners. Typical inputs include long-lived assets (including intangible assets or rights to use long-lived assets), intellectual property and the ability to obtain access to required resources. Typical processes include strategic, operational and resource management processes that are typically documented or evident through an organized workforce.
+We consider all of the above factors in determining whether a business was acquired (or divested) as well as the stage of development if no commercial products are involved. For example, in evaluating our acquisition of iPierian, we concluded that no significant processes were transferred to us, thus the transaction was accounted for as an asset acquisition. As a result, $148 million allocated to the lead investigational compound was expensed and not capitalized. In addition, contingent consideration from potential regulatory and approval milestones of $550 million and sales-based royalties were not included in the purchase price. Similarly, in evaluating our divestiture of our diabetes franchise to AstraZeneca, we concluded that all necessary inputs and processes were transferred, and consequently the transaction was accounted for as the sale of a business, which resulted in the allocation of $600 million of goodwill to the carrying value of the business in determining the gain on sale.
+For business combination transactions, assets acquired and liabilities assumed are recognized at the date of acquisition at their respective fair values. Any excess of the purchase price over the estimated fair values of the net assets acquired is recognized as goodwill. The fair value of intangible assets, including IPRD, is typically determined using the “income method.” This method starts with a forecast of net cash flows, risk adjusted for estimated probabilities of technical and regulatory success (for IPRD) and adjusted to present value using an appropriate discount rate that reflects the risk associated with the cash flow streams. All assets are valued from a market participant view which might be different than specific BMS views. The valuation process is very complex and requires significant input and judgment using internal and external sources. Although the valuations are required to be finalized within a one-year period, it must consider all and only those facts and evidence available at the acquisition date. The most complex and judgmental matters applicable to the valuation process are summarized below:
+52
+•
+Unit of accounting –
+ Most intangible assets are valued as single global assets rather than multiple assets for each jurisdiction or indication after considering the development stage, expected levels of incremental costs to obtain additional approvals, risks associated with further development, amount and timing of benefits expected to be derived in the future, expected patent lives in various jurisdictions and the intention to promote the asset as a global brand.
+•
+Estimated useful life
+ – The asset life expected to contribute meaningful cash flows is determined after considering all pertinent matters associated with the asset, including expected regulatory approval dates (if unapproved), exclusivity periods and other legal, regulatory or contractual provisions as well as the effects of any obsolescence, demand, competition, and other economic factors, including barriers to entry.
+•
+Probability of Technical and Regulatory Success (PTRS) Rate –
+ PTRS rates are determined based upon industry averages considering the respective programs development stage and disease indication and adjusted for specific information or data known at the acquisition date. Subsequent clinical results or other internal or external data obtained could alter the PTRS rate and materially impact the estimated fair value of the intangible asset in subsequent periods leading to impairment charges.
+•
+Projections –
+ Future revenues are estimated after considering many factors such as initial market opportunity, pricing, sales trajectories to peak sales levels, competitive environment and product evolution. Future costs and expenses are estimated after considering historical market trends, market participant synergies and the timing and level of additional development costs to obtain the initial or additional regulatory approvals, maintain or further enhance the product. We generally assume initial positive cash flows to commence shortly after the receipt of expected regulatory approvals which typically may not occur for a number of years. Actual cash flows attributed to the project are likely to be different than those assumed since projections are subjected to multiple factors including trial results and regulatory matters which could materially change the ultimate commercial success of the asset as well as significantly alter the costs to develop the respective asset into commercially viable products.
+•
+Tax rates
+ – The expected future income is tax effected using a market participant tax rate. Our recent valuations typically use a U.S. tax rate (and applicable state taxes) after considering the jurisdiction in which the intellectual property is held and location of research and manufacturing infrastructure. We also considered that any earnings repatriation would likely have U.S. tax consequences.
+•
+Discount rate –
+ Discount rates are selected after considering the risks inherent in the future cash flows; the assessment of the asset’s life cycle and the competitive trends impacting the asset, including consideration of any technical, legal, regulatory, or economic barriers to entry, as well as expected changes in standards of practice for indications addressed by the asset.
+See “Item 8. Financial Statements—Note
+4
+. Acquisitions” for specific details and values assigned to assets acquired and liabilities assumed in our acquisitions of iPierian in 2014 and Amylin and Inhibitex in 2012. Significant estimates utilized at the time of the valuations to support the fair values of the lead compounds within the acquisitions include:
+Dollars in Millions
+
+Fair value
+
+Discount rate utilized
+
+Estimated
+useful life (in years)
+
+Phase of
+Development as of acquisition date
+
+PTRS Rate utilized
+
+Year of first
+projected positive cash flow
+Commercialized products:
+
+Bydureon*
+
+$
+5,260
+
+11.1
+%
+
+13
+
+N/A
+
+N/A
+
+N/A
+Byetta*
+
+770
+
+10.0
+%
+
+7
+
+N/A
+
+N/A
+
+N/A
+Symlin*
+
+310
+
+10.0
+%
+
+9
+
+N/A
+
+N/A
+
+N/A
+
+IPRD:
+
+BMS-986094 (formerly INX-189)
+
+1,830
+
+12.0
+%
+
+N/A
+
+Phase II
+
+38.0
+%
+
+2017
+Myalept*
+
+120
+
+12.0
+%
+
+N/A
+
+Phase III
+
+75.0
+%
+
+2017
+Valuation processes are also required for certain multiple element arrangements and include determination of judgmental and complex matters, discussed above. For example, the divestiture of the diabetes business to AstraZeneca in 2014 required the determination of the best estimated selling price of several elements including the business, supply and development agreements (including the appropriate mark-ups) and the estimated fair value of the manufacturing facility. See "Item 8. Financial Statements—Note 3. Alliances" for further discussion.
+53
+Impairment
+Goodwill
+Goodwill was $
+7.0 billion
+ at December 31,
+2014
+. Goodwill is tested at least annually for impairment on an enterprise level by assessing qualitative factors or performing a quantitative analysis in determining whether it is more likely than not that its fair value exceeds the carrying value. Examples of qualitative factors assessed in the current year included our share price, our financial performance compared to budgets, long-term financial plans, macroeconomic, industry and market conditions as well as the substantial excess of fair value over the carrying value of net assets from the annual impairment test performed in the prior year. Positive and negative influences of each relevant factor were assessed both individually and in the aggregate and as a result it was concluded that no additional quantitative testing was required.
+For discussion on goodwill, acquired in-process research and development and other intangible assets, see “Item 8. Financial Statements—Note
+1
+. Accounting Policies—Goodwill, Acquired In-Process Research and Development and Other Intangible Assets.”
+Other Intangible Assets, including IPRD
+Other intangible assets were $
+1.8 billion
+ at December 31,
+2014
+, including licenses (
+$382 million
+), developed technology rights (
+$849 million
+), capitalized software (
+$242 million
+) and IPRD (
+$280 million
+). Intangible assets are assessed for impairment whenever current facts or circumstances warrant a review, although IPRD is assessed at least annually. Intangible assets are highly vulnerable to impairment charges, particularly newly acquired assets for recently launched products or IPRD. These assets are initially measured at fair value and therefore any reduction in expectations used in the valuations could potentially lead to impairment. Some of the more common potential risks leading to impairment include competition, earlier than expected loss of exclusivity, pricing pressures, adverse regulatory changes or clinical trial results, delay or failure to obtain regulatory approval and additional development costs, inability to achieve expected synergies, higher operating costs, changes in tax laws and other macro-economic changes. The complexity in estimating the fair value of intangible assets in connection with an impairment test is similar to the initial valuation.
+Considering the high risk nature of research and development and the industry’s success rate of bringing developmental compounds to market, IPRD impairment charges are likely to occur in future periods. We recognized charges of
+$343 million
+ in 2014, including a $310 million charge for peginterferon lambda which was in Phase III development for treatment of HCV. We also recognized charges of
+$2.1 billion
+ in 2012 including a $1.8 billion charge resulting from the discontinued development of BMS-986094 and for other projects previously acquired in the Medarex, Inc. and Inhibitex acquisitions resulting from unfavorable clinical trial results, additional development costs, extended development periods and decisions to cease further development. IPRD is closely monitored and assessed each period for impairment. For discussion on IPRD impairments, see “Item 8. Financial Statements—Note
+14
+. Goodwill and other intangible assets".
+In addition to IPRD, commercial assets are also subject to impairment. For example, an impairment charge of $120 million was recognized in 2012 related to a non-key product from a prior acquisition after continuing competitive pricing pressures. We operate in a very dynamic market and regulatory environment in which events can occur causing our expectations to change quickly and thus leading to potential impairment charges.
+Property, Plant and Equipment
+Property, plant and equipment is tested for impairment whenever current facts or circumstances warrant a review. Additionally, these long-lived assets are periodically reviewed to determine if any change in facts or circumstances would result in a change to the estimated useful life of the asset, possibly resulting in the acceleration of depreciation. If such circumstances exist, an estimate of undiscounted future cash flows generated by the asset, or the appropriate grouping of assets, is compared to the carrying value to determine whether an impairment exists at its lowest level of identifiable cash flows. If an asset is determined to be impaired, the loss is measured based on the difference between the asset’s fair value and its carrying value. Expectations of future cash flows are subject to change based upon the near and long-term production volumes and margins generated by the asset as well as any potential alternative future use. Accelerated depreciation and other related charges for certain manufacturing facilities were $151 million in 2014, $36 million in 2013 and $147 million in 2012.
+Contingencies
+In the normal course of business, we are subject to contingencies, such as legal proceedings and claims arising out of our business, that cover a wide range of matters, including, among others, government investigations, shareholder lawsuits, product and environmental liability, contractual claims and tax matters. We recognize accruals for such contingencies when it is probable that a liability will be incurred and the amount of the loss can be reasonably estimated. These estimates are subject to uncertainties that are difficult to predict and, as such, actual results could vary from these estimates.
+For discussions on contingencies, see “Item 8. Financial Statements—Note
+1
+. Accounting Policies—Contingencies,” “—Note
+8
+. Income Taxes” and “—Note
+22
+. Legal Proceedings and Contingencies.”
+54
+Income Taxes
+Valuation allowances are recognized to reduce deferred tax assets when it is more likely than not that a tax benefit will not be realized. The assessment of whether or not a valuation allowance is required often requires significant judgment including long-range forecasts of future taxable income and evaluation of tax planning initiatives. Adjustments to the deferred tax valuation allowances are made to earnings in the period when such assessments are made. Our deferred tax assets were
+$3.8 billion
+ at December 31, 2014 (net of valuation allowances of
+$4.3 billion
+) and
+$4.8 billion
+ at December 31, 2013 (net of valuation allowances of
+$4.6 billion
+).
+Deferred tax assets related to a U.S. Federal net operating loss carryforward of
+$135 million
+ and a U.S. Federal tax credit carryforward of
+$26 million
+ were recognized at December 31,
+2014
+. The net operating loss carryforward expires in varying amounts beginning in 2022. The U.S. Federal tax credit carryforward expires in varying amounts beginning in 2017. The realization of these carryforwards is dependent on generating sufficient domestic-sourced taxable income prior to their expiration. Although not assured, we believe it is more likely than not that these deferred tax assets will be realized.
+In addition, a deferred tax asset related to a U.S. Federal and state capital loss of
+$562 million
+ was recognized at December 31,
+2014
+ which can be carried back three years and carried forward five years. The realization of this carryforward is dependent upon generating sufficient capital gains prior to its expiration. A
+$436 million
+ valuation allowance was established for this item at December 31,
+2014
+.
+Taxes are not provided on undistributed earnings of foreign subsidiaries expected to be reinvested indefinitely offshore.
+Prior to the Mead Johnson Nutrition Company (Mead Johnson) split-off in 2009, the following transactions occurred: (i) an internal spin-off of Mead Johnson shares while still owned by us; (ii) conversion of Mead Johnson Class B shares to Class A shares; and; (iii) conversion of Mead Johnson & Company to a limited liability company. These transactions as well as the split-off of Mead Johnson through the exchange offer should qualify as tax-exempt transactions under the Internal Revenue Code based upon a private letter ruling received from the Internal Revenue Service related to the conversion of Mead Johnson Class B shares to Class A shares, and outside legal opinions.
+Certain assumptions, representations and covenants by Mead Johnson were relied upon regarding the future conduct of its business and other matters which could affect the tax treatment of the exchange. For example, the current tax law generally creates a presumption that the exchange would be taxable to us, if Mead Johnson or its shareholders were to engage in transactions that result in a 50% or greater change in its stock ownership during a four year period beginning two years before the exchange offer, unless it is established that the exchange offer were not part of a plan or series of related transactions to effect such a change in ownership. If the internal spin-off or exchange offer were determined not to qualify as a tax exempt transaction, the transaction could be subject to tax as if the exchange was a taxable sale by us at market value.
+In addition, a negative basis or excess loss account (ELA) existed in our investment in stock of Mead Johnson prior to these transactions. We received an opinion from outside legal counsel to the effect that it is more likely than not that we eliminated the ELA as part of these transactions and do not have taxable income with respect to the ELA. The tax law in this area is complex and it is possible that even if the internal spin-off and the exchange offer is tax exempt under the Internal Revenue Code, the IRS could assert that we have additional taxable income for the period with respect to the ELA. We could be exposed to additional taxes if this were to occur. Based upon our understanding of the Internal Revenue Code and opinion from outside legal counsel, a tax reserve of $244 million was established reducing the gain on disposal of Mead Johnson included in discontinued operations in 2009.
+We agreed to certain tax related indemnities with Mead Johnson as set forth in the tax sharing agreement, including certain taxes related to its business prior to the completion of the IPO and created as part of the restructuring to facilitate the IPO. Mead Johnson has also agreed to indemnify us for potential tax effects resulting from the breach of certain representations discussed above as well as certain transactions related to the acquisition of Mead Johnson’s stock or assets.
+Liabilities are established for possible assessments by tax authorities resulting from known tax exposures including, but not limited to, transfer pricing matters, tax credits and deductibility of certain expenses. Such liabilities represent a reasonable provision for taxes ultimately expected to be paid and may need to be adjusted over time as more information becomes known. For example, additional reserves of $123 million were established in 2014 for certain transfer pricing matters related to periods from 2008 through 2014.
+For discussions on income taxes, see “Item 8. Financial Statements—Note
+1
+. Accounting Policies—Income Taxes” and “—Note
+8
+. Income Taxes.”
+55
+Special Note Regarding Forward-Looking Statements
+This annual report on Form 10-K (including documents incorporated by reference) and other written and oral statements we make from time to time contain certain “forward-looking” statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. You can identify these forward-looking statements by the fact they use words such as “should”, “expect”, “anticipate”, “estimate”, “target”, “may”, “project”, “guidance”, “intend”, “plan”, “believe” and other words and terms of similar meaning and expression in connection with any discussion of future operating or financial performance. One can also identify forward-looking statements by the fact that they do not relate strictly to historical or current facts. Such forward-looking statements are based on current expectations and involve inherent risks and uncertainties, including factors that could delay, divert or change any of them, and could cause actual outcomes to differ materially from current expectations. These statements are likely to relate to, among other things, our goals, plans and projections regarding our financial position, results of operations, cash flows, market position, product development, product approvals, sales efforts, expenses, performance or results of current and anticipated products and the outcome of contingencies such as legal proceedings and financial results, which are based on current expectations that involve inherent risks and uncertainties, including internal or external factors that could delay, divert or change any of them in the next several years. We have included important factors in the cautionary statements included in this Annual Report on Form 10-K, particularly under “Item 1A. Risk Factors,” that we believe could cause actual results to differ materially from any forward-looking statement.
+Although we believe we have been prudent in our plans and assumptions, no assurance can be given that any goal or plan set forth in forward-looking statements can be achieved and readers are cautioned not to place undue reliance on such statements, which speak only as of the date made. We undertake no obligation to release publicly any revisions to forward-looking statements as a result of new information, future events or otherwise.
+56

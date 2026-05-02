@@ -1,0 +1,275 @@
+AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion should be read in conjunction with our consolidated financial statements and related notes included in this Form 10-K.
+
+PlasmaTech Biopharmaceuticals, Inc. (together with our subsidiaries, “we”, “our”, “PlasmaTech” or the “Company”) is a Delaware corporation. We are an emerging biopharmaceutical company focused on developing a range of pharmaceutical products primarily based upon technology recently licensed from Licensor and our nanopolymer chemistry technologies. We currently have one marketed product licensed in the U.S., Europe, China, Australia, New Zealand and Korea. We also have additional products and platform technologies in various stages of development where we are seeking partners to continue
+development and/or to license the technology.
+
+Results of Operations
+
+Comparison of Years Ended December 31, 2014 and December 31, 2013
+
+Product sales of MuGard in the United States totaled $1,529,000 for the year ended December 31, 2013. We did not have any sales of MuGard in 2014 since MuGard was licensed to AMAG on June 6, 2013. We are currently receiving quarterly royalties from AMAG for the sale of MuGard under our licensing agreement.
+
+Our licensing revenue for the year ended December 31, 2014 was $598,000 as compared to $435,000 for the same period of 2013, an increase of $163,000. We recognize licensing revenue over the period of the performance obligation under our licensing agreements.
+
+We recorded royalty revenue for MuGard of $327,000 for the year ended December 31, 2014 and $78,000 royalties in the same period of 2013, an increase of $249,000.
+
+Total research and development spending for the year ended December 31, 2014 was $333,000, as compared to $884,000 for the same period of 2013, a decrease of $551,000. The decrease in research and development expenses was primarily due to:
+
+•
+
+decreased clinical development with trials for MuGard ($319,000);
+
+•
+
+decreased salary and related costs ($280,000) from reduced scientific staff;
+
+•
+
+offset by increased scientific consulting expense ($230,000); and
+
+•
+
+other net decreases in research spending ($182,000).
+
+Product costs for MuGard in the United States were $125,000 for the year ended December 31, 2013. There were no product costs in 2014 due to no sales of MuGard by us.
+
+Total selling, general and administrative expenses were $3,712,000 for the year ended December 31, 2014, as compared to $4,834,000 for the same period of 2013, a decrease of $1,122,000. The decrease in expenses was due primarily to the following:
+
+•
+
+decreased net MuGard product selling expenses ($960,000) which includes an increase of $212,000 of MuGard product returns;
+
+•
+
+decreased salary and related costs ($456,000) from reduced general and administrative staff;
+
+•
+
+decreased professional fees ($438,000);
+
+•
+
+net decrease other general and administrative expenses ($135,000); and offset by
+
+•
+
+increased stock compensation expense for options granted to employees, officers, directors and consultants ($867,000), options were granted in 2014 and no options were granted in 2013.
+
+Depreciation and amortization was $11,000 for the year ended December 31, 2014 as compared to $3,000 for the same period in 2013.
+
+32
+
+TABLE OF CONTENTS
+
+Total operating expenses for the year ended December 31, 2014 were $4,056,000 as compared to total operating expenses of $5,846,000 for the same period of 2013, a decrease of $1,790,000 for the reasons listed above.
+
+Interest and miscellaneous income was $45,000 for the year ended December 31, 2014 as compared to $251,000 for the same period of 2013, a decrease of $206,000. Miscellaneous income was higher in 2013 due to sale of certain platinum inventory and to write-offs of certain accounts payables.
+
+Interest and other expense was $582,000 for the year ended December 31, 2014 as compared to $279,000 in the same period of 2013, an increase of $303,000. The increase represents interest accrued on unpaid dividends. No dividends have been paid in 2013 or 2014. All unpaid interest on accrued dividends were converted into common stock on December 24, 2014.
+
+We recorded a gain related to warrants classified as derivative liabilities of $271,000 for the year ended December 31, 2013. The warrants expired in November 2013 and in February 2014 so there was no derivative liability or gain/loss during the year ended December 31, 2014.
+
+We recorded a loss for the derivative liability related to preferred stock of $23,110,000 for the year ended December 31, 2014 and a gain of $8,010,000 for the same period of 2013. We recorded a derivative liability per the requirements of accounting guidance due to the possibility of resetting the conversion price of our Series A Preferred Stock if we sold our common stock at a price below the original price.
+
+Preferred stock dividends of $2,875,000 were accrued for the year ended December 31, 2014 and $2,898,000 for the same period of 2013, a decrease of $23,000. Dividends were due semi-annually in either cash or common stock for the Series A Preferred Stock and due quarterly in either cash or preferred stock for the Series B Preferred Stock. All unpaid preferred stock dividends were converted into common stock on December 24, 2014.
+
+Net loss allocable to common stockholders for the year ended December 31, 2014 was $29,653,000, or a $15.26 basic and diluted loss per common share as compared to a net income of $1,551,000, or a $3.07 basic and $3.04 diluted income per common share, for the same period in 2013, an increased loss of $31,204,000.
+
+Liquidity and Capital Resources
+
+We have funded our operations primarily through public and private sales of common stock, preferred stock, convertible notes and through licensing agreements. Our principal source of liquidity is cash and cash equivalents. On December 24, 2014, we announced the closing of an underwritten public offering of 3,500,000 shares of common stock, and warrants to purchase up to an aggregate 3,500,000 shares of common stock, at an offering price of $4.00 per share and $.01 per warrant. The warrants have a per share exercise price of $5.00, are exercisable immediately, and expire 5 years from the date of issuance. The gross proceeds to
+the Company from this offering were $14,035,000, before deducting underwriting discounts and commissions and other estimated offering expenses. Licensing payments and royalty revenues provided limited funding for operations during the year ended December 31, 2014. As of December 31, 2014, our cash and cash equivalents were $11,520,000.
+
+As of December 31, 2014, our working capital was $8,657,000. Our working capital at December 31, 2014 represented an increase of $17,043,000 as compared to our working capital deficit as of December 31, 2013 of $8,386,000. The increase in the working capital at December 31, 2014 reflects December 24, 2014 financing, the license fee from Hanmi and $400,000 from the Grid Notes (see below) offset by twelve months of net operating costs and changes in current assets and liabilities.
+
+On September 10, 2014, we entered into an Unsecured Grid Note, for up to $250,000 with SCO (“Grid Note I”). As of December 31, 2014 we had drawn a total of $250,000. The interest rate is 8% per annum and the maturity date is August 31, 2015 unless a financing of at least $5,000,000 occurs. The financing occurred December 24, 2014 and the Grid Note I was paid in full on January 5, 2015.
+
+33
+
+TABLE OF CONTENTS
+
+On December 1, 2014, we entered into a second Unsecured Grid Note (“Grid Note II”), for up to $250,000 with SCO. As of December 31, 2014 we had drawn a total of $150,000. The interest rate is 8% per annum and the maturity date is November 30, 2015 unless a financing of at least $5,000,000 occurs. The financing occurred December 24, 2014 and the Grid Note II was paid in full on January 5, 2015.
+
+On September 22, 2014, we entered into an exclusive, worldwide licensing agreement with Licensor to obtain rights to utilize and to sub-license to other pharmaceuticals firms, its patented methods for the extraction of therapeutic biologics from human plasma. Under the terms of the licensing agreement, as amended on January 31, 2015, we paid a license fee of $1 million in cash, will pay $4,000,000 in cash or 1,096,151 shares of our common stock in 2017, a regulatory approval milestone payment of 513,375 shares of our common stock upon the first FDA regulatory approval of a drug derived from the Licensor’s proprietary SDF
+process, and a tiered royalty on annual net sales of plasma fractions produced with Licensor’s proprietary SDF process.
+
+If we raise additional funds by selling equity securities, the relative equity ownership of our existing investors will be diluted and the new investors could obtain terms more favorable than previous investors.
+
+We have incurred negative cash flows from operations since inception, and have expended, and expect to continue to expend in the future, substantial funds to complete our planned product development efforts. Since inception, our expenses have significantly exceeded revenues, resulting in an accumulated deficit as of December 31, 2014 of $296,074,000. We expect that our capital resources, royalties from MuGard and expected receipts due under our license agreements will be adequate to fund our current level of operations into the second quarter of 2016. However, our ability to fund operations over this time could change
+significantly depending upon changes to future operational funding obligations or capital expenditures. As a result, we may be required to seek additional financing sources within the next twelve months. We cannot provide assurance that we will ever be able to generate sufficient product sales or royalty revenue to achieve profitability on a sustained basis or at all.
+
+Since our inception, we have devoted our resources primarily to fund our research and development programs. We have been unprofitable since inception and to date have received limited revenues from the sale of products. We expect to incur losses for the next several years as we continue to invest in product research and development, preclinical studies, clinical trials and regulatory compliance.
+
+We plan to expend substantial funds to conduct research and development programs, preclinical studies and clinical trials of potential products, including research and development with respect to our acquired and developed technology. Our future capital requirements and adequacy of available funds will depend on many factors, including:
+
+•
+
+the successful development and commercialization of MuGard and our other product candidates;
+
+•
+
+the successful development and commercialization of products derived from our recent license of Licensor technologies;
+
+•
+
+the ability to establish and maintain collaborative arrangements with corporate partners for the research, development and commercialization of products;
+
+•
+
+continued scientific progress in our research and development programs;
+
+•
+
+the magnitude, scope and results of preclinical testing and clinical trials;
+
+•
+
+the costs involved in filing, prosecuting and enforcing patent claims;
+
+•
+
+the costs involved in conducting clinical trials;
+
+•
+
+competing technological developments;
+
+•
+
+the cost of manufacturing and scale-up;
+
+•
+
+the ability to establish and maintain effective commercialization arrangements and activities; and
+
+•
+
+successful regulatory filings.
+
+34
+
+TABLE OF CONTENTS
+
+We have devoted substantially all of our efforts and resources to research and development conducted on our own behalf. The following table summarizes research and development spending by project category, which spending includes, but is not limited to, payroll and personnel expense, lab supplies, preclinical expense, development cost, clinical trial expense, outside manufacturing expense and consulting expense:
+
+(in thousands)
+
+Twelve Months ended
+ December 31,
+
+Inception To
+ Date
+(1)
+
+Project
+
+2014
+
+2013
+
+MuGard
+
+$
+
+ 301
+
+$
+
+725
+
+$
+
+5,316
+
+Others
+(2)
+
+32
+
+159
+
+40,020
+
+Total
+
+$
+
+ 333
+
+$
+
+884
+
+$
+
+45,336
+
+(1)
+
+Cumulative spending from inception of the Company or project through December 31, 2014.
+
+(2)
+
+Includes: ProctiGard, CobOral, CobaCyte and other projects.
+
+Due to uncertainties and certain of the risk factors described above, including those relating to our ability to successfully commercialize our drug candidates, our ability to obtain necessary additional capital to fund operations in the future, our ability to successfully manufacture our products and our product candidates in clinical quantities or for commercial purposes, government regulation to which we are subject, the uncertainty associated with preclinical and clinical testing, intense competition that we face, market acceptance of our products and protection of our intellectual property, it is not possible to reliably
+predict future spending or time to completion by project or product category or the period in which material net cash inflows from significant projects are expected to commence. If we are unable to timely complete a particular project, our research and development efforts could be delayed or reduced, our business could suffer depending on the significance of the project and we might need to raise additional capital to fund operations, as discussed in the risk factors above, including without limitation those relating to the uncertainty of the success of our research and development activities and our ability to obtain necessary additional capital to fund operations in the future. As discussed in such risk factors, delays in our research and development efforts and any inability to raise additional funds could cause us to eliminate one or more of our research and development programs.
+
+We plan to continue our policy of investing any available funds in certificates of deposit, money market funds, government securities and investment-grade interest-bearing securities. We do not invest in derivative financial instruments.
+
+We do not believe inflation or changing prices have had a material impact on our revenue or operating income in the past three years.
+
+Climate Change
+
+We do not believe there is anything unique to our business which would result in climate change regulations having a disproportional effect on us as compared to U.S. industry overall.
+
+Sources and Availability of Raw Materials and Components
+
+In addition, we also are subject to rules promulgated by the Securities Exchange Commission (SEC) in 2012 pursuant to the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 that require us to conduct due diligence on and disclose if we are able to determine whether certain materials (including tantalum, tin, gold and tungsten), known as conflict minerals, that originate from mines in the Democratic Republic of Congo or certain adjoining countries (DRC), are used in our products. The first DRC minerals report is due in May 2015 for the 2014 calendar year and we are conducting appropriate diligence measures to
+comply with such requirements.
+
+Critical Accounting Policies and Estimates
+
+The preparation of our consolidated financial statements in conformity with accounting principles generally accepted in the U.S. requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities at the date of the financial statements and the reported amount of revenues and expenses during the reported period. In applying our accounting principles,
+
+35
+
+TABLE OF CONTENTS
+
+we must often make individual estimates and assumptions regarding expected outcomes or uncertainties. As you might expect, the actual results or outcomes are often different than the estimated or assumed amounts. These differences are usually minor and are included in our consolidated financial statements as soon as they are known. Our estimates, judgments and assumptions are continually evaluated based on available information and experience. Because of the use of estimates inherent in the financial reporting process, actual results could differ from those estimates.
+
+Receivables
+
+Receivables are reported in the balance sheets at the outstanding amount net of an allowance for doubtful accounts. We continually evaluate the creditworthiness of our customers and their financial condition and generally do not require collateral. The allowance for doubtful accounts is based upon reviews of specific customer balances, historic losses, and general economic conditions. As of December 31, 2014 and 2013, no allowance was recorded as all accounts were considered collectible.
+
+Licensed Technology
+
+On September 22, 2014, we entered into an exclusive, worldwide licensing agreement with Licensor to obtain rights to utilize and to sub-license to other pharmaceuticals firms, its patented methods for the extraction of therapeutic biologics from human plasma. Under the terms of the licensing agreement, as amended on January 23, 2015, we paid a license fee of $1 million in cash, will pay $4,000,000 in cash or 1,096,151 shares of our common stock in 2017, a regulatory approval milestone payment of 513,375 shares of our common stock upon the first FDA regulatory approval of a drug derived from the Licensor’s proprietary SDF
+process, and a tiered royalty on annual net sales of plasma fractions produced with Licensor’s proprietary SDF process.
+
+The license is amortized over the life of the patent.
+
+Derivative liability
+
+In order to calculate the Derivative liability — preferred stock, we used the Monte Carlo simulation to estimate future stock prices. The use of valuation techniques requires us to make various key assumptions for inputs into the model, including assumptions about the expected future volatility of the price of our stock. In estimating the fair value at the end of December 31, 2013 balance sheet date, we based our selected volatility on the one-year historic volatility of our stock as we believe this is most representative of the expected volatility in the near future for us. The Series A Preferred Stock was
+converted into common stock at December 24, 2014 so there is no longer a derivative liability.
+
+License Revenues and Royalties
+
+Our revenues are generated from licensing, research and development agreements, royalties and product sales. We recognize revenue in accordance with SEC Staff Accounting Bulletin No. 104 (SAB 104), Revenue Recognition. License revenue is recognized over the remaining life of the underlying patent or period of performance obligation. Research and development revenues are recognized as services are performed. Royalties and product revenues are recognized in the period of sales.
+
+Stock Based Compensation Expense
+
+We account for stock based compensation expense in accordance with FASB ASC 718, Stock Based Compensation. We have two stock-based compensation plans under which incentive and non-incentive qualified stock options and restricted shares may be granted to employees, directors and consultants. We measure the cost of the employee/director/consultant services received in exchange for an award of equity instruments based on the grant date fair value of the award. We use the Black-Scholes option pricing model to value our options which includes expected volatility, risk-free interest rate, dividend yield and estimated expected term.
+
+Stock-based compensation expense recognized for the years ended December 31, 2014 and 2013 was approximately $1,305,000 and $439,000, respectively.
+
+Off-Balance Sheet Transactions
+
+None.
+
+36
+
+TABLE OF CONTENTS

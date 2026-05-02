@@ -1,0 +1,2095 @@
+and Analysis of Financial Condition and Results of Operations
+
+The following discussion highlights the principal factors that have affected our financial condition, results of operations, liquidity and capital resources for the periods described. This discussion should be read in conjunction with our consolidated financial statements and the related notes in Item 8 of this report. This discussion contains forward-looking statements. Please see “Cautionary Note Regarding Forward-Looking Statements” for the risks, uncertainties and assumptions associated with these forward-looking statements.
+
+OVERVIEW
+
+Our Business, Industry and Target Market
+
+Nature’s Sunshine Products, Inc., together with its subsidiaries, is a natural health and wellness company primarily engaged in the manufacturing and direct selling of nutritional and personal care products. The Company is a Utah corporation with its principal place of business in Lehi, Utah, and sells its products to a sales force of independent Managers and Distributors who use the products themselves or resell them to other
+independent
+Distributors or customers. The formulation, manufacturing, packaging, labeling, advertising, distribution and sale of each of our major product groups are subject to regulation by one or more governmental agencies.
+
+The Company has four business segments that are divided based on the different characteristics of their Distributor bases, selling and Distributor compensation plans and product formulations, as well as the internal organization of our officers and their responsibilities and business operations. Two business segments operate under the Nature’s Sunshine Products brand (NSP Americas and NSP Russia, Central and Eastern Europe), and one operates under the Synergy WorldWide brand. The Company’s fourth business segment, China and New Markets, anticipates deploying a multi-brand, multi-channel go-to-market strategy that offers select Nature’s Sunshine branded products through Fosun Pharma’s existing retail locations across China, and select Synergy branded products through a direct selling model. The time to market will be dependent upon regulatory processes including product registration and permit approvals. The China and New Markets segment also includes Company’s export sales business, in which the Company sells our products to various locally managed entities independent of the Company that have distribution rights for the relevant market. All of the net sales revenue to date in the China and New Markets segment is through the Company’s export business to foreign markets outside of China detailed below that were previously part of NSP Americas.
+
+27
+
+Table of Contents
+
+We market our products in Australia, Austria, Belarus, Canada, Colombia, Costa Rica, the Czech Republic, Denmark, the Dominican Republic, Ecuador, El Salvador, Finland, Germany, Guatemala, Honduras, Hong Kong, Iceland, Indonesia, Ireland, Italy, Japan, Kazakhstan, Latvia, Lithuania, Malaysia, Mexico, Moldova, Mongolia, the Netherlands, New Zealand, Nicaragua, Norway, Panama, the Philippines, Poland, Russia, Singapore, Slovenia, South Korea, Spain, Sweden, Taiwan, Thailand, Ukraine, the United Kingdom, the United States and Vietnam. We export our products to Argentina, Australia, Chile, Israel, New Zealand, Norway, Peru and the United Kingdom.
+
+In November 2014, the Company ceased its operations in Venezuela due to the difficulties and uncertainties related to import controls, difficulties associated with repatriating cash and high inflation. This market was part of the Company’s NSP Americas segment and all of the income (loss) from discontinued operations is related to the common shareholders of the Company.
+
+In 2014, we experienced a decrease in our consolidated net sales of 0.9 percent (or 0.5 percent in local currencies). NSP Russia, Central and Eastern Europe net sales decreased approximately 19.9 percent compared to the same period in 2013. Synergy WorldWide net sales increased approximately 18.3 percent compared to the same period in 2013. NSP Americas net sales decreased approximately 5.8 percent compared to the same period in 2013 (or 4.8 percent in local currencies). China and New Markets net sales increased approximately 17.5 percent compared to the same period in 2013. Our most significant sales revenue growth was from our Synergy Japan and South Korea markets during 2014. Gains in this market were partially offset by the decrease in our NSP Russia, Central and Eastern Europe market. Excluding the NSP Russia, Central and Eastern Europe segment, net sales would have increased by approximately 2.9 percent (3.5 percent in local currencies).
+
+The Company must caution that sales in NSP Russia, Central and Eastern Europe will undoubtedly continue to be affected by the significant impact of currency devaluation, as well as continuing political unrest in Ukraine and Russia, and sanctions against Russia. We do not expect this decline in net sales to reverse in the near term as currency devaluations have continued into 2015. We remain strongly supportive and engaged with our
+independent
+Distributors in the region, and are supporting their activity with additional promotions and training. However, at this time, the Company has cautioned that sales in its NSP Russia, Central and Eastern Europe segment will be significantly affected by the political unrest in Ukraine and Russia, possible sanctions in Russia and the impact of currency devaluation. We are continuing to evaluate various options to keep our distributor base engaged. Nevertheless, our strong and renewed partnership with our local partner should provide a solid foundation to reignite growth once the situation stabilizes.
+
+Selling, general and administrative costs as a percentage of net sales revenue for 2014 increased to 32.7 percent from 32.0 percent in the prior year
+primarily
+as a result of the Company’s due diligence performed prior to the strategic alliance with Fosun Pharma and the start-up costs incurred subsequently as part of the China joint venture. The Company also incurred costs associated with the evaluation of and negotiation with a company in an alternative distribution channel, which the Company ultimately declined to pursue.
+
+We distribute our products to consumers through an independent sales force comprised of Managers and Distributors, some of whom also consume our products. Typically a person who joins our independent sales force begins as a Distributor. A Distributor may earn Manager status by committing more time and effort to selling our products, recruiting productive
+independent
+Distributors and attaining certain product sales levels. On a worldwide basis, active independent Managers were approximately 13,400 and 16,400 and active independent Distributors and customers were approximately 292,600 and 332,400 at December 31, 2014 and 2013, respectively.
+
+As an international business, we have significant revenues and costs denominated in currencies other than the U. S. Dollar. Sales in international markets in foreign currencies are expected to continue to represent a substantial portion of our revenues. Likewise, we expect our foreign markets with functional currencies other than the U.S. Dollar will continue to represent a substantial portion of our overall sales and related operating expenses. Accordingly, changes in foreign currency exchange rates could materially affect revenues and costs or the comparability of revenues and costs from period to period as a result of translating our financial statements into our reporting currency.
+
+Critical Accounting Policies and Estimates
+
+Our consolidated financial statements have been prepared in accordance with U.S. GAAP and form the basis for the following discussion and analysis on critical accounting policies and estimates. The preparation of these financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. On a regular basis, we evaluate our estimates and assumptions. We base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual
+
+28
+
+Table of Contents
+
+results could differ from these estimates and those differences could have a material effect on our financial position and results of operations. Management has discussed the development, selection and disclosure of these estimates with the Board of Directors and its Audit Committee.
+
+A summary of our significant accounting policies is provided in Note 1 of the Notes to Consolidated Financial Statements in Item 8 of this report. We believe the critical accounting policies and estimates described below reflect our more significant estimates and assumptions used in the preparation of our consolidated financial statements. The impact and any associated risks on our business that are related to these policies are also discussed throughout this “Management’s Discussion and Analysis of Financial Condition and Results of Operations” where such policies affect reported and expected financial results.
+
+Revenue Recognition
+
+Net sales revenue and related volume incentive expenses are recorded when persuasive evidence of an arrangement exists, collectability is reasonably assured, the amount is fixed and determinable, and title and risk of loss have passed. The amount of the volume incentive is determined based upon the amount of qualifying purchases in a given month. It is necessary for the Company to make estimates about the timing of when merchandise has been delivered. These estimates are based upon the Company’s historical experience related to time in transit, timing of when shipments occurred and shipping volumes. Amounts received for undelivered merchandise are recorded as deferred revenue.
+
+From time to time, the Company’s U.S. operations extend short-term credit associated with product promotions. In addition, for certain of the Company’s international operations, the Company offers credit terms consistent with industry standards within the country of operation. Payments to independent Managers and Distributors for sales incentives or rebates are recorded as a reduction of revenue. Payments for sales incentives and rebates are calculated monthly based upon qualifying sales. Membership fees are deferred and amortized as revenue over the life of the membership, primarily one year. Prepaid event registration fees are deferred and recognized as revenues when the related event is held.
+
+A reserve for product returns is recorded based upon historical experience. The Company allows independent Managers or Distributors to return the unused portion of products within ninety days of purchase if they are not satisfied with the product. In some of the Company’s markets, the requirements to return product are more restrictive. Sales returns for the years 2014, 2013 and 2012, were $1.5 million, $1.5 million and $2.2 million, respectively. The increase in sales returns for year ended December 31, 2012 was due to unusually high product returns during the first quarter of 2012, related to a specific promotion in the Synergy Japan market. Product returns were not related to product quality and have since returned to normally lower return rates.
+
+Accounts Receivable Allowances
+
+Accounts receivable have been reduced by an allowance for amounts that may be uncollectible in the future. This estimated allowance is based primarily on the aging category, historical trends and management’s evaluation of the financial condition of the customer. This reserve is adjusted periodically as information about specific accounts becomes available.
+
+Investments
+
+The Company’s available-for-sale investment portfolio is recorded at fair value and consists of various securities such as state and municipal obligations, U.S. government security funds, short-term deposits and various equity securities. These investments are valued using (a) quoted prices for identical assets in active markets or (b) from significant inputs that are observable or can be derived from or corroborated by observable market data for substantially the full term of the asset. The Company’s trading portfolio is recorded at fair value and consists of various marketable securities that are valued using quoted prices in active markets.
+
+For available-for-sale debt securities with unrealized losses, the Company performs an analysis to assess whether it intends to sell or whether it would be more likely than not required to sell the security before the expected recovery of the amortized cost basis. Where the Company intends to sell a security, or may be required to do so, the security’s decline in fair value is deemed to be other-than-temporary, and the full amount of the unrealized loss is recorded within earnings as an impairment loss.
+
+For all other debt securities that experience a decline in fair value that is determined to be other-than-temporary and not related to credit loss, the Company records a loss, net of any tax, in accumulated other comprehensive income (loss). The credit loss is recorded within earnings as an impairment loss when sold. Management judgment is involved in evaluating whether a decline in an investment’s fair value is other-than-temporary.
+
+Regardless of the Company’s intent to sell a security, the Company performs additional analysis on all securities with unrealized losses to evaluate losses associated with the creditworthiness of the security. Credit losses are identified where the Company does not expect to receive cash flows sufficient to recover the amortized cost basis of a security.
+
+29
+
+Table of Contents
+
+For equity securities, when assessing whether a decline in fair value below the Company’s cost basis is other-than-temporary, the Company considers the fair market value of the security, the length of time and extent to which market value has been less than cost, the financial condition and near-term prospects of the issuer as well as specific events or circumstances that may influence the operations of the issuer, and the Company’s intent and ability to hold the investment for a sufficient time in order to enable recovery of the cost. New information and the passage of time can change these judgments. Where the Company has determined that it lacks the intent and ability to hold an equity security to its expected recovery, the security’s decline in fair value is deemed to be other-than-temporary and is recorded within earnings as an impairment loss.
+
+Inventories
+
+Inventories are stated at the lower-of-cost-or-market, using the first-in, first-out method. The components of inventory cost include raw materials, labor and overhead. To estimate any necessary obsolescence or lower-of-cost-or-market adjustments, various assumptions are made in regard to excess or slow-moving inventories, non-conforming inventories, expiration dates, current and future product demand, production planning and market conditions.
+
+Self-Insurance Liabilities
+
+Similar to other manufacturers and distributors of products that are ingested, the Company faces an inherent risk of exposure to product liability claims in the event that, among other things, the use of its products results in injury. The Company carries insurance in the types and amounts it considers reasonably adequate to cover the risks associated with its business. The Company has a wholly-owned captive insurance company to provide it with product liability insurance coverage. The Company has accrued an amount that it believes is sufficient to cover probable and reasonably estimable liabilities related to product liability claims based on the Company’s history of such claims. However, there can be no assurance that these estimates will prove to be sufficient, nor can there be any assurance that the ultimate outcome of any litigation for product liability will not have a material negative impact on the Company’s business prospects, financial position, results of operations or cash flows.
+
+The Company self-insures for certain employee medical benefits. The recorded liabilities for self-insured risks are calculated using actuarial methods and are not discounted. The liabilities include amounts for actual claims and claims incurred but not reported. Actual experience, including claim frequency and severity as well as health care inflation, could result in actual liabilities being more or less than the amounts currently recorded.
+
+Impairment of Long-Lived Assets
+
+We review our long-lived assets, such as property, plant and equipment and intangible assets for impairment when events or changes in circumstances indicate that the carrying value of an asset may not be recoverable. We use an estimate of future undiscounted net cash flows of the related assets or groups of assets over their remaining lives in measuring whether the assets are recoverable. An impairment loss is calculated by determining the difference between the carrying values and the fair values of these assets. Due to the continual currency devaluation of the Venezuelan bolivar, as of September 30, 2014, the Company incurred a $2,947 impairment charge to write down the value of its fixed assets in Venezuela to $0, which is included in the results from discontinued operations.
+
+Incentive Trip Accrual
+
+We accrue for expenses associated with our direct sales program, which rewards independent Managers and Distributors with paid attendance for incentive trips, including Company conventions and meetings. Expenses associated with incentive trips are accrued over qualification periods as they are earned. We specifically analyze incentive trip accruals based on historical and current sales trends as well as contractual obligations when evaluating the adequacy of the incentive trip accrual. Actual results could generate liabilities more or less than the amounts recorded. We have accrued incentive trip costs of approximately $4.2 million and $5.8 million at December 31, 2014 and 2013, respectively, which are included in accrued liabilities in the consolidated balance sheets.
+
+Contingencies
+
+We are involved in certain legal proceedings. When a loss is considered probable in connection with litigation or non-income tax contingencies and when such loss can be reasonably estimated with a range, we record our best estimate within the range related to the contingency. If there is no best estimate, we record the minimum of the range. As additional information becomes available, we assess the potential liability related to the contingency and revise the estimates. Revision in estimates of the potential liabilities could materially affect our results of operations in the period of adjustment. Our contingencies are discussed in further detail in Note 13, “Commitment and Contingencies”, of the Notes to Consolidated Financial Statements, in Item 8, Part 2 of this report.
+
+30
+
+Table of Contents
+
+Income Taxes
+
+Our income tax expense, deferred tax assets and liabilities and contingent reserves reflect management’s best assessment of estimated future taxes to be paid. We are subject to income taxes in both the United States and numerous foreign jurisdictions. Significant judgments and estimates are required in determining the Company’s consolidated income tax expense.
+
+Deferred income taxes arise from temporary differences between the tax and financial statement recognition of revenue and expense. In evaluating the Company’s ability to recover its deferred tax assets, management considers all available positive and negative evidence, including scheduled reversals of deferred tax liabilities, projected future taxable income, tax planning strategies and recent financial operations. In projecting future taxable income, the Company develops assumptions including the amount of future state, federal and foreign pretax operating income, the reversal of temporary differences, and the implementation of feasible and prudent tax planning strategies. These assumptions require significant judgment about the forecasts of future taxable income, and are consistent with the plans and estimates that the Company is using to manage the underlying businesses. Valuation allowances are recorded as reserves against net deferred tax assets by the Company when it is determined that net deferred tax assets are not likely to be realized in the foreseeable future. As of December 31, 2014 and 2013, we had recorded valuation allowances of $13.2 million and $11.3 million, respectively, as offsets to our net deferred tax assets.
+
+As of December 31, 2014, we had foreign income tax net operating loss carryforwards of $5.8 million, which will expire at various dates from 2015 through 2024. As of December 31, 2014, the Company had approximately $12.6 million of foreign tax and withholding credits, most of which expire in 2024.
+
+Changes in tax laws and rates could also affect recorded deferred tax assets and liabilities in the future. Management is not aware of any such changes that would have a material effect on the Company’s results of operations, cash flows or financial position.
+
+The calculation of the Company’s tax liabilities involves dealing with uncertainties in the application of complex tax laws and regulations in a multitude of jurisdictions across its global operations. Income tax positions must meet a more-likely-than-not recognition threshold to be recognized.
+
+Share-Based Compensation
+
+We recognize all share-based payments to Directors and employees, including grants of stock options and restricted stock units, to be recognized in the statement of operations based on their grant-date fair values. We record compensation expense, net of an estimated forfeiture rate, over the vesting period of the stock options based on the fair value of the stock options on the date of grant. Our estimated forfeiture rate is based upon historical experience.
+
+PRESENTATION
+
+Net sales revenue
+
+represents net sales including shipping and handling revenues offset by volume rebates given to independent Managers, Distributors and customers. Volume rebates as a percentage of retail sales may vary by country depending upon regulatory restrictions that limit or otherwise restrict rebates. We also offer reduced volume rebates with respect to certain products and promotions worldwide.
+
+Our gross profit consists of net sales less cost of sales, which represents our manufacturing costs, the price we pay to our raw material suppliers and manufacturers of our products, and duties and tariffs, as well as shipping and handling costs related to product shipments and distribution to our independent Managers, Distributors and customers.
+
+Volume incentives are a significant part of our direct sales marketing program, and represent commission payments made to our independent Managers and Distributors. These payments are designed to provide incentives for reaching higher sales levels and for recruiting additional
+independent
+Distributors. Volume incentives vary slightly, on a percentage basis, by product due to our pricing policies and commission plans in place in our various operations.
+
+Selling, general and administrative expenses
+
+represent our operating expenses, components of which include labor and benefits, sales events, professional fees, travel and entertainment, Distributor marketing, occupancy costs, communication costs, bank fees, depreciation and amortization, and other miscellaneous operating expenses.
+
+Most of our sales to
+independent
+Distributors outside the United States are made in the respective local currencies. In preparing our financial statements, we translate revenues into U.S. dollars using average exchange rates. Additionally, the majority of our purchases from our suppliers generally are made in U.S. dollars. Consequently, a strengthening of the U.S. dollar versus a foreign currency can have a negative impact on our reported sales and contribution margins and can generate transaction losses on intercompany transactions.
+
+31
+
+Table of Contents
+
+RESULTS OF OPERATIONS
+
+The following table summarizes our consolidated net income from continuing operations results as a percentage of net sales revenue for the periods indicated:
+
+Year Ended December 31,
+
+2014
+
+2013
+
+2012
+
+Net sales revenue
+
+100.0
+
+%
+
+100.0
+
+%
+
+100.0
+
+%
+
+Cost of sales
+
+(25.0
+
+)
+
+(25.0
+
+)
+
+(25.3
+
+)
+
+Gross profit
+
+75.0
+
+75.0
+
+74.7
+
+Operating expenses:
+
+Volume incentives
+
+37.1
+
+36.6
+
+36.3
+
+Selling, general and administrative
+
+32.7
+
+32.0
+
+29.0
+
+Operating income
+
+5.2
+
+6.4
+
+9.4
+
+Other income (expense):
+
+Interest and other income, net
+
+—
+
+0.2
+
+0.4
+
+Interest expense
+
+(0.1
+
+)
+
+(0.1
+
+)
+
+(0.1
+
+)
+
+Foreign exchange gains, net
+
+0.1
+
+0.4
+
+0.1
+
+—
+
+0.5
+
+0.4
+
+Income before provision for income taxes
+
+5.2
+
+6.9
+
+9.8
+
+Provision (benefit) for income taxes
+
+(0.2
+
+)
+
+2.1
+
+2.9
+
+Net income from continuing operations
+
+5.4
+
+%
+
+4.8
+
+%
+
+6.9
+
+%
+
+Net Sales Revenue
+
+Our international operations have provided and are expected to continue to provide, a significant portion of our total net sales. As a result, total net sales will continue to be affected by fluctuations in the U.S. dollar against foreign currencies. In order to provide a framework for assessing how our underlying businesses performed excluding the effect of foreign currency fluctuations, in addition to comparing the percent change in net sales from one period to another in U.S. dollars, we compare the percentage change in net sales from one period to another period by excluding the effects of foreign currency exchange as shown below. Net sales excluding the impact of foreign exchange fluctuations is not a U.S. GAAP financial measure. Net sales in local currency removes from net sales in U.S. dollars the impact of changes in exchange rates between the U.S. dollar and the functional currencies of our foreign subsidiaries, by translating the current period net sales into U.S. dollars using the same foreign currency exchange rates that were used to translate the net sales for the previous comparable period. We believe presenting the impact of foreign currency fluctuations is useful to investors because it allows a more meaningful comparison of net sales of our foreign operations from period to period. However, net sales excluding the impact of foreign currency fluctuations should not be considered in isolation or as an alternative to net sales in U.S. dollar measures that reflect current period exchange rates, or to other financial measures calculated and presented in accordance with U.S. GAAP. Throughout the last five years, foreign currency exchange rates have fluctuated significantly.
+
+32
+
+Table of Contents
+
+Year Ended December 31, 2014, as Compared to the Year Ended December 31, 2013
+
+Net Sales Revenue
+
+The following table summarizes the changes in our net sales revenue by operating segment for the fiscal years ended December 31, 2014 and 2013.
+
+Net Sales Revenue by Operating Segment
+
+2014
+
+2013
+
+Percent
+ Change
+
+Impact of
+ Currency
+ Exchange
+
+Percent
+ Change
+ Excluding
+ Impact of
+ Currency
+
+NSP Americas:
+
+NSP North America
+
+$
+
+145,650
+
+$
+
+148,397
+
+(1.9
+
+)%
+
+$
+
+(910
+
+)
+
+(1.2
+
+)%
+
+NSP Latin America
+
+37,934
+
+40,255
+
+(5.8
+
+)
+
+(1,067
+
+)
+
+(3.1
+
+)
+
+NSP Other
+
+1,041
+
+7,272
+
+(85.7
+
+)
+
+69
+
+(86.6
+
+)
+
+184,625
+
+195,924
+
+(5.8
+
+)
+
+(1,908
+
+)
+
+(4.8
+
+)
+
+NSP Russia, Central and Eastern Europe
+
+$
+
+50,274
+
+$
+
+62,747
+
+(19.9
+
+)%
+
+$
+
+4
+
+(19.9
+
+)%
+
+Synergy WorldWide:
+
+Synergy North America
+
+$
+
+15,170
+
+$
+
+17,079
+
+(11.2
+
+)%
+
+$
+
+—
+
+(11.2
+
+)%
+
+Synergy Asia Pacific
+
+81,199
+
+59,605
+
+36.2
+
+130
+
+36.0
+
+Synergy Europe
+
+31,732
+
+31,606
+
+0.4
+
+28
+
+0.3
+
+128,101
+
+108,290
+
+18.3
+
+158
+
+18.1
+
+China and New Markets
+
+$
+
+3,367
+
+$
+
+2,865
+
+17.5
+
+%
+
+$
+
+—
+
+17.5
+
+%
+
+$
+
+366,367
+
+$
+
+369,826
+
+(0.9
+
+)%
+
+$
+
+(1,746
+
+)
+
+(0.5
+
+)%
+
+Consolidated net sales revenue for the year ended December 31, 2014, was $366.4 million compared to $369.8 million in 2013, a decrease of approximately 0.9 percent. We experienced a $1.7 million unfavorable impact in foreign currency exchange rate fluctuation in 2014, and our consolidated net sales revenue would have decreased by 0.5 percent from 2013, but for such negative impact. The decrease in net sales revenue for the year ended December 31, 2014 compared to the same period in 2013 is primarily due to a decline of net sales in our NSP Americas and NSP Russia, Central and Eastern Europe segment, partially offset by an increase of net sales in our Synergy WorldWide and China and New Markets segments.
+
+NSP Americas
+
+Net sales revenue related to NSP Americas for the year ended December 31, 2014, was $184.6 million compared to $195.9 million for the same period in 2013, a decrease of 5.8 percent. Fluctuation in foreign exchange rates had a $1.9 million unfavorable impact on net sales for the year ended December 31, 2014, and net sales revenue would have decreased by 4.8 percent excluding this negative impact. Active independent Managers within NSP Americas totaled approximately 6,600 and 7,400 at December 31, 2014 and 2013, respectively.
+Active independent Distributors and customers within NSP Americas totaled approximately 135,900 and 148,800 at December 31, 2014 and 2013, respectively. Segment net sales revenue and the number of independent Managers, Distributors and customers decreased primarily due to combining our NSP Japan business with our Synergy Japan business, the transition of the NSP United Kingdom business to an export market, and lower net sales in the United States. Excluding Japan and the United Kingdom, independent Managers were down 1.3 percent, and active independent Distributors and customers were down 4.7 percent, compared to the prior year. The
+active independent Managers category includes independent Managers under our various compensation plans that have achieved and maintained certain product sales levels. As such, all independent Managers are considered to be active independent Managers. The active independent Distributors and customers category includes our independent Distributors and customers who have purchased products directly from the Company for resale and/or personal consumption during the previous three months.
+
+Notable activity in the following markets contributed to the results of NSP Americas:
+
+In the United States, net sales revenues decreased approximately $2.1 million, or 1.5 percent, for the year ended December 31, 2014, compared to the same period in 2013. Despite the overall decline in net sales in 2014 that occurred in the first half of the year,
+
+33
+
+Table of Contents
+
+we saw a growth in the third and fourth quarters in sales of 0.7 percent and 2.6 percent, respectively, as we continued to see our new sales programs gain traction. We have seen increased adoption of both the IN.FORM sales method, which is focused on weight management, and our retail sales tools. Our August Leaders Conference held in Salt Lake City focused on this program as well as on sharing our business opportunity more effectively. In addition, in time for the winter season, we re-launched our Silver immune product line, improving the formula to provide even greater efficacy, as well as rebranding our packaging, which has generated a positive uptake.
+
+In Canada, net sales revenues decreased approximately $0.7 million, or 5.0 percent, for the year ended December 31, 2014, compared to the same period in 2013. In local currency, net sales increased 1.8 percent compared to the same period in 2013. Currency devaluation had a $0.9 million unfavorable impact on net sales for the year ended December 31, 2014, respectively. In NSP Canada, we are following the same strategy as in our NSP United States market, and we saw a growth in the third and fourth quarters in local currency sales of 5.1 percent and 9.6 percent, (the first quarters of growth since the first quarter of 2012), as we saw the uptake from the launch of weight management product line, ahead of our IN.FORM program launch in October.
+
+In Latin America, net sales revenues decreased approximately $2.3 million, or 5.8 percent, for the year ended December 31, 2014, compared to the same period in 2013. In local currency, net sales decreased 3.1 percent compared to the same period in 2013. Currency devaluation had a $1.1 million unfavorable impact on net sales for the year ended December 31, 2014, respectively. In NSP Latin America, we faced continued headwinds due to changing regulations for product registration. To address this, we are taking steps to transition our sales motion to adopt the IN.FORM business method, and at the same time, ensuring that our resources are aligned with this initiative.
+
+Due to the continued challenges in returning the NSP Japan business to growth, we made the decision to cease operating under the NSP brand and to merge our NSP Japan business with our Synergy Japan business to create one unified approach to the market with a common product offering and business opportunity model. As part of this transition, we allowed NSP Japan
+independent
+Distributors to transfer their businesses to our Synergy Japan brand. The combined businesses began operating as Synergy Japan in January 2014, and provide a greater opportunity for a return to profitable growth. We therefore had no net sales revenue from NSP Japan for the year ended December 31, 2014, compared to approximately $3.3 million of net sales revenue in 2013.
+
+Due to the size of the NSP United Kingdom market, lack of net sales growth, and continuing operating losses, we made the decision to transition our NSP United Kingdom market to an export market, in which we sell our products to a locally managed entity independent of the Company that has distribution rights for the market, effective April 1, 2014. As a result of this change to a wholesale model, our net sales revenue declined by $2.9 million for the year ended December 31, 2014, respectively, as compared to 2013.
+
+NSP Russia, Central and Eastern Europe
+
+Net sales revenue related to NSP Russia, Central and Eastern Europe markets (primarily Russia, the Ukraine, and Belarus) for the year ended December 31, 2014, was $50.3 million, compared to $62.7 million for the same period in 2013, a decrease of 19.9 percent. Active independent Managers within NSP Russia, Central and Eastern Europe totaled approximately 3,700 and 6,000 at December 31, 2014 and 2013, respectively.
+Active independent Distributors and customers within NSP Russia, Central and Eastern Europe totaled approximately 97,900 and 131,800 at December 31, 2014 and 2013, respectively.
+Net sales and the number of independent Managers, Distributors and customers buying and distributing our products decreased primarily as a result of the current political uncertainty in Ukraine and across the region, and the market decline in the value of the Ukrainian hryvnia and Russian ruble against the U.S. dollar. Although changes in exchange rates between the U.S. dollar and Ukrainian hryvnia do not result in currency fluctuations within our financial statements, the Company’s products in Ukraine and Russia are priced local currencies pegged to current U.S. dollar exchange rates and therefore become more expensive when the local currency declines in value. We remain strongly supportive and engaged with our
+independent
+Distributors in the region, and are supporting their activity with additional promotions and training. However, at this time, the Company has cautioned that sales in its NSP Russia, Central and Eastern Europe segment will be significantly affected by the political unrest in Ukraine and Russia, possible sanctions in Russia and the impact of currency devaluation. We are continuing to evaluate various options to keep our distributor base engaged. Nevertheless, our strong and renewed partnership with our local partner should provide a solid foundation to reignite growth once the situation stabilizes.
+
+Synergy WorldWide
+
+Synergy WorldWide reported net sales revenue for the year ended December 31, 2014, of $128.1 million, compared to $108.3 million for the same period in 2013, an increase of 18.3 percent. Fluctuations in foreign exchange rates had a $0.2 million favorable impact on net sales for the year ended December 31, 2014, and net sales revenue would have increased by 18.1 percent from 2013 excluding the positive impact. Active independent Managers within Synergy WorldWide totaled approximately 3,100 and 3,000 at December 31, 2014 and 2013, respectively. Active
+independent
+Distributors and customers within Synergy WorldWide totaled
+
+34
+
+Table of Contents
+
+approximately 58,800 and 51,800 at December 31, 2014 and 2013, respectively. Synergy WorldWide’s business model is operating under a traditional direct selling approach. Synergy WorldWide reported a growth of net sales revenue due to improvements in South Korea and Japan, partially offset by lower net sales in North America.
+
+Notable activity in the following markets contributed to the results of Synergy WorldWide:
+
+In South Korea, net sales revenues increased approximately $20.1 million, or 58.8 percent, for the year ended December 31, 2014, compared to the same period in 2013. In local currency, net sales increased 52.6 percent for the year ended December 31, 2014, compared to the same period in 2013. Fluctuations in foreign exchange rates had a $2.1 million favorable impact on net sales for the year ended December 31, 2014. Momentum has been sustained since September 2013 due to the Synergy WorldWide global summit held in South Korea and the launch of the SLMsmart weight-management program, which further contributed to sustained growth in combination with the continued strong Distributor leadership in this market. However, due to certain internet advertising restrictions, we must caution that we do not expect to maintain this level of growth subsequent to December 31, 2014.
+
+In Japan, net sales revenues increased approximately $3.0 million, or 34.8 percent, for the year ended December 31, 2014, compared to the same period in 2013. In local currency, net sales increased 46.1 percent for the year ended December 31, 2014, compared to the same period in 2013. Fluctuations in foreign exchange rates had a $1.0 million unfavorable impact on net sales for the year ended December 31, 2014. In the second half of 2013, we introduced new products and implemented programs to stimulate activity, which had a positive impact in this market that continued through 2014. In addition, as referenced above, in order to provide a more stable platform for growth, we made the decision to cease to operate under the NSP brand in Japan and to combine the NSP Japan and Synergy Japan businesses, and operate as a single entity from January 2014 forward. As part of this transition, we provided certain NSP products, a business opportunity and encouraged NSP Japan
+independent
+Distributors to transfer their businesses to our Synergy Japan brand. Net sales revenue of $1.5 million attributable NSP Japan’s historical sales force was included within these results for the year ended December 31, 2014.
+
+In Europe, net sales revenues increased approximately $0.1 million, or 0.4 percent, for the year ended December 31, 2014, compared to the same period in 2013. We are seeing growth across several other markets, which led to our second consecutive quarterly net sales growth in local currencies in the third and fourth quarter of 2.3 percent and 23.3 percent, respectively. The growth has been driven by the investment in additional sales resources in the second half of 2013. In addition, momentum was created in the third quarter of 2014 as
+independent
+Distributors qualified for promotions ahead of our European Summit held in Barcelona at the end of September.
+
+In North America, net sales revenues decreased approximately $1.9 million, or 11.2 percent, for the year ended December 31, 2014, compared to the same period in 2013. The decline in sales is primarily driven by lower Distributor recruiting. Growth initiatives have been developed and implemented to more effectively support recruiting and Distributor training and motivation.
+
+China and New Markets
+
+China and New Markets reported export related net sales revenue for the year ended December 31, 2014, of $3.4 million, compared to $2.9 million for the same period in 2013, an increase of 17.5 percent. There are no Managers, Distributors, and customers in the China and New Markets segment as the export business accounts for all of the segment’s sales to date. As noted above, we made the decision to transition our NSP United Kingdom market to an export market in 2014, in which we sell our products to a locally managed entity independent of the Company that has distribution rights for the market, and this has accounted for the increase in net sales for the year ended December 31, 2014.
+
+Further information related to our business segments is set forth in Note 14 of the Notes to Consolidated Financial Statements in Item 8 of this report.
+
+Cost of Sales
+
+Cost of sales as a percent of net sales revenue remained flat at 25.0 percent in 2014, compared to 25.0 percent in 2013.
+
+Volume Incentives
+
+Volume incentives as a percent of net sales revenue increased to 37.1 percent in 2014, compared to 36.6 percent in 2013. The increase was primarily due to net sales increases in markets such as South Korea and Japan that pay a higher sales commission in our Synergy WorldWide segment.
+
+35
+
+Table of Contents
+
+Selling, General and Administrative Expenses
+
+Selling, general and administrative expenses increased by approximately $1.5 million to $119.9 million for the year ended December 31, 2014. Selling, general and administrative expenses were 32.7 percent of net sales revenue for the year ended December 31, 2014, compared to 32.0 percent for the same period in 2013.
+
+Significant increases to selling, general and administrative expenses during 2014 compared to the same period in 2013 included:
+
+·
+
+$2.1 million in start-up costs for the China joint venture;
+
+·
+
+$1.1 million associated with the evaluation of and negotiation with a company with an alternative distribution channel that the Company ultimately declined to pursue; and
+
+In addition, the increases in selling, general and administrative were partially offset by the following nonrecurring expenses incurred in 2013 but not in 2014:
+
+·
+
+$1.4 million of nonrecurring severance costs and the acceleration of stock option expense incurred in 2013 related to the resignation of our former Chief Executive Officer; and
+
+·
+
+$1.3 million of nonrecurring costs related to a five-year customs audit assessment in our Synergy South Korea market incurred in 2013.
+
+Other Income, Net
+
+There was minimal other income, net for the year ended December 31, 2014, compared to $2.0 million in 2013. The decrease in other income was primarily due to a decrease in foreign exchange gains in 2014.
+
+Income Taxes
+
+Our effective income tax rate was (3.9) percent for 2014, compared to 31.0 percent for 2013. The effective rate for 2014 differed from the federal statutory rate of 35.0 percent primarily due to the following:
+
+(i)
+
+Adjustments relating to the U.S. tax impact of foreign operations decreased the effective tax rate by 73.0 percentage points in 2014. Included were adjustments for dividends received from foreign subsidiaries and adjustments for foreign tax credits.
+
+(ii)
+
+Adjustments to valuation allowances increased the effective rate by 48.8 percent in 2014. Included were the effect of valuation allowances on U.S. foreign tax credits and the impact of current year losses that will not provide tax benefit.
+
+(iii)
+
+Changes in the unrecognized tax benefits decreased the effective tax rate by 8.6 percent in 2014. These net gains and losses were recorded for financial reporting purposes, but were excluded from the calculation of taxable income.
+
+Adjustments relating to the U.S. impact of foreign operations decreased the effective tax rate by 73.0 percentage points in 2014, and decreased the effective tax rate by 16.2 percentage points in 2013. The components of this calculation were:
+
+Components of U.S. tax impact of foreign operations
+
+2014
+
+2013
+
+Dividends received from foreign subsidiaries
+
+59.5
+
+%
+
+29.4
+
+%
+
+Foreign tax credits
+
+(121.3
+
+)
+
+(34.3
+
+)
+
+Foreign tax rate differentials
+
+(11.0
+
+)
+
+(10.8
+
+)
+
+Unremitted earnings
+
+(0.2
+
+)
+
+(0.5
+
+)
+
+Total
+
+(73.0
+
+)
+%
+
+(16.2
+
+)%
+
+From 2013 to 2014, the changes in components of the U.S. tax impact of foreign operations were significant. The primary reason the dividends received from foreign subsidiaries and the foreign tax credits changed by such a large amount was due to an increase in repatriation of foreign earnings to the U.S. from 2013 to 2014.
+
+Changes to the effective rate due to dividends received from foreign subsidiaries, impact of foreign tax credits, foreign tax rate differentials and unremitted earnings calculation are expected to be recurring; however, depending on various factors, the changes may be favorable or unfavorable for a particular period. Given the large number of jurisdictions in which the Company does business and the number of factors that can impact effective tax rates in any given year, this rate is likely to reflect significant fluctuations from year-to-year.
+
+36
+
+Table of Contents
+
+Year Ended December 31, 2013, as Compared to the Year Ended December 31, 2012
+
+Net Sales Revenue
+
+The following table summarizes the changes in our net sales revenue by operating segment for the fiscal years ended December 31, 2013 and 2012.
+
+Net Sales Revenue by Operating Segment
+
+2013
+
+2012
+
+Percent
+ Change
+
+Impact of
+ Currency
+ Exchange
+
+Percent
+ Change
+ Excluding
+ Impact of
+ Currency
+
+NSP Americas:
+
+NSP North America
+
+$
+
+148,397
+
+$
+
+150,599
+
+(1.5
+
+)%
+
+$
+
+(397
+
+)
+
+(1.2
+
+)%
+
+NSP Latin America
+
+40,255
+
+39,114
+
+2.9
+
+(94
+
+)
+
+3.2
+
+NSP Other
+
+7,272
+
+10,081
+
+(27.9
+
+)
+
+(789
+
+)
+
+(20.0
+
+)
+
+195,924
+
+199,794
+
+(1.9
+
+)
+
+(1,280
+
+)
+
+(1.3
+
+)
+
+NSP Russia, Central and Eastern Europe
+
+$
+
+62,747
+
+$
+
+57,853
+
+8.5
+
+%
+
+$
+
+18
+
+8.4
+
+%
+
+Synergy WorldWide:
+
+Synergy North America
+
+$
+
+17,079
+
+$
+
+18,544
+
+(7.9
+
+)%
+
+$
+
+—
+
+(7.9
+
+)%
+
+Synergy Asia Pacific
+
+59,605
+
+55,548
+
+7.3
+
+(1,453
+
+)
+
+9.9
+
+Synergy Europe
+
+31,606
+
+26,578
+
+18.9
+
+1,002
+
+15.2
+
+108,290
+
+100,670
+
+7.6
+
+(451
+
+)
+
+8.0
+
+China and New Markets
+
+$
+
+2,865
+
+$
+
+2,509
+
+14.2
+
+%
+
+$
+
+—
+
+14.2
+
+%
+
+$
+
+369,826
+
+$
+
+360,826
+
+2.5
+
+%
+
+$
+
+(1,713
+
+)
+
+3.0
+
+%
+
+Consolidated net sales revenue for the year ended December 31, 2013, was $369.8 million compared to $360.8 million in 2012, an increase of approximately 2.5 percent. We experienced a $1.7 million unfavorable impact in foreign currency exchange rate fluctuation in 2013, and our consolidated net sales revenue would have increased by 3.0 percent from 2012, but for such negative impact. The increase in net sales revenue for the year ended December 31, 2013 compared to the same period in 2012 is primarily due to an increase of net sales in our NSP Russia, Central and Eastern Europe, Synergy WorldWide, and China and New Markets segments and was partially offset by a decline of net sales in our NSP Americas segment.
+
+NSP Americas
+
+Net sales revenue related to NSP Americas for the year ended December 31, 2013, was $195.9 million compared to $199.8 million for the same period in 2012, a decrease of 1.9 percent. Fluctuation in foreign exchange rates had a $1.3 million unfavorable impact on net sales for the year ended December 31, 2013, and net sales revenue would have decreased by 1.3 percent excluding this negative impact. Active independent Managers within NSP Americas totaled approximately 7,400 and 7,500 at December 31, 2013 and 2012, respectively.
+Active independent Distributors and customers within NSP Americas totaled approximately 148,800 and 150,500 at December 31, 2013 and 2012, respectively. Segment net sales revenue and the number of independent Distributors and customers decreased primarily due to lower sales in Japan and the United States and were partially offset by increased sales in Mexico. The
+active
+independent
+Managers category includes
+independent
+Managers under our various compensation plans that have achieved and maintained certain product sales levels. As such, all
+independent
+Managers are considered to be active
+independent
+Managers. The active
+independent
+Distributors and customers category includes our
+independent
+Distributors and customers who have purchased products directly from the Company for resale and/or personal consumption during the previous three months.
+
+Notable activity in the following markets contributed to the results of NSP Americas:
+
+In the United States, net sales revenues decreased approximately $1.0 million, or 0.8 percent, for the year ended December 31, 2013, compared to the same period in 2012. While we continue to see improvement in some key sequential business metrics, we have not yet returned to prior year levels. We continue efforts to stabilize the U.S. business through targeted investment in sales and marketing personnel, training, the launch of new products (including the strengthening of our weight management category), sales programs and incentive programs.
+
+37
+
+Table of Contents
+
+In Mexico, net sales revenues increased approximately $1.1 million, or 10.4 percent, for the year ended December 31, 2013, compared to the same period in 2012. In local currency, net sales increased 7.1 percent, compared to the same period in 2012. Fluctuations in foreign exchange rates had a $0.4 million favorable impact on net sales for the year ended December 31, 2013. Investment in local sales and marketing initiatives, including hiring a new General Manager for the market who started on April 1, 2013, resulted in a return to growth in net sales revenues in 2013. We opened a new sales center in Mexico City, launched a new energy drink and weight management program into the market in September and invested in sales incentives and promotions, all of which contributed to greater Manager and Distributor activity.
+
+In Japan, net sales revenues decreased approximately $2.7 million, or 45.0 percent, for the year ended December 31, 2013, respectively, compared to the same period in 2012. In local currency, net sales decreased 32.8 percent compared to the same period in 2012. Fluctuations in foreign exchange rates had a $0.7 million unfavorable impact on net sales for the year ended December 31, 2013, respectively. Due to the continued challenges in returning the market to growth, we made the decision to merge the NSP business with the Synergy Japan business to create one unified approach with a common product offering and business opportunity model. The combined businesses began operating as Synergy Japan in January 2014, providing a greater opportunity for a return to profitable growth.
+
+NSP Russia, Central and Eastern Europe
+
+Net sales revenue related to NSP Russia, Central and Eastern Europe markets (primarily Russia, the Ukraine, and Belarus) for the year ended December 31, 2013, was $62.7 million, compared to $57.9 million for the same period in 2012, an increase of 8.5 percent. In local currency, net sales increased 8.4 percent compared to the same period in 2012. Fluctuations in foreign exchange rates had a nominally favorable impact on net sales for the year ended December 31, 2013. Active
+independent
+Managers within NSP Russia, Central and Eastern Europe totaled approximately 6,000 and 5,600 at December 31, 2013 and 2012, respectively.
+Active independent Distributors and customers within NSP Russia, Central and Eastern Europe totaled approximately 131,800 and 125,800 at December 31, 2013 and 2012, respectively.
+NSP Russia, Central and Eastern Europe’s business model is more oriented to a direct selling approach than that of NSP Americas. Net sales increased year-over-year for the fifth consecutive quarter as a result of improved recruiting, Distributor leadership engagement, Distributor recognition, promotion and training and the enhanced focus afforded by the corporate organizational realignment during 2012. In addition, we launched a new weight management program at our annual regional convention in September 2013.
+
+Synergy WorldWide
+
+Synergy WorldWide reported net sales revenue for the year ended December 31, 2013, of $108.3 million, compared to $100.7 million for the same period in 2012, an increase of 7.6 percent. Fluctuations in foreign exchange rates had a $0.5 million unfavorable impact on net sales for the year ended December 31, 2013, and net sales revenue would have increased by 8.0 percent from 2012 excluding the negative impact, respectively. Active
+independent
+Managers within Synergy WorldWide totaled approximately 3,000 and 2,900 at December 31, 2013 and 2012, respectively. Active
+independent
+Distributors and customers within Synergy WorldWide totaled approximately 51,800 and 54,600 at December 31, 2013 and 2012, respectively. Synergy WorldWide’s business model is operating under a traditional direct selling approach. Synergy WorldWide reported a growth of net sales revenue with the increase primarily due to performance in Europe and South Korea, partially offset by lower net sales in Japan and North America.
+
+Notable activity in the following markets contributed to the results of Synergy WorldWide:
+
+In South Korea, net sales revenues increased approximately $6.2 million, or 22.1 percent, for the year ended December 31, 2013, compared to the same period in 2012. In local currency, net sales increased 18.8 percent for the year ended December 31, 2013, compared to the same period in 2012. Fluctuations in foreign exchange rates had a $0.9 million favorable impact on net sales for the year ended December 31, 2013. During the year, promotions and incentives programs were implemented to support and enhance Distributor activity ahead of the Synergy WorldWide global summit held in South Korea in late September. During that event, the SLMsmart weight-management program was launched, which further contributed to the sustained growth through the end of the year.
+
+In Europe, net sales revenues increased approximately $5.0 million, or 18.9 percent, for the year ended December 31, 2013, compared to the same period in 2012. In local currency, net sales increased 15.2 percent compared to the same period in 2012. Fluctuations in foreign exchange rates had a $1.0 million favorable impact on net sales for the year ended December 31, 2013. Strong Distributor leadership in recruiting and training efforts continues to effectively build our Distributor base thereby driving increased market penetration, supported by our investment in strengthening our sales and marketing organization across the region. In addition, the opening of the Poland market and the successful resolution of temporary shipping restrictions imposed by the Norwegian Food Authority, which had adversely impacted net sales in the fourth quarter of 2012, had a favorable impact on 2013 net sales.
+
+38
+
+Table of Contents
+
+In Japan, net sales revenues decreased approximately $2.1 million, or 19.6 percent, for the year ended December 31, 2013, compared to the same period in 2012. In local currency, net sales decreased 1.8 percent for the year ended December 31, 2013, compared to the same period in 2012. Fluctuations in foreign exchange rates had a $1.9 million unfavorable impact on net sales for the year ended December 31, 2013. New products and programs introduced and implemented to stimulate activity had a positive impact in the second half of 2013. In addition, as referenced above, in order to provide a more stable platform for growth, we made the decision to combine the NSP Japan and Synergy Japan businesses, and operate as a single entity from January 2014 forward.
+
+In North America, net sales revenues decreased approximately $1.5 million, or 7.9 percent, for the year ended December 31, 2013, compared to the same period in 2012. The lack of recruiting, retention and training efforts have been the primary drivers for this decrease. Upcoming growth initiatives are being developed to effectively support recruiting, retention and training activity.
+
+China and New Markets
+
+China and New Markets reported net sales revenue for the year ended December 31, 2013, of $2.9 million, compared to $2.5 million for the same period in 2012, an increase of 14.2 percent. There are no Managers, Distributors, and customers in the China and New Markets segment as the export business accounts for all of the segment’s sales to date. The increase in sales in 2014 is related to the Australia export market increasing in sales by $0.3 million.
+
+Further information related to our business segments is set forth in Note 14 of the Notes to Consolidated Financial Statements in Item 8 of this report.
+
+Cost of Sales
+
+Cost of sales as a percent of net sales revenue improved to 25.0 percent in 2013, compared to 25.3 percent in 2012.
+
+Volume Incentives
+
+Volume incentives are a significant part of our direct selling program, and represent commission payments made to our
+independent
+Managers and Distributors. These payments are designed to provide incentives for reaching higher product sales levels. Volume incentives vary slightly, on a percentage basis, by product due to our pricing policies and commission plans in place and the sales mix in our various markets. Volume incentives as a percent of net sales revenue increased to 36.6 percent in 2013, compared to 36.3 percent in 2012. The increase was primarily due to net sales increases in markets that pay a higher sales commission in our NSP Russia, Central and Eastern Europe and Synergy WorldWide segments.
+
+Selling, General and Administrative Expenses
+
+Selling, general and administrative expenses increased by approximately $13.7 million to $118.4 million for the year ended December 31, 2013. Selling, general and administrative expenses were 32.0 percent of net sales revenue for the year ended December 31, 2013, compared to 29.0 percent for the same period in 2012.
+
+Significant increases to selling, general and administrative expenses during 2013 compared to the same period in 2012 included:
+
+·
+
+$6.0 million of increased compensation and other benefit costs as a result of the Company’s incremental investment in sales, marketing, science and product development personnel and programs to stimulate sales growth and drive profitability globally; and
+
+·
+
+$2.2 million of increased investments in Distributor conventions, meetings and incentive trips.
+
+In addition, the increases in selling, general and administrative included the following one-time expenses:
+
+·
+
+$1.4 million of one-time severance costs and the acceleration of stock option expense incurred related to the resignation of our former Chief Executive Officer;
+
+·
+
+$1.3 million of one-time costs related to a five-year customs audit assessment in our Synergy South Korea market; and
+
+·
+
+$1.1 million of one-time restructuring costs in certain markets.
+
+Other Income, Net
+
+Other income of $2.0 million, net for the year ended December 31, 2013, remained relatively consistent compared to the same period in 2012.
+
+39
+
+Table of Contents
+
+Income Taxes
+
+Our effective income tax rate was 31.0 percent for 2013, compared to 29.7 percent for 2012. The effective rate for 2013 differed from the federal statutory rate of 35.0 percent primarily due to the following:
+
+(i)
+
+Adjustments relating to the U.S. tax impact of foreign operations decreased the effective tax rate by 16.2 percentage points in 2013. Included were adjustments for dividends received from foreign subsidiaries, adjustments for foreign tax credits, foreign tax rate differentials and adjustments relating to outside basis calculations under applicable U.S. GAAP.
+
+(ii)
+
+Adjustments to valuation allowances increased the effective rate by 4.3 percent in 2013. Included were increases to domestic valuation allowances on capital loss carryforwards, as well as the effect of valuation allowances of foreign deferred tax assets.
+
+(iii)
+
+Changes in the unrecognized tax benefits increased the effective tax rate by 7.9 percent in 2013. These net gains and losses were recorded for financial reporting purposes, but were excluded from the calculation of taxable income.
+
+(iv)
+
+A 1.1 percent rate increase resulting from cumulative favorable adjustments related to foreign operations. These adjustments relate to items that are expensed for tax purposes but not for book purposes.
+
+Adjustments relating to the U.S. impact of foreign operations decreased the effective tax rate by 16.2 percentage points in 2013, and decreased the effective tax rate by 2.3 percentage points in 2012. Included were adjustments for dividends received from foreign subsidiaries, adjustments for foreign tax credits and adjustments relating to the unremitted earnings calculations under applicable U.S. GAAP. The components of this calculation were:
+
+Components of U.S. tax impact of foreign operations
+
+2013
+
+2012
+
+Dividends received from foreign subsidiaries
+
+29.4
+
+%
+
+4.5
+
+%
+
+Foreign tax credits
+
+(34.3
+
+)
+
+(4.1
+
+)
+
+Foreign tax rate differentials
+
+(10.8
+
+)
+
+(2.4
+
+)
+
+Unremitted earnings
+
+(0.5
+
+)
+
+(0.3
+
+)
+
+Total
+
+(16.2
+
+)
+%
+
+(2.3
+
+)%
+
+From 2012 to 2013, the changes in components of the U.S. tax impact of foreign operations were significant. The primary reason the dividends received from foreign subsidiaries and the foreign tax credits changed by such a large amount was due to an increase in repatriation of foreign earnings to the U.S. from 2012 to 2013.
+
+Changes to the effective rate due to dividends received from foreign subsidiaries, impact of foreign tax credits, foreign tax rate differentials and unremitted earnings calculation are expected to be recurring; however, depending on various factors, the changes may be favorable or unfavorable for a particular period. Given the large number of jurisdictions in which the Company does business and the number of factors that can impact effective tax rates in any given year, this rate is likely to reflect significant fluctuations from year-to-year.
+
+40
+
+Table of Contents
+
+SUMMARY OF QUARTERLY OPERATIONS — UNAUDITED
+
+The following tables present the Company’s unaudited summary of quarterly operations during 2014 and 2013 for each of three month periods ended March 31, June 30, September 30, and December 31 (amounts in thousands).
+
+For the Quarter Ended
+
+March 31,
+ 2014
+
+June 30,
+ 2014
+
+September
+ 30, 2014
+
+December
+ 31, 2014
+
+Net sales revenue
+
+$
+
+93,467
+
+$
+
+92,831
+
+$
+
+93,406
+
+$
+
+86,663
+
+Cost of sales
+
+(22,581
+
+)
+
+(22,793
+
+)
+
+(22,742
+
+)
+
+(23,468
+
+)
+
+Gross profit
+
+70,886
+
+70,038
+
+70,664
+
+63,195
+
+Volume incentives
+
+34,893
+
+34,270
+
+34,918
+
+31,727
+
+Selling, general and administrative
+
+29,152
+
+29,941
+
+30,200
+
+30,634
+
+Operating income
+
+6,841
+
+5,827
+
+5,546
+
+834
+
+Other income (expense)
+
+(262
+
+)
+
+(79
+
+)
+
+(42
+
+)
+
+349
+
+Income from continuing operations before income taxes
+
+6,579
+
+5,748
+
+5,504
+
+1,183
+
+Provision (benefit) for income taxes
+
+(3,657
+
+)
+
+2,198
+
+407
+
+309
+
+Net income from continuing operations
+
+10,236
+
+3,550
+
+5,097
+
+874
+
+Loss from discontinued operations
+
+(571
+
+)
+
+(316
+
+)
+
+(4,106
+
+)
+
+(4,964
+
+)
+
+Net income (loss)
+
+9,665
+
+3,234
+
+991
+
+(4,090
+
+)
+
+Net income (loss) attributable to noncontrolling interests
+
+—
+
+—
+
+(26
+
+)
+
+(193
+
+)
+
+Net income (loss) attributable to common shareholders
+
+$
+
+9,665
+
+$
+
+3,234
+
+$
+
+1,017
+
+$
+
+(3,897
+
+)
+
+Basic and diluted net income per common share
+
+Basic:
+
+Net income from continuing operations
+
+$
+
+0.63
+
+$
+
+0.22
+
+$
+
+0.30
+
+$
+
+0.05
+
+Loss from discontinued operations
+
+$
+
+(0.03
+
+)
+
+$
+
+(0.02
+
+)
+
+$
+
+(0.24
+
+)
+
+$
+
+(0.26
+
+)
+
+Net income attributable to common shareholders
+
+$
+
+0.60
+
+$
+
+0.20
+
+$
+
+0.06
+
+$
+
+(0.21
+
+)
+
+Diluted:
+
+Net income from continuing operations
+
+$
+
+0.61
+
+$
+
+0.22
+
+$
+
+0.29
+
+$
+
+0.05
+
+Loss from discontinued operations
+
+$
+
+(0.03
+
+)
+
+$
+
+(0.02
+
+)
+
+$
+
+(0.23
+
+)
+
+$
+
+(0.25
+
+)
+
+Net income attributable to common shareholders
+
+$
+
+0.58
+
+$
+
+0.20
+
+$
+
+0.06
+
+$
+
+(0.20
+
+)
+
+Dividends declared per common share
+
+$
+
+0.10
+
+$
+
+0.10
+
+$
+
+1.60
+
+$
+
+0.10
+
+41
+
+Table of Contents
+
+For the Quarter Ended
+
+March 31,
+ 2013
+
+June 30,
+ 2013
+
+September
+ 30, 2013
+
+December
+ 31, 2013
+
+Net sales revenue
+
+$
+
+94,375
+
+$
+
+91,782
+
+$
+
+90,405
+
+$
+
+93,264
+
+Cost of sales
+
+(23,741
+
+)
+
+(22,075
+
+)
+
+(22,917
+
+)
+
+(23,611
+
+)
+
+Gross profit
+
+70,634
+
+69,707
+
+67,488
+
+69,653
+
+Volume incentives
+
+34,182
+
+33,838
+
+33,203
+
+34,293
+
+Selling, general and administrative
+
+29,522
+
+28,068
+
+27,773
+
+33,020
+
+Operating income
+
+6,930
+
+7,801
+
+6,512
+
+2,340
+
+Other income (expense)
+
+438
+
+1,522
+
+(216
+
+)
+
+249
+
+Income from continuing operations before income taxes
+
+7,368
+
+9,323
+
+6,296
+
+2,589
+
+Provision for income taxes
+
+2,302
+
+3,235
+
+1,610
+
+776
+
+Net income from continuing operations
+
+5,066
+
+6,088
+
+4,686
+
+1,813
+
+Income (loss) from discontinued operations
+
+(202
+
+)
+
+(36
+
+)
+
+164
+
+30
+
+Net income
+
+4,864
+
+6,052
+
+4,850
+
+1,843
+
+Net income (loss) attributable to noncontrolling interests
+
+—
+
+—
+
+—
+
+—
+
+Net income attributable to common shareholders
+
+$
+
+4,864
+
+$
+
+6,052
+
+$
+
+4,850
+
+$
+
+1,843
+
+Basic and diluted net income per common share
+
+Basic:
+
+Net income from continuing operations
+
+$
+
+0.32
+
+$
+
+0.38
+
+$
+
+0.29
+
+$
+
+0.11
+
+Income (loss) from discontinued operations
+
+$
+
+(0.01
+
+)
+
+$
+
+—
+
+$
+
+0.01
+
+$
+
+—
+
+Net income attributable to common shareholders
+
+$
+
+0.31
+
+$
+
+0.38
+
+$
+
+0.30
+
+$
+
+0.11
+
+Diluted:
+
+Net income from continuing operations
+
+$
+
+0.31
+
+$
+
+0.38
+
+$
+
+0.28
+
+$
+
+0.11
+
+Income (loss) from discontinued operations
+
+$
+
+(0.01
+
+)
+
+$
+
+—
+
+$
+
+0.01
+
+$
+
+—
+
+Net income attributable to common shareholders
+
+$
+
+0.30
+
+$
+
+0.38
+
+$
+
+0.29
+
+$
+
+0.11
+
+Dividends declared per common share
+
+$
+
+0.10
+
+$
+
+0.10
+
+$
+
+1.60
+
+$
+
+0.10
+
+Basic and diluted income per share is computed independently for each of the quarters presented. Therefore, the sum of the quarterly net income per share may not equal the total computed for the year.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Our principal use of cash is to pay for operating expenses, including volume incentives, inventory and raw material purchases, capital assets and funding of international expansion. As of December 31, 2014, working capital was $63.3 million, compared to $80.0 million as of December 31, 2013. At December 31, 2014, we had $58.7 million in cash and cash equivalents, of which $49.2 million was held in our foreign markets and may be subject to various withholding taxes and other restrictions related to repatriation, and $2.5 million in unrestricted short-term investments, which were available to be used along with our normal cash flows from operations to fund any unanticipated shortfalls in future cash flows.
+
+42
+
+Table of Contents
+
+Our net consolidated cash inflows (outflows) are as follows (
+in thousands
+):
+
+Year Ended December 31,
+
+2014
+
+2013
+
+2012
+
+Operating activities
+
+$
+
+14,182
+
+$
+
+29,378
+
+$
+
+26,651
+
+Investing activities
+
+(26,674
+
+)
+
+(8,564
+
+)
+
+(2,989
+
+)
+
+Financing activities
+
+(5,076
+
+)
+
+(21,331
+
+)
+
+(3,133
+
+)
+
+In November 2014, the Company ceased its operations in Venezuela due to the difficulties and uncertainties related to import controls, difficulties associated with repatriating cash and high inflation. The loss from discontinued operations did not have a material impact on the Company’s operating cash flows during 2014.
+
+Operating Activities
+
+For the year ended December 31, 2014, operating activities provided cash in the amount of $14.2 million compared to $29.4 million for the same period in 2013. Operating cash flows decreased due to the timing of payments and receipts for other assets, accrued volume incentives, accrued liabilities, income tax payable and the liability related to unrecognized tax benefits, and was partially offset by the timing of payments and receipts for accounts receivable, prepaid expenses, accounts payable, and deferred revenue as well as the decrease in our operating income.
+
+For the year ended December 31, 2013, we generated cash from operating activities of $29.4 million compared to $26.7 million in 2012. Operating cash flows increased due to the timing of payments and receipts for inventories, accrued volume incentives, accrued liabilities, income tax payable and the liability related to unrecognized tax benefits, and was partially offset by the timing of payments and receipts for accounts receivable, prepaid expenses, accounts payable, and deferred revenue as well as the decrease in our operating income.
+
+Investing Activities
+
+Cash paid for capital expenditures related to the purchase of equipment, computer systems and software for the years ended December 31, 2014, 2013, and 2012, were $26.3 million, $8.6 million, and $6.6 million, respectively. In 2013, the Company began to significantly reinvest in its information technology systems. Included within this plan is an Oracle ERP implementation program to provide the Company with a single integrated software solution that will integrate the Company’s business process on a worldwide basis. The Company anticipates completion of this project by early 2016. See below for further discussion of the Company’s contractual obligations related to future capital expenditures.
+
+During the years ended December 31, 2014, 2013, and 2012, we used cash to purchase available-for-sale investments of $0.7 million, $0.4 million, and $0.2 million, respectively, and had cash proceeds of $0.2 million, $0.2 million and $3.8 million for 2014, 2013, and 2012, respectively, from the sale of such investments.
+
+Financing Activities
+
+During the years ended December 31, 2014, 2013, and 2012, we used cash to pay dividends in an aggregate amount of $35.2 million, $30.4 million, and $2.3 million, respectively.
+
+In December 2014, the Company completed share repurchases under its previously announced $10 million share repurchase program. In November 2014, the Board of Directors authorized a $20 million share repurchase program beginning January 1, 2015. Such purchases may be made in the open market, through block trades, in privately negotiated transactions or otherwise. The timing and amount of any shares repurchased will be determined based on the Company’s evaluation of market conditions and other factors and the program may be discontinued or suspended at any time. The Company will fund future dividends and the share repurchase program through available cash on hand, future cash flows from operations and borrowings under its revolving credit facility.
+During the year ended December 31, 2014, the Company repurchased 495,570 shares of its common stock under the share repurchase program for $7.5 million. At December 31, 2014, the remaining balance available for repurchases under the program was $20.0 million.
+
+On August 25, 2014, Nature’s Sunshine and Shanghai Fosun Pharmaceutical (Group) Co., Ltd. (“Fosun Pharma”), closed a transaction pursuant to which, the parties entered into a joint venture in the People’s Republic of China (“China”), of which 80 percent is owned by Nature’s Sunshine and 20 percent is owned by a wholly-owned subsidiary of Fosun Pharma, and completed a concurrent investment by Fosun Pharma in Nature’s Sunshine common stock issued pursuant to a private placement transaction with net proceeds of $44.8 million. Nature’s Sunshine used the net proceeds of the private placement transaction to fund its 80 percent share of the initial
+
+43
+
+Table of Contents
+
+$20.0 million capitalization of the China joint venture, or $16.0 million, and to pay its shareholders a cash dividend of $1.50 per share, or $28.5 million. The Company consolidated the joint venture in its consolidated financial statements, with the Fosun Pharma’s interest presented as a noncontrolling interest.
+
+The joint venture, known as Nature’s Sunshine Hong Kong Limited, expects to market and distribute Nature’s Sunshine-branded products in China. Nature’s Sunshine Hong Kong Limited currently anticipates deploying a multi-brand, multi-channel go-to-market strategy, which will offer select Nature’s Sunshine-branded products through certain of Fosun Pharma’s existing retail locations across China, and select Synergy-branded products through a direct selling model. The time to market will be dependent upon regulatory processes including product registration, permit and license approvals.
+
+Pursuant to a concurrent private placement transaction, Nature’s Sunshine issued 2.9 million shares of unregistered common stock to Fosun Pharma at a price of $16.19 per share, representing aggregate net proceeds to Nature’s Sunshine of $44.8 million. The purchase price represented a 10 percent premium to Nature’s Sunshine’s average stock price over the trailing 30 business day period as of June 26, 2014. As a result of the private placement transaction, Fosun Pharma owns approximately 15% of Nature’s Sunshine outstanding common shares with respect to which the Company has granted Fosun Pharma certain registration rights. In addition, Nature’s Sunshine appointed one director designated by Fosun Pharma to its board of directors.
+
+During the years ended December 31, 2014, 2013, and 2012, we used cash to make principal payments of $12.3 million, $3.4 million, and $3.6 million, on our revolving credit facility, respectively.
+
+The Company has a revolving credit agreement with Wells Fargo Bank, N.A. with a borrowing limit of $25.0 million that matures September 1, 2016. The Company pays interest at LIBOR plus 1.25 percent on any borrowings on the agreement (1.50 percent as of December 31, 2014).
+The Company must pay an annual commitment fee of 0.25 percent on the unused portion of the commitment.
+The Company retains ample capital capacity to continue making long-term investments in its sales, marketing, science and product development initiatives and overall operations, as well as pursue strategic opportunities as they may arise.
+As of December 31, 2014, the Company had no outstanding balance under the revolving credit agreement.
+
+The revolving credit agreement contains restrictions on liquidity, leveraging, minimum net income and consecutive quarterly net losses. In addition, the agreement restricts capital expenditures, lease expenditures, other indebtedness, liens on assets, guaranties, loans and advances, and the merger, consolidation and the transfer of assets except in the ordinary course of business. As of December 31, 2014, the Company was in compliance with these debt covenants.
+
+We believe that cash generated from operations, along with available cash and cash equivalents will be sufficient to fund our normal operating needs, including dividends, share repurchases, and capital expenditures, as well as potential business development activity. However, among other things, a prolonged economic downturn, a decrease in demand for our products, an unfavorable settlement of our unrecognized tax positions or non-income tax contingencies could adversely affect our long-term liquidity.
+
+CONTRACTUAL OBLIGATIONS
+
+The following table summarizes information about contractual obligations as of December 31, 2014 (
+in thousands
+):
+
+Total
+
+Less than 1 year
+
+1-3 years
+
+3-5 years
+
+After 5 years
+
+Operating lease obligations
+
+$
+
+13,767
+
+$
+
+4,776
+
+$
+
+6,315
+
+$
+
+2,086
+
+$
+
+590
+
+Self-insurance reserves(1)
+
+658
+
+658
+
+—
+
+—
+
+—
+
+Other long-term liabilities reflected on the balance sheet(2)
+
+—
+
+—
+
+—
+
+—
+
+—
+
+Unrecognized tax benefits(3)
+
+—
+
+—
+
+—
+
+—
+
+—
+
+Revolving credit facility(4)
+
+—
+
+—
+
+—
+
+—
+
+—
+
+ERP capital commitments(5)
+
+3,845
+
+3,586
+
+259
+
+—
+
+—
+
+Other capital commitments(6)
+
+2,002
+
+2,002
+
+—
+
+—
+
+—
+
+Total
+
+$
+
+20,272
+
+$
+
+11,022
+
+$
+
+6,574
+
+$
+
+2,086
+
+$
+
+590
+
+(1)
+
+At December 31, 2014, there were $2.6 million of liabilities. The Company retains a significant portion of the risks associated with certain employee medical benefits and product liability insurance. Recorded liabilities for self-insured risks are calculated using actuarial methods and are not discounted. Amounts for self-insurance obligations are included in accrued liabilities and long-term other liabilities on the Company’s consolidated balance sheet. Because of the high degree of uncertainty regarding the timing of future cash outflows associated with the product liability obligations the Company is unable to estimate the years in which cash settlement may occur.
+
+44
+
+Table of Contents
+
+(2)
+
+At December 31, 2014, there were $1.0 million of liabilities. The Company provides a nonqualified deferred compensation plan for its officers and certain key employees. Under this plan, participants may defer up to 100 percent of their annual salary and bonus (less the participant’s share of employment taxes). The deferrals become an obligation owed to the participant by the Company under the plan. Upon separation of the participant from the service of the Company, the obligation owed to the participant under the plan will be paid as a lump sum or over a period of either three or five years. As we cannot easily determine when our officers and key employees will separate from the Company, the Company is unable to estimate the years in which cash settlement may occur..
+
+(3)
+
+At December 31, 2014, there were $6.6 million of liabilities. Because of the high degree of uncertainty regarding the timing of future cash outflows associated with these liabilities, if any, the Company is unable to estimate the years in which cash settlement may occur with the respective tax authorities.
+
+(4)
+
+The Company entered into a revolving credit agreement with Wells Fargo Bank, National Association that permits the Company to borrow up to $25 million through September 1, 2015, bearing interest at LIBOR plus 1.25 percent. The Company must pay an annual commitment fee of 0.25 percent on the unused portion of the commitment. At December 31, 2013, the Company had $25 million available under this facility.
+
+(5)
+
+In 2013, the Company began to significantly reinvest in its information technology systems. Included within this plan is an Oracle ERP implementation program to provide the Company with a single integrated software solution that will integrate the Company’s business process on a worldwide basis. The Company anticipates completion of this project by early 2016.
+
+(6)
+
+In 2014, the Company made commitments to purchase manufacturing equipment of 2.0 million in 2015.
+
+The Company has entered into long-term agreements with third-parties in the ordinary course of business, in which it has agreed to pay a percentage of net sales in certain regions in which it operates, or royalties on certain products. In 2014, 2013, and 2012, the aggregate amounts of these payments were $0.2 million, $1.5 million and $1.3 million, respectively.
+
+OFF-BALANCE SHEET ARRANGEMENTS
+
+We have no off-balance sheet arrangements other than operating leases. We do not believe that these operating leases are material to our current or future financial position, results of operations, revenues or expenses, cash flows, capital expenditures or capital resources.

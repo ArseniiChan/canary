@@ -1,0 +1,4727 @@
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL
+
+CONDITION AND RESULTS OF OPERATIONS
+
+OVERVIEW
+
+We are engaged in full-service
+securities brokerage and full-service commercial banking. While brokerage and banking revenues are dependent upon trading volumes and interest rates, which may fluctuate significantly, a large portion of our expenses remain fixed. Consequently, net
+operating results can vary significantly from period to period.
+
+Our business is also subject to substantial governmental regulation and
+changes in legal, regulatory, accounting, tax and compliance requirements that may have a substantial impact on our business and results of operations. We also face substantial competition in each of our lines of business. See “Risk
+Factors.”
+
+We operate through four segments grouped primarily by products and services: Clearing, Retail, Institutional and Banking.
+
+Clearing.
+ We provide clearing and execution services (generally on a fully disclosed basis) for general securities
+broker/dealers, for bank affiliated firms and firms specializing in high volume trading. Revenues in this segment are generated primarily through transaction charges to our correspondent firms for clearing their trades. Revenue is also earned from
+various fees and other processing charges as well as through net interest earnings on correspondent customer balances. We seek to grow our clearing business by expanding our correspondent base and seeking acquisitions of other clearing firms.
+
+Retail
+.
+ The retail brokerage segment includes retail securities products and services (equities, mutual funds and fixed
+income products), insurance products and managed accounts and encompasses the activities of our employee registered representatives and our independent contractors. This segment generates revenue primarily through commissions charged on securities
+transactions, fees from managed accounts and the sale of insurance products as well as net interest income from retail customer balances. We seek to grow our retail brokerage business by increasing our distribution capabilities through the
+recruitment of additional registered representatives.
+
+Institutional.
+ The institutional brokerage segment serves institutional
+customers in securities lending, investment banking and public finance, fixed income sales and trading, proprietary trading and agency execution services. Revenues in this segment are derived from the net interest spread on stock loan transactions,
+commission and trading income from fixed income and equity products to institutional customers and investment banking fees from corporate and municipal securities transactions.
+
+Banking.
+ The Bank offers traditional banking products and services and focuses on several sectors of the residential housing market,
+including interim construction and short-term funding for mortgage bankers. The Bank earns substantially all of its income on the spread between the rates charged to customers on loans and the rates paid to depositors. We seek to grow our Bank by
+adding experienced bankers and through acquisition.
+
+The “other” category includes SWS Group, Corporate Administration, SWS
+Capital and Capital Markets, which includes the financial results of SWS’ Institutional Sales & Research departments. Certain assets of this business were sold in January 2006 and as a result, the financial results of this department
+are included in the analysis for fiscal 2006. SWS Group is a holding company that owns various investments, including USHS common stock.
+
+Business
+Environment
+
+Our business is sensitive to financial market conditions which improved during fiscal 2007. The Dow Jones Industrial
+Average increased 20% from the end of the fiscal 2006 to fiscal 2007 while the Standard & Poors 500 index and the NASDAQ Composite Index rose 18% and 20%, respectively, for the same time period. Average daily volume on the New York Stock
+Exchange rose 9% for fiscal 2007.
+
+-20-
+
+Table of Contents
+
+Both short and long term interest rates are important to our businesses. Short term interest rates have
+remained steady throughout fiscal 2007 with the Federal Reserve Board’s rate at 5.25%. Rates on ten-year treasuries, however, dropped 13 basis points from June 30, 2006 to June 29, 2007 to 5.03% continuing the inverted yield curve
+environment.
+
+Our brokerage businesses are positively impacted by active securities markets, positive directional movements in key equity
+indices, steady interest rates and a normalized yield curve.
+
+The Banking segment is impacted by interest rates and the availability of
+mortgage credit. Prime rate is 8.25% and has not changed since June of 2006. The mortgage markets experienced a tightening of credit standards in the latter half of 2007. The tightening started with subprime mortgages and now includes Alt A
+mortgages. Alt A mortgages are defined as prime credit as compared to subprime credit loans with terms less restrictive than FNMA requirements. Conforming mortgage rates are still attractive with a national average for a 30 year mortgage of 6.67%.
+The national average decreased 11 basis points from fiscal 2006 to fiscal 2007. Nonconforming mortgage rates have increased in relation to conforming rates and are approximately 100 basis points higher.
+
+The Banking segment is also impacted by the North Texas new home market. Currently the market has an oversupply on new homes. The supply of finished
+vacant housing units in our market was 2.95 months at June 30, 2007 an increase from 2.58 months at June 30, 2006. A 2.50 months supply is considered equilibrium. Both new home starts and closings have slowed compared to last year. Starts
+have decreased 36% and closings have decreased 24%. Should this slump continue or worsen in severity, results for the Bank could be adversely affected.
+
+Events and Transactions
+
+Several material events and transactions impacted the results of operations in the periods
+presented. A description of the facts and circumstances surrounding these transactions and the impact on our results is presented below:
+
+3-for-2 Stock Split.
+
+On November 30, 2006, the company’s Board of Directors declared a 3-for-2 stock split effected in the form of a 50% stock dividend. The additional shares were distributed on January 2, 2007,
+to shareholders of record on December 15, 2006. All references in the consolidated financial statements to amounts per share and the number of shares outstanding have been restated to give retroactive effect to the stock split.
+
+Payments to the Deferred Compensation Plan
+.
+ We purchase company-owned life insurance as a component of
+the company’s deferred compensation plan. The life insurance policies are valued at the cash surrender values as of the balance sheet date and are included in Other Assets in the Consolidated Statement of Financial Condition. During the second
+quarter of fiscal 2007, we received proceeds of $2,289,000 from company owned life insurance which were recorded in Other Revenue in the Consolidated Statements of Income and Comprehensive Income.
+
+TD Ameritrade Transaction.
+ On March 22, 2006, the company entered into an agreement with TD Ameritrade Holding Corporation,
+(“Ameritrade”) to transfer 15 correspondent clients to the company. This transaction closed in July 2006, with 12 of the 15 correspondents agreeing to transfer to our clearing platform. As an inducement to transfer, we generally provided
+substantial clearing fee discounts for a transition period. As a result of this transaction, we have recorded a customer relationship intangible of $5,022,000, which is being amortized over a five year period at a rate based on the future economic
+benefit of the customer relationships. We recognized approximately $849,000 of amortization expense related to this intangible for the year ended June 29, 2007. See additional discussion in
+Note 11
+ in the Notes to the Consolidated
+Financial Statements contained in this Report.
+
+Sale of USHS stock and First Consumer Credit (“First Consumer”).
+ In
+June 2006, SWS sold 100,000 shares of U.S. Home Systems, Inc. (“USHS”) stock for $9.80/share. SWS realized a gain on the transaction of $539,000.
+
+Discontinued operations/FSB Financial.
+
+In March 2006, the Bank sold the assets of its subsidiary, FSB Financial. The sales price of the transaction was $35,870,000 in cash and the
+retirement of $116,868,000 of related debt. A gain of $20,453,000 was recognized of which $2,965,000 belongs to the minority interest holder. Pursuant to the sale agreement, 10% of the cash purchase price or $3,587,000 was placed in escrow to secure
+any purchase price adjustments and to secure seller’s indemnifications. This amount plus interest of $215,000 is presented in Other Assets in the accompanying Consolidated Statement of Financial Condition. This amount was released from escrow
+on July 3, 2007. The results of FSB Financial are classified as discontinued operations for all periods presented.
+
+-21-
+
+Table of Contents
+
+NYSE/Archipelago.
+
+In August 2004, Archipelago Holdings, LLC
+(“Archipelago”) declared an approximately 1-for-4.5 reverse stock split. After the split, we owned 67,435 shares of Archipelago stock. On August 19, 2004, Archipelago completed an initial public offering of its common stock in which
+we sold 23,714 shares at $10.695 per share, yielding a gain of $254,000 (an after-tax gain of $165,100). On May 24, 2005, SWS sold 20,000 shares at an average price of $32.97 for a gain of $659,000. After giving effect to these transactions, we
+owned 23,721 shares of Archipelago stock.
+
+In March 2006, Archipelago and the NYSE merged into a new entity, NYSE Euronext, Inc.
+(“NYX”). As part of the merger, Southwest Securities surrendered the one NYSE seat which it carried at a cost of $230,000 in return for $300,000 in cash and 80,177 restricted shares of NYX common stock. The gain on this transaction was
+$5,200,000. As of June 29, 2007, two-thirds of the 80,177 shares, 53,452 shares, are no longer restricted.
+
+Upon the merger of NYSE
+and Archipelago, each share of our Archipelago stock was converted into one share of NYX common stock giving us ownership of a total of 103,898 shares of NYX stock. In fiscal 2007, we recorded gains of $1,166,000 from the market appreciation of our
+shares of NYX. In 2006, we recorded a gain of $5,000 from the change in the market value of these shares. In 2005, we recorded a gain of $948,000 from the change in the market value of these shares.
+
+In fiscal 2008, we moved our ownership of the NYX stock from the broker dealer, Southwest Securities, to the parent company, SWS Group. All future
+changes in valuation will appear in the other comprehensive income line of the income statement instead of net gains (losses) on principal transaction.
+
+Distribution from an equity investment.
+
+In December 2005, the limited partnership venture capital fund in which SWS has an equity investment realized a significant gain and made a
+subsequent distribution to its partners. SWS’ portion of this gain was $1,547,000 and is included in Other Revenue in the Consolidated Statement of Income and Comprehensive Income. See
+Note 10
+in the Notes to the Consolidated Financial
+Statements contained in this Report.
+
+Maturity of DARTS
+SM
+.
+
+In June 1999, we issued 5% Exchangeable Subordinated Notes (“Notes”), in the form of DARTS
+SM
+ (or, “Derivative Adjustable Ratio
+Securities
+SM
+”). The DARTS
+SM
+ contained an equity-based
+derivative designed to hedge changes in the fair value of our investment in Knight Trading Group, Inc. (“Knight”) common stock. The embedded derivative was designated as a fair value hedge of our investment in Knight shares, upon adoption
+of SFAS No. 133. The DARTS
+SM
+ matured on June 30, 2004, at which time we delivered 373,550 shares of Knight stock to the DARTS
+SM
+ holders in satisfaction of our obligation in accordance with the terms of the governing agreements. Delivery of the Knight shares upon maturity of this
+obligation resulted in a gain of $18,732,000, equal to the difference in the fair value of the Knight stock upon acquisition and the fair value of the Knight stock on the issuance date of the DARTS
+SM
+
+ (i.e., the hedging date).
+
+Investment in Comprehensive Software Systems, Inc. (“CSS”).
+
+In 1993, SWS became a part owner of CSS, a software development company formed to develop a new brokerage front and back office system. We
+initially acquired a 7.96% interest in CSS and accounted for the investment on the cost basis. Through subsequent investments, our ownership in CSS increased to 25.08% in fiscal 2002. Consequently, we implemented the equity method of accounting as
+prescribed by APB Opinion No. 18,
+“The Equity Method of Accounting for Investments in Common Stock.”
+Subsequent to an equity offering by CSS in January 2005, we owned 13.7% of CSS.
+
+To facilitate the continued enhancement of the CSS system, we invested an aggregate of $6,386,000 in CSS all of which had been written off by
+June 29, 2007.
+
+Our pro-rata share of CSS’ losses for the fiscal years 2007, 2006 and 2005 were $840,000, $815,000, and
+$2,276,000, respectively. From inception of the investment to date, our pro-rata percentage of losses of $9,386,000 was greater than the $6,386,000 loaned and invested by $3,000,000.
+
+In April 2006, we signed an agreement with CSS to pay a $1,700,000 maintenance fee to CSS if a specific member of the consortium of broker/dealers had
+successfully converted to the CSS system by December 31, 2006. CSS made written demand of $1,700,000 under this agreement in January 2007. We disputed the payment.
+
+-22-
+
+Table of Contents
+
+SWS and CSS have reached a tentative agreement pursuant to which SWS will enter into a new maintenance
+contract which calls for total maintenance payments of $3,000,000 for calendar year 2007 with an additional two years of maintenance at $2,500,000 per year. SWS will receive assistance in converting to an updated version of the CSS software and a
+new broker front end platform in exchange for the increased maintenance payments. The final agreement is dependent on documentation. See additional discussion in
+Note 10
+ in the Notes to the Consolidated Financial Statements contained in this
+Report.
+
+SEC/NYSE Mutual Fund Inquiry.
+
+In January 2005, Southwest Securities settled enforcement proceedings
+brought against it by the SEC and the NYSE alleging improper mutual fund trading and lack of appropriate record retention. In settlement of the actions, Southwest Securities agreed to pay a total of $10 million ($9.3 million after tax) which
+was fully reserved for in fiscal 2004. Additionally, Southwest Securities agreed to engage an independent consultant to conduct a review of its supervisory, compliance and other policies and procedures designed to detect and prevent violations
+of federal securities law related to mutual fund late trading and making, keeping and preserving required books and records.
+
+The
+consultant’s initial report contained an evaluation of preventative steps taken on Southwest Securities’ own initiative and recommended strengthening and modifying additional written procedures and reporting regimens. In August 2005,
+Southwest Securities accepted all of the consultant’s recommendations and has undertaken implementation. All recommendations were fully implemented by December 2005 without significant expenditures.
+
+May Financial.
+ In October 2004, we closed the May Financial equity trading office in Brighton, Michigan. As a result, we recorded
+approximately $553,000 in disposal costs. Of this amount, approximately $213,000 represented leasehold improvement write-offs, $70,000 represented costs associated with the termination of contracts, $58,000 represented severance and related payroll
+costs paid to the 22 terminated employees, and $212,000 represented lease termination costs. As of February 2, 2005, this space has been subleased under terms similar to the original lease, and as such the lease impairment costs associated with
+the disposal were written down by $32,000 for a total of $180,000.
+
+RESULTS OF OPERATIONS
+
+Consolidated
+
+Net income from continuing operations
+for the fiscal years ended June 29, 2007, June 30, 2006 and June 24, 2005 totaled $37,507,000, $28,637,000 and $28,082,000, respectively, representing an increase of $8,870,000 from fiscal 2006 to 2007 and $555,000 from fiscal
+2005 to 2006. Net income includes income of $102,000, $12,696,000 and $3,250,000 from discontinued operations for fiscal 2007, 2006 and 2005, respectively. Fiscal years 2007, 2006 and 2005 contained 250, 256 and 253 trading days, respectively.
+
+-23-
+
+Table of Contents
+
+The following is a summary of year-to-year increases (decreases) in categories of net revenues and
+operating expenses (dollars in thousands):
+
+Change
+
+2006 to 2007
+
+Change
+
+2005 to 2006
+
+Amount
+
+Percent
+
+Amount
+
+Percent
+
+Net revenues:
+
+Net revenues from clearing operations
+
+$
+
+(2,220
+
+)
+
+(15
+
+)%
+
+$
+
+593
+
+4
+
+%
+
+Commissions
+
+4,882
+
+6
+
+%
+
+1,765
+
+2
+
+%
+
+Net interest
+
+12,787
+
+16
+
+%
+
+15,369
+
+23
+
+%
+
+Investment banking, advisory and administrative fees
+
+3,630
+
+12
+
+%
+
+1,786
+
+6
+
+%
+
+Net gains on principal transactions
+
+(1,042
+
+)
+
+(6
+
+)%
+
+(19,515
+
+)
+
+(54
+
+)%
+
+Other
+
+2,634
+
+11
+
+%
+
+3,254
+
+15
+
+%
+
+$
+
+20,671
+
+8
+
+%
+
+$
+
+3,252
+
+1
+
+%
+
+Operating expenses:
+
+Commissions and other employee compensation
+
+$
+
+14,974
+
+10
+
+%
+
+$
+
+8,571
+
+6
+
+%
+
+Occupancy, equipment and computer service costs
+
+(379
+
+)
+
+(2
+
+)%
+
+(1,643
+
+)
+
+(6
+
+)%
+
+Communications
+
+(236
+
+)
+
+(3
+
+)%
+
+(1,736
+
+)
+
+(16
+
+)%
+
+Floor brokerage and clearing organization charges
+
+342
+
+10
+
+%
+
+(2,221
+
+)
+
+(38
+
+)%
+
+Advertising and promotional
+
+(424
+
+)
+
+(14
+
+)%
+
+(174
+
+)
+
+(5
+
+)%
+
+Other
+
+(5,798
+
+)
+
+(24
+
+)%
+
+(298
+
+)
+
+(1
+
+)%
+
+8,479
+
+4
+
+%
+
+2,499
+
+1
+
+%
+
+Pretax income
+
+$
+
+12,192
+
+28
+
+%
+
+$
+
+753
+
+2
+
+%
+
+Fiscal 2007 versus 2006
+
+Net revenues increased $20,671,000 from fiscal 2006 to fiscal 2007. The largest components of the increase were in commissions, net interest, investment
+banking, advisory and administrative fees and other revenue. The increase in commissions is primarily due to increases in business for both the retail brokerage and the institutional brokerage segments. The increase in net interest revenue is
+primarily due to an increase at the Bank in average loan balances over the prior fiscal year and net interest from our securities lending business. The increase in investment banking, advisory and administrative fees is due to an increase in
+corporate finance fees. Other revenue increased due to the proceeds received from company owned life insurance policies of $2,289,000, an increase in fees from the sale of insurance products of $3,162,000 offset by a decrease in earnings on equity
+investments of $2,544,000. These increases are offset by a decrease in net gains on principal transactions due to the gain of $5,200,000 realized in the third quarter of fiscal 2006 upon the merger of NYSE and Archipelago into NYX. The increases are
+also offset by a decrease in clearing revenues due to decreased revenue from general securities correspondents after the loss of one of our large correspondents to acquisition.
+
+Operating expenses increased $8,479,000 for the twelve-month period ended fiscal 2007 as compared to the same period of fiscal 2006. The largest increase
+was in commissions and other employee compensation, $14,974,000, offset by a decrease in other expenses of $5,798,000. The increase in commissions and other employee compensation is due primarily to the increased variable compensation from increased
+commission and investment banking revenue as well as increased costs of employee benefits. The decrease in other expenses is due primarily to a decrease in legal expenses, the Bank’s loss provisions for loans and real estate owned, audit fees,
+and financial advisory expenses. These decreases were offset by increases in contract labor, check processing expense at the Bank and state non-income taxes.
+
+Fiscal 2006 versus 2005
+
+Net Revenues for fiscal 2006
+increased $3,252,000. The largest fluctuations were in net interest and net gains on principal transactions. Net interest revenue increased $15,369,000 due to an increase in the bank’s average loans outstanding and increased net interest from
+securities lending. Net gains on principal transactions decreased $19,515,000 due primarily to the $18,732,000 gain attributable to the DARTS
+SM
+ maturity
+recorded in the first quarter of fiscal 2005.
+
+-24-
+
+Table of Contents
+
+Overall operating expenses increased $2,499,000 from fiscal 2005 to fiscal 2006, primarily resulting from
+an increase in commissions and other employee compensation. Increased incentive compensation as well as higher health insurance and other benefit plan expenses contributed to the increase in compensation expense. This increase is offset by reduced
+floor brokerage, communications and occupancy, equipment and computer service costs. The decrease in floor brokerage expense is related to reduced clearing fees and the receipt of additional rebates from the Depository Trust Company. The decrease in
+communications expense is due primarily to a decrease in quotation costs from a reduction in headcount in equity trading. Occupancy, equipment and computer service costs decreased due to reduced statement processing costs, rent expense, and leased
+computer equipment and software licenses expenditures offset by the write-off of leasehold improvements upon renovation of our corporate headquarters.
+
+Net Interest Income
+
+Net interest income from the brokerage segments is dependent upon the level of customer and
+stock loan balances as well as the spread between the rates we earn on those assets compared with the cost of funds. Net interest is the primary source of income for the Bank and represents the amount by which interest and fees generated by earning
+assets exceed the cost of funds, primarily interest paid to the Bank’s depositors on interest-bearing accounts. The components of interest earnings are as follows for the fiscal years ended 2007, 2006 and 2005 (dollars in thousands):
+
+2007
+
+2006
+
+2005
+
+Brokerage
+
+$
+
+46,808
+
+$
+
+39,917
+
+$
+
+35,941
+
+Bank
+
+47,971
+
+42,075
+
+30,682
+
+Net interest
+
+$
+
+94,779
+
+$
+
+81,992
+
+$
+
+66,623
+
+Net interest income from the brokerage segments accounted for approximately 17%, 16% and 14% of
+our net revenue for the years ended June 29, 2007, June 30, 2006 and June 24, 2005, respectively. Average balances of interest-earning assets and interest-bearing liabilities are as follows (in thousands):
+
+2007
+
+2006
+
+2005
+
+Average interest-earning assets:
+
+Customer margin balances
+
+$
+
+294,000
+
+$
+
+333,000
+
+$
+
+356,000
+
+Assets segregated for regulatory purposes
+
+287,000
+
+339,000
+
+359,000
+
+Stock borrowed
+
+2,944,000
+
+2,624,000
+
+3,177,000
+
+Average interest-bearing liabilities:
+
+Customer funds on deposit
+
+533,000
+
+551,000
+
+582,000
+
+Stock loaned
+
+2,897,000
+
+2,562,000
+
+3,086,000
+
+Net interest revenue generated by each segment is reviewed in detail in the segment analysis
+below.
+
+Income Tax Expense
+
+For
+fiscal 2007, income tax expense (effective rate of 33.2% for the year ended June 29, 2007) differed from the amount that would otherwise have been calculated by applying the federal corporate tax rate (35%) to income before income taxes
+and minority interest in consolidated subsidiaries. The effective rate was lower than the statutory rate because of the permanently excluded items, primarily tax exempt interest and proceeds from company owned life insurance policies, offset by
+state income taxes deductible for federal income tax purposes.
+
+For fiscal 2006 and 2005, income tax expense approximated the expected
+statutory rate of 35%.
+
+-25-
+
+Table of Contents
+
+Segment Information
+
+The following is a summary of net revenues and pre-tax income by segment for the fiscal periods ended June 29, 2007, June 30, 2006 and June 24, 2005 (dollars in thousands):
+
+June 29,
+2007
+
+% Change
+
+June 30,
+2006
+
+% Change
+
+June 24,
+2005
+
+Net revenues:
+
+Clearing
+
+$
+
+38,677
+
+3
+
+%
+
+$
+
+37,488
+
+4
+
+%
+
+$
+
+36,116
+
+Retail
+
+76,715
+
+10
+
+69,845
+
+12
+
+62,584
+
+Institutional
+
+101,619
+
+21
+
+83,868
+
+3
+
+81,569
+
+Banking
+
+51,106
+
+14
+
+44,748
+
+32
+
+33,838
+
+Other
+
+5,498
+
+(68
+
+)
+
+16,995
+
+(52
+
+)
+
+35,585
+
+Total
+
+$
+
+273,615
+
+8
+
+%
+
+$
+
+252,944
+
+1
+
+%
+
+$
+
+249,692
+
+Pre-Tax Income:
+
+Clearing
+
+$
+
+19,950
+
+21
+
+%
+
+$
+
+16,462
+
+10
+
+%
+
+$
+
+14,971
+
+Retail
+
+13,015
+
+35
+
+9,607
+
+324
+
+2,268
+
+Institutional
+
+29,839
+
+33
+
+22,472
+
+5
+
+21,484
+
+Banking
+
+25,235
+
+24
+
+20,271
+
+43
+
+14,224
+
+Other
+
+(31,826
+
+)
+
+28
+
+(24,791
+
+)
+
+156
+
+(9,679
+
+)
+
+Total
+
+$
+
+56,213
+
+28
+
+%
+
+$
+
+44,021
+
+2
+
+%
+
+$
+
+43,268
+
+Clearing.
+ The following is a summary of the results for the clearing segment for fiscal 2007, 2006
+and 2005:
+
+June 29,
+2007
+
+% Change
+
+June 30,
+2006
+
+% Change
+
+June 24,
+2005
+
+Net revenue from clearing
+
+$
+
+12,444
+
+(15
+
+)%
+
+$
+
+14,664
+
+4
+
+%
+
+$
+
+14,071
+
+Net interest
+
+16,621
+
+24
+
+13,455
+
+(3
+
+)
+
+13,866
+
+Other
+
+9,612
+
+3
+
+9,369
+
+15
+
+8,179
+
+Net revenues
+
+38,677
+
+3
+
+37,488
+
+4
+
+36,116
+
+Operating expenses
+
+18,727
+
+(11
+
+)
+
+21,026
+
+(1
+
+)
+
+21,145
+
+Pre-Tax Income
+
+$
+
+19,950
+
+21
+
+%
+
+$
+
+16,462
+
+10
+
+%
+
+$
+
+14,971
+
+Average customer margin balance
+
+$
+
+195,000
+
+(12
+
+)%
+
+$
+
+222,000
+
+(16
+
+)%
+
+$
+
+265,000
+
+Average customer funds on deposit
+
+$
+
+359,000
+
+(2
+
+)%
+
+$
+
+368,000
+
+—
+
+$
+
+367,000
+
+-26-
+
+Table of Contents
+
+The following table reflects the number of client transactions processed for each of the last three years
+and the number of correspondents at the end of each year:
+
+Fiscal 2007
+
+Fiscal 2006
+
+Fiscal 2005
+
+Tickets for high-volume trading firms
+
+16,460,812
+
+10,691,598
+
+9,816,960
+
+Tickets for general securities broker/dealers
+
+906,266
+
+1,399,019
+
+1,425,141
+
+Total tickets
+
+17,367,078
+
+12,090,617
+
+11,242,101
+
+Correspondents
+
+209
+
+218
+
+224
+
+Fiscal 2007 versus 2006
+
+The clearing segment posted a modest increase in net revenue, up 3%, with a 21% increase in pretax income. Tickets processed increased dramatically over
+the prior year due to increased volume from day trading customers; however, clearing revenue and clearing revenue per ticket were down over the prior year as these customers are charged substantially lower rates than our general securities clients.
+Revenue per ticket was $0.72 in fiscal 2007 versus $1.13 per ticket for fiscal 2006. Also, net revenues from clearing operations were down in fiscal 2007 when compared to fiscal 2006 primarily due to the departure of one our general securities
+customers due to an acquisition in the second quarter of fiscal 2007. This customer accounted for $1.6 million in net revenue and $1.1 million in income for fiscal 2007 and accounted for $4.4 million in net revenue and $2.9 million in income in
+fiscal 2006. In addition, a $400,000 termination fee was paid by this customer increasing other revenue. Additionally, the correspondents we acquired from Ameritrade received reduced rates for clearing for substantially all of fiscal 2007.
+
+Correspondent count was down nine for the year primarily due to correspondents we terminated as well as losses from correspondents leaving
+the brokerage business.
+
+Net interest revenue allocated to the clearing segment increased 24% over the same period of last year. This
+increase was generated by interest allocated to the clearing area from earnings on correspondent receivables as well as growth in the earnings on assets segregated for regulatory purposes, most of which is allocated to the clearing segment. The
+decrease in customer balances is primarily due to the departure of the correspondents discussed above.
+
+Operating expenses for fiscal 2007
+decreased approximately $2,299,000 due primarily to a decrease in information technology and expenses of the operations department allocated to our clearing segment offset by an increase of $849,000 in amortization expenses from the new
+correspondent acquisition from Ameritrade.
+
+Fiscal 2006 versus 2005
+
+The clearing segment’s fiscal 2006 net revenues and pre-tax income increased 4% and 10%, respectively, when compared to fiscal 2005. We processed
+12.1 million trades in fiscal 2006 versus 11.2 million trades in 2005, an increase of 8%. Revenue per ticket decreased from $1.25 in fiscal 2005 to $1.13 in fiscal 2006 as the increased ticket volume was generated from day trading
+correspondents with a lower average ticket charge. Ticket volume for the day traders increased 9% over the prior fiscal year 2005 while volume for general securities correspondents decreased 2%.
+
+In fiscal 2006, net interest revenue allocated to the clearing segment decreased 3% over the same period of fiscal 2005. This decrease was generated by a
+decrease in net interest earned on customer accounts. Net interest revenue from customer balances decreased due to the decrease in average balances of 16%.
+
+Operating expenses for fiscal 2006 did not change significantly from fiscal 2005. The decrease of $119,000 was primarily due to a decrease in statement processing due to a renegotiation of our contract. This decrease
+was offset by an increase in employee compensation.
+
+-27-
+
+Table of Contents
+
+Retail.
+The following is a summary of the results for the retail segment for fiscal 2007, 2006 and 2005:
+
+June 29,
+2007
+
+% Change
+
+June 30,
+2006
+
+% Change
+
+June 24,
+2005
+
+Net revenues:
+
+Private Client Group
+
+Commissions
+
+$
+
+23,988
+
+5
+
+%
+
+$
+
+22,786
+
+14
+
+%
+
+$
+
+19,997
+
+Advisory fees
+
+4,605
+
+24
+
+3,717
+
+39
+
+2,667
+
+Insurance products
+
+3,586
+
+162
+
+1,369
+
+27
+
+1,082
+
+Other
+
+738
+
+4
+
+706
+
+53
+
+461
+
+Net interest revenue
+
+3,641
+
+(5
+
+)
+
+3,821
+
+11
+
+3,447
+
+36,558
+
+13
+
+32,399
+
+17
+
+27,654
+
+Independent registered representatives (SWSF)
+
+Commissions
+
+22,560
+
+4
+
+21,795
+
+9
+
+20,049
+
+Advisory fees
+
+1,607
+
+21
+
+1,325
+
+(32
+
+)
+
+1,951
+
+Insurance products
+
+7,311
+
+11
+
+6,591
+
+13
+
+5,857
+
+Other
+
+885
+
+(20
+
+)
+
+1,101
+
+12
+
+982
+
+Net interest revenue
+
+3,289
+
+22
+
+2,696
+
+27
+
+2,127
+
+35,652
+
+6
+
+33,508
+
+8
+
+30,966
+
+Other
+
+4,505
+
+14
+
+3,938
+
+(1
+
+)
+
+3,964
+
+Total
+
+76,715
+
+10
+
+69,845
+
+12
+
+62,584
+
+Operating expenses
+
+63,700
+
+6
+
+60,238
+
+—
+
+60,316
+
+Pre-tax income
+
+$
+
+13,015
+
+35
+
+%
+
+$
+
+9,607
+
+324
+
+%
+
+$
+
+2,268
+
+Average customer margin balances
+
+$
+
+89,000
+
+(9
+
+)%
+
+$
+
+98,000
+
+7
+
+%
+
+$
+
+92,000
+
+Average customer funds on deposit
+
+$
+
+143,000
+
+(3
+
+)%
+
+$
+
+147,000
+
+(16
+
+)%
+
+$
+
+176,000
+
+Private Client Group representatives
+
+94
+
+(3
+
+)%
+
+97
+
+1
+
+%
+
+96
+
+SWSF representatives
+
+376
+
+—
+
+376
+
+(3
+
+)%
+
+386
+
+Fiscal 2007 versus 2006
+
+Net revenues in the retail segment were up 10% over last year driven by increased commissions, advisory fees and fees from the sale of insurance products.
+While the total number of registered representatives decreased from fiscal 2006 to 2007, our recruiting efforts over the last year have resulted in more productive representatives. Assets under management were $7.2 billion at June 29, 2007 and
+$5.2 billion at June 30, 2006.
+
+Net interest revenue allocated to the retail segment increased 7% over the same period of last year.
+This increase was generated by a growth in the earnings on assets segregated for regulatory purposes.
+
+Commission expense, the primary
+component of operating expenses in this segment, increased in line with the revenue increases in fiscal 2007. The increase was offset by a decrease in legal expenses of $1.2 million from fiscal 2006 to 2007.
+
+Fiscal 2006 versus 2005
+
+Net revenues in the
+retail segment were up 12% in fiscal 2006 over fiscal 2005 driven by increased commissions, advisory fees and fees from the sale of insurance products. The increase in the total number of registered representatives from fiscal 2005 to 2006 and the
+increase in more productive representatives, a result of our recruiting efforts, led to the increases in commissions, advisory fees and fees from the sale of insurance products. Assets under management were $5.2 billion at June 30, 2006 and
+$3.9 billion at June 24, 2005.
+
+-28-
+
+Table of Contents
+
+In fiscal 2006, net interest revenue allocated to the retail segment increased 16% over the same period
+of fiscal 2005. This increase was generated by a growth in the earnings on assets segregated for regulatory purposes.
+
+Commission expense,
+the primary component of operating expenses in this segment, increased in line with the revenue increases in fiscal 2006. The increase was offset by a decrease in legal expenses of $2.8 million from fiscal 2005 to fiscal 2006.
+
+Institutional
+. The following is a summary of the results for the institutional segment for fiscal 2007, 2006 and 2005:
+
+June 29,
+2007
+
+% Change
+
+June 30,
+2006
+
+% Change
+
+June 24,
+2005
+
+Net revenues:
+
+Commissions
+
+Taxable fixed income
+
+$
+
+17,743
+
+35
+
+%
+
+$
+
+13,109
+
+(22
+
+)%
+
+$
+
+16,908
+
+Municipal distribution
+
+6,109
+
+(20
+
+)
+
+7,679
+
+(16
+
+)
+
+9,180
+
+Portfolio Trading
+
+19,610
+
+13
+
+17,336
+
+69
+
+10,279
+
+Other
+
+13
+
+(63
+
+)
+
+35
+
+84
+
+19
+
+43,475
+
+14
+
+38,159
+
+5
+
+36,386
+
+Investment banking fees
+
+21,568
+
+17
+
+18,431
+
+9
+
+16,861
+
+Net gains on principal transactions
+
+13,866
+
+31
+
+10,603
+
+(25
+
+)
+
+14,116
+
+Other
+
+1,154
+
+11,440
+
+10
+
+(77
+
+)
+
+43
+
+Net interest revenue
+
+21,556
+
+29
+
+16,665
+
+18
+
+14,163
+
+Total
+
+101,619
+
+21
+
+83,868
+
+3
+
+81,569
+
+Operating expenses
+
+71,780
+
+17
+
+61,396
+
+2
+
+60,085
+
+Pre-tax income
+
+$
+
+29,839
+
+33
+
+%
+
+$
+
+22,472
+
+5
+
+%
+
+$
+
+21,484
+
+Taxable fixed income representatives
+
+29
+
+164
+
+%
+
+11
+
+10
+
+%
+
+10
+
+Municipal distribution representatives
+
+19
+
+(21
+
+)%
+
+24
+
+(8
+
+)%
+
+26
+
+Fiscal 2007 versus 2006
+
+Net revenues from the institutional segment increased 21% while pre-tax income was up 33% from fiscal 2006 to fiscal 2007. The increased revenues were
+primarily from commissions on the sale of equity and fixed income products, net interest revenue on stock lending activities, fees from investment banking as well as net gains on principal transactions from fixed income products.
+
+Increased commission revenue and net gains on principal transactions in the taxable fixed income area were facilitated by an increase in the number of
+registered representatives in the area as well as a focus on trading more asset-backed securities.
+
+The increase in commissions from
+portfolio trading was driven by larger share volume from the program trading of institutional customers.
+
+Investment banking, advisory and
+administrative fees are up 17% over fiscal 2006 primarily in the corporate finance area. Corporate finance closed several merger and acquisition transactions in fiscal 2007 while fiscal 2006 was a building year for the business.
+
+-29-
+
+Table of Contents
+
+Public finance revenues were up slightly from fiscal 2006. The following table sets forth for the last
+three fiscal years, as reported to the Municipal Securities Rulemaking Board, the number and dollar amounts of municipal bond transactions conducted by Southwest Securities:
+
+Fiscal
+Year
+
+Number of
+Issues
+
+Aggregate
+
+Amount of
+Offerings
+
+2007
+
+650
+
+$51,857,918,000
+
+2006
+
+575
+
+$40,061,976,000
+
+2005
+
+439
+
+$37,850,151,000
+
+In fiscal 2007, net interest revenue allocated to the institutional brokerage segment increased
+29% over the same period of last year. The institutional brokerage segment’s net interest is primarily generated from the company’s securities lending activities. The increase from fiscal 2006 to fiscal 2007 is due primarily to an increase
+in the spread by 7 basis points. The type of securities borrowed or loaned and the interest rate environment influence the spread earned in this business.
+
+Average balances of interest-earning assets and interest-bearing liabilities for the institutional brokerage segment are as follows (in thousands):
+
+2007
+
+2006
+
+2005
+
+Average interest-earning assets:
+
+Stock borrowed
+
+$
+
+2,943,000
+
+$
+
+2,624,000
+
+$
+
+3,177,000
+
+Average interest-bearing liabilities:
+
+Stock loaned
+
+2,897,000
+
+2,562,000
+
+3,086,000
+
+Operating expenses were up 17% from fiscal 2006 to fiscal 2007 primarily due to increases in
+variable compensation and clearing charges.
+
+Fiscal 2006 versus 2005
+
+Net revenues from the institutional segment increased 3% while pre-tax income was up 5% from fiscal 2005 to fiscal 2006. The increased revenues were
+primarily from commissions on the sale of equity products, net interest revenue on stock lending activities and fees from investment banking. Offsetting the increases was a 25% decrease in net gains on principal transactions primarily in the
+portfolio trading department, which had a decrease of $3,513,000 from fiscal 2005 to fiscal 2006. This decrease was due in part to the sale of certain assets of our Institutional Sales/Trading and Research departments in fiscal 2006.
+
+In fiscal 2006, net interest revenue allocated to the institutional brokerage segment increased 18% over the same period of fiscal 2005. The increase in
+net interest is due to the increase in the net spread of 13 basis points offset by reduced average balances.
+
+Operating expenses were up 2%
+from fiscal 2005 to 2006. This increase is due to increased commissions and incentive compensation due to improved net revenue.
+
+Banking.
+ The
+following is a summary of the results for the banking segment for fiscal 2007, 2006 and 2005:
+
+June 29,
+2007
+
+% Change
+
+June 30,
+2006
+
+% Change
+
+June 24,
+2005
+
+Net revenues:
+
+Net interest revenue
+
+$
+
+47,971
+
+14
+
+%
+
+$
+
+42,075
+
+37
+
+%
+
+$
+
+30,682
+
+Other
+
+3,135
+
+17
+
+2,673
+
+(15
+
+)
+
+3,156
+
+Total
+
+51,106
+
+14
+
+44,748
+
+32
+
+33,838
+
+-30-
+
+Table of Contents
+
+June 29,
+2007
+
+% Change
+
+June 30,
+2006
+
+% Change
+
+June 24,
+2005
+
+Operating expenses
+
+25,871
+
+6
+
+24,477
+
+25
+
+19,614
+
+Pre-Tax Income
+
+$
+
+25,235
+
+24
+
+%
+
+$
+
+20,271
+
+43
+
+%
+
+$
+
+14,224
+
+Fiscal 2007 versus 2006
+
+The Bank’s net revenue increased 14% while pre-tax income increased 24% from fiscal 2006 to fiscal 2007.
+
+Net interest revenue generated by the Bank accounted for approximately 17.5% of consolidated net revenue for fiscal 2007. At the Bank, changes in net
+interest revenue are generally attributable to the timing of loan payoffs and volume. Changes in net interest revenue are also a result of average balance changes and the overall interest rate environment.
+
+The Bank’s operating expenses were up 6% from fiscal 2006 to fiscal 2007. This increase is due primarily to increased headcount at the bank offset
+by a reduction in the loss allowances on loans and real estate owned of $1,613,000 and a decrease in legal fees of $733,000. Headcount at the bank was 175 at June 30, 2007 versus 166 at June 30, 2006.
+
+Fiscal 2006 versus 2005
+
+Net revenue and
+pre-tax income increased 32% and 43% from fiscal 2005 to fiscal 2006. This increase is primarily due to the increase in net interest income as discussed in the tables above.
+
+The Bank’s operating expenses were up 25% from fiscal 2005 to fiscal 2006. This increase is due primarily to increase in compensation expense of
+$2,667,000. Increased incentive compensation as well as higher health insurance and other benefit plan expenses contributed to the increase in compensation expense. The Bank had a slight decrease in headcount from 168 at June 30, 2005 to 166 at
+June 30, 2006. The Bank also experienced an increase in other expenses of $1,486,000 from fiscal 2005 to fiscal 2006. This increase is due primarily to an increase in the provision for loan loss of $1,277,000, and an increase in legal fees of
+$593,000 offset by a decrease in audit fees of $268,000.
+
+-31-
+
+Table of Contents
+
+The following table sets forth an analysis of the Bank’s net interest income by each major category
+of interest-earning assets and interest-bearing liabilities for fiscal 2007, 2006 and 2005 (dollars in thousands):
+
+2007
+
+2006
+
+2005
+
+Average
+Balance
+
+Interest
+Income/
+Expense
+
+Yield/
+Rate
+
+Average
+Balance
+
+Interest
+Income/
+Expense
+
+Yield/
+Rate
+
+Average
+Balance
+
+Interest
+Income/
+Expense
+
+Yield/
+Rate
+
+Assets:
+
+Interest-earning assets:
+
+Real estate – mortgage
+
+$
+
+163,701
+
+$
+
+15,514
+
+9.5
+
+%
+
+$
+
+181,324
+
+$
+
+15,663
+
+8.6
+
+%
+
+$
+
+159,165
+
+$
+
+10,822
+
+6.8
+
+%
+
+Real estate – construction
+
+224,720
+
+21,373
+
+9.5
+
+%
+
+176,062
+
+16,493
+
+9.4
+
+%
+
+121,741
+
+9,106
+
+7.5
+
+%
+
+Commercial
+
+303,007
+
+28,713
+
+9.5
+
+%
+
+249,833
+
+21,984
+
+8.8
+
+%
+
+208,349
+
+15,897
+
+7.6
+
+%
+
+Individual
+
+6,591
+
+518
+
+7.9
+
+%
+
+8,807
+
+548
+
+6.2
+
+%
+
+12,324
+
+625
+
+5.1
+
+%
+
+Land
+
+133,966
+
+13,210
+
+9.9
+
+%
+
+97,449
+
+9,209
+
+9.5
+
+%
+
+58,810
+
+4,597
+
+7.8
+
+%
+
+Investments
+
+93,557
+
+4,777
+
+5.1
+
+%
+
+24,581
+
+1,095
+
+4.5
+
+%
+
+19,820
+
+346
+
+1.7
+
+%
+
+$
+
+925,542
+
+84,105
+
+9.1
+
+%
+
+$
+
+738,056
+
+64,992
+
+8.8
+
+%
+
+$
+
+580,209
+
+41,393
+
+7.1
+
+%
+
+Interest-earning assets from discontinued operations
+
+—
+
+20,220
+
+32,042
+
+Noninterest earning assets:
+
+Cash and due from banks
+
+12,556
+
+11,100
+
+8,517
+
+Other assets
+
+22,717
+
+24,067
+
+23,103
+
+$
+
+960,815
+
+$
+
+793,443
+
+$
+
+643,871
+
+Liabilities and Stockholder’s Equity:
+
+Interest-bearing liabilities:
+
+Certificates of deposit
+
+$
+
+80,707
+
+3,454
+
+4.3
+
+%
+
+$
+
+96,936
+
+3,335
+
+3.4
+
+%
+
+$
+
+108,981
+
+3,523
+
+3.2
+
+%
+
+Money market accounts
+
+28,745
+
+952
+
+3.3
+
+%
+
+24,284
+
+626
+
+2.6
+
+%
+
+16,849
+
+219
+
+1.3
+
+%
+
+Interest-bearing demand accounts
+
+106,154
+
+4,201
+
+4.0
+
+%
+
+69,723
+
+1,942
+
+2.8
+
+%
+
+54,108
+
+573
+
+1.1
+
+%
+
+Savings accounts
+
+553,564
+
+24,656
+
+4.5
+
+%
+
+415,756
+
+14,249
+
+3.4
+
+%
+
+312,501
+
+4,395
+
+1.4
+
+%
+
+FHLB advances
+
+56,909
+
+2,883
+
+5.1
+
+%
+
+64,865
+
+2,765
+
+4.3
+
+%
+
+55,009
+
+2,056
+
+3.7
+
+%
+
+826,079
+
+36,146
+
+4.4
+
+%
+
+671,564
+
+22,917
+
+3.4
+
+%
+
+547,448
+
+10,766
+
+2.0
+
+%
+
+Noninterest bearing liabilities:
+
+Non interest-bearing demand accounts
+
+47,556
+
+41,046
+
+28,743
+
+Other liabilities
+
+7,732
+
+7,197
+
+4,642
+
+881,367
+
+719,807
+
+580,833
+
+Stockholder’s equity
+
+79,448
+
+73,636
+
+63,038
+
+$
+
+960,815
+
+$
+
+793,443
+
+$
+
+643,871
+
+Net interest income
+
+$
+
+47,959
+
+$
+
+42,075
+
+$
+
+30,627
+
+Net yield on interest-earning assets
+
+5.2
+
+%
+
+5.7
+
+%
+
+5.3
+
+%
+
+Interest rate trends, changes in the economy and competition and the scheduled maturities and
+interest rate sensitivity of the loan portfolios and deposits affect the spreads earned by the Bank.
+
+-32-
+
+Table of Contents
+
+The following table sets forth a summary of the changes in the Bank’s interest earned and interest
+paid resulting from changes in volume and rate (in thousands):
+
+2006 to 2007
+
+2005 to 2006
+
+Total
+
+Change
+
+Attributed to
+
+Total
+
+Change
+
+Attributed to
+
+Volume
+
+Rate
+
+Mix
+
+Volume
+
+Rate
+
+Mix
+
+Interest income:
+
+Real estate – mortgage
+
+$
+
+(149
+
+)
+
+$
+
+(1,522
+
+)
+
+$
+
+1,521
+
+$
+
+(148
+
+)
+
+$
+
+4,841
+
+$
+
+1,507
+
+$
+
+2,927
+
+$
+
+407
+
+Real estate – construction
+
+4,880
+
+4,558
+
+252
+
+70
+
+7,387
+
+4,063
+
+2,298
+
+1,026
+
+Commercial
+
+6,729
+
+4,679
+
+1,690
+
+360
+
+6,087
+
+3,165
+
+2,437
+
+485
+
+Individual
+
+(30
+
+)
+
+(138
+
+)
+
+144
+
+(36
+
+)
+
+(77
+
+)
+
+(178
+
+)
+
+142
+
+(41
+
+)
+
+Land
+
+4,001
+
+3,451
+
+400
+
+150
+
+4,612
+
+3,021
+
+960
+
+631
+
+Investments
+
+3,682
+
+3,112
+
+162
+
+408
+
+749
+
+77
+
+537
+
+135
+
+19,113
+
+14,140
+
+4,169
+
+804
+
+23,599
+
+11,655
+
+9,301
+
+2,643
+
+Interest expense:
+
+Certificates of deposit
+
+119
+
+(558
+
+)
+
+813
+
+(136
+
+)
+
+(188
+
+)
+
+(389
+
+)
+
+226
+
+(25
+
+)
+
+Money market accounts
+
+326
+
+115
+
+178
+
+33
+
+407
+
+96
+
+216
+
+95
+
+Interest-bearing demand accounts
+
+2,259
+
+1,015
+
+817
+
+427
+
+1,369
+
+165
+
+934
+
+270
+
+Savings accounts
+
+10,407
+
+4,723
+
+4,269
+
+1,415
+
+9,854
+
+1,452
+
+6,315
+
+2,087
+
+FHLB advances
+
+118
+
+(218
+
+)
+
+638
+
+(302
+
+)
+
+709
+
+390
+
+281
+
+38
+
+13,229
+
+5,077
+
+6,715
+
+1,437
+
+12,151
+
+1,714
+
+7,972
+
+2,465
+
+Net interest income
+
+$
+
+5,884
+
+$
+
+9,063
+
+$
+
+(2,546
+
+)
+
+$
+
+(633
+
+)
+
+$
+
+11,448
+
+$
+
+9,941
+
+$
+
+1,329
+
+$
+
+178
+
+Other.
+ Pre-tax loss from the other category was $31.8 million in fiscal 2007 compared to $24.8
+million in fiscal 2006. The variance is due primarily to the gain, of $5.2 million, on the NYX stock recorded in March 2006, reduced earnings from our corporate equity investments of $2.5 million and increased executive management incentive
+compensation of $3.6 million.
+
+Pre-tax loss from the other category increased
+$15,112,000 from fiscal 2005 to 2006. This decrease is due primarily to the $18,732,000 recognized upon maturity of the DARTS
+SM
+ during the first quarter of
+fiscal 2005. Offsetting this decrease was an increase due to the gain reported on the NYX restricted stock of $4,433,000 in fiscal 2006.
+
+FINANCIAL CONDITION
+
+Loans and Allowance for Probable Loan Losses.
+
+The Bank grants loans to customers primarily within North Texas. The Bank also purchases loans, in the ordinary course of business, which have been
+originated in various other areas of the United States. Although the Bank has a diversified loan portfolio, a substantial portion of its debtors’ ability to honor their contracts is dependent upon the general economic conditions of the North
+Texas area. Substantially all of the Bank’s loans are collateralized with real estate.
+
+The allowance for probable loan losses is
+increased by charges to income and decreased by charge-offs (net of recoveries). Management’s periodic evaluation of the adequacy of the allowance is based on the Bank’s past loan loss experience, known and inherent risks in the portfolio,
+adverse situations that may affect the borrower’s ability to repay, the estimated value of any underlying collateral, and current economic conditions.
+
+-33-
+
+Table of Contents
+
+Loans receivable at June 30, 2007, 2006, 2005, 2004 and 2003 are summarized as follows (in
+thousands):
+
+2007
+
+2006
+
+2005
+
+2004
+
+2003
+
+Real estate – mortgage
+
+$
+
+201,635
+
+$
+
+177,587
+
+$
+
+225,256
+
+$
+
+135,307
+
+$
+
+231,023
+
+Real estate – construction
+
+284,969
+
+250,664
+
+168,343
+
+140,330
+
+109,968
+
+Commercial
+
+262,233
+
+210,641
+
+197,045
+
+155,290
+
+139,476
+
+Individuals(*)
+
+4,810
+
+4,553
+
+95,382
+
+69,133
+
+47,154
+
+Land
+
+150,403
+
+123,970
+
+77,854
+
+41,980
+
+39,652
+
+$
+
+904,050
+
+$
+
+767,415
+
+$
+
+763,880
+
+$
+
+542,040
+
+$
+
+567,273
+
+(*)
+
+The decrease is due to the sale of FSB Financial in fiscal 2006. See
+Note 1(v)
+ in the Notes to the Consolidated Financial Statements contained in this Report.
+
+The following table shows the scheduled maturities of certain loans at June 30, 2007, and segregates those loans with
+fixed interest rates from those with floating or adjustable rates (in thousands):
+
+1 year
+
+or less
+
+1-5
+
+years
+
+Over 5
+Years
+
+Total
+
+Real estate – construction
+
+$
+
+237,286
+
+$
+
+24,272
+
+$
+
+23,411
+
+$
+
+284,969
+
+Commercial
+
+59,115
+
+117,676
+
+85,442
+
+262,233
+
+Total
+
+$
+
+296,401
+
+$
+
+141,948
+
+$
+
+108,853
+
+$
+
+547,202
+
+Amount of loans based upon:
+
+Fixed interest rates
+
+$
+
+13,644
+
+$
+
+39,831
+
+$
+
+35,996
+
+$
+
+89,471
+
+Floating or adjustable interest rates
+
+282,757
+
+102,117
+
+72,857
+
+457,731
+
+Total
+
+$
+
+296,401
+
+$
+
+141,948
+
+$
+
+108,853
+
+$
+
+547,202
+
+Loans are classified as non-performing when they are 90 days or more past due as to principal or
+interest or when reasonable doubt exists as to timely collectibility. The Bank uses a standardized review process to determine which loans should be placed on non-accrual status. At the time a loan is placed on non-accrual status, previously accrued
+and uncollected interest is reversed against interest income. Interest income on non-accrual loans is subsequently recognized to the extent cash payments are received for loans that ultimate full collection is likely. For loans where ultimate
+collection is not likely, interest payments are applied to the outstanding principal and income is only recognized if full payment is made.
+
+-34-
+
+Table of Contents
+
+Non-performing assets as of June 30, 2007, 2006, 2005, 2004 and 2003 are as follows (dollars in thousands):
+
+2007
+
+2006
+
+2005
+
+2004
+
+2003
+
+Loans accounted for on a non-accrual basis
+ (*)
+
+1-4 family
+
+$
+
+1,064
+
+$
+
+1,546
+
+$
+
+960
+
+$
+
+292
+
+$
+
+782
+
+Lot and land development
+
+1,714
+
+109
+
+160
+
+106
+
+22
+
+Multifamily
+
+4,758
+
+3
+
+21
+
+16
+
+—
+
+Interim construction
+
+5,616
+
+788
+
+—
+
+—
+
+579
+
+Commercial real estate
+
+5,012
+
+1,357
+
+1,116
+
+2,851
+
+5,506
+
+Commercial loans
+
+922
+
+309
+
+317
+
+683
+
+3,637
+
+Consumer loans
+
+51
+
+3
+
+2,375
+
+698
+
+1,166
+
+19,137
+
+4,115
+
+4,949
+
+4,646
+
+11,692
+
+Non-performing loans as a percentage of total loans
+
+2.1
+
+%
+
+0.6
+
+%
+
+0.7
+
+%
+
+1.0
+
+%
+
+2.1
+
+%
+
+Loans past due 90 days or more, not included above
+
+$
+
+32
+
+$
+
+334
+
+$
+
+804
+
+$
+
+599
+
+$
+
+5,069
+
+Troubled debt restructurings
+
+$
+
+2,431
+
+$
+
+1,785
+
+$
+
+2,027
+
+$
+
+2,280
+
+$
+
+5,746
+
+Non-performing assets
+
+$
+
+21,600
+
+$
+
+6,234
+
+$
+
+7,780
+
+$
+
+7,525
+
+$
+
+22,507
+
+Non-performing assets as a percentage of total assets
+
+2.0
+
+%
+
+0.8
+
+%
+
+1.0
+
+%
+
+1.2
+
+%
+
+3.5
+
+%
+
+(*)
+
+The increase in
+non-accrual loans from fiscal 2006 to 2007 includes $5,114,000 in loans to one home builder, $4,758,000 in one multi-family loan, and $3,005,000 in two commercial real estate loans.
+
+Approximately $789,000, $253,000 and $180,000 of gross interest income would have been recorded in fiscal 2007, 2006 and 2005, respectively, had the
+non-accrual loans been recorded in accordance with their original terms. Interest income recorded on the non-accrual loans in fiscal 2007, 2006 and 2005 totaled approximately $807,000, $84,000 and $20,000, respectively. Approximately $97,000 of
+gross interest income would have been recorded in fiscal 2005, respectively, had FSB Financial’s non-accrual loans been recorded in accordance with their original terms. Interest income recorded on FSB Financial’s non-accrual loans in
+fiscal 2005 totaled approximately $477,000.
+
+-35-
+
+Table of Contents
+
+An analysis of the allowance for probable loan losses for the years ended June 30, 2007, 2006, 2005,
+2004 and 2003 is as follows (dollars in thousands):
+
+2007
+
+2006
+
+2005
+
+2004
+
+2003
+
+Balance at beginning of year
+
+$
+
+5,047
+
+$
+
+7,450
+
+$
+
+4,643
+
+$
+
+4,421
+
+$
+
+4,758
+
+Continuing operations:
+
+Charge-offs:
+
+Real estate – construction
+
+—
+
+50
+
+96
+
+45
+
+100
+
+Real estate – mortgage
+
+224
+
+148
+
+—
+
+123
+
+—
+
+Commercial
+
+131
+
+261
+
+1,183
+
+392
+
+2,598
+
+Individuals
+
+31
+
+3
+
+92
+
+7
+
+1
+
+386
+
+462
+
+1,371
+
+567
+
+2,699
+
+Recoveries:
+
+Real estate – mortgage
+
+8
+
+3
+
+—
+
+—
+
+—
+
+Commercial
+
+160
+
+67
+
+718
+
+212
+
+—
+
+Real estate – construction
+
+16
+
+—
+
+—
+
+—
+
+—
+
+Individuals
+
+1
+
+—
+
+—
+
+—
+
+—
+
+185
+
+70
+
+718
+
+212
+
+—
+
+Net charge-offs
+
+(201
+
+)
+
+(392
+
+)
+
+(653
+
+)
+
+(355
+
+)
+
+(2,699
+
+)
+
+Additions charged to operations
+
+651
+
+1,624
+
+836
+
+298
+
+2,289
+
+450
+
+1,232
+
+183
+
+(57
+
+)
+
+(410
+
+)
+
+Discontinued operations:
+
+Provision for loan losses
+
+—
+
+5,877
+
+5,563
+
+3,142
+
+1,227
+
+Loans charged to the allowance, net
+
+—
+
+(5,781
+
+)
+
+(2,939
+
+)
+
+(2,863
+
+)
+
+(1,154
+
+)
+
+Sale of FSB Financial
+
+—
+
+(3,731
+
+)
+
+—
+
+—
+
+—
+
+—
+
+(3,635
+
+)
+
+2,624
+
+279
+
+73
+
+Balance at end of year
+
+$
+
+5,497
+
+$
+
+5,047
+
+$
+
+7,450
+
+$
+
+4,643
+
+$
+
+4,421
+
+Ratio of net charge-offs during the period to average loans outstanding during the period
+
+0.02
+
+%
+
+0.1
+
+%
+
+0.1
+
+%
+
+0.1
+
+%
+
+0.1
+
+%
+
+The allowance for probable loan losses is applicable to the following types of loans as of
+June 30, 2007, 2006, 2005, 2004 and 2003 (dollars in thousands):
+
+2007
+
+2006
+
+2005
+
+2004
+
+2003
+
+Amount
+
+Percent
+of loans
+to total
+loans
+
+Amount
+
+Percent
+of loans
+to total
+loans
+
+Amount
+
+Percent
+of loans
+to total
+loans
+
+Amount
+
+Percent
+of loans
+to total
+loans
+
+Amount
+
+Percent
+of loans
+to total
+loans
+
+Commercial
+
+$
+
+2,795
+
+29.1
+
+%
+
+$
+
+1,954
+
+27.5
+
+%
+
+$
+
+1,446
+
+25.7
+
+%
+
+$
+
+1,473
+
+28.7
+
+%
+
+$
+
+1,711
+
+24.7
+
+%
+
+Real estate – construction
+
+1,087
+
+31.5
+
+1,178
+
+32.6
+
+1,033
+
+22.0
+
+799
+
+25.8
+
+970
+
+19.4
+
+Real estate – mortgage & land
+
+1,588
+
+38.9
+
+1,914
+
+39.3
+
+1,313
+
+39.5
+
+1,347
+
+32.7
+
+987
+
+47.5
+
+Individuals (*)
+
+27
+
+0.5
+
+1
+
+0.6
+
+3,658
+
+12.8
+
+1,024
+
+12.8
+
+753
+
+8.4
+
+$
+
+5,497
+
+100.0
+
+%
+
+$
+
+5,047
+
+100.0
+
+%
+
+$
+
+7,450
+
+100.0
+
+%
+
+$
+
+4,643
+
+100.0
+
+%
+
+$
+
+4,421
+
+100.0
+
+%
+
+(*)
+
+The decrease is due to the sale of FSB Financial in fiscal 2006. See
+Note 1(v)
+ in the Notes to the Consolidated Financial Statements contained in this Report.
+
+Deposits
+
+Average
+deposits and the average interest rate paid on the deposits for fiscal years 2007, 2006 and 2005 can be found in the discussion of the Bank’s net interest income under the caption “-Results of Operations-Net Interest Income-Banking.”
+
+Certificates of deposit of $100,000 or greater were $24,427,000 and $25,591,000 at June 30, 2007 and 2006, respectively. The Bank
+funds its loans through short-term borrowings at the FHLB, internally generated deposits, brokered certificates of deposit and funds on deposit in an FDIC insured interest bearing checking account from Southwest Securities’ brokerage customers.
+The Bank has in excess of $700 million ($730,000,000 at June 30, 2007) in funds on deposit from customers of Southwest Securities. This funding source has reduced the Bank’s reliance on short-term borrowings from the FHLB and brokered
+certificates of deposit.
+
+-36-
+
+Table of Contents
+
+Advances from Federal Home Loan Bank
+
+The Bank has historically financed its short-term borrowing needs through advances from the FHLB. They are currently financing their short-term borrowing needs through deposits from customers of Southwest Securities,
+see discussion above. This table represents advances from the FHLB which were due within one year (generally two to seven days) during the 12-month periods ended June 30, 2007, 2006 and 2005 (dollars in thousands):
+
+2007
+
+2006
+
+2005
+
+Amount
+
+Interest
+Rate
+
+Amount
+
+Interest
+Rate
+
+Amount
+
+Interest
+Rate
+
+At June 30
+
+$
+
+—
+
+—
+
+%
+
+$
+
+9,753
+
+3.07
+
+%
+
+$
+
+58,731
+
+3.34
+
+%
+
+Average during year
+
+4,814
+
+3.14
+
+%
+
+28,460
+
+3.67
+
+%
+
+20,446
+
+2.87
+
+%
+
+Maximum month-end balance during year
+
+18,127
+
+—
+
+77,442
+
+—
+
+86,061
+
+—
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Brokerage
+
+A substantial portion of our assets are highly liquid in nature and consist mainly of cash
+or assets readily convertible into cash. Our equity capital, short-term bank borrowings, interest bearing and non-interest bearing client credit balances, correspondent deposits and other payables finance these assets. We maintain an allowance for
+doubtful accounts which represents amounts that are necessary in the judgment of management to adequately absorb losses from known and inherent risks in receivables from clients, clients of correspondents and correspondents. The highly liquid nature
+of our assets provides us with flexibility in financing and managing our anticipated operating needs.
+
+Short-Term Borrowings.
+
+We have credit arrangements with commercial banks, which include broker loan lines of up to $275,000,000. These lines of credit are used primarily to finance securities owned, securities held for correspondent broker/dealer accounts and receivables
+in customers’ margin accounts. These credit arrangements are provided on an “as offered” basis and are not committed lines of credit. Outstanding balances under these credit arrangements are due on demand, bear interest at rates
+indexed to the federal funds rate and are collateralized by securities of Southwest Securities and its clients. At June 29, 2007, the amount outstanding under these secured arrangements was $4,000,000, which was collateralized by securities
+held for firm accounts valued at $38,849,000.
+
+We have unsecured letters of credit, aggregating $250,000 at June 29, 2007, pledged to
+support our open positions with securities clearing organizations. The unsecured letters of credit bear a 1% commitment fee and are renewable semi-annually.
+
+At June 29, 2007, we had an additional unsecured letter of credit issued for a sub-lease to the sub-lessee of space previously occupied by a former subsidiary in the amount of $571,000. This letter of credit
+bears a 1% commitment fee and is renewable annually.
+
+In addition to the broker loan lines, we also have a $20,000,000 unsecured line of
+credit that is due on demand and bears interest at rates indexed to the federal funds rate. The total amount of borrowings available under this line of credit is reduced by the amount outstanding under the unsecured letters of credit at the time of
+borrowing. There were no amounts outstanding on this line other than $821,000 for unsecured letters of credit at June 29, 2007. At June 29, 2007, the total amount available for borrowings was $19,179,000.
+
+We have an irrevocable letter of credit agreement (aggregating $48,000,000 at June 29, 2007) pledged to support our open options positions with an
+options clearing organization. The letter of credit bears interest at the brokers’ call rate, (0.5% at June 29, 2007), if drawn, and is renewable semi-annually. This letter of credit is fully collateralized by marketable securities held in
+client and non-client margin accounts with a value of $66,381,000 at June 29, 2007.
+
+-37-
+
+Table of Contents
+
+In the opinion of management, these credit arrangements are adequate to meet our operating capital needs
+of the brokerage segments for the foreseeable future.
+
+Net Capital Requirements.
+
+Our broker/dealer subsidiaries are subject
+to the requirements of the SEC relating to liquidity, capital standards and the use of client funds and securities. The amount of the broker/dealer subsidiaries’ net assets that may be distributed is subject to restrictions under applicable net
+capital rules. Historically, we have operated in excess of the minimum net capital requirements. See
+Note 19
+in the Notes to the Consolidated Financial Statements contained in this Report.
+
+Banking
+
+Liquidity is monitored daily to ensure the
+Bank’s ability to support asset growth, meet deposit withdrawals, maintain reserve requirements and otherwise sustain operations. The Bank’s liquidity is maintained in the form of readily marketable loans, balances with the FHLB and vault
+cash. In addition, the Bank has borrowing capacity with the FHLB and a $30,000,000 federal funds agreement for the purpose of purchasing short-term funds should additional liquidity be needed. Current net available borrowing capacity at FHLB is
+$214,979,000. Management believes that the Bank’s present position is adequate to meet its current and future liquidity needs.
+
+The
+Bank’s asset and liability management policy is intended to manage interest rate risk. The Bank accomplishes this through management of the repricing of its interest-earning assets and its interest-bearing liabilities. Overall interest rate
+risk is monitored through reports showing both sensitivity ratios, a simulation model, and existing “gap” data. (See the Bank’s gap analysis in “Risk Management—Market Risk—Interest Rate Risk.”) At June 30,
+2007, $729,672,000 of the Bank’s deposits were from the brokerage customers of Southwest Securities. Events in the securities markets could impact the amount of these funds available to the Bank.
+
+The Bank is subject to capital standards imposed by regulatory bodies, including the OTS and the FDIC. The Bank has historically met all the capital
+adequacy requirements to which it is subject.
+
+Borrowings
+.
+ In June 2005, the Bank entered into an agreement with an
+unaffiliated bank for a $20,000,000 unsecured line of credit for the purchase of federal funds. The line bears interest at a rate equal to the federal funds rate plus 0.25%. In the third quarter ended March 31, 2006, the agreement was amended
+to increase the available credit to $30,000,000. Beginning in the second quarter of 2007, the interest rate charged on borrowed funds is at a rate quoted by the unaffiliated bank and accepted by the Bank. The unaffiliated bank is not obligated by
+this agreement to sell federal funds to the Bank. The agreement is being used by the Bank to support short-term liquidity needs. At June 30, 2007 and 2006, there were no amounts outstanding on this line of credit.
+
+Off-Balance Sheet Arrangements
+
+Off-balance sheet
+arrangements, as defined by the SEC, include certain contractual arrangements pursuant to which a company has a binding obligation which is not reflected on the balance sheet. Included are contingent obligations, certain guaranteed contracts,
+retained or contingent interest in assets transferred to an unconsolidated entity, certain derivative instruments classified as equity or material variable interests in unconsolidated entities that provide financing, liquidity, market risk or credit
+risk support. We generally do not enter into off-balance sheet arrangements, as defined, other than those described in the Contractual Obligations and Contingent Payments section below. In addition, our broker-dealer subsidiaries enter into
+transactions in the normal course of business that expose us to off-balance sheet risk. See
+Note 24
+in the Notes to Consolidated Financial Statements contained in this Report.
+
+-38-
+
+Table of Contents
+
+Contractual Obligations and Contingent Payments (in thousands):
+
+Payments Due
+
+Total
+
+Less than 1 year
+
+1-3 years
+
+3-5 years
+
+More than 5 years
+
+Long-term debt
+ (1)
+
+$
+
+66,989
+
+$
+
+ —
+
+$
+
+696
+
+$
+
+17,202
+
+$
+
+49,091
+
+Interest on long- term debt
+(2)
+
+45,420
+
+—
+
+7,041
+
+6,096
+
+32,283
+
+Operating leases
+(3)
+
+49,388
+
+7,171
+
+11,316
+
+7,606
+
+23,295
+
+Equity investment commitments
+
+3,100
+
+3,100
+
+—
+
+—
+
+—
+
+Purchase obligations
+
+24,470
+
+16,032
+
+8,262
+
+176
+
+—
+
+Deferred compensation
+(4)
+
+1,501
+
+158
+
+464
+
+631
+
+248
+
+Total
+
+$
+
+190,868
+
+$
+
+26,461
+
+$
+
+27,779
+
+$
+
+31,711
+
+$
+
+104,917
+
+(1)
+
+Long-term debt is
+comprised of Advances from the FHLB with maturities greater than one year.
+
+(2)
+
+Amount of interest payable on the Advances from the FHLB is based on rates ranging
+from 3.29% to 7.71%.
+
+(3)
+
+Of the $49.4 million in lease commitments, approximately $2.5 million has been
+reserved for as impaired.
+
+(4)
+
+We have commitments to our
+employees for deferred compensation in the amount of $1,501,000 that become payable in future years as defined by the plan and determined by participants who have formally requested payment of balance. See Note 20 in the Notes to the Consolidated
+Financial Statements contained in this Report.
+
+Cash Flow
+
+Net cash provided by operating activities totaled $36,926,000 in fiscal 2007 and $87,083,000 in fiscal 2006. In fiscal 2005, $164,266,000 of cash was used
+in operating activities. The primary reasons for the decrease in cash from operating activities from fiscal 2006 to fiscal 2007 were:
+
+•
+
+an increase in the Bank’s investment in loans held for sale and
+
+•
+
+a larger net receivable from brokers, dealers and clearing organizations.
+
+These items were offset by a reduced investment in assets segregated for regulatory purposes and an increase in the use of reverse repurchase agreements
+to finance our securities trading.
+
+The primary reasons for the increase in cash from operating activities from fiscal 2005 to fiscal 2006
+were:
+
+•
+
+Reduced investment in loans held for sale of $47,149,000;
+
+•
+
+Reduced net customer margin balances of $6,000,000 and securities lending and other broker/dealer balances of $54,000,000 as compared to fiscal 2005;
+
+•
+
+Increased firm inventory financed by reverse repurchase agreements of $34,746,000;
+
+•
+
+An decrease in securities owned of $13,041,000 in fiscal 2006; and
+
+•
+
+Increased assets segregated for regulatory purposes of $14,240,000.
+
+Net cash used in investing activities was $119,740,000, $30,306,000 and $143,732,000 in fiscal 2007, 2006 and 2005, respectively. In fiscal 2007, 2006 and 2005, the Bank’s net increase in its loan portfolio was
+the primary reason for the change as well as our purchase of correspondent clients of Ameritrade and the elimination of cash provided by our discontinued operations. In fiscal 2006, the net use of cash was offset by cash provided by the discontinued
+operations of FSB Financial of $104,776,000 from the sale of FSB Financial’s loan portfolio.
+
+Net cash provided by financing
+activities totaled $169,900,000 in fiscal 2007, compared to net cash used in financing activities of $38,148,000 in fiscal 2006. In fiscal 2005, the company’s net cash provided by financing activities totaled $242,454,000. In fiscal 2007, the
+increase in cash proceeds was primarily related to the increase in cash proceeds from deposits at the Bank, increased net advances from the FHLB and an increase in proceeds from the options exercised by our employees. These increases were offset by
+an increase in dividends paid to shareholders. In fiscal 2006, the use of cash was primarily related to the reduced reliance on borrowings by the Bank from the
+
+-39-
+
+Table of Contents
+
+FHLB due to cash inflows from Southwest Securities’ customers, reduced borrowings on the broker/dealer’s secured broker loan lines as well as the
+payment of a special dividend to SWS group stockholders. Increased deposits at the Bank and cash flows from the sale of FSB Financial helped to mitigate the impact of the cash outflows to reduce borrowings.
+
+We expect that cash flows provided by operating activities as well as short-term borrowings will be the primary source of working capital for the next
+year.
+
+Treasury Stock
+
+Periodically, we
+repurchase our common stock under a plan approved by our Board of Directors. Currently, we have authorization, which will expire June 30, 2008, to repurchase up to 500,000 shares.
+
+Additionally, the trustee under our deferred compensation plan periodically purchases stock in the open market in accordance with the terms of the plan.
+This stock is classified as treasury stock in our consolidated financial statements, but participates in future dividends declared by us. During fiscal year 2007, the plan purchased 44,333 shares at a cost of $962,000, or $21.69 per share. During
+fiscal 2007, 20,009 shares were sold or distributed pursuant to the plan. See “Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities-Issuer Purchases of Equity Securities.”
+
+As restricted stock grants vest, some of the grantees choose to sell a portion of their vested shares to cover the tax liabilities arising
+from such vesting. As a result, in fiscal 2007, 13,581 shares were repurchased by the company with a market value of approximately $239,000 or $17.60 per share to cover tax liabilities.
+
+Inflation
+
+The company’s assets are primarily monetary, consisting of cash, securities
+inventory, and receivables from customers and brokers and dealers. These monetary assets are generally liquid and turn over rapidly and, consequently, are not significantly affected by inflation. The rate of inflation affects various expenses of the
+company, such as employee compensation and benefits, communications, and occupancy and equipment, which may not be readily recoverable in the price of our services. However, changes in inflation do not materially impact our overall net income.
+
+RISK MANAGEMENT
+
+We manage risk
+exposure through the involvement of various levels of management. We establish, maintain and regularly monitor maximum positions by industry and issuer in both trading and inventory accounts. Current and proposed underwriting, banking and other
+commitments are subject to due diligence reviews by senior management, as well as professionals in the appropriate business and support units involved. The Bank seeks to reduce the risk of significant adverse effects of market rate fluctuations by
+minimizing the difference between rate-sensitive assets and liabilities, referred to as “gap”, by maintaining an interest rate sensitivity position within a particular timeframe. Credit risk related to various financing activities is
+reduced by the industry practice of obtaining and maintaining collateral. We monitor our exposure to counterparty risk through the use of credit information, the monitoring of collateral values and the establishment of credit limits. We have
+established various risk management committees that are responsible for reviewing and managing risk related to interest rates, trading positions, margin and other credit risk and risks from capital market transactions.
+
+Credit Risk
+
+Brokerage.
+ Credit risk
+arises from the potential nonperformance by counterparties, customers or debt security issuers. We are exposed to credit risk as a trading counterparty and as a stock loan counterparty to dealers and customers, as a holder of securities and as a
+member of exchanges and clearing organizations. Credit exposure is also associated with customer margin accounts, which are monitored daily. We monitor exposure to individual securities and perform sensitivity analysis on a regular basis in
+connection with our margin lending activities. We adjust our margin requirements if we believe our risk exposure is not appropriate based on market conditions.
+
+Banking.
+ Credit risk is the possibility that a borrower or counterparty will fail to meet its obligations in accordance with agreed terms and is inherent in all types of lending. The Bank has developed
+and implemented extensive policies and procedures to provide a robust process for proactively managing credit risk. These policies and procedures include underwriting guidelines, credit and collateral tracking, detailed loan approval procedures
+which
+
+-40-
+
+Table of Contents
+
+include officer and director loan committees. The Bank also maintains a detailed loan review process to monitor the quality of the loan portfolio. The Bank
+grants loans to customers primarily within the Dallas/Fort Worth metropolitan area. Also, the Bank purchases loans, which have been originated in other areas of the United States. Although the Bank has a diversified loan portfolio, a substantial
+portion of its debtors’ ability to honor their contracts is dependent upon the general economic conditions of the North Texas area. Policies and procedures, which are in place to manage credit risk, are designed to be responsive to changes in
+these economic conditions.
+
+Operational Risk
+
+Operational risk refers generally to risk of loss resulting from our operations, including but not limited to, improper or unauthorized execution and processing of transactions, deficiencies in our operating systems, and inadequacies or
+breaches in our control processes. We operate in diverse markets and are reliant on the ability of our employees and systems to process large numbers of transactions. In order to mitigate and control operational risk, we have developed and continue
+to enhance specific policies and procedures that are designed to identify and manage operational risk at appropriate levels. We also use periodic self-assessments and internal audit examinations as further reviews of the effectiveness of our
+controls and procedures in mitigating our operational risk.
+
+Legal Risk
+
+Legal risk includes the risk of non-compliance with applicable legal and regulatory requirements. We are subject to extensive regulation in the different
+jurisdictions in which we conduct business. We have established procedures based on legal and regulatory requirements that are designed to reasonably ensure compliance with all applicable statutory and regulatory requirements. We also have
+established procedures that are designed to ensure that executive management’s policies relating to conduct, ethics and business practices are followed. In connection with our business, we have various procedures addressing significant issues
+such as regulatory capital requirements, sales and trading practices, new products, use and safekeeping of customer funds and securities, granting credit, collection activities, money laundering, privacy and record keeping.
+
+Market Risk
+
+Market risk generally represents the
+risk of loss that may result from the potential change in value of a financial instrument as a result of fluctuations in interest rates, equity prices, investor expectations and changes in credit ratings of the issuer. Our exposure to market risk is
+directly related to our role as a financial intermediary in customer-related transactions and to our proprietary trading activities.
+
+Interest Rate Risk
+/
+Brokerage.
+ Interest rate risk is a consequence of maintaining inventory positions and trading in interest-rate-sensitive financial instruments. Our fixed income activities also
+expose us to the risk of loss related to changes in credit spreads. Credit spread risk arises from the potential that changes in an issuer’s credit rating or credit perception could affect the value of financial instruments.
+
+Banking.
+ Our primary emphasis in interest rate risk management for the Bank is the matching of assets and liabilities of similar cash flow
+and re-pricing time frames. This matching of assets and liabilities reduces exposure to rate movements and aids in stabilizing positive interest spreads. We strive to structure our balance sheet as a natural hedge by matching floating rate assets
+with variable short term funding and by matching fixed rate liabilities with similar longer term fixed rate assets. The Bank has established percentage change limits in both interest margin and net portfolio value. To verify that the Bank is
+within the limits established for interest margin, the Bank prepares an analysis of net interest margin based on various shifts in interest rates. To verify that the Bank is within the limits established for net portfolio value, the Bank
+analyzes data prepared by the OTS for interest rate sensitivity of the Bank’s net portfolio. These analyses are conducted on a monthly basis for the Bank’s Board of Directors.
+
+-41-
+
+Table of Contents
+
+The following table illustrates the estimated change in net interest margin based on shifts in interest
+rates of positive 300 basis points and negative 200 basis points:
+
+Hypothetical Change in Interest Rates
+
+Projected Change in Net Interest Margin
+
++300
+
+1.32%
+
++200
+
+0.88%
+
++100
+
+0.44%
+
+0
+
+0%
+
+-100
+
+-0.43%
+
+-200
+
+-0.86%
+
+The following GAP Analysis table indicates the Bank’s interest rate sensitivity position at
+June 30, 2007:
+
+(in thousands)
+
+Repricing Opportunities
+
+0-6 months
+
+7-12 months
+
+1-3 years
+
+3+ years
+
+Earning Assets:
+
+Loans-gross
+
+$
+
+784,671
+
+$
+
+40,682
+
+$
+
+49,087
+
+$
+
+35,107
+
+Securities and FHLB Stock
+
+3,358
+
+—
+
+—
+
+268
+
+Interest Bearing Deposits
+
+96,097
+
+—
+
+—
+
+—
+
+Total Earning Assets
+
+884,126
+
+40,682
+
+49,087
+
+35,375
+
+Interest Bearing Liabilities:
+
+Transaction Accounts and Savings
+
+773,986
+
+—
+
+—
+
+—
+
+Certificates of Deposit
+
+32,255
+
+23,807
+
+13,823
+
+6,912
+
+Borrowings
+
+—
+
+—
+
+3,249
+
+63,740
+
+Total Interest Bearing Liabilities
+
+806,241
+
+23,807
+
+17,072
+
+70,652
+
+GAP
+
+$
+
+77,885
+
+$
+
+16,875
+
+$
+
+32,015
+
+$
+
+(35,277
+
+)
+
+Cumulative GAP
+
+$
+
+77,885
+
+$
+
+94,760
+
+$
+
+126,775
+
+$
+
+91,498
+
+Equity Price Risk
+.
+ We are exposed to equity price risk as a result of making markets
+and taking proprietary positions in equity securities. Equity price risk results from changes in the level or volatility of equity prices, which affect the value of equity securities or instruments that derive their value from a particular stock, a
+basket of stocks or a stock index.
+
+-42-
+
+Table of Contents
+
+The following table categorizes securities owned, net of securities sold, not yet purchased, which are in
+our securities owned and securities sold, not yet purchased, portfolios and marketable equity securities in our available-for-sale portfolio, which are subject to interest rate and equity price risk (dollars in thousands):
+
+Years to Maturity
+
+1 or less
+
+1 to 5
+
+5 to 10
+
+Over 10
+
+Total
+
+Trading securities, at fair value
+
+Municipal obligations
+
+$
+
+1,082
+
+$
+
+3,603
+
+$
+
+6,514
+
+$
+
+9,272
+
+$
+
+20,471
+
+U.S. Government and Government agency obligations
+
+4,976
+
+(26,373
+
+)
+
+10,294
+
+(11,035
+
+)
+
+(22,138
+
+)
+
+Corporate obligations
+
+1,268
+
+2,991
+
+1,492
+
+26,914
+
+32,665
+
+Total debt securities
+
+7,326
+
+(19,779
+
+)
+
+18,300
+
+25,151
+
+30,998
+
+Corporate equity
+
+—
+
+—
+
+—
+
+16,065
+
+16,065
+
+Other
+
+9,088
+
+—
+
+—
+
+—
+
+9,088
+
+$
+
+16,414
+
+($
+
+19,779
+
+)
+
+$
+
+18,300
+
+$
+
+41,216
+
+$
+
+56,151
+
+Weighted average yield
+
+Municipal obligations
+
+2.32
+
+%
+
+4.17
+
+%
+
+4.23
+
+%
+
+4.62
+
+%
+
+4.58
+
+%
+
+U.S. Government and Government agency obligations
+
+0.90
+
+%
+
+5.00
+
+%
+
+5.52
+
+%
+
+5.53
+
+%
+
+5.35
+
+%
+
+Corporate obligations
+
+5.01
+
+%
+
+5.30
+
+%
+
+5.57
+
+%
+
+5.35
+
+%
+
+5.36
+
+%
+
+Available-for-sale securities, at fair Value
+
+Marketable equity securities
+
+$
+
+ —
+
+$
+
+—
+
+$
+
+—
+
+$
+
+3,793
+
+$
+
+3,793
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+The preparation of financial statements in accordance with generally accepted accounting principles requires management to make estimates and assumptions
+that affect reported amounts and disclosures. Actual results may differ from these estimates under different assumptions or conditions. The following policies involve a higher degree of judgment than do our other significant accounting policies
+detailed in
+Note 1
+in the Notes to the Consolidated Financial Statements contained in this Report.
+
+Contingencies
+
+Accounting for contingencies requires the use of judgment and estimates in assessing the magnitude of the exposure and the likely outcome of the
+situation. In many cases, the outcome will be determined by third parties, which may include governmental or judicial bodies. The provisions made in our consolidated financial statements, as well as the related disclosures, represent
+management’s best estimates of the current status of such matters and their potential outcome based on a review of the facts and, when warranted, in consultation with outside legal counsel. Management evaluates and revises its estimates on a
+quarterly basis. Adverse legal or arbitration judgments, inability to collect receivables, sudden declines in the market value of securities held in margin accounts or other actions could result in material changes to the estimates recorded in these
+financial statements. Resolution of these matters in amounts different from what has been accrued in the consolidated financial statements could materially impact our financial position and results of operations.
+
+-43-
+
+Table of Contents
+
+Securities and Investments
+
+We trade debt instruments (including corporate, government and municipal bonds), mortgage-backed securities and marketable equity securities and record these securities at fair value. The fair value of these
+securities is determined by obtaining quoted market prices when available. In certain instances, quoted market prices are unavailable. We make judgments as to the value of these securities based on quotes from other dealers, interest coupon,
+maturity, credit quality and liquidity of these securities. Should market conditions or individual credit quality change, management’s estimate could be materially impacted.
+
+We also hold strategic investments in several privately held companies that are recorded at cost or on the equity method of accounting on our
+consolidated statements of financial condition. Generally accepted accounting principles require that these holdings be evaluated for declines in market value below cost that may be other than temporary. Determination of the market value for these
+privately held companies requires the use of judgment. General market conditions, as well as company-specific events, could indicate a decline in value. Our consolidated financial statements could be materially impacted should a write-down from cost
+be necessitated. See “-Events and Transactions-Investment in Comprehensive Software Systems, Inc.”
+
+Long-Lived Assets, Goodwill and
+Intangibles
+
+Our long-lived assets are subject to impairment testing if specific events warrant the review. Our goodwill and intangibles
+are subject to at least annual impairment testing. The impairment tests are based on determining the fair value of the specified reporting units. Judgment is required in assessing the effects of external factors, including market conditions and
+projecting future operating results. These judgments and assumptions could materially change the value of the specified reporting units and, therefore, could materially impact our consolidated financial statements. If actual external conditions and
+future operating results differ from management’s judgments, impairment charges may be necessary to reduce the carrying value of these assets to the appropriate fair value.
+
+Allowance for Probable Loan Losses
+
+We provide an allowance for probable loan losses. The allowance
+for loan losses is established as losses are estimated to have occurred through a provision for loan losses charged to earnings. Loan losses are charged against the allowance when management believes the uncollectibility of a loan balance is
+confirmed. Subsequent recoveries, if any, are credited to the allowance. Should actual losses differ from management’s estimates, our consolidated financial statements could be materially impacted.
+
+The allowance for loan losses is evaluated on a regular basis by management and is based upon management’s periodic review of the collectibility of
+the loans in light of historical experience, the nature and volume of the loan portfolio, adverse situations that may affect the borrower’s ability to repay, estimated value of any underlying collateral and prevailing economic conditions. This
+evaluation is inherently subjective, as it requires estimates that are susceptible to significant revision as more information becomes available.
+
+The allowance consists of specific and general components. The specific component relates to loans that are classified as doubtful, substandard or special mention. For such loans that are also classified as impaired, an allowance is
+established when the discounted cash flows (or collateral value or observable market price) of the impaired loan is lower than the carrying value of that loan. The general component covers non-classified loans and is based on historical loss
+experience adjusted for qualitative factors.
+
+A loan is considered impaired when, based on current information and events, it is probable
+that the Bank will be unable to collect the scheduled payments of principal or interest when due according to the contractual terms of the loan agreement. Factors considered by management in determining impairment include payment status, collateral
+value, and the probability of collecting scheduled principal and interest payments when due. Loans that experience insignificant payment delays and payment shortfalls generally are not classified as impaired. Management determines the significance
+of payment delays and payment shortfalls on a case-by-case basis, taking in consideration all of the circumstances surrounding the loan and the borrower, including the length of the delay, the reasons for the delay, the borrower’s prior payment
+record, and the amount of the shortfall in relation to the principal and interest owed.
+
+-44-
+
+Table of Contents
+
+Income Tax Accrual
+
+We operate in multiple taxing jurisdictions, and as a result, accruals for tax contingencies require us to make estimates and judgments with respect to the ultimate tax liability in any given year. Actual results
+could vary from these estimates. Changes in tax law, new tax rulings, or results of tax audits could cause management’s estimates to change. In our opinion, adequate provisions for income taxes have been made for all years.

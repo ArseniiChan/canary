@@ -1,0 +1,7581 @@
+and Analysis of Financial Condition and Results of Operations
+
+This Item includes statements that are "forward-looking statements" within the meaning of Section 27A of the Securities Act of
+1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, including statements regarding our expectations, hopes, beliefs, intentions or strategies regarding the
+future. All statements, other than statements of historical fact, included in this Form 10-K regarding our financial position, business strategy and other plans and objectives for
+future operations, are forward-looking statements. All forward-looking statements included in this Form 10-K are based on information available to us on the date hereof, and we
+assume no obligation to update such forward-looking statements. Although we believe that the assumptions and expectations reflected in such forward-looking statements are reasonable, we can give no
+assurance that such expectations will prove to have been correct or that we will take any actions that may presently be planned. Certain important factors that could cause actual results to differ
+materially from our expectations are disclosed in the "Risk Factors" section of this Form 10-K, which include, without limitation, the adverse effect from a decline in securities
+markets or a decline in our products' performance, failure to renew investment management agreements, adverse results of litigation and/or arbitration, acts of terrorism and/or war, competition,
+changes in government regulation, and availability and terms of capital. All subsequent written or oral forward-looking statements attributable to us or persons acting on our behalf are expressly
+qualified in their entirety by such factors.
+
+ The
+following should be read in conjunction with the "Selected Financial Data" and our Consolidated Financial Statements and Notes thereto appearing elsewhere in this report.
+
+Executive Overview
+
+ We are one of the oldest mutual fund and asset management firms in the country, with expertise in a broad range of investment styles and across a variety of
+market environments. Our earnings and cash flows are heavily dependent on financial market conditions. Significant increases or decreases in the various securities markets, particularly United States
+equity markets, can have a material impact on our results of operations, financial condition and cash flows.
+
+Revenue Sources
+
+ We derive our revenues primarily from providing investment management, investment product underwriting and distribution, and shareholder services administration
+to mutual funds and institutional and separately managed accounts. Investment management fees, a substantial source of our revenues, are based on the amount of average assets under management and are
+affected by sales levels, financial market conditions, redemptions and the composition of assets. Underwriting and distribution revenues, another substantial source of revenues, consist of commissions
+derived from sales of investment and insurance products, distribution fees on certain variable products, and fees earned on fee-based asset allocation products, as well as advisory
+services. The products sold have various commission structures and the revenues received from product sales vary based on the type and amount sold. Rule 12b-1 service and
+distribution fees earned for servicing and/or distributing certain mutual fund shares are based upon assets under management and fluctuate based on sales, redemptions and financial market conditions.
+Other service fees include transfer agency fees, custodian fees for retirement plan accounts and portfolio accounting.
+
+Our Distribution Channels
+
+ One of our distinctive qualities is that we are a significant distributor of investment products. Our retail products are distributed through our sales force of
+independent financial advisors (the "Advisors channel") or through third-parties such as other broker/dealers, registered investment advisors (including the retirement advisors of Legend) and various
+retirement platforms, (the "Wholesale channel"). We also market our investment advisory services to institutional investors, either directly or through consultants (the "Institutional channel").
+
+25
+
+ In
+the Advisors channel, our sales force consists of 2,293 independent financial advisors providing personal financial planning services to our clients across the United States, focusing
+on investment strategies for retirement, education funding, insurance, estate planning and other specific needs.
+
+ In
+our Wholesale channel, we distribute retail mutual funds through broker/dealers, registered investment advisors, including Legend, our Florida-based retirement planning subsidiary and
+various retirement platforms. A team of 34 national wholesalers lead the efforts in this channel.
+
+ Through
+our Institutional channel we manage assets for defined benefit pension plans, other investment companies (as a subadvisor), defined contribution plans, endowments and high net
+worth clients.
+
+2007 in Review
+
+•
+Assets
+under management were up 34% to $64.9 billion, driven by a combination of organic growth and market action.
+
+•
+We
+reached record sales levels in the fourth quarter in all three channels.
+
+•
+60%
+of our equity funds and 66% of our equity assets ranked in the top quartile of their respective peer groups for the one-year period ended December 31.
+
+•
+Ivy
+Funds gross sales ranked among the top 20 at each of the five largest wirehouses in the United States and top 10 at two of those five wirehouses.
+
+•
+Advisors
+channel productivity continues to improve.
+
+•
+We
+introduced modified fee-based asset allocation products (MAP and MAP Plus) in April 2007 with invested assets reaching $1 billion as of
+year-end.
+
+•
+Common
+stock value was up 32% over the prior year.
+
+•
+We
+increased our quarterly dividend on our common stock from $.15 per share to $.17 per share beginning with our first quarter dividend.
+
+26
+
+Assets Under Management
+
+ Assets under management of $64.9 billion on December 31, 2007 were 34% higher than the $48.4 billion reported a year earlier primarily due to
+market appreciation of $10.0 billion and net sales of $6.2 billion. The Wholesale channel was the net sales driver in 2007.
+
+Change in Assets Under Management
+(1)
+
+Advisors
+
+Channel
+
+Wholesale Channel
+
+Institutional Channel
+
+Total
+
+(in millions)
+
+December 31, 2007
+
+Beginning Assets
+
+ $
+
+29,905
+
+10,819
+
+7,677
+
+48,401
+
+Sales (net of commissions)
+
+3,551
+
+9,470
+
+1,883
+
+14,904
+
+Redemptions
+
+(3,829)
+
+(2,795)
+
+(2,128)
+
+(8,752)
+
+Net Sales
+
+(278)
+
+6,675
+
+(245)
+
+6,152
+
+Net Exchanges
+
+(180)
+
+173
+
+-
+
+(7)
+
+Reinvested Dividends and Capital Gains
+
+245
+
+(24)
+
+105
+
+326
+
+Net Flows
+
+(213)
+
+6,824
+
+(140)
+
+6,471
+
+Market Appreciation
+
+4,870
+
+3,894
+
+1,232
+
+9,996
+
+Ending Assets
+
+ $
+
+34,562
+
+21,537
+
+8,769
+
+64,868
+
+December 31, 2006
+
+Beginning Assets
+
+ $
+
+27,187
+
+6,729
+
+7,947
+
+41,863
+
+Sales (net of commissions)
+
+3,216
+
+4,541
+
+968
+
+8,725
+
+Redemptions
+
+(3,325)
+
+(1,915)
+
+(1,748)
+
+(6,988)
+
+Net Sales
+
+(109)
+
+2,626
+
+(780)
+
+1,737
+
+Net Exchanges
+
+(194)
+
+185
+
+-
+
+(9)
+
+Reinvested Dividends and Capital Gains
+
+232
+
+16
+
+111
+
+359
+
+Net Flows
+
+(71)
+
+2,827
+
+(669)
+
+2,087
+
+Market Appreciation
+
+2,789
+
+1,263
+
+399
+
+4,451
+
+Ending Assets
+
+ $
+
+29,905
+
+10,819
+
+7,677
+
+48,401
+
+December 31, 2005
+
+Beginning Assets
+
+ $
+
+25,297
+
+4,702
+
+8,659
+
+38,658
+
+Sales (net of commissions)
+
+2,406
+
+2,347
+
+654
+
+5,407
+
+Redemptions
+
+(3,060)
+
+(1,149)
+
+(2,121)
+
+(6,330)
+
+Net Sales
+
+(654)
+
+1,198
+
+(1,467)
+
+(923)
+
+Net Exchanges
+
+(88)
+
+78
+
+-
+
+(10)
+
+Reinvested Dividends and Capital Gains
+
+161
+
+13
+
+114
+
+288
+
+Net Flows
+
+(581)
+
+1,289
+
+(1,353)
+
+(645)
+
+Market Appreciation
+
+2,471
+
+738
+
+641
+
+3,850
+
+Ending Assets
+
+ $
+
+27,187
+
+6,729
+
+7,947
+
+41,863
+
+(1)
+Includes all activity of the Funds and institutional and separate accounts, including money market funds and transactions
+at net asset value, accounts for which we receive no commissions.
+
+27
+
+ Average assets under management, which are generally more indicative of trends in revenue for providing investment management services than the
+year over year change in ending assets under management, increased by 22% as compared to 2006.
+
+Average Assets Under Management
+
+2007
+
+2006
+
+2005
+
+Average
+
+Percentage
+
+of Total
+
+Average
+
+Percentage
+
+of Total
+
+Average
+
+Percentage
+
+of Total
+
+(in millions)
+
+Distribution Channel:
+
+Advisors Channel
+
+Equity
+
+ $
+
+27,048
+
+84%
+
+23,821
+
+84%
+
+21,051
+
+82%
+
+Fixed income
+
+4,154
+
+13%
+
+3,901
+
+14%
+
+3,947
+
+15%
+
+Money market
+
+1,046
+
+3%
+
+798
+
+2%
+
+684
+
+3%
+
+Total
+
+ $
+
+32,248
+
+100%
+
+28,520
+
+100%
+
+25,682
+
+100%
+
+Wholesale Channel
+
+Equity
+
+ $
+
+14,395
+
+97%
+
+8,499
+
+95%
+
+5,181
+
+93%
+
+Fixed income
+
+380
+
+3%
+
+344
+
+4%
+
+325
+
+6%
+
+Money market
+
+64
+
+0%
+
+70
+
+1%
+
+58
+
+1%
+
+Total
+
+ $
+
+14,839
+
+100%
+
+8,913
+
+100%
+
+5,564
+
+100%
+
+Institutional Channel
+
+Equity
+
+ $
+
+7,199
+
+92%
+
+7,120
+
+92%
+
+7,589
+
+92%
+
+Fixed income
+
+614
+
+8%
+
+624
+
+8%
+
+619
+
+8%
+
+Money market
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Total
+
+ $
+
+7,813
+
+100%
+
+7,744
+
+100%
+
+8,208
+
+100%
+
+Total by Asset Class:
+
+Equity
+
+ $
+
+48,642
+
+89%
+
+39,440
+
+87%
+
+33,821
+
+86%
+
+Fixed income
+
+5,148
+
+9%
+
+4,869
+
+11%
+
+4,891
+
+12%
+
+Money market
+
+1,110
+
+2%
+
+868
+
+2%
+
+742
+
+2%
+
+Total
+
+ $
+
+54,900
+
+100%
+
+45,177
+
+100%
+
+39,454
+
+100%
+
+28
+
+ The following table summarizes our five largest mutual funds as of December 31, 2007 by ending assets under management and investment
+management fees for the last three years. The assets under management and management fees of our five largest mutual funds are presented as a percentage of our total assets under management and total
+management fees.
+
+Five Largest Mutual Funds by Ending Assets Under Management and Investment Management Fees
+
+2007
+
+2006
+
+2005
+
+Ending
+
+Percentage of Total
+
+Ending
+
+Percentage of Total
+
+Ending
+
+Percentage of Total
+
+(in millions)
+
+By Assets Under Management:
+
+Ivy Global Natural Resources
+
+ $
+
+8,464
+
+15%
+
+4,519
+
+9%
+
+2,469
+
+6%
+
+Ivy Asset Strategy
+
+8,419
+
+14%
+
+2,008
+
+4%
+
+312
+
+1%
+
+Advisors Core Investment
+
+4,240
+
+7%
+
+4,155
+
+9%
+
+4,054
+
+10%
+
+Advisors Asset Strategy
+
+3,118
+
+5%
+
+1,899
+
+4%
+
+1,110
+
+3%
+
+Advisors Science & Technology
+
+2,851
+
+5%
+
+2,521
+
+5%
+
+2,502
+
+6%
+
+Total
+
+ $
+
+27,092
+
+46%
+
+15,102
+
+31%
+
+10,447
+
+26%
+
+(in thousands)
+
+By Management Fees:
+
+Ivy Global Natural Resources
+(1)
+
+ $
+
+50,944
+
+14%
+
+31,454
+
+10%
+
+14,612
+
+5%
+
+Advisors Core Investment
+
+25,861
+
+7%
+
+25,635
+
+8%
+
+25,646
+
+10%
+
+Ivy Asset Strategy
+
+24,802
+
+7%
+
+7,094
+
+2%
+
+1,082
+
+0%
+
+Advisors Science & Technology
+
+22,310
+
+6%
+
+20,676
+
+7%
+
+19,291
+
+7%
+
+Advisors Asset Strategy
+
+15,696
+
+4%
+
+10,654
+
+3%
+
+5,663
+
+2%
+
+Total
+
+ $
+
+139,613
+
+38%
+
+95,513
+
+30%
+
+66,294
+
+24%
+
+(1)
+
+For the years ended December 31, 2007, 2006 and 2005, we paid subadvisory fees of
+$25.6 million, $15.8 million and $7.4 million, respectively, to MFC for subadvisory services. The subadvisory agreement with MFC expires in 2008 and is renewable on an annual
+basis.
+
+29
+
+Results of Operations
+
+Net Income
+
+For the Year Ended
+
+December 31,
+
+Variance
+
+2007
+
+2006
+
+2005
+
+2007 vs. 2006
+
+2006 vs. 2005
+
+(in thousands, except percentage data)
+
+Net Income
+
+ $
+
+125,497
+
+46,112
+
+60,121
+
+172%
+
+-23%
+
+Earnings per share:
+
+Basic
+
+ $
+
+1.55
+
+0.57
+
+0.74
+
+172%
+
+-23%
+
+Diluted
+
+ $
+
+1.52
+
+0.55
+
+0.73
+
+176%
+
+-25%
+
+Operating Margin
+
+23%
+
+12%
+
+17%
+
+11%
+
+-5%
+
+ We
+reported net income of $125.5 million, or $1.52 per diluted share, in 2007 compared to $46.1 million, or $0.55 per diluted share in 2006 and $60.1 million, or
+$.73 per diluted share in 2005. Operating results for 2006 include a charge of $55.0 million related to our settlement with the SEC, the New York Attorney General and the Kansas Securities
+Commission regarding market timing allegations, $12.0 million of which represented non-deductible penalties. During 2006 we also recorded a goodwill impairment charge of
+$20.0 million related to our subsidiary ACF based on the negative impact of the continued decline in ACF's assets under management and diminished involvement of ACF's investment staff in mutual
+fund advisory responsibilities, which adversely impacted its earnings potential. Fiscal 2006 also included a restructuring charge of $1.9 million at ACF for employee separation costs, in
+response to a decline in investment performance and related loss of assets under management.
+
+ In
+2005, we recorded a $35.0 million charge for the settlement of outstanding legal matters with Torchmark for various actions and the NASD and a consortium of states relating to
+variable annuity sales practices, as well as a $6.1 million charge for additional expenses related to a settlement of an NASD arbitration case with a former advisor and $3.2 million in
+costs related to the resignation of our former chief executive officer.
+
+Total Revenues
+
+ Total revenues increased 17% and 16% for the fiscal years 2007 and 2006, respectively, attributable to growth in average assets under management of 22% and 15%
+for the two years.
+
+For the Year Ended
+
+December 31,
+
+Variance
+
+2007
+
+2006
+
+2005
+
+2007 vs. 2006
+
+2006 vs. 2005
+
+(in thousands, except percentage data)
+
+Investment management fees
+
+ $
+
+372,345
+
+311,525
+
+267,681
+
+20%
+
+16%
+
+Underwriting and distribution fees
+
+371,085
+
+317,458
+
+272,590
+
+17%
+
+16%
+
+Shareholder service fees
+
+94,124
+
+89,672
+
+81,809
+
+5%
+
+10%
+
+Total revenues
+
+ $
+
+837,554
+
+718,655
+
+622,080
+
+17%
+
+16%
+
+Investment Management Fee Revenues
+
+ Investment management fee revenues are earned for providing investment advisory services to the Funds and to institutional and separate accounts. Investment
+management fee revenues increased $60.8 million, or 20%, in 2007 and $43.8 million, or 16%, in 2006.
+
+30
+
+ Revenues
+from investment management services provided to our retail mutual funds, which are distributed through the Advisors and the Wholesale channels, were $332.8 million in
+2007 and increased $62.6 million, or 23%, compared to 2006, while the related retail average assets increased 26%. Investment management fee revenues increased less than the related retail
+average assets due to significant sales growth in our Asset Strategy funds, which have lower than average management fee rates. Investment management fee revenues in both 2007 and 2006 were also
+impacted by the decrease in management fee rates on certain funds in compliance with the New York Attorney General settlement that took place in the fourth quarter of 2006 and has reduced management
+fees by approximately $5.0 million on an annual basis. Revenues from investment management services provided to our retail mutual funds were $270.2 million, and increased
+$46.2 million, or 21%, in 2006 compared to 2005, while the related retail average assets increased 20%. Retail sales in 2007 and 2006 were $13.0 billion and $7.8 billion,
+respectively, representing a 68% and 63% increase over sales in 2006 and 2005, respectively, with the majority of the growth in retail sales occurring in our Wholesale channel.
+
+ Institutional
+and separate account revenues were $39.5 million, $41.3 million and $43.7 million in 2007, 2006 and 2005, respectively. The decrease in account
+revenues in 2007 was attributable to a decline in ACF's average assets by 27% and a management fee rate decrease on certain institutional accounts. The decrease in account revenues in 2006 was
+primarily attributable to ACF, based on a decline in their average assets by 42%.
+
+ Long-term
+redemption rates (which exclude money market fund redemptions) in the Advisors channel improved to 9.1% in 2007 compared to 9.2% and 9.6% in 2006 and 2005,
+respectively. In the Wholesale channel, long-term redemption rates were 18.5% in 2007, a decrease from 21.0% in 2006 and 20.3% in 2005. We expect the Advisors channel long-term
+redemption rate to remain lower than that of the Wholesale channel due to the personal and customized nature in which our financial advisors provide service to our clients. The long-term
+redemption rate for our Institutional channel was 27.2% in 2007 compared to 22.6% in 2006 and 25.8% in 2005. The higher institutional redemption rate in 2007 compared to 2006, which is based on total
+redemptions for the period of $2.1 billion, reflected redemptions across multiple investment disciplines, including large cap growth, small cap growth, core equity and international growth. The
+elevated redemption rate in 2005 is due to the loss of one block of client assets moving to an alternative investment as well as performance driven outflows at ACF. ACF's redemptions were
+$174.6 million in 2007 compared to $545.4 million in 2006 and $558.9 million in 2005.
+
+31
+
+Underwriting and Distribution Revenues and Expenses
+
+ The following table illustrates our underwriting and distribution fee revenues and expenses segregated by distribution channel for the years ended
+December 31, 2007, 2006 and 2005:
+
+Total
+
+2007
+
+2006
+
+2005
+
+2007 vs. 2006
+
+2006 vs. 2005
+
+(in thousands, expect percentage data)
+
+Revenue
+
+ $
+
+371,085
+
+317,458
+
+272,590
+
+17%
+
+16%
+
+Expenses:
+
+Direct
+
+300,929
+
+244,454
+
+202,162
+
+23%
+
+21%
+
+Indirect
+
+121,345
+
+112,084
+
+101,175
+
+8%
+
+11%
+
+Total Expenses
+
+422,274
+
+356,538
+
+303,337
+
+18%
+
+18%
+
+Net Underwriting & Distribution
+
+ $
+
+(51,189)
+
+(39,080)
+
+(30,747)
+
+-31%
+
+-27%
+
+Advisors Channel
+
+2007
+
+2006
+
+2005
+
+2007 vs. 2006
+
+2006 vs. 2005
+
+Revenue
+
+ $
+
+238,210
+
+225,313
+
+206,582
+
+6%
+
+9%
+
+Expenses:
+
+Direct
+
+163,513
+
+154,580
+
+141,102
+
+6%
+
+10%
+
+Indirect
+
+84,777
+
+82,337
+
+76,001
+
+3%
+
+8%
+
+Total Expenses
+
+248,290
+
+236,917
+
+217,103
+
+5%
+
+9%
+
+Net Underwriting & Distribution
+
+ $
+
+(10,080)
+
+(11,604)
+
+(10,521)
+
+13%
+
+-10%
+
+Wholesale Channel
+
+2007
+
+2006
+
+2005
+
+2007 vs. 2006
+
+2006 vs. 2005
+
+Revenue
+
+ $
+
+132,875
+
+92,145
+
+66,008
+
+44%
+
+40%
+
+Expenses:
+
+Direct
+
+137,416
+
+89,874
+
+61,060
+
+53%
+
+47%
+
+Indirect
+
+36,568
+
+29,747
+
+25,174
+
+23%
+
+18%
+
+Total Expenses
+
+173,984
+
+119,621
+
+86,234
+
+45%
+
+39%
+
+Net Underwriting & Distribution
+
+ $
+
+(41,109)
+
+(27,476)
+
+(20,226)
+
+-50%
+
+-36%
+
+ The
+Advisors channel is the largest source of underwriting and distribution revenue, given that a significant amount of Wholesale mutual fund sales are load-waived, with the
+exception of investment product sales by Legend advisors. The majority of underwriting and distribution fee revenues are derived from sales commissions charged on front-end load products
+sold by our financial advisors, including mutual fund Class A shares (those sponsored by the Company and those underwritten by other non-proprietary mutual fund companies), variable
+annuities and financial planning fees. To a lesser extent, underwriting and distribution revenues are received from Rule 12b-1 asset-based distribution and service fees earned on
+both load and load-waived and deferred-load products sold by our financial advisors and third party intermediaries, asset-based fees earned on our asset allocation products,
+and commissions earned on the sale of other insurance products.
+
+32
+
+ We
+divide the costs of underwriting and distribution into two components—direct costs and indirect costs. Direct selling costs fluctuate with sales volume, such as advisor
+commissions and commission overrides paid to field management, advisor incentive compensation, commissions paid to third parties and to our own wholesalers, and related overrides in our Wholesale
+channel. To a lesser extent, direct selling costs fluctuate with assets under management, such as Rule 12b-1 service and distribution fees paid to the same parties. Indirect selling
+costs are fixed costs that do not necessarily fluctuate with sales levels. Indirect costs include expenses incurred by our home office and field offices such as wholesaler salaries, marketing costs,
+promotion and distribution of our products through the Advisors and Wholesale channels, support and management of our financial advisors such as field office overhead, sales programs, technology
+infrastructure, and costs of managing and supporting our Wholesale efforts through technology infrastructure and personnel. While the Institutional channel does have marketing expenses, those expenses
+are accounted for in our compensation and related costs and general and administrative expense lines instead of underwriting and distribution because of the channel's integration with our investment
+management division and its relatively small size. We recover certain of our underwriting and distribution costs through Rule 12b-1 service and distribution fees, which are paid by
+the Funds. Rule 12b-1 service and distribution fees are received predominantly from the Advisors Funds Class A shares under a sales and servicing reimbursement plan
+agreement. This agreement allows reimbursement to us from the Advisors Funds Class A shares of certain Rule 12b-1 eligible expenses, not to exceed a maximum of 25 basis
+points of average daily net assets under management. We also have compensatory or reimbursement Rule 12b-1 service and/or distribution plans for the Ivy Funds, Target Funds,
+InvestEd and Advisor Funds. All Rule 12b-1 service and distribution fee revenue received from the Funds is recorded on a gross basis.
+
+ We
+anticipate operating margin pressure in 2008 based on strong sales growth in our Wholesale channel, which has a higher cost to gather assets and requires cash outlays for wholesaler
+commissions and commissions to third parties on deferred load product sales. The growth we have experienced in our Wholesale channel also requires that we add additional resources and infrastructure
+to manage this growth. During the fourth quarter of 2007, we had a 70% annualized organic growth rate in this channel.
+
+ Underwriting
+and distribution revenues increased by $53.6 million, or 17%, when compared with the prior year. A majority of the increase in revenues was due to higher
+Rule 12b-1 asset-based service and distribution fees of $45.7 million as a result of an increase in average mutual fund assets under management. Additionally, revenues from
+fee-based asset allocation products increased $3.6 million, primarily attributable to modified fee-based asset allocation products introduced in April 2007. The
+introduction of these products was a contributing factor to a decline in front-load product sales and a resulting decrease of $2.5 million related to revenue on
+front-load product sales sold in the Advisors channel. Higher advisory fees, Rule 12b-1 service fee revenues and point of sale commissions earned by Legend added another
+$6.8 million in revenue compared to the prior year as their assets under administration increased.
+
+ Underwriting
+and distribution revenues increased by $44.9 million, or 16%, in 2006 compared to 2005. A majority of the increase in revenues was due to higher
+Rule 12b-1 asset-based service and distribution fees of $31.1 million as a result of an increase in average mutual fund assets under management. Underwriting revenue on
+front-load product sales sold in the Advisors channel contributed an additional $10.0 million in revenues due to higher sales during 2006. Higher advisory fees,
+Rule 12b-1 service fee revenues and point of sale commissions earned by Legend added another $6.9 million in revenue compared to the prior year as their assets under
+administration increased.
+
+ Underwriting
+and distribution expenses increased by $65.7 million, or 18%, in 2007, when compared with the prior year. A majority of this increase was attributed to higher direct
+expenses in the Wholesale channel of $47.5 million as a result of higher sales volume and an increase in average Wholesale assets under management. Specifically, we incurred higher
+Rule 12b-1 asset-based service and distribution expenses, increased dealer compensation paid to third party distributors, higher wholesaler commissions and higher amortization
+expense of deferred sales commissions. Direct expenses in the Advisors channel
+
+33
+
+increased
+$8.9 million due to higher Rule 12b-1 asset-based service and distribution commissions of $23.3 million, offset by $12.6 million of deferred sales
+commissions capitalized in 2007 in association with our fee-based asset allocation products and a $1.8 million decrease in financial planning fee expenses. The increase in indirect
+expenses in the Advisors channel of $2.4 million was due to increased sales support and field office expenses, partially offset by decreases in convention and recruiting expenses. The indirect
+expenses increase of $6.8 million in the Wholesale channel was driven by higher costs associated with developing our non-proprietary distribution outlets. These costs include a
+$5.2 million increase for higher marketing costs for promotion and distribution of our products through the Wholesale channel based on higher sales volume and a $1.6 million increase in
+base salaries and payroll taxes primarily as a result of adding more wholesalers during 2007.
+
+ Underwriting
+and distribution expenses increased by $53.2 million, or 18%, in 2006 compared to 2005. A majority of this increase was attributed to higher direct expenses in the
+Wholesale channel of $28.8 million as a result of higher sales volume and an increase in average Wholesale assets under management. Specifically, higher Rule 12b-1
+asset-based service and distribution expenses, additional dealer compensation paid to third party distributors, and higher commissions were paid to our wholesalers. Direct expenses in the Advisors
+channel increased $13.5 million due to an increase in point-of-sale commissions paid on front-load product sales and higher Rule 12b-1
+asset-based service and distribution commissions paid. The increase in indirect expenses in the Advisors channel of $6.3 million was due to increased information technology, sales support and
+convention expenses. The indirect expenses increase of $4.6 million in the Wholesale channel was driven by higher costs associated with developing our non-proprietary distribution
+outlets. These costs include a $3.6 million increase for higher marketing costs for promotion and distribution of our products through the Wholesale channel based on higher sales volume and
+higher meeting and travel expenses and a $1.0 million increase in base salaries and payroll taxes primarily as a result of adding more wholesalers during 2006.
+
+Shareholder Service Fee Revenues
+
+ Shareholder service fee revenues primarily include transfer agency fees, custodian fees from retirement plan accounts, and portfolio accounting and administration
+fees. During 2007 and 2006, shareholder service fee revenue increased by 5% and 10%, respectively, compared to 10% increases each year in the average number of accounts. The average number of
+shareholder accounts grew to 3.06 million in 2007 compared to 2.79 million in 2006 and 2.53 million in 2005. Effective September 1, 2006, our servicing contract with the
+Funds was renegotiated, resulting in reduced fees received by us for servicing wholesale accounts. Historically our account growth has mirrored our growth in revenue; however, with this reduced fee
+structure for wholesale accounts, our future revenue growth will not necessarily be tied to overall account growth. A portion of the fee reduction for wholesale accounts was offset by negotiating a
+networking fee reimbursement with the Funds for amounts paid to third party broker/dealers.
+
+34
+
+Total Operating Expenses
+
+ Operating expenses increased $13.2 million, or 2%, in 2007 compared to 2006 primarily due to increased underwriting and distribution expenses and
+subadvisory fees, offset by litigation-related charges recorded in 2006 in general and administrative and an impairment charge related to goodwill, also recorded in 2006. Operating expenses increased
+$111.2 million, or 21%, in 2006 compared to 2005 due to increased underwriting and distribution expenses, subadvisory fees, litigation-related charges recorded in general and administrative in
+both years and an impairment charge related to goodwill recorded in 2006. Underwriting and distribution expenses are discussed above.
+
+For the Year Ended
+
+December 31,
+
+Variance
+
+2007
+
+2006
+
+2005
+
+2007 vs. 2006
+
+2006 vs. 2005
+
+(in thousands, except percentage data)
+
+Underwriting and distribution
+
+ $
+
+422,274
+
+356,538
+
+303,337
+
+18%
+
+18%
+
+Compensation and related costs
+
+115,905
+
+110,101
+
+99,673
+
+5%
+
+10%
+
+General and administrative
+
+48,487
+
+100,604
+
+87,029
+
+-52%
+
+16%
+
+Subadvisory fees
+
+43,844
+
+30,758
+
+18,218
+
+43%
+
+69%
+
+Depreciation
+
+12,412
+
+11,725
+
+10,275
+
+6%
+
+14%
+
+Goodwill impairment
+
+-
+
+20,000
+
+-
+
+NM
+
+NM
+
+Total operating expenses
+
+ $
+
+642,922
+
+629,726
+
+518,532
+
+2%
+
+21%
+
+Compensation and Related Costs
+
+ Compensation and related costs in 2007 increased $5.8 million, or 5%, compared to 2006. During 2006, we incurred charges of $1.9 million (which
+included $1.5 million of share-based compensation expense) at ACF in response to a decline in investment performance and related loss of assets under management. Excluding this charge,
+compensation and related costs increased by $7.7 million. Base salaries and payroll taxes contributed $3.8 million to the increase, primarily due to an increase in headcount of 4.3% and
+annual merit increases during the current year. Share-based compensation accounted for $3.3 million of the increase primarily due to higher amortization expense associated with
+our December 2006 and April 2007 grants of nonvested stock compared to grants which became fully vested in December 2006 and throughout 2007. Incentive compensation also increased
+$2.0 million during 2007 due to investment performance incentives earned by our investment management division and increased executive management bonuses. These expense increases were offset by
+increased capitalized software development activities of $1.0 million, primarily due to technology initiatives associated with expansion of our brokerage capabilities.
+
+ Compensation
+and related costs in 2006 increased $10.4 million, or 10%, compared to 2005. During 2005, we recorded $2.7 million in charges associated with the resignation
+of our former CEO. Excluding this charge and the ACF charge recorded in 2006 mentioned previously, compensation and related costs increased by $11.2 million. Share-based compensation accounted
+for $4.8 million of this increase primarily due to higher amortization expense associated with our April 2006 grant of nonvested stock. Fiscal 2006 was the first year in which the
+expense from four years of grants (all with a four-year vesting period) is reflected in compensation and related costs. Additionally, base salaries and payroll taxes contributed
+$3.6 million to the increase, primarily due to an increase in headcount of 3.4% and annual merit increases during 2006. Incentive compensation increased $3.7 million during 2006,
+principally due to a change in the compensation structure for our CEO and investment performance incentives earned by our investment management division.
+
+General and Administrative Expenses
+
+ General and administrative expenses are operating costs other than those related to compensation and to distribution efforts, including, but not limited to,
+computer services and software costs, telecommunications, facilities costs of our home offices, costs of professional services including legal and accounting, and insurance.
+
+35
+
+ General
+and administrative expenses decreased $52.1 million in 2007 compared to 2006. Fiscal year 2006 included a $55.0 million charge for the settlement with the SEC and
+state regulators. Excluding this charge, general and administrative expenses increased $2.9 million compared to 2006. Higher costs for computer services and fund expenses were primarily
+responsible for current year increase.
+
+ General
+and administrative expenses increased $13.6 million in 2006 compared to 2005. Both years included charges for legal settlements: $55.0 million in 2006 for the
+settlement with the SEC and state regulators; $35.0 million in 2005 for the settlement of outstanding legal matters with Torchmark for various actions and the NASD and a consortium of states
+relating to variable annuity sales practices; $6.1 million in 2005 in additional expenses related to a settlement of an NASD arbitration case with a former advisor; and $3.2 million in
+costs related to the resignation of our former chief executive officer. Excluding charges for litigation, regulatory and other matters, general and administrative expenses increased
+$2.9 million compared to 2005. Higher costs for computer services contributed to the increase.
+
+Goodwill Impairment
+
+ In 2006, we recorded an impairment charge of $20.0 million related to ACF. Factors that led to this conclusion included, but were not limited to, the
+negative impact of the continued decline in ACF's assets under management and diminished involvement of ACF's investment staff in mutual fund advisory responsibilities during the second quarter of
+2006. Continued asset redemptions placed significant risk on ACF's ability to achieve and maintain profitability, and therefore had adversely impacted its earnings potential.
+
+Subadvisory Fees
+
+ Subadvisory fees represent fees paid to other asset managers for providing advisory services for certain mutual fund portfolios. These expenses reduce our
+operating margin since we pay out approximately half of our management fee revenue received from subadvised products. Our sales in the Wholesale channel broadened in both 2006 and 2007 to include a
+larger percentage of sales of our own managed products. The growth trend in sales of our own managed products should help to improve our future operating margin.
+
+ Subadvisory
+expenses for the years ended 2007, 2006 and 2005 were $43.8 million, $30.8 million and $18.2 million, respectively. Significant sales growth in our
+Wholesale channel over the past three years, particularly sales of our subadvised specialty mutual fund products, has driven increased expenses. As this expense is a function of sales, redemptions and
+market action for subadvised assets, a continuation of the growth trend for these assets would likely result in future increases to subadvisory expenses. Subadvised average assets under management
+were $10.4 billion, $7.1 billion and $4.0 billion for the years ended December 31, 2007, 2006 and 2005, respectively.
+
+Other Income and Expenses
+
+Investment and Other Income
+
+ Investment and other income for 2007 increased by $4.0 million over 2006. The increase was primarily attributable to $2.1 million related to
+increased interest on cash balances, a $1.0 million write-down of other investments in 2006 and higher earnings of $0.5 million from mutual funds in the trading portfolio.
+
+ Investment
+and other income for 2006 increased by $5.8 million over 2005, primarily reflecting increased interest on short-term commercial paper investments of
+$3.3 million due to a combination of higher average balances and interest rates. We also recorded gains from the sale of available-for-sale securities of
+$3.3 million in 2006. These increases were partially offset by a decrease in mutual fund trading portfolio returns of $1.2 million recorded during 2006.
+
+Interest Expense
+
+ Interest expense decreased $0.3 million in 2007 compared to the prior year due to the refinancing of $200 million in senior notes in January of
+2006, which had a lower interest rate than the old notes.
+
+36
+
+ Interest
+expense decreased $2.1 million in 2006 compared to 2005, partially due to interest incurred on short-term borrowings in 2005 of $0.9 million. There
+were no short-term borrowings in 2006. In 2006, we refinanced $200 million in senior notes at a rate of 5.6%, compared to an average interest rate of 6.25% (including the benefit of
+our interest rate swap) in 2005, resulting in decreased 2006 interest expense of $1.2 million.
+
+Income Taxes
+
+ Our effective income tax rate was 37.0%, 48.3% and 37.3% in 2007, 2006 and 2005, respectively. The effective tax rate in 2007 decreased compared to 2006 primarily
+as a result of the non-deductible goodwill impairment charge and non-deductible fines recorded during 2006. Our 2006 effective tax rate, removing the effect of these
+non-deductible charges and state tax incentives recorded in 2006, would have been 36.4%. The effective tax rate in 2007 has increased slightly from the 2006 rate excluding
+non-deductible charges and state tax incentives due to changes in state legislation in jurisdictions in which the Company operates. The effective tax rate in 2005 also reflected the effect
+of non-deductible fines recorded during 2005.
+
+Liquidity and Capital Resources
+
+ The following table summarizes certain key financial data relating to our liquidity and capital resources:
+
+For the Year Ended
+
+December 31,
+
+Variance
+
+2007
+
+2006
+
+2005
+
+2007 vs. 2006
+
+2006 vs. 2005
+
+(in thousands, except percentage data)
+
+Balance Sheet Data:
+
+Cash and cash equivalents
+
+ $
+
+263,914
+
+163,887
+
+136,694
+
+61%
+
+20%
+
+Cash and cash equivalents - restricted
+
+99,886
+
+32,629
+
+26,081
+
+206%
+
+25%
+
+Investment Securities
+
+50,913
+
+48,129
+
+51,701
+
+6%
+
+-7%
+
+Short-term debt
+
+-
+
+-
+
+1,746
+
+NA
+
+NA
+
+Long-term debt
+
+199,955
+
+199,942
+
+198,230
+
+0%
+
+1%
+
+Cash Flow Data:
+
+Operating cash flows
+
+128,111
+
+93,011
+
+100,787
+
+38%
+
+-8%
+
+Investing cash flows
+
+(5,146)
+
+(2,332)
+
+66,140
+
+-121%
+
+-104%
+
+Financing cash flows
+
+(22,938)
+
+(63,486)
+
+(91,487)
+
+64%
+
+31%
+
+ Our
+operations provide much of the cash necessary to fund our priorities, as follows:
+
+•
+Finance
+internal growth
+
+•
+Pay
+dividends
+
+•
+Repurchase
+our stock
+
+Finance Internal Growth
+
+ We use cash to fund growth in our distribution channels. Our Wholesale channel, which has a higher cost to gather assets, requires cash outlays for wholesaler
+commissions and commissions to third parties on deferred load product sales. The growth we have experienced in our Wholesale channel also requires that we add additional resources and infrastructure
+to manage this growth. We also continue to invest in our Advisors channel by providing additional support to our advisors through training, wholesaling efforts and enhanced technology tools.
+
+Pay Dividends
+
+ The Board of Directors approved an increase in the quarterly dividend on our common stock from $.15 per share to $.17 per share beginning with our first quarter
+2007 dividend, paid on May 1, 2007.
+
+37
+
+Dividends
+on our common stock resulted in financing cash outflows of over $55.0 million in 2007 and approximately $50.0 million in both 2006 and 2005.
+
+ The
+Board of Directors approved an increase in the quarterly dividend on our common stock from $.17 per share to $.19 per share beginning with our first quarter 2008 dividend, payable on
+May 1, 2008.
+
+Repurchase Our Stock
+
+ In 2007, we purchased 2.4 million of our shares, compared to 1.1 million shares and 0.3 million shares in 2006 and 2005, respectively. In the
+future, we will plan to repurchase shares, at a minimum, to replace those issued for employee share plans (approximately one million shares each year). During 2008, we also expect to repurchase
+approximately 290,000 shares from employees who elect to tender shares to cover their minimum tax withholdings.
+
+Operating Cash Flows
+
+ Cash from operations is our primary source of funds and increased in the current year. Increased revenues combined with higher non-cash share-based
+compensation expense, and timing of litigation and regulatory settlement payments in 2006 and 2005, partially offset the impact of considerably lower net earnings in 2006 and 2005 compared to 2007.
+
+ We
+anticipate that our 2008 contribution to our Pension Plan will be made from cash generated from operations and will be in the range of $5.0 to $10.0 million.
+
+Investing Cash Flows
+
+ Investing activities consist primarily of the purchase and sale of available-for-sale investment securities, as well as capital
+expenditures. The increase in cash provided by investing activities in fiscal 2005 reflects the return of a $57.4 million cash appeal bond due to a legal settlement with Torchmark and proceeds
+from sales and maturities of available-for-sale mutual funds and debt securities.
+
+ We
+expect our 2008 capital expenditures to increase by $10.0 - 12.0 million due to upgrades of our home office facilities and other equipment.
+
+Financing Cash Flows
+
+ As noted previously, dividends and stock repurchases accounted for a majority of our financing cash outflows in 2007. An increase in our stock price during 2007
+resulted in substantial stock option exercises, and cash provided by stock option exercises increased to $84.6 million in the current year.
+
+ On
+January 13, 2006, we issued $200 million in principal amount 5.60% senior notes due 2011 resulting in net proceeds of approximately $198.2 million (net of
+discounts, commissions and estimated expenses). We used these proceeds, together with cash on hand, to repay the entire $200 million aggregate principal amount outstanding of our 7.50% senior
+notes due January 18, 2006. The notes represent senior unsecured obligations and are rated "Baa2" by Moody's and "BBB" by Standard & Poor's. Interest is payable semi-annually
+on January 15 and July 15 at a rate of 5.60% per annum. The Company, at its option, may call these notes at any time pursuant to a make whole redemption provision, which would compensate
+holders for any changes in interest rate levels of the notes upon early extinguishment. The Company currently has no intention to call these notes.
+
+ In
+2005, we entered into a three year revolving credit facility (the "Credit Facility") with various lenders, which provides for initial borrowings of up to $200 million.
+Borrowings under the Credit Facility bear interest at various rates including adjusted LIBOR or an alternate base rate plus, in each case, an incremental margin based on the Company's credit rating.
+The Credit Facility also provides for a facility fee on the daily aggregate amount of commitment under the revolving facility (whether or not utilized). The facility fee is also based on the Company's
+credit rating level. The Credit Facility contains financial covenants with respect to leverage and interest coverage, both of which we were in compliance with throughout fiscal 2007. At
+December 31, 2007, there were no borrowings outstanding under the Credit Facility.
+
+38
+
+ Uses of cash in 2005 included payments on short-term borrowings of $35.0 million.
+
+Short Term Liquidity and Capital Requirements
+
+ Management believes its available cash, marketable securities and expected cash flow from operations will be sufficient to fund its short-term
+operating and capital requirements during 2008. Expected short-term uses of cash include expected dividend payments, interest payments on outstanding debt, income tax payments, share
+repurchases, payment of deferred commissions to our financial advisors and third parties, capital expenditures, pension funding and home office leasehold improvements and could include strategic
+acquisitions.
+
+ We
+pay our financial advisors and third parties upfront commissions on the sale of Class B shares, Class C shares and certain fee-based asset allocation
+products. Funding of such commissions during the years ended December 31, 2007, 2006 and 2005 totaled $49.6 million, $19.9 million and $11.8 million, respectively. The
+primary drivers of the increase in 2007 were Class C shares and asset allocation products, for which $26.9 million and $14.4 million of commissions were funded in 2007,
+respectively. Management expects future cash requirements for sales commissions to exceed the level experienced in previous years due to increased sales in our fee-based asset allocation
+products and steady sales growth in the sale of Class B and Class C shares.
+
+Long Term Liquidity and Capital Requirements
+
+ Expected long-term capital requirements include indebtedness, operating leases and purchase obligations, and potential recognition of tax liabilities,
+summarized in the following table as of December 31, 2007. Purchase obligations include amounts that will be due for the purchase of goods and services to be used in our operations under
+long-term commitments or contracts. The majority of our purchase obligations are reimbursable to us by the Funds.
+
+Total
+
+2008
+
+2009-
+
+2010
+
+2011-
+
+2012
+
+Thereafter/
+
+Indeterminate
+
+(in thousands)
+
+Long-term debt obligations, including interest
+
+ $ 239,155
+
+11,200
+
+22,400
+
+205,555
+
+-
+
+Non-cancelable operating lease commitments
+
+65,288
+
+15,041
+
+22,840
+
+13,195
+
+14,212
+
+Purchase obligations
+
+160,634
+
+33,126
+
+51,099
+
+50,345
+
+26,064
+
+Unrecognized tax benefits
+
+6,195
+
+1,996
+
+-
+
+-
+
+4,199
+
+ $ 471,272
+
+61,363
+
+96,339
+
+269,095
+
+44,475
+
+ Other possible long-term discretionary uses of cash could include capital expenditures for enhancement of technology infrastructure
+and home office improvements, strategic acquisitions, payment of dividends, income tax payments, seed money for new products, payment of upfront fund commissions for Class B shares,
+Class C shares and certain fee-based asset allocation products, and repurchases of our common stock.
+
+Off-Balance Sheet Arrangements
+
+ Other than operating leases, which are included in the table above, the Company does not have any off-balance sheet financing. The Company has not
+created, and is not party to, any special-purpose or off-balance sheet entities for the purpose of raising capital, incurring debt or operating its business.
+
+Critical Accounting Policies and Estimates
+
+ Management believes the following critical accounting policies, among others, affect its more significant judgments and estimates used in the preparation of its
+consolidated financial statements.
+
+39
+
+Accounting for Goodwill and Intangible Assets
+
+ As of December 31, 2007, our total goodwill and intangible assets were $228.4 million, or 26%, of our total assets. Two significant considerations
+arise with respect to these assets that require management estimates and judgment: (i) the valuation in connection with the initial purchase price allocation, and (ii) the ongoing
+evaluation of impairment.
+
+ In
+connection with all of our acquisitions, an evaluation is completed to determine reasonable purchase price allocations. The purchase price allocation process requires management
+estimates and judgments as to expectations for the various products, distribution channels, and business strategies. For example, certain growth rates and operating margins were assumed for different
+products and distribution channels. If actual growth rates or operating margins, among other assumptions, differ from the estimates and judgments used in the purchase price allocation, the amounts
+recorded in the financial statements for identifiable intangible assets and goodwill could be subject to charges for impairment in the future.
+
+ We
+complete an ongoing review of the recoverability of goodwill and intangible assets using a fair-value based approach on an annual basis or more frequently whenever events
+occur or circumstances change which would more likely than not reduce the fair value of a reporting unit
+below its carrying amount. Intangible assets with indefinite lives, primarily acquired mutual fund advisory contracts, are also tested for impairment annually by comparing their fair value to the
+carrying amount of the asset. We consider mutual fund advisory contracts indefinite lived intangible assets as they are expected to be renewed without significant cost or modification of terms.
+Factors that are considered important in determining whether an impairment of goodwill or intangible assets might exist include significant continued underperformance compared to peers, the likelihood
+of termination or non-renewal of a mutual fund advisory or subadvisory contract or substantial changes in revenues earned from such contracts, significant changes in our business and
+products, material and ongoing negative industry or economic trends, or other factors specific to each asset or subsidiary being evaluated. Because of the significance of goodwill and other
+intangibles to our consolidated balance sheets, the annual impairment analysis is critical. Any changes in key assumptions about our business and our prospects, or changes in market conditions or
+other externalities, could result in an impairment charge.
+
+Accounting for Income Taxes
+
+ In the ordinary course of business, many transactions occur for which the ultimate tax outcome is uncertain. In addition, respective tax authorities periodically
+audit our income tax returns. These audits examine our significant tax filing positions, including the timing and amounts of deductions and the allocation of income among tax jurisdictions. We adjust
+our income tax provision in the period in which we determine the actual outcomes will likely be different from our estimates. The recognition or derecognition of income tax expense related to
+uncertain tax positions is determined under the guidance as prescribed by Financial Accounting Standards Board ("FASB") Interpretation No. 48,
+"Accounting for
+Uncertainty in Income Taxes – an interpretation of FASB Statement No. 109."
+ During 2007 the Company settled two open tax years that were undergoing
+audit by a state jurisdiction in which the Company operates. In 2006 the Company settled five open tax years, 2000 through 2004, that were undergoing audit by the United States Internal Revenue
+Service. These audits were settled in all material respects with no significant adjustments. The Company is currently undergoing audits in various other state jurisdictions which have not yet been
+settled.
+
+ We
+recognize an asset or liability for the deferred tax consequences of temporary differences between the tax basis of assets and liabilities and their reported amounts in the financial
+statements, including the determination of any valuation allowance that might be required for deferred tax assets. These temporary differences will result in taxable or deductible amounts in future
+years when the reported amounts of assets are recovered or liabilities are settled. As of December 31, 2007, two of the Company's subsidiaries have state net operating loss carryforwards in
+certain states in which those companies file on a separate company basis. These entities have recognized a deferred tax asset for such carryforwards. As of
+
+40
+
+December 31,
+2006 and 2005, only one of the Company's subsidiaries has state net operating loss carryforwards and has recognized a deferred tax asset for such loss carryforwards. The
+carryforwards, if not utilized, will expire between 2009 and 2027. Management believes it is not more likely than not that the subsidiaries will generate sufficient future taxable income in these
+states to realize the benefit of these state net operating loss carryforwards and, accordingly, a valuation allowance in the full amount of the deferred tax asset has been established at
+December 31, 2007, 2006 and 2005. We have not recorded a valuation allowance on any other deferred tax assets as of the current reporting period based on our belief that operating income will,
+more likely than not, be sufficient to realize the benefit of these assets over time. In the event that actual results differ from estimates or if our historical trend of positive operating income
+changes, we may be required to record a valuation allowance on deferred tax assets, which could have a significant effect on our consolidated financial condition and results of operations. Finally,
+income taxes are recorded at the rates in effect in the various tax jurisdictions in which we operate. Tax law and rate changes are reflected in the income tax provision in the period in which such
+changes are enacted.
+
+Pensions and Other Postretirement Benefits
+
+ Accounting for our pension and postretirement benefit plans requires us to estimate the cost of benefits to be provided well into the future and the current value
+of our benefit obligations. Three critical assumptions affecting these estimates are the discount rate, the expected return on assets, and the expected health care cost trend rate. The discount rate
+assumption is based on the Mercer Bond Model which calculates the yield on a theoretical portfolio of high-grade corporate bonds with cash flows that generally match our expected benefit
+payments. The expected return on plan assets and health care cost trend rates are based upon an evaluation of our historical trends and experience, taking into account current and expected future
+market conditions. Other assumptions include rates of future compensation increases, participant withdrawals and mortality rates, and participant retirement ages. These estimates and assumptions
+impact the amount of net pension expense or income recognized each year and the measurement of our reported benefit obligation under the plans.
+
+ To
+reflect market interest rates, in 2007 we increased the discount rate for our pension and postretirement plans to 6.75% from the 6.0% used in 2006 and the 5.75% used in 2005. We
+continue to assume long-term asset returns of 7.75% on the assets in our pension plan, the same as our assumption in 2006 and 2005. Plan assets are invested in styles including large cap
+growth, asset strategy, core plus fixed income and science and technology. Our portfolio mix at
+year-end was 44% asset strategy, 35% large cap growth, 10% core plus fixed income, 9% science and technology and 2% cash. Our targeted allocation percentages are 40% asset strategy, 35%
+large cap growth, 13% core plus fixed income, 10% science and technology and 2% cash.
+
+41
+
+ The
+effect of hypothetical changes to selected assumptions on the Company's retirement benefit plans would be as follows:
+
+December 31,
+
+2007
+
+December 31,
+
+2008
+
+Assumptions
+
+Change
+
+Increase
+
+(Decrease)
+
+PBO/APBO (1)
+
+Increase
+
+(Decrease)
+
+Expense (2)
+
+(in thousands)
+
+Pension
+
+Discount rate
+
++/-50 bps
+
+$ (4,475)/4,857
+
+$ (187)/199
+
+Expected return on assets
+
++/-50 bps
+
+ N/A
+
+ (547)/547
+
+OPEB
+
+Discount rate
+
++/-50 bps
+
+ (186)/201
+
+ (28)/31
+
+Health care cost trend rate
+
++/-100 bps
+
+ 393/(342)
+
+ 72/(61)
+
+(1)
+Projected
+benefit obligation ("PBO") for pension plans and accumulated postretirement benefit obligation ("APBO") for Postretirement Benefits Other Than Pension plans.
+
+(2)
+Pre-tax
+impact on expense.
+
+Deferred Sales Commissions
+
+ We pay upfront sales commissions to our financial advisors and third party intermediary broker/dealers in connection with the sale of certain classes of mutual
+fund shares sold without a front-end sales charge. These costs are capitalized and amortized over the period during which the shareholder is subject to a CDSC, not to exceed five years. We
+recover these costs through Rule 12b-1 and other distribution plan fees, which are paid by the applicable share classes of the Advisors Funds, Ivy Funds and InvestEd portfolios,
+along with CDSC's paid by shareholders who redeem their shares prior to completion of the required holding periods. Should we lose our ability to recover such sales commissions through distribution
+plan payments and CDSCs, the value of these assets would immediately decline, as would future cash flows. We periodically review the recoverability of deferred sales commission assets as events or
+changes in circumstances indicate that the carrying amount of deferred sales commission assets may not be recoverable and adjust the deferred assets accordingly.
+
+Valuation of Investments
+
+ We record substantially all investments in our financial statements at fair value. Where available, we use prices from independent sources such as listed market
+prices or broker/dealer price quotations. We evaluate our investments for other than temporary declines in value on a periodic basis. This may exist when the fair value of an investment security has
+been below the current value for an extended period of time. As most of our investments are carried at fair value, if an other than temporary decline in value is determined to exist, the unrealized
+investment loss recorded net of tax in accumulated other comprehensive income is realized as a charge to net income, in the period in which the other than temporary decline in value is determined.
+While we believe that we have accurately estimated the amount of the other than temporary decline in the value of our portfolio, different assumptions could result in changes to the recorded amounts
+in our financial statements.
+
+Loss Contingencies
+
+ The likelihood that a loss contingency exists is evaluated using the criteria of Statement of Financial Accounting Standards ("SFAS") No. 5,
+
+"Accounting for
+Contingencies"
+ through consultation with legal counsel. A loss contingency is recorded if the contingency is considered probable and
+reasonably estimable as of the date of the financial statements.
+
+42
+
+Accounting Pronouncements
+
+ In December 2007, the FASB issued SFAS No. 160,
+"Noncontrolling Interests in Consolidated Financial
+Statements – an Amendment of ARB No. 51."
+ SFAS No. 160 amends ARB No. 51 to establish accounting and reporting standards for
+noncontrolling interests in subsidiaries and for the deconsolidation of subsidiaries. It clarifies that a noncontrolling interest in a subsidiary is an ownership interest that should be reported as
+equity in the consolidated financial statements. The provisions of SFAS No. 160 are effective for fiscal years beginning on or after December 15, 2008, and interim periods within those
+fiscal years, and the standard is to be applied prospectively. The Company does not have a non-controlling interest in any of its consolidated reporting entities and therefore this
+standard does not currently apply. It is not expected that the adoption of this standard on January 1, 2009 will significantly affect our results of operations or financial condition.
+
+ In
+December 2007, the FASB amended SFAS No. 141,
+"Business Combinations"
+ which establishes principles and requirements for
+how an acquirer recognizes and measures in its financial statements the identifiable assets acquired, the liabilities assumed, and any noncontrolling interest in the acquiree. These provisions are
+effective for fiscal years beginning on or after December 15, 2008. Adoption of this standard on January 1, 2009 will affect our results of operations and financial condition only if the
+Company acquires the assets of another entity subsequent to adoption date.
+
+ In
+June 2007, the FASB ratified the consensus reached by the Emerging Issues Task Force ("EITF") in EITF Issue No. 06-11,
+"Accounting
+for Income Tax Benefits of Dividends on Share-Based Payment Awards."
+ Under the provisions of EITF 06-11, a realized income tax benefit from dividends and
+dividend equivalents that are charged to retained earnings and are paid to employees for equity classified nonvested equity shares, nonvested equity share units and outstanding equity share options
+should be recognized as an increase to additional paid-in capital. The amount recognized in additional paid-in capital for the realized income tax benefit
+from dividends on those awards should be included in the pool of excess tax benefits available to absorb tax deficiencies on share-based payment awards. EITF 06-11 is required to be
+applied prospectively to the income tax benefits that result from dividends on equity-classified employee share-based payment awards that are declared in fiscal years beginning after
+December 15, 2007, and interim periods within those fiscal years. It is not expected that the adoption of this standard on January 1, 2008 will significantly affect our results of
+operations or financial condition.
+
+ In
+February 2007, the FASB issued SFAS No. 159,
+"The Fair Value Option for Financial Assets and Financial Liabilities – Including an
+amendment of SFAS No. 115,"
+ ("SFAS No. 159"), which provides companies with an option to report select financial assets and liabilities at fair value. This
+statement also establishes presentation and disclosure requirements designed to facilitate comparisons between companies that choose different measurement attributes for similar types of assets and
+liabilities. SFAS No. 159 is effective for fiscal years beginning after November 15, 2007. It is not expected that the adoption of SFAS No. 159 on January 1, 2008 will have
+a material impact on our results of operations or financial condition.
+
+ In
+September 2006, the FASB issued SFAS No. 157,
+"Fair Value Measurements"
+ ("SFAS No. 157"). This Statement defines
+fair value, establishes a framework for measuring fair value and expands disclosure of fair value measurements. SFAS No. 157 applies under other accounting pronouncements that require or permit
+fair value measurements and accordingly, does not require any new fair value measurements. SFAS No. 157 is effective for fiscal years beginning after November 15, 2007. It is not
+expected that the adoption of SFAS No. 157 on January 1, 2008 will have a material impact on our results of operations or financial condition.
+
+ In
+June 2006, the EITF reached a consensus on EITF Issue No. 06-4,
+"Accounting for Deferred Compensation and Postretirement Benefit
+Aspects of Endorsement Split-Dollar Life Insurance Arrangements"
+ ("EITF 06-4") which requires the application of the provisions of SFAS No. 106,
+
+"Employers' Accounting for Postretirement
+Benefits Other Than Pensions"
+ ("SFAS No. 106") to split-dollar life insurance
+
+43
+
+arrangements.
+SFAS No. 106 requires the recognition of a liability for the discounted future benefit obligation that an entity would have to pay upon the death of an underlying insured
+employee. EITF 06-4 is effective for fiscal years beginning after December 15, 2007. We have an insurance policy subject to the provisions of this new pronouncement; however,
+we have evaluated the policy and determined there will be no impact upon the adoption of EITF 06-4 on our results of operations or financial condition.
+
+Seasonality and Inflation
+
+ We do not believe our operations are subject to significant seasonal fluctuations; however, we have historically experienced increased sales activity in the first
+and fourth quarters of the year due to funding of retirement accounts by our clients. The Company has not suffered material adverse affects from inflation in the past. However, a substantial increase
+in the inflation rate in the future may adversely affect customers' purchasing decisions, may increase the costs of borrowing, or may have an impact on the Company's margins and overall cost
+structure.
+
+ITEM 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+ We use various financial instruments with certain inherent market risks, primarily related to interest rates and securities prices. The principal risks of loss
+arising from adverse changes in market rates and prices to which we are exposed relate to interest rates on debt and marketable securities. Generally, these instruments have not been entered into for
+trading purposes. Management actively monitors these risk exposures; however, fluctuations could impact our results of operations and financial position. As a matter of policy, we only execute
+derivative transactions to manage exposures arising in the normal course of business and not for speculative or trading purposes. The following information, together with information included in other
+parts of Management's Discussion and Analysis of Financial Condition and Results of Operations, which are incorporated herein by reference, describe the key aspects of certain financial instruments
+that have market risk to us.
+
+Interest Rate Sensitivity
+
+ Our interest sensitive liabilities include our long-term fixed rate senior notes and obligations for any balances outstanding under our credit
+facility or other short-term borrowings. Increases in market interest rates would generally cause a decrease in the fair value of the senior notes and an increase in interest expense
+associated with short-term borrowings and borrowings under the credit facility. Decreases in market interest rates would generally cause an increase in the fair value of the senior notes
+and a decrease in interest expense associated with short-term borrowings and borrowings under the credit facility. We had no short-term borrowings outstanding as of
+December 31, 2007. On January 13, 2006, we issued $200 million in principal amount of 5.60% fixed rate senior notes due 2011. Proceeds from the new senior notes were used to pay
+down our $200 million in 7.50% senior notes which matured on January 18, 2006.
+
+ During
+2005, the Company entered into two forward starting interest rate swap agreements that had five year fixed swap rates of 4.57% and 4.84%, respectively, on notional amounts of
+$100 million for
+each swap. The swaps were put in place to hedge against changes in forecasted interest payments attributable to changes in the LIBOR swap rate between the time we entered into the swap agreement and
+the time we anticipated refinancing the notes in January 2006. We assessed the effectiveness of the swaps as hedges at their inception and at December 31, 2005, and we consider these
+swaps to be completely effective cash flow hedges under SFAS No. 133,
+"Accounting for Derivative Instruments and Hedging Activities."
+ As of
+December 31, 2007, net unrealized gains attributed to the forward swap cash flow hedges were approximately $0.7 million and were included as a component of other comprehensive income.
+
+ On
+January 10, 2006, the Company terminated these forward interest rate swap agreements upon the completion of its new offering in January 2006 of $200 million in
+principal amount 5.60% senior notes due January 2011. In connection with the termination of the swap agreements, the Company received a net cash settlement of $1.1 million. The Company's
+gain on this transaction will be deferred in accumulated
+
+44
+
+other
+comprehensive income and will be amortized into earnings as a decrease to interest expense over the five year term of the new notes.
+
+Available for Sale Investments Sensitivity
+
+ We maintain an investment portfolio of various holdings, types and maturities. Our portfolio is diversified and consists primarily of investment grade debt
+securities and equity mutual funds. A substantial portion of investments are classified as available-for-sale investments. At any time, a sharp increase in interest rates or a
+sharp decline in the United States stock market could have a significant negative impact on the fair value of our investment portfolio. If a decline in fair value is determined to be other than
+temporary by management, the cost basis of the individual security or mutual fund is written down to fair value. Conversely, declines in interest rates or a sizeable rise in the United States stock
+market could have a significant positive impact on our investment portfolio. However, unrealized gains are not recognized on available-for-sale securities until they are sold.
+We do not currently hedge these exposures.
+
+Securities Price Sensitivity
+
+ Our revenues are dependent on the underlying assets under management in the Funds to which investment advisory services are provided. The Funds include portfolios
+of investments comprised of various combinations of equity, fixed income and other types of securities. Fluctuations in the value of these securities are common and are generated by numerous factors,
+including, without limitation, market volatility, the overall economy, inflation, changes in investor strategies, availability of alternative
+investment vehicles, government regulations and others. Accordingly, declines in any one or a combination of these factors, or other factors not separately identified, may reduce the value of
+investment securities and, in turn, the underlying assets under management on which our revenues are earned. These declines have an impact in our investment sales, thereby compounding the impact on
+our earnings.
+
+45
+
+ITEM 8. Financial Statements and Supplementary Data
+
+ Reference is made to the Consolidated Financial Statements referred to in the Index on page 50 setting forth our consolidated financial statements,
+together with the report of KPMG LLP dated February 28, 2008 on page 51.
+
+ITEM 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+
+ None.
+
+ITEM 9A. Controls and Procedures
+
+(a)
+Evaluation of Disclosure Controls and Procedures.
+ The Company maintains a system of disclosure controls and procedures
+that is designed to provide reasonable assurance that information, which is required to be timely disclosed, is accumulated and communicated to management in a timely fashion. A control system, no
+matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. The Company's Chief Executive Officer and Chief
+Financial Officer, after evaluating the effectiveness of the Company's disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Securities
+Exchange Act of 1934, as amended (the "Exchange Act")) as of the end of the period covered by this report, have concluded that the Company's disclosure controls and procedures are effective to provide
+reasonable assurance that information required to be disclosed by the Company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the Company's
+management, including its principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure and are effective to provide reasonable
+assurance that such information is recorded, processed, summarized and reported within the time periods specified in the SEC's rules and forms.
+
+(b)
+Management's Report on Internal Control Over Financial Reporting.
+ Our management is responsible for establishing and
+maintaining adequate internal control over financial reporting, as such term is defined in Exchange Act Rules 13a-15(f) and 15d-15(f). Under the supervision and with the
+participation of our management, including our principal executive officer and our principal financial officer, we conducted an evaluation of the effectiveness of our internal control over financial
+reporting based on the framework in
+"Internal Control-Integrated Framework"
+ issued by the Committee of Sponsoring Organizations of the Treadway
+Commission. All internal control systems, no matter how well designed, have inherent limitations. Therefore, even those systems determined to be effective can provide only reasonable, not absolute,
+assurance with respect to financial statement preparation and presentation. Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements.
+Projections of any evaluation of effectiveness to future periods are subject to the risks that controls may become inadequate because of changes in conditions, or that the degree of compliance with
+the policies or procedures may deteriorate.
+
+Based
+on our evaluation under the framework in
+"Internal Control-Integrated Framework,"
+ management concluded that, as of December 31, 2007, our
+internal control over financial reporting was effective. KPMG LLP, the independent registered public accounting firm that audited the financial statements included in this Annual Report on
+Form 10-K, audited the effectiveness of our internal control over financial reporting as of December 31, 2007, as stated in their attestation report which follows.
+
+46
+
+Report of Independent Registered Public Accounting Firm
+
+The
+Board of Directors and Shareholders
+
+Waddell & Reed Financial, Inc.:
+
+We
+have audited Waddell & Reed Financial, Inc.'s (the Company) internal control over financial reporting as of December 31, 2007, based on criteria established in
+
+Internal Control—Integrated
+Framework
+ issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO).
+Waddell & Reed Financial, Inc.'s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal
+control over financial reporting, included in the accompanying Management's Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company's internal
+control over financial reporting based on our audit.
+
+We
+conducted our audit in accordance with the standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit included obtaining an understanding of internal control over
+financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audit
+also included performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+A
+company's internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+for external purposes in accordance with generally accepted accounting principles. A company's internal control over financial reporting includes those policies and procedures that (1) pertain
+to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that
+transactions are
+recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only
+in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or
+disposition of the company's assets that could have a material effect on the financial statements.
+
+Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are
+subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+In
+our opinion, Waddell & Reed Financial, Inc. maintained, in all material respects, effective internal control over financial reporting as of December 31, 2007, based on criteria
+established in
+Internal Control—Integrated Framework
+ issued by COSO.
+
+We
+also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States), the consolidated balance sheets of Waddell & Reed Financial, Inc.
+and subsidiaries as of December 31, 2007 and 2006, and the related consolidated statements of income, stockholders' equity, comprehensive income, and cash flows for each of the years in the
+three-year period ended December 31, 2007, and our report dated February 28, 2008 expressed an unqualified opinion on those consolidated financial statements.
+
+/s/
+KPMG LLP
+
+Kansas
+City, Missouri
+
+February 28, 2008
+
+47
+
+(c)
+Changes in Internal Control over Financial Reporting.
+ The Company's internal control over financial reporting (as defined
+in Exchange Act Rules 13a-15(f) and 15d-15(f)) is designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of
+financial statements for external purposes in accordance with generally accepted accounting principles. There were no changes in the Company's internal control over financial reporting that occurred
+during the Company's most recent fiscal quarter that have materially affected, or are reasonably likely to materially affect, the Company's internal control over financial reporting.
+
+ITEM 9B. Other Information.
+
+ None.
+
+PART III
+
+ITEM 10. Directors, Executive Officers and Corporate Governance
+
+ Information required by this Item 10. is incorporated herein by reference to our definitive proxy statement for our 2008 Annual Meeting of Stockholders to
+be filed pursuant to Regulation 14A under the Exchange Act.
+
+ITEM 11. Executive Compensation
+
+ Information required by this Item 11. is incorporated herein by reference to our definitive proxy statement for our 2008 Annual Meeting of Stockholders to
+be filed pursuant to Regulation 14A under the Exchange Act.
+
+ITEM 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+ Information required by this Item 12. is incorporated herein by reference to our definitive proxy statement for our 2008 Annual Meeting of Stockholders to
+be filed pursuant to Regulation 14A under the Exchange Act.
+
+ITEM 13. Certain Relationships and Related Transactions, and Director Independence
+
+ Information required by this Item 13. is incorporated herein by reference to our definitive proxy statement for our 2008 Annual Meeting of Stockholders to
+be filed pursuant to Regulation 14A under the Exchange Act.
+
+ITEM 14. Principal Accounting Fees and Services
+
+ Information required by this Item 14. is incorporated herein by reference to our definitive proxy statement for our 2008 Annual Meeting of Stockholders to
+be filed pursuant to Regulation 14A under the Exchange Act.
+
+PART IV
+
+ITEM 15. Exhibits, Financial Statement Schedules
+
+(a)
+(1) Financial
+Statements.
+
+Reference is made to the Index to Consolidated Financial Statements on page 47 for a list of all financial statements filed as part of this Report.
+
+(a)
+(2) Financial
+Statement Schedules.
+
+None.
+
+(b)
+Exhibits.
+
+Reference is made to the Index to Exhibits beginning on page 83 for a list of all exhibits filed as part of this Report.
+
+48
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, as amended, the Company
+has duly caused this Report to be signed on its behalf by the undersigned, thereunto duly authorized, in the City of Overland Park, State of Kansas, on February 29, 2008.
+
+WADDELL & REED FINANCIAL, INC.
+
+By:
+
+/s/
+HENRY J. HERRMANN
+
+ Henry J. Herrmann
+
+Chief Executive Officer
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, this Report has been
+signed below by the following persons on behalf of the Company and in the capacities and on the dates indicated.
+
+Name
+
+Title
+
+Date
+
+/s/
+HENRY J. HERRMANN
+
+ Henry J. Herrmann
+
+Chief Executive Officer and Director
+
+(Principal Executive Officer)
+
+February 29, 2008
+
+/s/
+DANIEL P. CONNEALY
+
+ Daniel P. Connealy
+
+Senior Vice President and Chief Financial Officer
+
+(Principal Financial Officer)
+
+February 29, 2008
+
+/s/
+BRENT K. BLOSS
+
+ Brent K. Bloss
+
+Senior Vice President – Finance and Treasurer (Principal Accounting Officer)
+
+February 29, 2008
+
+/s/
+ALAN W. KOSLOFF
+
+ Alan W. Kosloff
+
+Chairman of the Board and Director
+
+February 29, 2008
+
+/s/
+DENNIS E. LOGUE
+
+ Dennis E. Logue
+
+Director
+
+February 29, 2008
+
+/s/
+JAMES M. RAINES
+
+ James M. Raines
+
+Director
+
+February 29, 2008
+
+/s/
+RONALD C. REIMER
+
+ Ronald C. Reimer
+
+Director
+
+February 29, 2008
+
+/s/
+WILLIAM L. ROGERS
+
+ William L. Rogers
+
+Director
+
+February 29, 2008
+
+/s/
+JERRY W. WALTON
+
+ Jerry W. Walton
+
+Director
+
+February 29, 2008
+
+49
+
+WADDELL & REED FINANCIAL, INC.
+
+ Index to Consolidated Financial Statements
+
+Page
+
+Report of Independent Registered Public Accounting Firm
+
+51
+
+Consolidated Balance Sheets at December 31, 2007 and 2006
+
+52
+
+Consolidated Statements of Income for each of the years in the three-year period ended December 31, 2007
+
+53
+
+Consolidated Statements of Stockholders' Equity for each of the years in the three-year period ended December 31, 2007
+
+54
+
+Consolidated Statements of Comprehensive Income for each of the years in the three-year period ended December 31, 2007
+
+55
+
+Consolidated Statements of Cash Flows for each of the years in the three-year period ended
+
+December 31, 2007
+
+56
+
+Notes to Consolidated Financial Statements
+
+57
+
+50
+
+Report of Independent Registered Public Accounting Firm
+
+The
+Board of Directors and Shareholders
+
+Waddell & Reed Financial, Inc.:
+
+We
+have audited the accompanying consolidated balance sheets of Waddell & Reed Financial, Inc. and subsidiaries (the Company) as of December 31, 2007 and 2006, and the related
+consolidated statements of income, stockholders' equity, comprehensive income, and cash flows for each of the years in the three-year period ended December 31, 2007. These
+consolidated financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on these consolidated financial statements based on our audits.
+
+We
+conducted our audits in accordance with the standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement. An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the
+financial statements. An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+In
+our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of Waddell & Reed Financial, Inc. and
+subsidiaries as of December 31, 2007 and 2006, and the results of their operations and their cash flows for each of the years in the three-year period ended December 31, 2007
+in conformity with U.S. generally accepted accounting principles.
+
+As
+discussed in note 10 to the consolidated financial statements, the Company changed its method of accounting for pension plan and postretirement obligations in 2006.
+
+We
+also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States), Waddell & Reed Financial, Inc.'s internal control over financial
+reporting as of December 31, 2007 based on criteria established in
+Internal Control—Integrated Framework
+ issued by the Committee of
+Sponsoring Organizations of the Treadway Commission (COSO), and our report dated February 28, 2008 expressed an unqualified opinion on the effectiveness of the Company's internal control over
+financial reporting.
+
+/s/
+KPMG LLP
+
+Kansas
+City, Missouri
+
+February 28, 2008
+
+51
+
+WADDELL & REED FINANCIAL, INC.
+
+ CONSOLIDATED BALANCE SHEETS
+
+ December 31, 2007 and 2006
+
+2007
+
+2006
+
+(in thousands)
+
+Assets:
+
+Cash and cash equivalents
+
+ $
+
+263,914
+
+163,887
+
+Cash and cash equivalents – restricted
+
+99,886
+
+32,629
+
+Investment securities
+
+50,913
+
+48,129
+
+Receivables:
+
+Funds and separate accounts
+
+43,602
+
+38,806
+
+Customers and other
+
+80,909
+
+59,863
+
+Deferred income taxes
+
+2,559
+
+2,923
+
+Prepaid expenses and other current assets
+
+6,165
+
+5,766
+
+Total current assets
+
+547,948
+
+352,003
+
+Property and equipment, net
+
+47,984
+
+50,875
+
+Deferred sales commissions, net
+
+45,290
+
+20,462
+
+Goodwill and identifiable intangible assets
+
+228,432
+
+228,432
+
+Pension benefits
+
+14,929
+
+–
+
+Other assets
+
+9,167
+
+10,942
+
+Total assets
+
+ $
+
+893,750
+
+662,714
+
+Liabilities:
+
+Accounts payable
+
+ $
+
+22,233
+
+16,256
+
+Payable to investment companies for securities
+
+159,151
+
+75,607
+
+Accrued compensation
+
+38,310
+
+33,153
+
+Income taxes payable
+
+271
+
+14,804
+
+Other current liabilities
+
+52,637
+
+44,710
+
+Total current liabilities
+
+272,602
+
+184,530
+
+Long-term debt
+
+199,955
+
+199,942
+
+Accrued pension and post-retirement costs
+
+7,230
+
+12,663
+
+Deferred income taxes
+
+15,682
+
+12,082
+
+Other
+
+16,663
+
+8,797
+
+Total liabilities
+
+512,132
+
+418,014
+
+Commitments and Contingencies (Note 18)
+
+Stockholders' equity:
+
+Preferred stock–$1.00 par value: 5,000 shares authorized; none issued
+
+–
+
+–
+
+Class A Common stock – $0.01 par value: 250,000 shares authorized; 99,701 shares issued; 86,630 shares outstanding (84,660 at December 31, 2006)
+
+997
+
+997
+
+Additional paid-in capital
+
+209,210
+
+189,299
+
+Retained earnings
+
+456,499
+
+388,422
+
+Cost of 13,071 shares in treasury (15,041 in 2006)
+
+(291,719)
+
+(327,966)
+
+Accumulated other comprehensive income (loss)
+
+6,631
+
+(6,052)
+
+Total stockholders' equity
+
+381,618
+
+244,700
+
+Total liabilities and stockholders' equity
+
+ $
+
+893,750
+
+662,714
+
+See accompanying notes to consolidated financial statements.
+
+52
+
+WADDELL & REED FINANCIAL, INC.
+
+ CONSOLIDATED STATEMENTS OF INCOME
+
+ Years ended December 31, 2007, 2006 and 2005
+
+2007
+
+2006
+
+2005
+
+(in thousands, except per share data)
+
+Revenues:
+
+Investment management fees
+
+ $
+
+372,345
+
+311,525
+
+267,681
+
+Underwriting and distribution fees
+
+371,085
+
+317,458
+
+272,590
+
+Shareholder service fees
+
+94,124
+
+89,672
+
+81,809
+
+Total
+
+837,554
+
+718,655
+
+622,080
+
+Operating expenses:
+
+Underwriting and distribution
+
+422,274
+
+356,538
+
+303,337
+
+ Compensation and related costs (including share-based compensation of $23,704, $21,862 and $17,786, respectively)
+
+115,905
+
+110,101
+
+99,673
+
+General and administrative
+
+48,487
+
+100,604
+
+87,029
+
+Subadvisory fees
+
+43,844
+
+30,758
+
+18,218
+
+Depreciation
+
+12,412
+
+11,725
+
+10,275
+
+Goodwill impairment
+
+–
+
+20,000
+
+–
+
+Total
+
+642,922
+
+629,726
+
+518,532
+
+Operating income
+
+194,632
+
+88,929
+
+103,548
+
+Investment and other income
+
+16,452
+
+12,498
+
+6,680
+
+Interest expense
+
+(11,924)
+
+(12,227)
+
+(14,278)
+
+ Income before provision for income taxes
+
+199,160
+
+89,200
+
+95,950
+
+Provision for income taxes
+
+73,663
+
+43,088
+
+35,829
+
+Net income
+
+ $
+
+125,497
+
+46,112
+
+60,121
+
+Net income per share:
+
+Basic
+
+ $
+
+1.55
+
+0.57
+
+0.74
+
+Diluted
+
+ $
+
+1.52
+
+0.55
+
+0.73
+
+Weighted average shares outstanding
+
+—basic
+
+80,781
+
+81,353
+
+80,908
+
+—diluted
+
+82,824
+
+83,212
+
+82,045
+
+Dividends declared per common share
+
+ $
+
+0.68
+
+0.60
+
+0.60
+
+See accompanying notes to consolidated financial statements.
+
+53
+
+WADDELL & REED FINANCIAL, INC.
+ STATEMENTS OF STOCKHOLDERS' EQUITY
+ Years ended December 31, 2007, 2006 and 2005
+ (in thousands)
+
+Common Stock
+
+Accumulated Other Comprehensive Income (Loss)
+
+Additional Paid-in Capital
+
+Retained Earnings
+
+Total Stockholders' Equity
+
+Shares
+
+Amount
+
+Treasury Stock
+
+Balance at December 31, 2004
+
+99,701
+
+ $
+
+997
+
+204,913
+
+383,155
+
+(365,892)
+
+(4,296)
+
+218,877
+
+Net income
+
+—
+
+—
+
+—
+
+60,121
+
+—
+
+—
+
+60,121
+
+Recognition of equity compensation
+
+—
+
+—
+
+17,926
+
+—
+
+—
+
+—
+
+17,926
+
+Issuance of nonvested shares and other
+
+—
+
+—
+
+(27,655)
+
+—
+
+27,655
+
+—
+
+—
+
+Dividends accrued, $.60 per share
+
+—
+
+—
+
+—
+
+(50,233)
+
+—
+
+—
+
+(50,233)
+
+Exercise of stock options
+
+—
+
+—
+
+(1,542)
+
+—
+
+3,602
+
+—
+
+2,060
+
+Excess tax benefits from share-based payment arrangements
+
+—
+
+—
+
+1,673
+
+—
+
+—
+
+—
+
+1,673
+
+Other stock transactions
+
+—
+
+—
+
+—
+
+—
+
+(2,468)
+
+—
+
+(2,468)
+
+Repurchase of common stock
+
+—
+
+—
+
+—
+
+—
+
+(5,997)
+
+—
+
+(5,997)
+
+Unrealized gain on available for sale investment securities
+
+—
+
+—
+
+—
+
+—
+
+—
+
+1,344
+
+1,344
+
+Reclassification for amounts included in net income
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(648)
+
+(648)
+
+Change in fair value of derivatives
+
+—
+
+—
+
+—
+
+—
+
+—
+
+1,010
+
+1,010
+
+Minimum pension liability adjustment
+
+—
+
+—
+
+—
+
+—
+
+—
+
+3,709
+
+3,709
+
+Balance at December 31, 2005
+
+99,701
+
+997
+
+195,315
+
+393,043
+
+(343,100)
+
+1,119
+
+247,374
+
+Net income
+
+—
+
+—
+
+—
+
+46,112
+
+—
+
+—
+
+46,112
+
+Recognition of equity compensation
+
+—
+
+—
+
+21,854
+
+8
+
+—
+
+21,862
+
+Issuance of nonvested shares and other
+
+—
+
+—
+
+(26,934)
+
+—
+
+26,934
+
+—
+
+—
+
+Dividends accrued, $.60 per share
+
+—
+
+—
+
+—
+
+(50,741)
+
+—
+
+—
+
+(50,741)
+
+Exercise of stock options
+
+—
+
+—
+
+(5,295)
+
+—
+
+21,483
+
+—
+
+16,188
+
+Excess tax benefits from share-based payment arrangements
+
+—
+
+—
+
+4,359
+
+—
+
+—
+
+—
+
+4,359
+
+Other stock transactions
+
+—
+
+—
+
+—
+
+—
+
+(5,640)
+
+—
+
+(5,640)
+
+Repurchase of common stock
+
+—
+
+—
+
+—
+
+—
+
+(27,643)
+
+—
+
+(27,643)
+
+Unrealized gain on available for sale investment securities
+
+—
+
+—
+
+—
+
+—
+
+—
+
+1,569
+
+1,569
+
+Reclassification for amounts included in net income
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(2,199)
+
+(2,199)
+
+Change in fair value of derivatives
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(283)
+
+(283)
+
+Reversal of minimum pension liability
+
+—
+
+—
+
+—
+
+—
+
+—
+
+5,146
+
+5,146
+
+Additional pension and postretirement plan liability
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(11,404)
+
+(11,404)
+
+Balance at December 31, 2006
+
+99,701
+
+997
+
+189,299
+
+388,422
+
+(327,966)
+
+(6,052)
+
+244,700
+
+Net income
+
+—
+
+—
+
+—
+
+125,497
+
+—
+
+—
+
+125,497
+
+Recognition of equity compensation
+
+—
+
+—
+
+23,704
+
+—
+
+—
+
+23,704
+
+Issuance of nonvested shares and other
+
+—
+
+—
+
+(24,517)
+
+—
+
+24,517
+
+—
+
+—
+
+Dividends accrued, $.68 per share
+
+—
+
+—
+
+—
+
+(57,420)
+
+—
+
+—
+
+(57,420)
+
+Exercise of stock options
+
+—
+
+—
+
+7,805
+
+—
+
+76,757
+
+—
+
+84,562
+
+Excess tax benefits from share-based payment arrangements
+
+—
+
+—
+
+12,919
+
+—
+
+—
+
+—
+
+12,919
+
+Other stock transactions
+
+—
+
+—
+
+—
+
+—
+
+(5,539)
+
+—
+
+(5,539)
+
+Repurchase of common stock
+
+—
+
+—
+
+—
+
+—
+
+(59,488)
+
+—
+
+(59,488)
+
+Unrealized gain on available for sale investment securities
+
+—
+
+—
+
+—
+
+—
+
+—
+
+2,345
+
+2,345
+
+Reclassification for amounts included in net income
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(2,428)
+
+(2,428)
+
+Pension and postretirement benefits
+
+—
+
+—
+
+—
+
+—
+
+—
+
+12,766
+
+12,766
+
+Balance at December 31, 2007
+
+99,701
+
+ $
+
+997
+
+209,210
+
+456,499
+
+(291,719)
+
+6,631
+
+381,618
+
+See accompanying notes to consolidated financial statements.
+
+54
+
+WADDELL & REED FINANCIAL, INC.
+
+ CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+
+ Years ended December 31, 2007, 2006 and 2005
+
+2007
+
+2006
+
+2005
+
+(in thousands)
+
+Net income
+
+ $
+
+125,497
+
+46,112
+
+60,121
+
+Other comprehensive income:
+
+Available-for-sale investments:
+
+ Net unrealized appreciation of investments
+
+ during the period, net of income taxes of $1,354,
+
+ $719 and $789, respectively
+
+2,345
+
+1,569
+
+1,344
+
+Derivatives:
+
+ Net unrealized gain (loss) on derivatives during the
+
+ period, net of income taxes of $0, $(188) and $593,
+
+ respectively
+
+–
+
+(283)
+
+1,010
+
+Pension and postretirement benefits:
+
+ Pension and postretirement benefits, net of income
+
+ taxes of $7,178, $3,022 and $2,179, respectively
+
+12,766
+
+5,146
+
+3,709
+
+Reclassification adjustments for amounts included in
+
+ net income, net of income taxes of $(1,396),
+
+ $(1,226) and $(381), respectively
+
+(2,428)
+
+(2,199)
+
+(648)
+
+ Comprehensive income
+
+ $
+
+138,180
+
+50,345
+
+65,536
+
+See
+accompanying notes to consolidated financial statements.
+
+55
+
+WADDELL & REED FINANCIAL, INC.
+
+ CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+ Years ended December 31, 2007, 2006 and 2005
+
+2007
+
+2006
+
+2005
+
+(in thousands)
+
+Cash flows from operating activities:
+
+Net income
+
+ $
+
+125,497
+
+46,112
+
+60,121
+
+ Adjustments to reconcile net income to net cash provided by operating
+
+ activities:
+
+Depreciation and amortization
+
+12,395
+
+11,937
+
+11,497
+
+Share-based compensation
+
+23,704
+
+21,862
+
+17,786
+
+Excess tax benefits from share-based payment arrangements
+
+(12,919)
+
+(4,359)
+
+—
+
+Gain on sale of available-for-sale investment securities
+
+(3,598)
+
+(3,260)
+
+(1,029)
+
+Net purchases and sales of trading securities
+
+(926)
+
+(749)
+
+1,791
+
+Unrealized gain on trading securities
+
+(1,001)
+
+(283)
+
+(586)
+
+Goodwill impairment
+
+—
+
+20,000
+
+—
+
+Loss on sale and retirement of property and equipment
+
+405
+
+592
+
+175
+
+Capital gains and dividends reinvested
+
+(2,135)
+
+(1,317)
+
+(784)
+
+Deferred income taxes
+
+(3,171)
+
+(1,423)
+
+(2,866)
+
+Changes in assets and liabilities:
+
+Cash and cash equivalents – restricted
+
+(67,257)
+
+(6,548)
+
+(3,435)
+
+Receivables from funds and separate accounts
+
+(4,796)
+
+(5,401)
+
+(8,654)
+
+Other receivables
+
+(21,046)
+
+(16,632)
+
+(5,225)
+
+Other assets
+
+(23,453)
+
+(4,741)
+
+2,878
+
+Accounts payable and payable to investment companies
+
+89,523
+
+31,091
+
+4,186
+
+Other liabilities
+
+16,889
+
+6,130
+
+24,932
+
+Net cash provided by operating activities
+
+128,111
+
+93,011
+
+100,787
+
+Cash flows from investing activities:
+
+Purchases of available-for-sale investment securities
+
+(5,650)
+
+(7,350)
+
+(600)
+
+Proceeds from sales of available-for-sale investment securities
+
+10,429
+
+14,812
+
+9,096
+
+Proceeds from maturities of available-for-sale investment securities
+
+—
+
+435
+
+9,275
+
+Additions to property and equipment
+
+(9,925)
+
+(10,229)
+
+(8,984)
+
+Cash paid for acquisitions
+
+—
+
+—
+
+(15)
+
+Appeal bond deposits
+
+—
+
+—
+
+57,368
+
+Net cash provided by (used in) investing activities
+
+(5,146)
+
+(2,332)
+
+66,140
+
+Cash flows from financing activities:
+
+Proceeds from long term debt and interest rate swap termination
+
+—
+
+199,863
+
+—
+
+Repayment of long term debt
+
+—
+
+(200,000)
+
+—
+
+Net short term repayments
+
+—
+
+—
+
+(35,000)
+
+Dividends paid
+
+(55,392)
+
+(50,613)
+
+(50,082)
+
+Repurchase of common stock
+
+(59,488)
+
+(27,643)
+
+(5,997)
+
+Exercise of stock options
+
+84,562
+
+16,188
+
+2,060
+
+Excess tax benefits from share-based payment arrangements
+
+12,919
+
+4,359
+
+—
+
+Other stock transactions
+
+(5,539)
+
+(5,640)
+
+(2,468)
+
+Net cash used in financing activities
+
+(22,938)
+
+(63,486)
+
+(91,487)
+
+Net increase in cash and cash equivalents
+
+100,027
+
+27,193
+
+75,440
+
+Cash and cash equivalents at beginning of year
+
+163,887
+
+136,694
+
+61,254
+
+Cash and cash equivalents at end of year
+
+ $
+
+263,914
+
+163,887
+
+136,694
+
+Cash paid for:
+
+Income taxes (net)
+
+ $
+
+74,439
+
+29,922
+
+33,234
+
+Interest
+
+ $
+
+11,200
+
+6,845
+
+12,752
+
+See accompanying notes to consolidated financial statements.
+
+56
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+ December 31, 2007, 2006 and 2005
+
+1. Description of Business
+
+ Waddell & Reed Financial, Inc. and subsidiaries (hereinafter referred to as the "Company," "we," "our" and "us") derive revenues primarily from
+investment management, investment product underwriting and distribution, and shareholder services administration provided to the Waddell & Reed Advisors Group of Mutual Funds (the "Advisors
+Funds"), W&R Target Funds, Inc. (the "Target Funds"), Ivy Funds, Inc. and the Ivy Funds portfolios (collectively, the "Ivy Funds"), and Waddell & Reed InvestEd
+Portfolios, Inc. (collectively, the "Funds"), and institutional and separately managed accounts. The Funds and the institutional and separately managed accounts operate under various rules and
+regulations set forth by the United States Securities and Exchange Commission (the "SEC"). Services to the Funds are provided under investment management agreements that set forth the fees to be
+charged for these services. The majority of these agreements are subject to annual review and approval by each Fund's board of directors/trustees and shareholders. Our revenues are largely dependent
+on the total value and composition of assets under management, which include mainly domestic equity securities, but also include debt securities and international equities. Accordingly, fluctuations
+in financial markets and composition of assets under management can significantly impact revenues and results of operations.
+
+2. Summary of Significant Accounting Policies
+
+Basis of Presentation
+
+ The accompanying consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States of America
+("GAAP") and include the accounts of the Company and its subsidiaries. All significant intercompany accounts and transactions have been eliminated in consolidation. Amounts in the accompanying
+financial statements and notes are rounded to the nearest thousand unless otherwise stated. Certain amounts in the prior years' financial statements have been reclassified for consistent presentation.
+
+Use of Estimates
+
+ GAAP requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses in the consolidated financial
+statements and accompanying notes, and related disclosures of commitments and contingencies. Estimates are used for, but are not limited to, depreciation and amortization, taxes, valuation of assets,
+pension and postretirement obligations, and contingencies. Actual results could differ from those estimates.
+
+Cash and Cash Equivalents
+
+ Cash and cash equivalents include cash on hand and short-term investments. We consider all highly liquid investments with original or remaining
+maturities of 90 days or less at the date of purchase to be cash equivalents. Cash and cash equivalents – restricted represents cash held for the benefit of customers segregated in
+compliance with federal and other regulations. Substantially all cash balances are in excess of federal deposit insurance limits.
+
+Disclosures About Fair Value of Financial Instruments
+
+ Fair value of cash and cash equivalents, short-term investments, receivables, payables and long-term debt approximates carrying value.
+Fair values for investment securities are based on quoted market prices, where available. Otherwise, fair values are based on quoted market prices of comparable instruments.
+
+57
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+Investment Securities and Investments in Affiliated Mutual Funds
+
+ Our investments are comprised of United States, state and government obligations, corporate debt securities and investments in affiliated mutual funds.
+Investments are classified as available-for-sale or trading. Unrealized holding gains and losses on securities available-for-sale, net of related tax
+effects, are excluded from earnings until realized and are reported as a separate component of comprehensive income. For trading securities, unrealized holding gains and losses, net of related tax
+effects, are included in earnings. Realized gains and losses are computed using the specific identification method for investment securities, other than mutual funds. For mutual funds, realized gains
+and losses are computed using the average cost method.
+
+ Our
+available-for-sale investments are reviewed and adjusted for other than temporary declines in value. When a decline in fair value of an available for sale
+investment is determined to be other than temporary, the unrealized loss recorded net of tax in other comprehensive income is realized as a charge to net income and a new cost basis is established for
+financial reporting purposes.
+
+Property and Equipment
+
+ Property and equipment are carried at cost. The costs of improvements that extend the life of a fixed asset are capitalized, while the costs of repairs and
+maintenance are expensed as incurred. Depreciation and amortization are calculated and recorded using the straight-line method over the estimated useful life of the related asset (or lease
+term if shorter), generally three to ten years for furniture, fixtures, data processing equipment and computer software; three to 20 years for equipment and machinery; and up to 15 years
+for leasehold improvements.
+
+Software Developed for Internal Use
+
+ Certain internal costs incurred in connection with developing or obtaining software for internal use are capitalized in accordance with the American Institute of
+Certified Public Accountants' Statement of Position No. 98-1,
+"Accounting for the Costs of Computer Software Developed or Obtained for Internal
+Use."
+ The costs of designing and implementing software are expensed as incurred. Internal costs capitalized are included in "Property and equipment, net" on the consolidated
+balance sheets, and were $9.3 million and $8.5 million as of December 31, 2007 and 2006, respectively. Amortization begins when the software project is complete and ready for its
+intended use and continues over the estimated useful life, generally five to ten years.
+
+Goodwill and Identifiable Intangible Assets
+
+ Goodwill represents the excess of the cost of the Company's investment in the net assets of acquired companies over the fair value of the underlying identifiable
+net assets at the dates of acquisition. Goodwill is not amortized, but is tested at least annually for impairment.
+
+ Identifiable
+intangible assets with indefinite useful lives are not amortized. Indefinite life intangible assets represent advisory and subadvisory management contracts for managed
+assets obtained in acquisitions. We consider these contracts to be indefinite lived intangible assets as they are expected to be renewed without significant cost or modification of terms. We complete
+an ongoing review of the recoverability of identifiable intangible assets on an annual basis or more frequently whenever events occur or circumstances change that would more likely than not reduce
+their fair value.
+
+ Factors
+that are considered important in determining whether an impairment of goodwill or intangible assets might exist include significant continued underperformance compared to peers,
+the likelihood of
+
+58
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+termination
+or non-renewal of a mutual fund advisory or subadvisory contract or substantial changes in revenues earned from such contracts, significant changes in our business and
+products, material and ongoing negative industry or economic trends, or other factors specific to each asset or subsidiary being evaluated. Because of the significance of goodwill and other intangible
+assets to our consolidated balance sheet, any changes in key assumptions about our business or prospects, or changes in market conditions or other externalities, could result in an impairment charge
+and such a charge could have a material effect on our financial condition and results of operations. Based on our annual review of goodwill in the second quarter of 2006, in accordance with Statement
+of Financial Accounting Standards ("SFAS") No. 142,
+"Goodwill and Other Intangible Assets,"
+ ("SFAS No. 142") we recorded an impairment
+charge of $20.0 million related to our subsidiary, Austin Calvert & Flavin, Inc. ("ACF"). The impairment charge is described in Note 6. It was determined that no impairment
+existed during our annual reviews of goodwill during 2007 or of identifiable intangible assets during 2007 or 2006.
+
+Deferred Sales Commissions
+
+ We defer certain costs, principally sales commissions and related compensation, which are paid to financial advisors and broker/dealers in connection with the
+sale of certain mutual fund shares sold without a front-end load sales charge. The costs incurred at the time of the sale of shares for certain asset allocation products are deferred and
+amortized on a straight-line basis, not to exceed three years. The costs incurred at the time of the sale of Class B shares are also deferred and then amortized on a
+straight-line basis over five years which approximates the expected life of the shareholders' investments. The costs incurred at the time of the sale of Class C shares are deferred
+and amortized on a straight-line basis over 12 months. We recover these deferred costs through Rule 12b-1 and other distribution fees, which are paid on the
+Class B and Class C shares of the Advisors Funds and Ivy Funds, along with contingent deferred sales charges ("CDSCs") paid by shareholders who redeem their shares prior to completion of
+the required holding period (three years for shares of certain asset allocation products, six years for a Class B share and 12 months for a Class C share). Should we lose our
+ability to recover such sales commissions through distribution fees or CDSCs, the value of these assets would immediately decline, as would future cash flows. We periodically review the recoverability
+of the deferred sales commission assets as events or changes in circumstances indicate that their carrying amount may not be recoverable and adjust them accordingly.
+
+Revenue Recognition
+
+ We recognize investment management fees as earned over the period in which services are rendered. We charge the Funds daily based upon average daily net assets
+under management in accordance with
+investment management agreements between the Funds and the Company. In general, the majority of investment management fees earned from institutional and separate accounts are charged either monthly or
+quarterly based upon an average of net assets under management in accordance with such investment management agreements.
+
+ Shareholder
+service fees are recognized monthly and are calculated based on the number of accounts or assets under management as applicable. Other administrative service fee revenues are
+recognized when contractual obligations are fulfilled or as services are provided.
+
+ Underwriting
+and distribution commission revenues resulting from the sale of investment products are recognized on the trade date.
+
+59
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+ We
+also recognize distribution revenues monthly for certain types of investment products, primarily variable annuity products which are generally calculated based upon average daily net
+assets under management.
+
+Advertising and Promotion
+
+ We expense all advertising and promotion costs as incurred. Advertising expense was $4.8 million, $2.9 million and $3.5 million, for the
+years ended December 31, 2007, 2006 and 2005, respectively.
+
+Share-Based Compensation
+
+ Prior to January 1, 2006, the Company used the intrinsic value method as described in Accounting Principles Board Opinion No. 25,
+
+"Accounting for Stock
+Issued to Employees"
+ ("APB 25") to measure employee stock-based compensation as permitted by SFAS No. 123,
+
+"Accounting for Stock-Based Compensation"
+ ("SFAS
+No. 123"). Under this method, compensation expense related to stock options was measured as the
+difference between the exercise price and the fair value of the shares on the grant date, if any, and was recognized over the vesting period, which approximated the anticipated service period.
+
+ Had
+compensation cost for the Company's stock-based compensation plans been determined using the fair value method as described in SFAS No. 123, the Company's net income and
+earnings per share for the year ended December 31, 2005 would have been reduced to the following pro forma amounts (amounts in thousands, expect per share data):
+
+Net income, as reported
+
+ $
+
+60,121
+
+ Add: Total stock option expense included in reported net income, net of related
+
+ tax effects
+
+1,137
+
+ Deduct: Total stock option expense determined under fair-value based method for
+
+ all awards, net of related tax effects
+
+(1,558)
+
+Pro forma net income
+
+ $
+
+59,700
+
+Basic earnings per share
+
+As reported
+
+ $
+
+0.74
+
+Pro forma
+
+0.74
+
+Diluted earnings per share
+
+As reported
+
+0.73
+
+Pro forma
+
+0.73
+
+ The
+weighted-average fair value of each stock option included in the preceding pro forma information was estimated using a Black-Scholes option pricing model and was amortized over the
+vesting period of the underlying options.
+
+ Effective
+January 1, 2006, the Company adopted SFAS No. 123R,
+"Share-Based Payment, (revised 2004)"
+ ("SFAS
+No. 123R"). The revised standard eliminated the intrinsic value method of accounting required under APB 25. The Company adopted SFAS No. 123R using the modified prospective
+transition method of adoption, which did not require restatement of prior periods. Under that transition method, compensation expense recognized in 2006 and 2007 for all share-based awards granted
+after December 31, 2005 is based on the grant date fair value of the awards, net of estimated forfeitures.
+
+ In
+its computation of stock-based compensation expense under APB 25, the Company recognized actual forfeitures when they occurred. Under SFAS No. 123R, the Company is
+required to estimate forfeitures at the grant date. The Company recognized a cumulative effect of change in accounting
+
+60
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+principle
+of $503 thousand ($321 thousand increase to net income after tax) upon adoption, in order to adjust for expected forfeitures on all nonvested stock awards outstanding on
+January 1, 2006. This cumulative effect of change in accounting principle is classified in compensation and related costs in the consolidated statement of income for the year ended
+December 31, 2006.
+
+Accounting for Income Taxes
+
+ Income tax expense is based on pre-tax financial accounting income, including adjustments made for the recognition or derecognition related to
+uncertain tax positions. The recognition or derecognition of income tax expense related to uncertain tax positions is determined under the guidance as prescribed by Financial Accounting Standards
+Board ("FASB") Interpretation No. 48,
+"Accounting for Uncertainty in Income Taxes - an interpretation of FASB Statement No. 109"
+
+("FIN 48"). Deferred tax assets and liabilities are recognized for the future tax attributable to differences between the financial statement carrying amounts of existing assets and liabilities
+and their respective tax basis. Deferred tax assets and liabilities are measured using enacted tax rates expected to be recovered or settled. The effect on deferred tax assets and liabilities of a
+change in tax rates is recognized in earnings in the period that includes the enactment date.
+
+Derivatives and Hedging Activities
+
+ Derivative instruments are recorded on the balance sheet at fair value. The Company periodically uses interest rate swaps to manage risks associated with interest
+rate volatility. All derivative instruments have been designated as hedges, in accordance with GAAP. If the underlying hedged transaction ceases to exist, all changes in fair value of the related
+derivatives that have not been settled are recognized in current earnings or amortized over the term of the hedged transaction. Derivatives that do not qualify for hedge accounting are marked to
+market with changes recognized in current earnings. The Company does not hold or issue derivative financial instruments for trading purposes and is not a party to leveraged derivatives.
+
+3. Accounting Pronouncements
+
+ In December 2007, the FASB issued SFAS No. 160,
+"Noncontrolling Interests in Consolidated Financial Statements –
+an Amendment of ARB No. 51"
+ ("SFAS No. 160"), which amends ARB
+No. 51 to establish accounting and reporting standards for noncontrolling interests in subsidiaries and for the deconsolidation of subsidiaries. It clarifies that a noncontrolling interest in a
+subsidiary is an ownership interest that should be reported as equity in the consolidated financial statements. The provisions of SFAS No. 160 are effective for fiscal years beginning on or
+after December 15, 2008, and interim periods within those fiscal years and the standard is to be applied prospectively. The Company does not have a non-controlling interest in any
+of its consolidated reporting entities and therefore this standard does not currently apply. It is not expected that the adoption of this standard on January 1, 2009 will significantly affect
+our results of operations or financial condition.
+
+ In
+December 2007, the FASB amended SFAS No. 141,
+"Business Combinations"
+ ("SFAS No. 141"). SFAS No. 141, as
+amended, establishes principles and requirements for how an acquirer recognizes and measures in its financial statements the identifiable assets acquired, the liabilities assumed, and any
+noncontrolling interest in the acquiree. The provisions of SFAS No. 141, as amended, are effective for fiscal years beginning on or after December 15, 2008. Adoption of this standard on
+January 1, 2009 will affect our results of operations and financial condition only if the Company acquires the assets of another entity subsequent to adoption date.
+
+61
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+ In
+June 2007, the FASB ratified the consensus reached by the Emerging Issues Task Force ("EITF") in EITF Issue No. 06-11,
+"Accounting
+for Income Tax Benefits of Dividends on Share-Based Payment Awards"
+ ("EITF No. 06-11"). Under the provisions of EITF 06-11, a realized
+income tax benefit from dividends and dividend equivalents that are charged to retained earnings and are paid to employees for equity classified nonvested equity shares, nonvested equity share units
+and outstanding equity share options should be recognized as an increase to additional paid-in capital. The amount recognized in additional paid-in capital for the realized
+income tax benefit from dividends on those awards should be included in the pool of excess tax benefits available to absorb tax deficiencies on share-based payment awards.
+EITF 06-11 is required to be applied prospectively to the income tax benefits that result from dividends on equity-classified employee share-based payment awards that are declared
+in fiscal years beginning after December 15, 2007, and interim periods within those fiscal years. It is not expected that the adoption of this standard on January 1, 2008 will
+significantly affect our results of operations or financial condition.
+
+ In
+February 2007, the FASB issued SFAS No. 159,
+"The Fair Value Option for Financial Assets and Financial Liabilities – Including an
+amendment of SFAS No. 115"
+ ("SFAS No. 159"), which provides companies with an option to report select financial assets and liabilities at fair value. This
+statement also establishes presentation and disclosure requirements designed to facilitate comparisons between companies that choose different measurement attributes for similar types of assets and
+liabilities. SFAS No. 159 is effective for fiscal years beginning after November 15, 2007. It is not expected that the adoption of SFAS No. 159 on January 1, 2008 will have
+a material impact on our results of operations or financial condition.
+
+ In
+September 2006, the FASB issued SFAS No. 157,
+"Fair Value Measurements"
+ ("SFAS No. 157"). This Statement defines
+fair value, establishes a framework for measuring fair value and expands disclosure of fair value measurements. SFAS No. 157 applies under other accounting pronouncements that require or permit
+fair value measurements and accordingly, does not require any new fair value measurements. SFAS No. 157 is effective for fiscal years beginning after November 15, 2007. It is not
+expected that the adoption of SFAS No. 157 on January 1, 2008 will have a material impact on our results of operations or financial condition.
+
+ In
+June 2006, the EITF reached a consensus on EITF Issue No. 06-4,
+"Accounting for Deferred Compensation and Postretirement Benefit
+Aspects of Endorsement Split-Dollar Life Insurance Arrangements"
+ ("EITF 06-4"), which requires the application of the provisions of SFAS No. 106,
+
+"Employers' Accounting for Postretirement
+Benefits Other Than Pensions"
+ ("SFAS No. 106") to split-dollar life insurance arrangements. SFAS
+No. 106 requires the recognition of a liability for the discounted future benefit obligation that an entity would have to pay upon the death of an underlying insured employee.
+EITF 06-4 is effective for fiscal years beginning after December 15, 2007. We have an insurance policy subject to the provisions of this new pronouncement; however we have
+evaluated the policy and determined there will be no impact upon the adoption of EITF 06-4 on our results of operations or financial condition.
+
+62
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+4. Investment Securities
+
+ Investment securities at December 31, 2007 and 2006 are as follows:
+
+2007
+
+Amortized
+
+cost
+
+Unrealized gains
+
+Unrealized (losses)
+
+Fair value
+
+(in thousands)
+
+Available-for-sale securities:
+
+Mortgage-backed securities
+
+$ 11
+
+1
+
+–
+
+12
+
+Municipal bonds
+
+6,991
+
+128
+
+(73)
+
+7,046
+
+Affiliated mutual funds
+
+22,912
+
+7,596
+
+(121)
+
+30,387
+
+29,914
+
+7,725
+
+(194)
+
+37,445
+
+Trading securities:
+
+Mortgage-backed securities
+
+118
+
+–
+
+–
+
+118
+
+Municipal bonds
+
+502
+
+–
+
+–
+
+502
+
+Corporate bonds
+
+156
+
+–
+
+–
+
+156
+
+Common stock
+
+74
+
+–
+
+–
+
+74
+
+Affiliated mutual funds
+
+12,618
+
+–
+
+–
+
+12,618
+
+13,468
+
+–
+
+–
+
+13,468
+
+Total investment securities
+
+$ 43,382
+
+7,725
+
+(194)
+
+50,913
+
+2006
+
+Amortized
+
+cost
+
+Unrealized gains
+
+Unrealized (losses)
+
+Fair value
+
+(in thousands)
+
+Available-for-sale securities:
+
+Mortgage-backed securities
+
+$ 12
+
+1
+
+–
+
+13
+
+Municipal bonds
+
+6,985
+
+199
+
+–
+
+7,184
+
+Affiliated mutual funds
+
+22,486
+
+7,346
+
+(116)
+
+29,716
+
+29,483
+
+7,546
+
+(116)
+
+36,913
+
+Trading securities:
+
+Mortgage-backed securities
+
+124
+
+–
+
+–
+
+124
+
+Municipal bonds
+
+510
+
+–
+
+–
+
+510
+
+Corporate bonds
+
+340
+
+–
+
+–
+
+340
+
+Common stock
+
+46
+
+–
+
+–
+
+46
+
+Affiliated mutual funds
+
+10,196
+
+–
+
+–
+
+10,196
+
+11,216
+
+–
+
+–
+
+11,216
+
+Total investment securities
+
+$ 40,699
+
+7,546
+
+(116)
+
+48,129
+
+63
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+ A summary of debt securities and affiliated mutual funds with market values below carrying values at December 31, 2007 is as follows:
+
+Less than 12 months
+
+12 months or longer
+
+Total
+
+Fair value
+
+Unrealized (losses)
+
+Fair value
+
+Unrealized (losses)
+
+Fair value
+
+Unrealized (losses)
+
+(in thousands)
+
+Municipal bonds
+
+$
+
+2,983
+
+(73)
+
+–
+
+–
+
+2,983
+
+(73)
+
+Affiliated mutual funds
+
+1,301
+
+(121)
+
+–
+
+–
+
+1,301
+
+(121)
+
+Total temporarily impaired securities
+
+$
+
+4,284
+
+(194)
+
+–
+
+–
+
+4,284
+
+(194)
+
+ We assess the carrying value of investments in debt and equity securities each quarter to determine whether an other than temporary decline in
+fair value exists. We consider factors affecting the issuer and the industry the issuer operates in, general market trends including interest rates, and our ability and intent to hold an investment
+until it has recovered. Consideration is given to the length of time an investment's market value has been below carrying value and prospects for recovery to carrying value. Based upon our assessment
+of these municipal bonds and affiliated mutual funds, our intent to hold the affiliated mutual funds until they have recovered and our history of holding bonds until maturity, we determined that a
+write-down was not appropriate at this time.
+
+ Mortgage-backed
+securities and municipal bonds accounted for as available-for sale and held as of December 31, 2007 mature as follows:
+
+Amortized
+
+cost
+
+Fair value
+
+(in thousands)
+
+After ten years
+
+$ 7,002
+
+7,058
+
+$ 7,002
+
+7,058
+
+ Mortgage-backed
+securities, municipal bonds and corporate bonds accounted for as trading and held as of December 31, 2007 mature as follows:
+
+Amortized
+
+cost
+
+Fair value
+
+(in thousands)
+
+After ten years
+
+$ 776
+
+776
+
+$ 776
+
+776
+
+ Investment
+securities with fair value of $10.9 million, $15.5 million and $68.7 million were sold during 2007, 2006 and 2005, respectively. A net gain of
+$3.6 million was recognized during 2007 from the sale of $10.4 million in available-for-sale securities. During 2006, a net gain of $3.3 million was
+recognized from the sale of $14.8 million in available-for-sale securities. During 2005, $59.6 million of trading securities were sold, of which approximately
+$57.4 million were proceeds from the sale of certificates of deposit
+
+64
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+previously
+held as an appeal bond related to a legal matter. A net gain of $1.0 million was recognized during 2005 from the sale of $9.1 million in
+available-for-sale securities.
+
+ The
+aggregate carrying amount of our equity method investments, classified in other assets, was $3.6 million at December 31, 2007 and 2006. At December 31, 2007, our
+investment consists of a limited partnership interest in venture capital funds. During 2005, we sold our interest in another venture capital fund for approximately $2.0 million and recognized a
+gain on the sale of $0.6 million.
+
+5. Acquisitions
+
+Securian Strategic Alliance Agreement
+
+ In 2003, the Company entered into a Strategic Alliance Agreement with Securian Financial Group, Inc. ("Securian"), through which we agreed to become
+investment adviser of substantially all managed equity assets of Advantus Capital Management, Inc. ("Advantus"). Advantus is a subsidiary of Securian and is an affiliate of Minnesota Life
+Insurance Company.
+
+ In
+2003, we paid $31.8 million (inclusive of acquisition costs) to purchase the rights to manage nine actively managed equity funds of the Advantus Series Funds, a mutual
+fund family used within variable insurance products and 11 actively managed retail funds of the Advantus Funds. As a result of this purchase, we recorded $31.8 million of indefinite life
+intangible assets.
+
+ The
+purchase agreements contained provisions whereby the initial purchase price may be reduced based upon a calculation using certain levels of assets under management determinations
+made no later than 30 days after each of the first, second and third anniversaries of the closing date of each
+transaction. Assets at each anniversary date were at levels that did not require a reduction to the purchase price.
+
+6. Goodwill and Identifiable Intangible Assets
+
+ Goodwill represents the excess of purchase price over the tangible assets and identifiable intangible assets of an acquired business. Gross goodwill was
+$212.0 million at December 31, 2007 and 2006 and accumulated amortization of goodwill was $38.6 million at December 31, 2007 and 2006. Our goodwill is not deductible for
+tax purposes.
+
+ Goodwill
+is not amortized, but instead is reviewed annually and when events or circumstances occur which indicate that goodwill might be impaired. Impairment of goodwill is tested at the
+Company's reporting unit level. To determine fair value, our review process uses the income and market approaches. In performing the analysis, we use the best information available under the
+circumstances, including reasonable and supportable assumptions and projections. If the carrying amount of the reporting unit exceeds its implied fair value, goodwill is considered impaired and a
+second step is performed to measure the amount of impairment loss, if any.
+
+ Based
+on our annual review of goodwill in the second quarter of 2006, in accordance with SFAS No. 142, we recorded an impairment charge of $20.0 million related to our
+subsidiary, ACF. Factors that led to this conclusion included, but were not limited to, the negative impact of the decline in ACF's assets under management and diminished involvement of ACF's
+investment staff in mutual fund advisory responsibilities. Asset redemptions significantly impacted ACF's ability to achieve and maintain profitability, and therefore adversely impacted its earnings
+potential. ACF's remaining unamortized goodwill balance at December 31, 2007 was $7.2 million.
+
+65
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+ The
+goodwill impairment charge was not deductible for income tax purposes and as a result, no tax benefit has been recognized for the goodwill impairment charge.
+
+ The
+carrying value of identifiable intangible assets (all considered indefinite lived) at December 31, 2007 and 2006 are summarized as follows:
+
+2007
+
+2006
+
+(in thousands)
+
+Unamortized intangible assets:
+
+Mutual fund management advisory contracts
+
+$ 38,699
+
+38,699
+
+Mutual fund subadvisory management contracts
+
+16,300
+
+16,300
+
+Total
+
+$ 54,999
+
+54,999
+
+7. Property and Equipment
+
+ A summary of property and equipment at December 31, 2007 and 2006 is as follows:
+
+2007
+
+2006
+
+Estimated
+
+useful lives
+
+(in thousands)
+
+Leasehold improvements
+
+$ 7,337
+
+5,481
+
+1 - 15 years
+
+Furniture and fixtures
+
+23,726
+
+22,795
+
+3 - 10 years
+
+Equipment and machinery
+
+21,675
+
+21,431
+
+3 - 20 years
+
+Data processing equipment and computer software
+
+58,853
+
+53,923
+
+3 - 10 years
+
+Property and equipment, at cost
+
+111,591
+
+103,630
+
+Accumulated depreciation
+
+(63,607)
+
+(52,755)
+
+Property and equipment, net
+
+$ 47,984
+
+50,875
+
+ Depreciation
+expense was $12.4 million, $11.7 million and $10.3 million during the years ended December 31, 2007, 2006 and 2005, respectively.
+
+8. Indebtedness
+
+ On August 15, 2000, the Company filed a $400.0 million shelf registration, whereby proceeds received could be used for general corporate purposes,
+including the repayment of short-term debt outstanding. On January 18, 2001, the Company issued $200.0 million in principal amount 7.50% senior notes due in
+January 2006 (the "7.50% Notes"), resulting in net proceeds of approximately $197.6 million (net of discounts, commissions and expenses). Interest was payable semi-annually
+on January 18 and July 18 at a fixed rate of 7.50% per annum.
+
+ On
+March 12, 2002, the 7.50% Notes were effectively converted to variable rate debt by entering into an interest rate swap agreement whereby we agreed with another party to
+exchange, at specified intervals, the difference between the fixed-rate and various floating-rate interest amounts, calculated using a notional amount of $200.0 million.
+The difference in the floating-rate interest paid and the 7.50% fixed-rate interest received was recorded as an adjustment to interest expense during the period that the
+
+66
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+related
+debt was outstanding. The change in the fair value of the interest rate swap was recorded on the consolidated balance sheet by adjusting the carrying amounts of the 7.50% Notes by an
+offsetting amount for the swap.
+
+ Under
+SFAS No. 133,
+"Accounting for Derivative Instruments and Hedging Activities"
+ ("SFAS No. 133"), we accounted for the
+interest rate swap as a fair value hedge of the Notes. This interest rate swap was considered 100% effective in hedging the changes in the fair value of the 7.50% Notes arising from changes in
+interest rates, and accordingly, there was no impact on earnings resulting from any ineffectiveness associated with this transaction. No fair value adjustment was necessary for the swap at
+December 31, 2005 as the term of the swap expired on January 18, 2006.
+
+ During
+2005, the Company entered into two forward starting interest rate swap agreements that had five year fixed swap rates of 4.57% and 4.84%, respectively, on notional amounts of
+$100 million for each swap. The swaps were put in place to hedge against changes in forecasted interest payments attributable to changes in the LIBOR swap rate between the time the Company
+entered into the swap agreement and the time we anticipated refinancing the 7.50% Notes in January 2006. The Company assessed the effectiveness of the swaps as hedges at their inception and at
+December 31, 2005, and we considered those swaps to be completely effective cash flow hedges under SFAS No. 133. As of December 31, 2005, net unrealized gains attributed to the
+forward swap cash flow hedges were approximately $1.6 million and were included as a component of other comprehensive income.
+
+ On
+January 13, 2006, the Company issued $200 million in principal amount 5.60% senior notes due 2011 (the "New Notes") resulting in net proceeds of approximately
+$198.2 million (net of discounts, commissions and estimated expenses). The Company used these proceeds, together with cash on hand, to repay the entire $200 million aggregate principal
+amount outstanding of its 7.50% Notes. The New Notes represent senior unsecured obligations and are rated "Baa2" by Moody's and "BBB" by Standard & Poor's. Interest is payable
+semi-annually on January 15 and July 15 at a fixed rate of 5.60% per annum. The Company may, at its option, call the New Notes at any time pursuant to a make whole redemption
+provision, which would compensate holders for any changes in interest rate levels of the notes upon early extinguishment. The Company currently has no intention to call the New Notes.
+
+ On
+January 10, 2006, the Company terminated the two 2005 forward interest rate swap agreements upon the closing of the New Notes. In connection with the termination of the swap
+agreements, the Company received a net cash settlement of $1.1 million. The Company's gain on these transactions was deferred in accumulated other comprehensive income and is being amortized
+into earnings as a
+reduction to interest expense over the five year term of the New Notes. As of December 31, 2007, the remaining unamortized amount was approximately $0.7 million.
+
+ The
+Company entered into a three-year revolving credit facility (the "Credit Facility") with various lenders, effective October 7, 2005, which initially provides for
+borrowings of up to $200 million and replaced the Company's previous 364-day revolving credit facility. At December 31, 2007 and 2006, there were no borrowings outstanding
+under the Credit Facility. Borrowings under the Credit Facility bear interest at various rates including adjusted LIBOR or an alternate base rate plus, in each case, an incremental margin based on the
+Company's credit rating. The Credit Facility also provides for a facility fee on the daily aggregate amount of commitment under the revolving facility (whether or not utilized). The facility fee is
+also based on the Company's credit rating level. The most restrictive provisions of the credit agreement require the Company to maintain a consolidated leverage ratio not to exceed 3.0 to 1.0
+
+67
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+for
+four consecutive quarters and a consolidated interest coverage ratio of not less than 4.0 to 1.0 for four consecutive quarters. The Company was in compliance with these covenants and similar
+covenants in prior facilities for all years presented.
+
+ The
+following is a summary of long-term debt at December 31, 2007 and 2006:
+
+2007
+
+2006
+
+(in thousands)
+
+Principal amount unsecured 5.60% senior notes due in 2011
+
+$ 200,000
+
+200,000
+
+Discount on unsecured 5.60% senior notes due in 2011
+
+(45)
+
+(58)
+
+Total long-term debt
+
+$ 199,955
+
+199,942
+
+9. Income Taxes
+
+ The provision for income taxes for the years ended December 31, 2007, 2006 and 2005 consists of the following:
+
+2007
+
+2006
+
+2005
+
+(in thousands)
+
+Currently payable:
+
+Federal
+
+$ 72,760
+
+39,770
+
+35,362
+
+State
+
+5,092
+
+3,823
+
+3,333
+
+77,852
+
+43,593
+
+38,695
+
+Deferred taxes
+
+(4,189)
+
+(505)
+
+(2,866)
+
+Provision for income taxes
+
+$ 73,663
+
+43,088
+
+35,829
+
+68
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+ The following table reconciles the statutory federal income tax rate with our effective income tax rate for the years ended December 31, 2007, 2006 and
+2005:
+
+2007
+
+2006
+
+2005
+
+Statutory federal income tax rate
+
+35.0%
+
+35.0%
+
+35.0%
+
+State income taxes, net of federal tax benefits
+
+2.1
+
+1.7
+
+1.4
+
+Favorable resolution of outstanding income tax matters
+
+—
+
+—
+
+(2.4)
+
+State tax incentives
+
+(0.1)
+
+(1.2)
+
+—
+
+Nondeductible fines
+
+—
+
+4.7
+
+0.8
+
+Nondeductible goodwill impairment expense
+
+—
+
+7.8
+
+—
+
+Other items
+
+—
+
+0.3
+
+2.5
+
+Effective income tax rate
+
+37.0%
+
+48.3%
+
+37.3%
+
+ The
+tax effect of temporary differences that give rise to significant portions of deferred tax liabilities and deferred tax assets at December 31, 2007 and 2006 are as follows:
+
+2007
+
+2006
+
+(in thousands)
+
+Deferred tax liabilities:
+
+Unrealized pension benefits
+
+$ (785)
+
+—
+
+Deferred sales commissions
+
+(6,754)
+
+(5,711)
+
+Property and equipment
+
+(8,794)
+
+(10,319)
+
+Benefit plans
+
+(3,037)
+
+(2,867)
+
+Identifiable intangible assets
+
+(8,374)
+
+(8,306)
+
+Unrealized gains on derivatives
+
+(248)
+
+(324)
+
+Unrealized gains on available for sale investment securities
+
+(2,753)
+
+(2,660)
+
+Purchase of fund assets
+
+(3,423)
+
+(2,629)
+
+Prepaid expenses
+
+(1,413)
+
+(1,349)
+
+Other
+
+(242)
+
+(249)
+
+Total gross deferred liabilities
+
+(35,823)
+
+(34,414)
+
+Deferred tax assets:
+
+Acquisition lease liability
+
+1,029
+
+1,026
+
+Additional pension and postretirement liability
+
+—
+
+6,392
+
+Accrued expenses
+
+6,753
+
+7,276
+
+Unrealized losses on investment securities
+
+676
+
+705
+
+Nonvested stock
+
+11,240
+
+9,593
+
+Unused state tax credits
+
+174
+
+263
+
+State net operating loss carryover
+
+3,527
+
+2,908
+
+Other
+
+2,828
+
+—
+
+Total gross deferred assets
+
+26,227
+
+28,163
+
+Valuation allowance
+
+(3,527)
+
+(2,908)
+
+Net deferred tax liability
+
+$ (13,123)
+
+(9,159)
+
+69
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+ Certain
+of the Company's subsidiaries have net operating loss carryforwards in certain states in which these companies file on a separate company basis. The deferred tax asset, net of
+federal tax effect, relating to the carryforwards as of December 31, 2007 and 2006 is approximately $3.5 million and $2.9 million, respectively. The carryforwards, if not
+utilized, will expire between 2008 and 2027. Management believes it is not more likely than not that these subsidiaries will generate sufficient future taxable income in these states to realize the
+benefit of the net operating loss carryforwards and, accordingly, a valuation allowance in the amount of $3.5 million and $2.9 million has been established at December 31, 2007
+and 2006, respectively. The Company generated state tax credits in 2006 and 2007 of $263 thousand and $174 thousand that will expire between 2016 and 2029, respectively, if not utilized.
+The Company anticipates these credits will be fully utilized prior to their expiration dates.
+
+ In
+June 2006, the FASB issued FIN 48 to clarify certain aspects of accounting for uncertain tax positions. FIN 48 clarifies the accounting for income taxes by
+prescribing a minimum recognition threshold that a tax provision is required to meet before being recognized in the financial statements. FIN 48 also provides guidance on derecognition,
+measurement, classification, interest and penalties, accounting in interim periods, disclosure and transition. The Company adopted FIN 48 on January 1, 2007.
+
+ As
+of January 1, 2007, the Company had unrecognized tax benefits, including penalties and interest, of $5.1 million ($3.5 million net of federal benefit) that, if
+recognized, would impact the Company's effective tax rate. As of December 31, 2007, the Company had unrecognized tax benefits, including penalties and interest, of $6.2 million
+($4.2 million net of federal benefit) that, if recognized, would impact the Company's effective tax rate. The unrecognized tax benefits that are not expected to be settled within the next
+12 months are included in other liabilities in the accompanying consolidated balance sheet; unrecognized tax benefits that are expected to be settled within the next 12 months are
+included in income taxes payable. The Company had no cumulative effect of adopting FIN 48, and therefore, no adjustment was recorded to retained earnings upon such adoption.
+
+ The
+following table summarizes the Company's reconciliation of unrecognized tax benefits for the year ended December 31, 2007:
+
+Unrecognized
+
+Tax Benefits
+
+(in thousands)
+
+Balance at January 1, 2007
+
+$ 3,242
+
+Increases during the year:
+
+Gross increases - tax positions in prior periods
+
+1,069
+
+Gross increases - current-period tax positions
+
+1,782
+
+Decreases during the year:
+
+Decreases due to settlements with taxing authorities
+
+(1,476)
+
+Decreases due to lapse of statute of limitations
+
+(122)
+
+Balance at December 31, 2007
+
+$ 4,495
+
+ The Company's historical accounting policy with respect to interest and penalties related to tax uncertainties has been to classify these amounts
+as income taxes, and the Company continued this classification upon the adoption of FIN 48. As of January 1, 2007, the total amount of accrued interest and penalties related to uncertain
+tax positions recognized in the consolidated balance sheet was $1.9 million ($1.3 million net of federal benefit). The total amount of penalties and interest, net of federal benefit,
+
+70
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+related
+to tax uncertainties recognized in the statement of income for the year ended December 31, 2007 was $423 thousand. The total amount of accrued penalties and interest related to
+uncertain tax positions at December 31, 2007 of $1.7 million ($1.3 million net of federal benefit) is included in the total unrecognized tax benefits described above.
+
+ In
+the ordinary course of business, many transactions occur for which the ultimate tax outcome is uncertain. In addition, respective tax authorities periodically audit our income tax
+returns. These audits examine our significant tax filing positions, including the timing and amounts of deductions and the allocation of income among tax jurisdictions. During 2006, the Company
+settled five open tax years, 2000 through 2004, that were undergoing audit by the United States Internal Revenue Service. The 2005 and 2006 federal income tax returns are the only open tax years that
+remain subject to potential future audit. In late 2007, the Company settled two open tax years that were undergoing audit by a state jurisdiction in which the Company operates. State income tax
+returns for all years after 2002 are subject to potential future audit by tax authorities in the Company's major state tax jurisdictions.
+
+ The
+Company is currently being audited in three other state jurisdictions. It is reasonably possible that the Company will settle the audits in these jurisdictions within the next
+12-month period. It is estimated that the Company's FIN 48 liability could decrease by approximately $1.8 million to $2.5 million ($1.2 million to
+$1.6 million net of federal benefit) upon settlement of these audits. Such settlements are not anticipated to have a significant impact on reported income.
+
+10. Pension Plan and Postretirement Benefits Other Than Pensions
+
+ We provide a non-contributory retirement plan that covers substantially all employees and certain vested employees of our former parent company (the
+"Pension Plan"). Benefits payable under the Pension Plan are based on employees' years of service and compensation during the final ten years of employment. We also sponsor an unfunded defined benefit
+postretirement medical plan that covers substantially all employees, including Waddell & Reed and Legend advisors. The medical plan is contributory with retiree contributions adjusted annually.
+The medical plan does not provide for post age 65 benefits with the exception of a small group of employees that were grandfathered when such plan was established.
+
+71
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+ A
+reconciliation of the funded status of these plans and the assumptions related to the obligations at December 31, 2007, 2006 and 2005 follows:
+
+Pension Benefits
+
+Other
+
+Postretirement Benefits
+
+2007
+
+2006
+
+2005
+
+2007
+
+2006
+
+2005
+
+(in thousands)
+
+Change in projected benefit obligation:
+
+ Net benefit obligation at
+
+ beginning of year
+
+$ 88,320
+
+86,530
+
+82,829
+
+4,174
+
+3,715
+
+5,441
+
+Service cost
+
+5,718
+
+5,446
+
+5,598
+
+292
+
+299
+
+422
+
+Interest cost
+
+5,490
+
+4,830
+
+4,824
+
+244
+
+209
+
+306
+
+Plan amendments
+
+—
+
+—
+
+—
+
+—
+
+165
+
+—
+
+Benefits and expenses paid
+
+(3,690)
+
+(3,496)
+
+(6,604)
+
+(313)
+
+(244)
+
+(144)
+
+Actuarial gain
+
+(945)
+
+(4,990)
+
+(117)
+
+(570)
+
+(107)
+
+(2,418)
+
+Retiree contributions
+
+—
+
+—
+
+—
+
+148
+
+137
+
+108
+
+Net benefit obligation at end of year
+
+$ 94,893
+
+88,320
+
+86,530
+
+3,975
+
+4,174
+
+3,715
+
+ The accumulated benefit obligation for the Pension Plan was $81.3 million and $77.1 million at December 31, 2007 and 2006,
+respectively.
+
+Pension Benefits (1)
+
+Other
+
+Postretirement Benefits (1)
+
+2007
+
+2006
+
+2005
+
+2007
+
+2006
+
+2005
+
+(in thousands)
+
+Change in plan assets:
+
+Fair value of plan assets at beginning of year
+
+ $
+
+82,889
+
+74,445
+
+68,629
+
+—
+
+—
+
+—
+
+Actual return on plan assets
+
+23,622
+
+4,940
+
+5,420
+
+—
+
+—
+
+—
+
+Employer contributions
+
+7,000
+
+7,000
+
+7,000
+
+165
+
+107
+
+36
+
+Retiree contributions
+
+—
+
+—
+
+—
+
+148
+
+137
+
+108
+
+Benefits paid
+
+(3,689)
+
+(3,496)
+
+(6,604)
+
+(313)
+
+(244)
+
+(144)
+
+Fair value of plan assets at end of year
+
+ $
+
+109,822
+
+82,889
+
+74,445
+
+—
+
+—
+
+—
+
+Funded status at end of year
+
+ $
+
+14,929
+
+(5,431)
+
+(12,085)
+
+(3,975)
+
+(4,174)
+
+(3,715)
+
+Unrecognized transition obligation
+
+NA
+
+NA
+
+67
+
+NA
+
+NA
+
+—
+
+Unrecognized prior service cost
+
+NA
+
+NA
+
+4,585
+
+NA
+
+NA
+
+258
+
+Unrecognized net actuarial loss
+
+NA
+
+NA
+
+19,333
+
+NA
+
+NA
+
+(889)
+
+Net asset (liability) recognized at end of year
+
+NA
+
+NA
+
+11,900
+
+NA
+
+NA
+
+(4,346)
+
+(1)
+NA
+refers to not applicable under SFAS No. 158,
+"Employers' Accounting for Defined Benefit Pension and Other Retirement Plans — an amendment
+of FASB Statements No. 87, 88, 106 and 132-R"
+ ("SFAS No. 158"), adopted in 2006.
+
+72
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+Pension Benefits (1)
+
+Other
+
+Postretirement Benefits (1)
+
+2007
+
+2006
+
+2005
+
+2007
+
+2006
+
+2005
+
+(in thousands)
+
+Amounts recognized in the statement of financial position prior to SFAS No. 158:
+
+Accrued benefit cost
+
+NA
+
+NA
+
+(920)
+
+NA
+
+NA
+
+(4,346)
+
+Intangible asset
+
+NA
+
+NA
+
+4,652
+
+NA
+
+NA
+
+–
+
+Accumulated other comprehensive income
+
+NA
+
+NA
+
+8,168
+
+NA
+
+NA
+
+–
+
+Net asset (liability) recognized at end of year
+
+NA
+
+NA
+
+11,900
+
+NA
+
+NA
+
+(4,346)
+
+Amounts recognized in the statement of financial position under SFAS No. 158:
+
+Noncurrent assets
+
+ $
+
+14,929
+
+–
+
+NA
+
+–
+
+–
+
+NA
+
+Current liabilities
+
+–
+
+–
+
+NA
+
+(192)
+
+(209)
+
+NA
+
+Noncurrent liabilities
+
+–
+
+(5,431)
+
+NA
+
+(3,783)
+
+(3,965)
+
+NA
+
+Net amount recognized at end of year
+
+ $
+
+14,929
+
+(5,431)
+
+NA
+
+(3,975)
+
+(4,174)
+
+NA
+
+Amounts not yet reflected in net periodic benefit cost and included in accumulated other comprehensive income:
+
+Transition obligation
+
+ $
+
+(57)
+
+(62)
+
+NA
+
+–
+
+–
+
+NA
+
+Prior service cost
+
+(3,714)
+
+(4,149)
+
+NA
+
+(362)
+
+(400)
+
+NA
+
+Accumulated gain (loss)
+
+4,792
+
+(14,143)
+
+NA
+
+1,489
+
+958
+
+NA
+
+Accumulated other comprehensive income
+
+1,021
+
+(18,354)
+
+NA
+
+1,127
+
+558
+
+NA
+
+Cumulative employer contributions in excess of net periodic benefit cost
+
+13,908
+
+12,923
+
+NA
+
+(5,102)
+
+(4,732)
+
+NA
+
+Net amount recognized at end of year
+
+ $
+
+14,929
+
+(5,431)
+
+NA
+
+(3,975)
+
+(4,174)
+
+NA
+
+Weighted average assumptions used to determine benefit obligation at December 31:
+
+Discount rate
+
+6.75%
+
+6.00%
+
+5.75%
+
+6.75%
+
+6.00%
+
+5.75%
+
+Rate of compensation increase
+
+3.86%
+
+3.86%
+
+3.86%
+
+Not applicable
+
+(1)
+NA
+refers to not applicable under SFAS No. 158, adopted in 2006.
+
+ The discount rate assumptions used to determine the postretirement obligations at December 31, 2007 and 2006 and the postretirement
+expenses in 2007 were based on the Mercer Bond Model. This model was designed by Mercer Human Resource Consulting to provide a means for plan sponsors to value the liabilities of their postretirement
+benefit plans. The Mercer Bond Model calculates the yield on a theoretical portfolio of high-grade corporate bonds (rated "Aa" or better) with cash flows that generally match our expected
+benefit payments. To the extent scheduled bond proceeds exceed the estimated benefit payments in a given period, the yield calculation assumes those excess proceeds are reinvested at the
+one-year forward rates implied by the Citigroup Pension Discount Curve.
+
+ We
+adopted SFAS No. 158 for the fiscal year ended December 31, 2006. SFAS No. 158 requires employers to recognize the overfunded or underfunded status of a defined
+benefit post-retirement plan as an asset or liability in its statement of financial position, measured as the difference between the fair value of plan assets and the benefit obligation.
+Further, this statement requires employers to recognize changes in that funded status in the year in which the changes occur through comprehensive income.
+
+73
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+ Our
+Pension Plan asset allocation at December 31, 2007 and 2006 and our target allocation for 2008 are as follows:
+
+Plan assets by investment style
+
+Target Allocation
+
+at January 1, 2008
+
+Percentage of Plan Assets
+
+at December 31, 2007
+
+Asset Strategy
+
+40%
+
+44%
+
+Large Cap Growth
+
+35%
+
+35%
+
+Core Plus Fixed Income
+
+13%
+
+10%
+
+Science and Technology
+
+10%
+
+9%
+
+Cash Reserves
+
+2%
+
+2%
+
+Total
+
+100%
+
+100%
+
+Plan assets by category
+
+Percentage of Plan Assets
+
+at December 31, 2007
+
+Percentage of Plan Assets
+
+at December 31, 2006
+
+Equity securities
+
+75%
+
+62%
+
+Debt securities
+
+15%
+
+26%
+
+Cash
+
+10%
+
+12%
+
+Total
+
+100%
+
+100%
+
+ The primary investment objective is to maximize growth of the Pension Plan assets to meet the projected obligations to the beneficiaries over a
+long period of time, and to do so in a manner that is consistent with the Company's earnings strength and risk tolerance. Asset allocation is the most important decision in managing the assets and it
+is reviewed regularly. The asset allocation policy considers the Company's financial strength and long-term asset class risk/return expectations since the obligations are
+long-term in nature. The target allocations for pension assets are as summarized in the table above. The assets are well diversified and are managed by our in-house investment
+professionals.
+
+ Large
+Cap Growth consists of a diversified portfolio of common stocks issued by higher-quality growth-oriented large to medium sized domestic and, to a lesser extent, foreign companies.
+Asset Strategy
+invests in most any domestic or foreign market that is believed to offer the greatest probability of return or, alternatively, that provides the highest degree of safety in uncertain times. Although
+this style may allocate its assets among stocks, bonds and short-term investments, the allocation is typically weighted toward stocks. Core Plus Fixed Income invests primarily in
+investment-grade debt securities issued in the United States. Science and Technology concentrates its investments primarily in equity securities of domestic and foreign companies that benefit by the
+application of science and technological discoveries.
+
+74
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+ The 7.75% expected long-term rate of return on Pension Plan assets reflects management's expectations of long-term average rates of return
+on funds invested to provide for benefits included in the projected benefit obligations. The expected return is based on the
+outlook for inflation, fixed income returns and equity returns, while also considering historical returns, asset allocation and investment strategy.
+
+ The
+components of net periodic pension and other postretirement costs and the assumptions related to those costs consisted of the following for the years ended December 31, 2007,
+2006 and 2005.
+
+Pension Benefits
+
+Other
+
+Postretirement Benefits
+
+2007
+
+2006
+
+2005
+
+2007
+
+2006
+
+2005
+
+(in thousands)
+
+Components of net periodic benefit cost:
+
+Service cost
+
+ $
+
+5,718
+
+5,446
+
+5,598
+
+292
+
+299
+
+422
+
+Interest cost
+
+5,490
+
+4,830
+
+4,824
+
+244
+
+209
+
+306
+
+Expected return on plan assets
+
+(6,442)
+
+(5,694)
+
+(5,208)
+
+—
+
+—
+
+—
+
+ Actuarial (gain) loss
+
+ amortization
+
+808
+
+954
+
+1,434
+
+(39)
+
+(38)
+
+88
+
+Prior service cost amortization
+
+436
+
+436
+
+436
+
+38
+
+23
+
+23
+
+ Transition obligation
+
+ amortization
+
+5
+
+5
+
+5
+
+—
+
+—
+
+—
+
+Net periodic benefit cost
+
+ $
+
+6,015
+
+5,977
+
+7,089
+
+535
+
+493
+
+839
+
+Weighted average assumptions used to determine net periodic benefit cost for the years ended December 31:
+
+Discount rate
+
+6.00%
+
+5.75%
+
+5.75%
+
+6.00%
+
+5.75%
+
+5.75%
+
+Expected return on plan assets
+
+7.75%
+
+7.75%
+
+7.75%
+
+Not applicable
+
+Rate of compensation increase
+
+3.86%
+
+3.86%
+
+3.86%
+
+Not applicable
+
+ We expect the following benefit payments to be paid which reflect future service, as appropriate:
+
+Pension Benefits
+
+Other Postretirement Benefits
+
+(in thousands)
+
+2008
+
+ $
+
+5,075
+
+192
+
+2009
+
+5,318
+
+223
+
+2010
+
+5,219
+
+277
+
+2011
+
+7,029
+
+308
+
+2012
+
+8,231
+
+331
+
+2013 through 2017
+
+50,795
+
+1,876
+
+ $
+
+81,667
+
+3,207
+
+75
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+ Our
+policy with respect to funding the Pension Plan is to fund at least the minimum required by the Employee Retirement Income Security Act of 1974, as amended, and not more than the
+maximum amount deductible for tax purposes. All contributions made to the Pension Plan for 2007 and 2006 were voluntary. We anticipate that the 2008 contribution will be made from cash generated from
+operations and will be in the range of $5.0 to $10.0 million.
+
+ All
+Company contributions to other postretirement medical benefits are voluntary, as the postretirement medical plan is not funded, and is not subject to any minimum regulatory funding
+requirements. The contributions for each year represent claims paid for medical expenses, and we anticipate making the 2008 expected contribution with cash generated from operations. Contributions by
+participants to the postretirement plan were $148 thousand and $137 thousand for the years ending December 31, 2007 and 2006, respectively.
+
+ For
+measurement purposes, the initial health care cost trend rate was 10% for 2008, 2007 and 2006. The health care cost trend rate reflects anticipated increases in health care costs.
+The initial assumed growth rate of 10% in the first year is assumed to gradually decline over the next five years to a rate of 5% in the fifth year. The effect of a 1% annual increase in assumed cost
+trend rates would increase the December 31, 2007 accumulated postretirement benefit obligation by approximately $393 thousand, and the aggregate of the service and interest cost
+components of net periodic postretirement benefit cost for the year ended December 31, 2007 by approximately $72 thousand. The effect of a 1% annual decrease in assumed cost trend rates
+would decrease the December 31, 2007 accumulated postretirement benefit obligation by approximately $342 thousand, and the aggregate of the service and interest cost components of net
+periodic postretirement benefit cost for the year ended December 31, 2007 by approximately $61 thousand.
+
+ We
+also sponsor the Waddell & Reed Financial, Inc. Supplemental Executive Retirement Plan, as amended and restated (the "SERP"), a non-qualified deferred
+compensation plan covering eligible employees. The SERP provides certain benefits for Company officers that the Pension Plan is prevented from providing because of compensation and benefit limits in
+the Internal Revenue Code.
+
+ The
+SERP was adopted to supplement the annual pension paid to certain senior executive officers. Each calendar year, the Compensation Committee of the Board of Directors (the
+"Compensation Committee") credits participants' SERP accounts with (i) an amount equal to 4% of the executive's base salary, less the amount of the maximum employer matching contribution
+available under our 401(k) plan, and (ii) a non-formula award, if any, as determined by the Compensation Committee in its discretion. There were no discretionary awards made to
+participants during 2007. Additionally, each calendar year, participants' accounts are credited (or charged) with an amount equal to the performance of certain hypothetical or investment vehicles
+since the last preceding year. Upon a participant's separation, or at such other time based on a pre-existing election by a participant, benefits accumulated under the SERP are payable in
+installments or in a lump sum. As of December 31, 2007 and 2006, the aggregate liability to participants was $3.4 million and $3.3 million, respectively.
+
+ At
+December 31, 2007, the accrued pension and postretirement liability recorded on the balance sheet was comprised of an accrued liability for SERP benefits of $3.4 million
+and a liability for postretirement benefits in the amount of $3.8 million. The current portion of postretirement liability of $0.2 million is included in other current liabilities on the
+balance sheet. At December 31, 2006, the accrued pension and postretirement liability recorded on the balance sheet was comprised of accrued pension costs of
+
+76
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+$5.4 million,
+an accrued liability for SERP benefits of $3.3 million, and a liability for postretirement benefits in the amount of $4.0 million. The current portion of
+postretirement liability of $0.2 million is included in other current liabilities on the balance sheet.
+
+11. Employee Savings Plan
+
+ We sponsor a defined contribution plan that qualifies under Section 401(k) of the Internal Revenue Code to provide retirement benefits to substantially all
+of our employees following the completion of an eligibility period. As allowed under Section 401(k), the plan provides tax-deferred salary deductions for eligible employees. Our
+matching contributions to the plan for the years ended December 31, 2007, 2006 and 2005 were $3.7 million, $3.4 million and $3.1 million, respectively.
+
+12. Stockholders' Equity
+
+Earnings per Share
+
+ For the years ended December 31, 2007, 2006 and 2005 earnings per share were computed as follows:
+
+2007
+
+2006
+
+2005
+
+(in thousands, except per share amounts)
+
+Net income
+
+$
+
+125,497
+
+46,112
+
+60,121
+
+Weighted average shares outstanding — basic
+
+80,781
+
+81,353
+
+80,908
+
+Dilutive potential shares from stock options
+
+and certain nonvested stock awards
+
+2,043
+
+1,859
+
+1,137
+
+Weighted average shares outstanding — diluted
+
+82,824
+
+83,212
+
+82,045
+
+Earnings per share:
+
+Basic
+
+$
+
+1.55
+
+0.57
+
+0.74
+
+Diluted
+
+$
+
+1.52
+
+0.55
+
+0.73
+
+Anti-dilutive Securities
+
+ Options to purchase 659 thousand shares, 2.79 million shares and 2.81 million shares of Class A common stock ("common stock") were
+excluded from the dilutive earnings per share calculation for years ended December 31, 2007, 2006 and 2005, respectively because they were anti-dilutive. Also excluded from the
+diluted earnings per share calculation were approximately 265 thousand shares, 236 thousand shares and 40 thousand shares of anti-dilutive nonvested stock for the
+years ended December 31, 2007, 2006 and 2005, respectively.
+
+Dividends
+
+ We declared dividends on our common stock of $.68 per share, $.60 per share and $.60 per share for the years ended December 31, 2007, 2006 and 2005,
+respectively. As of December 31, 2007 and 2006, other current liabilities included $14.7 million and $12.7 million, respectively, for dividends payable to stockholders.
+
+ The
+Board of Directors approved an increase in the quarterly dividend on our common stock from $.17 per share to $.19 per share beginning with our first quarter 2008 dividend, payable on
+May 1, 2008.
+
+77
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+Common Stock Repurchases
+
+ The Board of Directors has authorized the repurchase of our common stock in the open market and/or private purchases. The acquired shares may be used for
+corporate purposes, including shares issued to employees in our stock-based compensation programs. There were 2,350,054 shares, 1,139,116 shares and 292,600 shares repurchased in the open market or
+privately during the years ended December 31, 2007, 2006 and 2005, respectively.
+
+13. Share-Based Compensation
+
+ The Company has three stock-based compensation plans: the Company 1998 Stock Incentive Plan, as amended and restated (the "SI Plan"), the Company 1998 Executive
+Stock Award Plan, as amended and restated (the "ESA Plan") and the Company 1998 Non-Employee Director Stock Award Plan, as amended and restated (the "NED Plan") (collectively, the "Stock
+Plans").
+
+ The
+SI Plan allows us to grant equity compensation awards, including, among other awards, non-qualified stock options and nonvested stock as part of our overall compensation
+program to attract and retain key personnel and encourage a greater personal financial investment in the Company. The Stock Plans also allow us to grant non-qualified stock options and/or
+nonvested stock to promote the long-term growth of the Company. A maximum of 30,000,000 shares of common stock are authorized for issuance under the SI Plan. A maximum of 3,750,000 and
+1,200,000 shares of common stock are authorized for issuance under the ESA Plan and NED Plan, respectively. In total, 14,155,951 shares of common stock are available for issuance as of
+December 31, 2007 under these plans. In addition, we make incentive payments under the Company 2003 Executive Incentive Plan, as amended and restated (the "EIP") in the form of cash, stock
+options, nonvested stock or a combination thereof. Incentive awards paid under the EIP in the form of stock options or nonvested stock are issued out of shares reserved for issuance under the SI and
+ESA Plans. Generally, shares of common stock covered by terminated, surrendered or cancelled options, by forfeited nonvested stock, or by the forfeiture of other awards that do not result in issuance
+of shares of common stock are again available for awards under the plan from which they were terminated, surrendered, cancelled or forfeited.
+
+ Under
+our Stock Plans, the exercise price of a stock option is equal to the closing market price of Company common stock on the date of grant. The maximum term of
+non-qualified options granted under the SI Plan is ten years and two days and the options generally vest in 33
+1
+/
+3
+% increments on the second, third and fourth anniversaries
+of the grant date. The maximum term of non-qualified options granted under the ESA Plan and NED Plan is 11 years and the options generally vest 10% each year, beginning on the first
+anniversary of the grant date. Our Stock Plans include a Stock Option Restoration Program feature (the "SORP") that allows, on the first trading day of August, a holder to pay the exercise price on
+vested in-the-money options by surrendering common stock of the Company
+that has been owned for at least six months. This feature also permits a holder exercising an option to be granted new options in an amount equal to the number of common shares used to satisfy both
+the exercise price and withholding taxes due upon exercise. New options are granted with an expiration date equal to that of the original option and vest six months after the grant date. The SORP
+results in a net issuance of shares of common stock and fewer stock options outstanding. We receive a current income tax benefit for stock option exercises.
+
+ Nonvested
+stock awards are valued on the date of grant, have no purchase price and generally vest over four years in 33
+1
+/
+3
+% increments on the second, third and fourth
+anniversaries of the grant date.
+
+78
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+Restricted
+shares issued in the stock option tender offer were fully vested upon issuance, but remained subject to transfer restrictions that lapsed in 33
+1
+/
+3
+% increments annually
+beginning March 14, 2005. The Company also issues nonvested stock awards to our financial advisors (our sales force) who are considered independent contractors. These awards have the same terms
+as awards issued to employees; however, changes in the Company's share price result in variable compensation expense over the vesting period. Under the Stock Plans, nonvested shares are forfeited upon
+the termination of employment with the Company or service on the Board, dependent upon the circumstances of termination. Except for restrictions placed on the transferability of nonvested stock,
+holders of nonvested stock have full stockholders' rights during the term of restriction, including voting rights and the rights to receive cash dividends.
+
+ On
+April 25, 2005, the Compensation Committee of the Board approved the accelerated vesting of all then outstanding unvested options previously awarded to employees, financial
+advisors, officers and directors. This resulted in the accelerated vesting of 624,267 options. Of these options, 447,497 were "in-the-money" options having an exercise price
+less than the then current market price of the Company's common stock and a weighted average exercise price of $13.90 per share. In order to prevent unintended personal benefits to directors and
+executive officers, the Board of Directors imposed restrictions on any shares received through the exercise of accelerated options held by those individuals. These restrictions prevent the sale of any
+stock obtained through exercise of an accelerated option prior to its original vesting date, other than the disposition of stock as payment for the exercise price of options and associated income
+taxes, if any.
+
+ The
+Board approved the accelerated vesting of these options based on the belief that it was in the best interest of the stockholders to reduce future compensation expense that the
+Company would otherwise be required to report in its statement of operations upon adoption of SFAS No. 123R on January 1, 2006. We anticipate that holders of
+"in-the-money" accelerated options will remain employed with the Company throughout the original vesting term of such options, and therefore, no expense will be recorded for
+these options unless option holders are able to exercise an option that would have expired unexercisable pursuant to its original terms. Subsequent to the Compensation Committee's decision to
+accelerate the vesting of outstanding options, the separation of employment of the Company's former chief executive officer triggered the remeasurement of compensation cost. This remeasurement
+resulted in additional compensation cost of $1.4 million during 2005.
+
+79
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+(a)
+Stock
+Options
+
+ A
+summary of stock option activity and related information for the year ended December 31, 2007 follows:
+
+Options
+
+Weighted
+
+average
+
+exercise
+
+price
+
+Weighted
+
+average
+
+remaining
+
+contractual term
+
+(in years)
+
+Outstanding at December 31, 2006
+
+6,118,559
+
+ $
+
+23.22
+
+2.32
+
+Granted
+
+—
+
+—
+
+Exercised
+
+(3,447,723)
+
+24.53
+
+Granted in restoration
+
+8,131
+
+24.88
+
+Exercised in restoration
+
+(9,959)
+
+17.78
+
+Terminated/Canceled
+
+(23,342)
+
+19.46
+
+Outstanding at December 31, 2007
+
+2,645,666
+
+ $
+
+21.58
+
+2.10
+
+Exercisable at December 31, 2007
+
+2,637,535
+
+ $
+
+21.57
+
+2.10
+
+ The
+aggregate intrinsic value of outstanding options and exercisable options as of December 31, 2007 was $38.4 million and $38.3 million, respectively. The total
+intrinsic value (on date of exercise) of options exercised during the years ended December 31, 2007, 2006 and 2005 was $31.9 million, $8.7 million and $2.6 million,
+respectively. The related income tax benefit recognized was $11.5 million, $3.1 million and $1.0 million for the years ended December 31, 2007, 2006 and 2005, respectively.
+
+ SORP
+options with vesting periods of six months were the only options granted during 2007, 2006 and 2005. Compensation expense related to options issued under the SORP of
+$19 thousand and $157 thousand was recorded for the years ended December 31, 2007 and December 31, 2006, respectively. There was no compensation expense recorded in 2005.
+The weighted average fair value of options granted during the years ended December 31, 2007, 2006 and 2005 were $2.76, $2.94 and $3.01, respectively.
+
+80
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+ The grant date fair value of options granted in 2007, 2006 and 2005 have been calculated using a Black-Scholes option-pricing model with assumptions as follows:
+
+2007
+
+2006
+
+2005
+
+Dividend yield
+
+2.70%
+
+2.80%
+
+3.10%
+
+Risk-free interest rate
+
+4.57%
+
+4.92%
+
+4.03%
+
+Expected volatility
+
+24.50%
+
+22.50%
+
+27.10%
+
+Expected life (in years)
+
+1.21
+
+2.09
+
+2.24
+
+(b)
+Nonvested
+Stock
+
+ A
+summary of nonvested share activity and related fair value for the year ended December 31, 2007 follows:
+
+Nonvested
+
+Stock Shares
+
+Weighted
+
+Average
+
+Grant Date
+
+Fair Value
+
+Nonvested at December 31, 2006
+
+3,209,573
+
+ $
+
+22.46
+
+Granted
+
+1,145,459
+
+26.52
+
+Vested
+
+(887,403)
+
+21.66
+
+Forfeited
+
+(40,708)
+
+22.63
+
+Nonvested at December 31, 2007
+
+3,426,921
+
+ $
+
+24.02
+
+ For
+the years ended December 31, 2007, 2006 and 2005, compensation expense related to nonvested stock totaled $23.7 million, $21.7 million and $17.8 million,
+respectively. The related income tax benefit recognized was $8.6 million, $7.9 million and $6.6 million for the years ended December 31, 2007, 2006 and 2005, respectively.
+As of December 31, 2007, the remaining unamortized expense of $51.6 million is expected to be recognized over a weighted average period of 2.3 years.
+
+ The
+total fair value of shares vested (at vest date) during the years ended December 31, 2007, 2006 and 2005 was $21.0 million, $16.9 million and
+$6.5 million, respectively. The Company permits employees the right to tender a portion of their vested shares to the Company to satisfy the minimum tax withholding obligations of the Company
+with respect to vesting of the shares. During 2008, we expect to repurchase approximately 290,000 shares from employees who elect to tender shares to cover their minimum tax withholdings.
+
+ For
+nonvested stock awards granted prior to the adoption of SFAS No. 123R, the Company will continue to recognize compensation expense over the contractual vesting period. Had
+compensation expense for nonvested stock awards issued prior to January 1, 2006 been determined based on the date a participant first becomes eligible for retirement, the Company's net income
+would have been
+decreased by $45 thousand for the year ended December 31, 2007, increased by $280 thousand for the year ended December 31, 2006 and decreased by $206 thousand for
+the year ended December 31, 2005.
+
+14. Uniform Net Capital Rule Requirements
+
+ Three of our subsidiaries, Waddell & Reed, Inc. ("W&R"), Legend Equities Corporation ("LEC"), and Ivy Funds Distributor, Inc. ("IFDI") are
+registered broker/dealers and members of the Financial
+
+81
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+Industry
+Regulatory Authority. Broker/dealers are subject to the SEC's Uniform Net Capital Rule (Rule 15c3-1), which requires the maintenance of minimum net capital and requires
+that the ratio of aggregate indebtedness to net capital, both as defined, shall not exceed 15.0 to 1.0. The primary difference between net capital and stockholders' equity is the
+non-allowable assets that are excluded from net capital. Net capital and aggregated indebtedness information for our broker/dealer subsidiaries is presented in the following table as of
+December 31, 2007 and 2006 (in thousands):
+
+2007
+
+2006
+
+W&R
+
+LEC
+
+IFDI
+
+W&R
+
+LEC
+
+IFDI
+
+Net capital
+
+ $
+
+41,187
+
+2,136
+
+12,328
+
+45,748
+
+893
+
+8,159
+
+Required capital
+
+13,117
+
+173
+
+1,333
+
+7,756
+
+243
+
+674
+
+Excess of required capital
+
+ $
+
+28,070
+
+1,963
+
+10,995
+
+37,992
+
+650
+
+7,485
+
+Ratio of aggregate indebtedness to net capital
+
+4.78 to 1.0
+
+1.22 to 1.0
+
+1.62 to 1.0
+
+2.54 to 1.0
+
+4.07 to 1.0
+
+1.24 to 1.0
+
+15. Rental Expense and Lease Commitments
+
+ We lease our home office buildings and certain sales and other office space under long-term operating leases. Rent expense was $18.6 million,
+$18.3 million and $18.0 million, for the years ended December 31, 2007, 2006 and 2005, respectively. Future minimum rental commitments under non-cancelable operating
+leases are as follows (in thousands):
+
+2008
+
+ $
+
+15,041
+
+2009
+
+12,639
+
+2010
+
+10,201
+
+2011
+
+7,692
+
+2012
+
+5,503
+
+Thereafter
+
+14,212
+
+ $
+
+65,288
+
+ New
+leases are expected to be executed as existing leases expire. Thus, future minimum lease commitments are not expected to be less than those in 2007.
+
+16. Related Party Transactions
+
+ We earn investment management fees from the Funds for which we also act as an investment adviser, pursuant to an investment management agreement with each Fund.
+In addition, we have agreements with the Funds pursuant to Rule 12b-1 under the Investment Company Act of 1940, as amended, pursuant to which distribution and service fees are
+collected from the Funds for distribution of mutual fund shares for costs such as advertising and commissions paid to broker/dealers and for providing ongoing services to shareholders of the Funds
+and/or maintaining shareholder accounts. We also earn service fee revenues by providing various services to the Funds and their shareholders pursuant to a shareholder servicing agreement with each
+Fund (except the Target Funds) and an accounting service agreement with each Fund. Certain of our officers and directors are also officers, directors and/or trustees for the various Funds for
+
+82
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+which
+we act as an investment adviser. These agreements are approved or renewed on an annual basis by each Fund's board of directors/trustees, including a majority of the disinterested members. Funds
+and separate accounts receivable includes amounts due from the Funds for aforementioned services.
+
+17. Litigation and Regulatory Settlements
+
+SEC/New York Attorney General/Kansas Securities Commission
+
+ During 2006, we recorded a charge of $55.0 million related to settlement with the SEC, the New York Attorney General and the Kansas Securities Commission
+regarding market timing allegations, $12 million of which represented non-deductible penalties. The charge is included in general and administrative expenses.
+
+Williams Excessive Fee Litigation
+
+ On May 30, 2006, the investment advisor and underwriter subsidiaries of the Company for the Ivy Funds were dismissed from the case with prejudice. On
+September 25, 2006, the remainder of this case was dismissed with prejudice. The negotiations and discussions leading up to, and the terms of, the dismissal are confidential.
+
+Torchmark Corporation and National Association of Securities Dealers Enforcement Action
+
+ During 2005, we recorded a charge of $38.2 million related to settlements of outstanding litigation, including matters with the Enforcement Department of
+the National Association of Securities Dealers and Torchmark Corporation ("Torchmark"). The charge is included in general and administrative expenses.
+
+ During
+2006, the Arbitration Panel adjudicating the Torchmark matter ruled against the Company and determined that the Company owed Torchmark $7.4 million. A reserve previously
+established largely covered this exposure and the remaining amount was immaterial to the Company's 2006 earnings.
+
+Sawtelle Arbitration
+
+ During 2005, the Company settled this matter in its entirety for $7.9 million and recorded a pre-tax charge of $6.1 million in 2005
+related thereto.
+
+18. Contingencies
+
+ The Company is involved from time to time in various legal proceedings, regulatory investigations and claims incident to the normal conduct of business, which may
+include proceedings that are specific to us and others generally applicable to business practices within the industries in which we operate. A substantial legal liability or a significant regulatory
+action against us could have an adverse effect on our business, financial condition and on the results of operations in a particular quarter or year.
+
+83
+
+WADDELL & REED FINANCIAL, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ December 31, 2007, 2006 and 2005
+
+19. Selected Quarterly Information (Unaudited)
+
+Quarter
+
+First
+
+Second
+
+Third
+
+Fourth
+
+(in thousands)
+
+2007
+
+Total revenues
+
+ $
+
+189,499
+
+201,286
+
+210,652
+
+236,117
+
+Net income
+
+28,727
+
+29,706
+
+31,967
+
+35,097
+
+Earnings per share:
+
+Basic
+
+ $
+
+0.36
+
+0.37
+
+0.40
+
+0.43
+
+Diluted
+
+ $
+
+0.35
+
+0.36
+
+0.39
+
+0.42
+
+Quarter
+
+First
+
+Second
+
+Third
+
+Fourth
+
+(in thousands)
+
+2006
+
+Total revenues
+
+ $
+
+173,070
+
+181,311
+
+178,582
+
+185,692
+
+Net income (loss)
+
+24,592 (1)
+
+(33,022) (2)
+
+24,591 (3)
+
+29,951
+
+Earnings (loss) per share:
+
+Basic
+
+ $
+
+0.30 (1)
+
+(0.40) (2)
+
+0.30 (3)
+
+0.37
+
+Diluted
+
+ $
+
+0.30 (1)
+
+(0.40) (2)
+
+0.30 (3)
+
+0.36
+
+(1)
+Includes
+a pre-tax charge of $1.9 million ($1.3 million net of tax) related to employee separation costs at ACF in response to a decline in investment
+performance and related loss of assets under management.
+
+(2)
+Includes
+a pre-tax charge of $55.0 million ($39.4 million net of tax) to recognize our settlement with the SEC, New York Attorney General and Kansas
+Securities Commissioner related to market-timing allegations and a charge of $20.0 million (not deductible for income tax purposes) to recognize the impairment of goodwill associated with ACF.
+
+(3)
+Includes
+charges associated with the resolution of the Williams litigation and expenses related to prior regulatory settlements.
+
+84
+
+WADDELL & REED FINANCIAL, INC.
+ Index to Exhibits
+
+Exhibit
+
+No.
+
+Exhibit Description
+
+3.1
+
+Restated Certificate of Incorporation of Waddell & Reed Financial, Inc. Filed as Exhibit 3.1 to the Company's Quarterly Report on Form 10-Q, File No. 333-43687, for the quarter ended June 30, 2006 and incorporated
+herein by reference.
+
+3.2
+
+Amended and Restated Bylaws of Waddell & Reed Financial, Inc. Filed as Exhibit 3.1 to the Company's Current Report on Form 8-K, File No. 333-43687, filed December 14, 2007 and incorporated herein by
+reference.
+
+4.1
+
+Specimen of Class A Common Stock Certificate, par value $0.01 per share. Filed as Exhibit 4.1 to the Company's Registration Statement on Form S-1/A, File No. 333-43687, on February 27, 1998 and incorporated herein by
+reference.
+
+4.2
+
+Rights Agreement, dated as of April 28, 1999, by and between Waddell & Reed Financial, Inc. and Computershare Trust Company, N.A., as successor to First Chicago Trust Company of New York, which includes the Certificate of
+Designation, Preferences and Rights of Series A Junior Participating Preferred Stock of the Company, as filed on May 13, 1999 with the Secretary of State of Delaware, as Exhibit A and the form of Rights Certificate as Exhibit B.
+Filed as Exhibit 4 to the Company's Quarterly Report on Form 10-Q, File No. 001-13913, for the quarter ended June 30, 1999 and incorporated herein by reference.
+
+4.3
+
+First Amendment to Rights Agreement, dated as of February 14, 2001, by and between Waddell & Reed Financial, Inc. and Computershare Trust Company, N.A., as successor to First Chicago Trust Company of New York. Filed as
+Exhibit 4.4 to the Company's Annual Report on Form 10-K, File No. 001-13913, for the year ended December 31, 2000 and incorporated herein by reference.
+
+4.4
+
+Indenture, dated as of January 18, 2001, by and between Waddell & Reed Financial, Inc. and JPMorgan Chase Bank, National Association. Filed as Exhibit 4.1(a) to the Company's Current Report on Form 8-K, File
+No. 001-13913, on February 5, 2001 and incorporated herein by reference.
+
+4.5
+
+First Supplemental Indenture, dated as of January 18, 2001 by and between Waddell & Reed Financial, Inc. and JPMorgan Chase Bank, National Association, including the form of the 7.50% notes due January 2006 as Exhibit A.
+Filed as Exhibits 4.1(b) and 4.2 to the Company's Current Report on Form 8-K, File No. 333-43687, on February 5, 2001 and incorporated herein by reference.
+
+4.6
+
+Second Supplemental Indenture, dated as of January 13, 2006, between Waddell & Reed Financial, Inc. and JP Morgan Trust Company, National Association, as trustee, and the form of the Global Note for the Company's 5.60% Notes due
+2011 as Exhibit A. Filed as Exhibits 4.1 and 4.2 to the Company's Current Report on Form 8-K, File No. 333-43687, on January 13, 2006 and incorporated herein by reference.
+
+85
+
+WADDELL & REED FINANCIAL, INC.
+
+Index to Exhibits
+
+4.7
+
+Form of Indenture to be used in connection with the issuance of the Subordinated Debt Securities. Filed as Exhibit 4.7 to the Company's Form S-3/A, File No. 333-43682, on September 7, 2000 and incorporated herein by
+reference.
+
+10.1
+
+General Agent Contract, dated as of October 20, 2000, by and among Nationwide Life Insurance Company, Nationwide Life and Annuity Insurance Company and Waddell & Reed, Inc. and its affiliated insurance companies. Filed as
+Exhibit 10.5 to the Company's Annual Report on Form 10-K, File No. 001-13913, for the year ended December 31, 2000 and incorporated herein by reference.
+
+10.2
+
+Fund Participation Agreement, dated as of December 1, 2000, by and among Nationwide Life Insurance Company and/or Nationwide Life and Annuity Insurance Company, Waddell & Reed Services Company and Waddell & Reed, Inc.
+Filed as Exhibit 10.6 to the Company's Annual Report on Form 10-K, File No. 001-13913, for the year ended December 31, 2000 and incorporated herein by reference.
+
+10.3
+
+Fund Participation Agreement, dated as of September 19, 2003, by and among Minnesota Life Insurance Company, Waddell & Reed, Inc. and the Target Funds.
+
+10.4
+
+Variable Products Distribution Agreement, dated as of December 12, 2003, by and among Minnesota Life Insurance Company, Securian Financial Services, Inc. and Waddell & Reed, Inc. and its affiliated insurance companies. Filed
+as Exhibit 10.4 to the Company's Annual Report on Form 10-K, File No. 333-43687, for the year ended December 31, 2004 and incorporated herein by reference.
+
+10.5
+
+Waddell & Reed Financial, Inc. 1998 Stock Incentive Plan, as amended and restated. Filed as Exhibit 10.1 to the Company's Quarterly Report on Form 10-Q, File No. 333-43687, for the quarter ended June 30, 2007 and
+incorporated herein by reference.*
+
+10.6
+
+Waddell & Reed Financial, Inc. 1998 Executive Stock Award Plan, as amended and restated. Filed as Exhibit 10.2 to the Company's Quarterly Report on Form 10-Q, File No. 333-43687, for the quarter ended September 30,
+2005 and incorporated herein by reference.*
+
+10.7
+
+Waddell & Reed Financial, Inc. 1998 Non-Employee Director Stock Award Plan, as amended and restated. Filed as Exhibit 10.3 to the Company's Quarterly Report on Form 10-Q, File No. 333-43687, for the quarter ended
+September 30, 2005 and incorporated herein by reference.*
+
+10.8
+
+Credit Agreement, dated as of October 7, 2005 by and among Waddell & Reed Financial, Inc., the Lenders, JPMorgan Chase Bank and Bank of America, N.A. Filed as Exhibit 10.1 to the Company's Current Report on Form 8-K, File
+No. 333-43687, on October 11, 2005 and incorporated herein by reference.
+
+86
+
+WADDELL & REED FINANCIAL, INC.
+
+Index to Exhibits
+
+10.9
+
+Fixed Rate Promissory Note for Multiple Loans dated as of August 15, 2000, by and between Waddell & Reed Financial, Inc. and Chase Manhattan Bank. Filed as Exhibit 10.15 to the Company's Annual Report on Form 10-K, File
+No. 001-13913, for the year ended December 31, 2000 and incorporated herein by reference.
+
+10.10
+
+Waddell & Reed Financial, Inc. Supplemental Executive Retirement Plan, as amended and restated. Filed as Exhibit 10.12 to the Company's Annual Report on Form 10-K, File No. 333-43687, for the year ended December 31,
+2006 and incorporated herein by reference.*
+
+10.11
+
+Waddell & Reed Financial, Inc. 2003 Executive Incentive Plan, as amended and restated. Filed as Exhibit 10.13 to the Company's Annual Report on Form 10-K, File No. 333-43687, for the year ended December 31, 2006 and
+incorporated herein by reference.*
+
+10.12
+
+Form of Accounting Services Agreement, amended and restated as of July 1, 2003, by and between the Funds and Waddell & Reed Services Company.
+
+10.13
+
+Form of Investment Management Agreement, amended and restated as of November 9, 2005, by and between each of the Advisors Funds and Waddell & Reed Investment Management Company.
+
+10.14
+
+Investment Management Agreement, amended and restated as of November 16, 2005, by and between the Ivy Funds and Waddell & Reed Investment Management Company, assigned to Ivy Investment Management Company.
+
+10.15
+
+Investment Management Agreement, amended as of November 9, 2005, by and between the Target Funds and Waddell & Reed, Inc., assigned to Waddell & Reed Investment Management Company.
+
+10.16
+
+Form of Shareholder Servicing Agreement, amended as of August 22, 2001, by and between each of the Advisors Funds or the Ivy Funds and Waddell & Reed Services Company.
+
+10.17
+
+Form of Underwriting Agreement by and between each of the Advisors Funds and Waddell & Reed, Inc. Filed as Exhibit 10.35 to the Company's Annual Report on Form 10-K, File No. 001-13913, for the year ended December 31,
+ 1998 and incorporated herein by reference.
+
+10.18
+
+Form of Amendment to Underwriting Agreement, dated July 24, 2002, by and between each of the Advisors Funds and Waddell & Reed, Inc.
+
+10.19
+
+Form of Distribution Agreement, amended and restated as of September 3, 2003, by and between the Ivy Funds and Waddell & Reed, Inc., assigned to Ivy Funds Distributor, Inc.
+
+10.20
+
+Form of Distribution and Service Plan, amended and restated as of November 29, 2006, by and between each of the Advisors Funds or Ivy Funds and Waddell & Reed, Inc. or Ivy Funds Distributor, Inc., respectively.
+
+87
+
+WADDELL & REED FINANCIAL, INC.
+
+Index to Exhibits
+
+10.21
+
+Service Plan, revised as of May 16, 2001, by and between the Target Funds and Waddell & Reed, Inc.
+
+10.22
+
+Administrative Agreement, dated as of March 9, 2001, by and among W&R Insurance Agency, Inc., Waddell & Reed, Inc., BISYS Insurance Services, Inc. and Underwriters Equity Corp. Filed as Exhibit 10.28 to the
+Company's Annual Report on Form 10-K, File No. 333-43687, for the year ended December 31, 2001 and incorporated herein by reference.
+
+10.23
+
+Consulting Agreement, dated January 1, 2002, by and between Robert L. Hechler and Waddell & Reed, Inc. Filed as Exhibit 10.29 to the Company's Annual Report on Form 10-K, File No. 333-43687, for the year ended
+December 31, 2001 and incorporated herein by reference.
+
+10.24
+
+First Amendment to Consulting Agreement, dated December 25, 2005, by and between Robert L. Hechler and Waddell & Reed, Inc. Filed as Exhibit 10.12 to the Company's Annual Report on Form 10-K, File No. 333-43687, for
+the year ended December 31, 2006 and incorporated herein by reference.
+
+10.25
+
+Consulting Agreement, dated May 25, 2005, by and between Waddell & Reed Financial, Inc. and Keith A. Tucker. Filed as Exhibit 10.1 to the Company's Current Report on Form 8-K, File No. 333-43687, on May 26, 2005
+and incorporated herein by reference.
+
+10.26
+
+Form of Change in Control Employment Agreement, dated December 14, 2001, by and between Henry J. Herrmann and Waddell & Reed Financial, Inc. Filed as Exhibit 10.30 to the Company's Annual Report on Form 10-K, File
+No. 333-43687, for the year ended December 31, 2001 and incorporated herein by reference.*
+
+10.27
+
+Summary of Compensation Arrangements with Executive Officers of Waddell & Reed Financial, Inc.*
+
+10.28
+
+Summary of Non-Employee Director Compensation.*
+
+10.29
+
+Form of Restricted Stock Award Agreement for awards to Employees pursuant to the Waddell & Reed Financial, Inc. 1998 Stock Incentive Plan, as amended and restated. Filed as Exhibit 10.1 to the Company's Quarterly Report on
+Form 10-Q, File No. 333-43687, for the quarter ended September 30, 2007 and incorporated herein by reference.*
+
+10.30
+
+Form of Restricted Stock Award Agreement for awards to Non-Employee Directors pursuant to the Waddell & Reed Financial, Inc. 1998 Stock Incentive Plan, as amended and restated. Filed as Exhibit 10.2 to the Company's Quarterly
+Report on Form 10-Q, File No. 333-43687, for the quarter ended September 30, 2007 and incorporated herein by reference.*
+
+10.31
+
+Form of Restricted Stock Award Agreement for awards pursuant to the Waddell & Reed Financial, Inc. 1998 Executive Stock Award Plan, as amended and restated. Filed as Exhibit 10.3 to the Company's Quarterly Report on Form 10-Q,
+File No. 333-43687, for the quarter ended September 30, 2007 and incorporated herein by reference.*
+
+88
+
+WADDELL & REED FINANCIAL, INC.
+
+Index to Exhibits
+
+10.32
+
+Form of Restricted Stock Award Agreement for awards pursuant to the Waddell & Reed Financial, Inc. 1998 Non-Employee Director Stock Award Plan, as amended and restated. Filed as Exhibit 10.4 to the Company's Quarterly Report on
+Form 10-Q, File No. 333-43687, for the quarter ended September 30, 2007 and incorporated herein by reference.*
+
+10.33
+
+Form of Non-Qualified Stock Option Grant Agreement for awards pursuant to the Waddell & Reed Financial, Inc. 1998 Stock Incentive Plan, as amended and restated.*
+
+10.34
+
+First Amendment to the Waddell & Reed Financial, Inc. Non-Qualified Stock Option Grant Agreement, dated November 7, 2007, by and between Waddell & Reed Financial, Inc. and Henry J. Herrmann.*
+
+10.35
+
+2008 Performance Goals established pursuant to the Waddell & Reed Financial, Inc. 2003 Executive Incentive Plan, as amended and restated. Filed as Exhibit 10.1 to the Company's Current Report on Form 8-K, File
+No. 333-43687, on February 25, 2008 and incorporated herein by reference.*
+
+10.36
+
+Offer of Settlement. Filed as Exhibit 10.1 to the Company's Current Report on Form 8-K, File No. 333-43687, on July 24, 2006 and incorporated herein by reference.
+
+10.37
+
+Assurance of Discontinuance. Filed as Exhibit 10.2 to the Company's Current Report on Form 8-K, File No. 333-43687, on July 24, 2006 and incorporated herein by reference.
+
+10.38
+
+Stipulation for Consent Order. Filed as Exhibit 10.3 to the Company's Current Report on Form 8-K, File No. 333-43687, on July 24, 2006 and incorporated herein by reference.
+
+11
+
+Statement regarding computation of per share earnings.
+
+21
+
+Subsidiaries of Waddell & Reed Financial, Inc.
+
+23
+
+Consent of KPMG LLP.
+
+31.1
+
+Rule 13a-14(a)/15d-14(a) Certification of the Chief Executive Officer.
+
+31.2
+
+Rule 13a-14(a)/15d-14(a) Certification of the Chief Financial Officer.
+
+32.1
+
+Section 1350 Certification of the Chief Executive Officer.
+
+32.2
+
+Section 1350 Certification of the Chief Financial Officer.
+
+*
+Indicates
+management contract or compensatory plan, contract or arrangement.
+
+89
+
+QuickLinks
+
+WADDELL & REED FINANCIAL, INC. INDEX TO ANNUAL REPORT ON FORM 10-K For the fiscal year ended December 31, 2007
+
+PART I
+
+ITEM 1. Business
+
+ITEM 1A. Risk Factors
+
+ITEM 1B. Unresolved Staff Comments
+
+ITEM 2. Properties
+
+ITEM 3. Legal Proceedings
+
+ITEM 4. Submission of Matters to a Vote of Security Holders
+
+PART II
+
+ITEM 5. Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+
+Market Price
+
+ITEM 6. Selected Financial Data
+
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations

@@ -1,0 +1,2964 @@
+AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+
+Management's
+discussion and analysis reviews our consolidated financial condition as of March
+31, 2007 and 2006, the consolidated results of operations for the years ended
+March 31, 2007, 2006 and 2005 and, where appropriate, factors that may affect
+future financial performance. The discussion should be read in conjunction with
+the consolidated financial statements and related notes included elsewhere in
+this Form 10-K. Unless context requires otherwise, as used in this Management's
+Discussion and Analysis (i) the "current period" means the fiscal year ended
+March 31, 2007, (ii) the "prior period" means the fiscal year ended March 31,
+2006, (iii) an increase or decrease compares the current period to the prior
+period, and (iv) all non-comparative amounts refer to the current
+period.
+
+FORWARD-LOOKING STATEMENTS
+
+The reader is urged
+to read the information contained in the "Forward-Looking Statements" and “Risk
+Factors” sections at the beginning of this report for a discussion of the use of
+forward-looking statements in this report as well as risks and uncertainties in
+attempting to predict our future performance based upon such statements.
+
+OVERVIEW
+
+We are a financial
+services holding company that, primarily through our subsidiaries, provides
+broker-dealer, investment advisory, insurance and related services. We operate
+in a highly regulated and competitive industry that is influenced by numerous
+external factors such as economic conditions, marketplace liquidity and
+volatility, monetary policy, global and national political events, regulatory
+developments, competition and investor preferences. Our revenues and net
+earnings may be either enhanced or diminished from period to period by one or
+more external factors.
+
+Page 22
+
+INVESTORS CAPITAL HOLDINGS LTD -
+10-K
+
+Fiscal
+ Year Ended March 31, 2007
+
+OUR
+ BUSINESS
+
+The Company operates
+primarily through its subsidiary, ICC/ICA, in the broker-dealer and investment
+advisory services segments of the financial services industry.
+
+Broker-Dealer Services
+
+The Company provides
+broker-dealer services in support of trading and investment by its
+representatives’ customers in corporate equity and debt securities, U.S.
+Government securities, municipal securities, mutual funds, variable annuities
+and variable life insurance, including provision of market information, internet
+trading, portfolio tracking facilities and records management.
+
+Investment Advisory Services
+
+The Company provides
+investment advisory services, including asset allocation and portfolio
+rebalancing, for its representative’s customers. In the past, investment
+advisory services were performed by both ICC and EPA. To avoid the duplication
+of effort involved in supporting two advisory services entities, the Company has
+consolidated its investment advisor services in ICC d/b/a ICA.
+
+Recruitment and Support of
+Representatives
+
+A key component of
+our business strategy is to recruit more established and productive
+representatives who generate revenues in higher margin services and products.
+Additionally, we assist our existing representatives to develop and expand their
+business by providing to them a variety of support services and a diversified
+range of investment products for their clients. The Company focuses on providing
+substantial added value to our representatives that enables them to be more
+productive, particularly in high margin lines such as advisory services and
+trading/brokerage.
+
+Support provided to
+assist representatives in pursuing consistent and profitable sales growth takes
+many forms, including: hi-tech trading systems, targeted financial assistance
+and a network of communication links with investment product companies such as
+regional and national conventions that provide forums for interaction to improve
+product knowledge, sales and client satisfaction. A newly formed business
+development unit will focus on providing representatives with programs and tools
+to grow their businesses both through new client acquisition and the advancement
+of their existing client relationships. These programs are also designed to
+enhance our ability to attract and retain new, productive
+representatives.
+
+OUR
+ PROCESS
+Check and
+ Application
+
+The majority of
+transactions are conducted through a check and application process whereby a
+check and an investment company's product application is delivered to us for
+processing. This includes principal review and submission to the investment
+company or clearing firm. Investments in technology have allowed the firm to
+move from a process that was previously paper intensive to a process that is
+virtually paper free. This has shortened the transaction cycle, reduced errors
+and created greater efficiencies. The firm continues its investment in
+technologies that will provide more efficient processes resulting in improved
+productivity.
+
+Online
+ Trading
+
+Registered
+representatives can efficiently submit a wide range of security investments
+online through the use of our remote electronic-entry trading
+platform.
+
+Page 23
+
+INVESTORS CAPITAL HOLDINGS LTD -
+10-K
+
+Fiscal
+ Year Ended March 31, 2007
+
+Bond
+ Trading
+
+The Company's
+fixed-income trading desk uses a network of regional and primary dealers to
+execute trades across a broad array of fixed-income asset classes. The desk also
+utilizes several dealer-only electronic services that allow the desk to offer
+inventory and to execute trades. Our fixed income traders work with our
+representatives to develop portfolios for clients. This area has seen growth as
+interest rates have risen and more investors have become interested in
+retirement income.
+
+Asset
+ Allocation
+
+Asset Allocation
+services are made available through ICA, the Company's registered investment
+advisor subsidiary. Our services include the design, selection and rebalancing
+of investments on behalf of our advisers’ clients in addition to providing the
+tools, services and guidance that enable our advisers to provide these
+investment services directly to their clients. These services, for the most
+part, are conducted through our online trading platform. Other allocation
+services are performed directly by the fund company.
+
+CRITICAL
+ ACCOUNTING POLICIES
+
+In
+ General
+
+Our consolidated
+financial statements are prepared in accordance with accounting principles
+generally accepted in the United States of America. The Company believes that of
+its significant accounting policies (detailed in Footnote 2 to the Company’s
+Consolidated Financials Statements contained herein), those dealing with
+valuation of securities and other assets, revenue recognition and allowance for
+doubtful accounts receivable involve a particularly high degree of judgment and
+complexity. Our accounting policies require estimates and assumptions that
+affect the amounts of assets, liabilities, revenues and expenses reported in the
+consolidated financial statements. Due to their nature, estimates involve
+judgment based upon available information. Actual results or amounts could
+differ from estimates and the difference could have a material effect on the
+consolidated financial statements. Therefore, understanding these policies is
+important to understanding the reported results of operations and the financial
+position of the Company.
+
+Off –
+ Balance Sheet Risk
+
+We execute
+securities transactions on behalf of our customers. If either the customer or a
+counter-party fails to perform, we, by agreement with our clearing broker, may
+be required to discharge the obligations of the non-performing party. In such
+circumstances, we may sustain a loss if the market value of the security is
+different from the contract value of the transaction. We seek to control
+off-balance sheet risk by monitoring the market value of securities held or
+given as collateral in compliance with regulatory and internal guidelines.
+Pursuant to such guidelines, our clearing firm requires that we reduce positions
+when necessary. We also complete credit evaluations where there is thought to be
+credit risk.
+
+Reserves
+
+The Company records
+reserves related to legal proceedings in "accrued expenses" in the consolidated
+balance sheet. The determination of these reserve amounts requires significant
+judgment on the part of management. Management considers many factors including,
+but not limited to: the amount of the claim; the amount of the loss in the
+client's account; the basis and validity of the claim; the possibility of
+wrongdoing on the part of an employee or representative of the Company; previous
+results in similar cases; and legal precedents. Each legal proceeding is
+reviewed with counsel in each accounting period and the reserve is adjusted as
+deemed appropriate by management. Any change in the reserve amount is recorded
+in the consolidated financial statements and is recognized as a charge/credit to
+earnings in that period. The assumptions of management in determining the
+estimates of reserves may be incorrect and the actual costs upon disposition of
+a legal proceeding could be greater or less than the reserved amount.
+
+Page 24
+
+INVESTORS CAPITAL HOLDINGS LTD -
+10-K
+
+Fiscal
+ Year Ended March 31, 2007
+
+RISK
+ MANAGEMENT
+
+Risk is an inherent
+part of the Company's business and activities. Risk management is critical to
+the Company's financial strength and profitability and requires robust auditing,
+constant communications, judgment and knowledge of financial trends and the
+economy as a whole.
+
+Senior management
+takes an active role in the risk management process. The principal risks
+involved in the Company's business activities are market, operational,
+regulatory and legal.
+
+Market
+ Risk
+
+Market risk is the
+risk attributable to common macroeconomic factors such as gross domestic
+product, employment, inflation, interest rates, budget deficits and consumer
+sentiment. Consumer and producer sentiment is critical to our business. The
+level of consumer confidence determines their willingness to spend, especially
+in the financial markets. It is this willingness to spend in the financial
+markets that is key to our business. A shift in spending in this area could
+negatively impact us. However, senior management is constantly monitoring these
+economic trends in order to enhance our product line to offset any potential
+negative impact.
+
+Operational Risk
+
+Operational risk
+refers to the risk of loss resulting from the Company's operations, including,
+but not limited to, improper or unauthorized execution processing of
+transactions, deficiencies in the Company's technology or financial or financial
+operating systems and inadequacies or breaches in the Company's control
+processes. Managing these risks is critical, especially in a rapidly changing
+environment with increasing transaction volume. Failure to manage these risks
+could result in material financial loss to the Company. To mitigate these risks,
+the Company had developed specific policies and procedures designed to identify
+and manage operational risk. These policies and procedures are reviewed and
+updated on a continuing basis to ensure that this risk is minimized.
+
+Regulatory and Legal Risk
+
+Regulatory and legal
+risk includes non-compliance with applicable legal and regulatory requirements
+and the risk of a large number of customer claims that could result in adverse
+judgments against the Company. The Company is subject to extensive regulation in
+all jurisdictions in which it operates. In this regard, the Company has
+instituted comprehensive procedures to address issues such as regulatory capital
+requirements, sales and trading practices, use of and safekeeping of customer
+funds, credit granting, collection activities, money-laundering and record
+keeping. However, as evidenced by the bringing of the now-settled Massachusetts
+Proceedings and other legal proceedings (see Part I, Item 3 – “Legal
+Proceedings”), there can be no assurances that such compliance procedures will
+prevent future regulatory and legal proceedings, the outcomes and consequences
+of which cannot now be reasonably foreseen or quantified.
+
+Effects
+ of Inflation
+
+The Company's assets
+primarily are liquid in nature and not significantly affected by inflation.
+Management believes that the replacement cost of property and equipment will not
+materially affect operating results. However, the rate of inflation affects our
+expenses, including employee compensation and benefits, communications and
+occupancy, which may not be readily recoverable through charges for services
+provided.
+
+KEY INDICATORS OF FINANCIAL PERFORMANCE
+
+Management
+periodically reviews and analyzes our financial performance across a number of
+measurable factors considered to be particularly useful in understanding and
+managing our business. Key
+
+Page 25
+
+INVESTORS CAPITAL HOLDINGS LTD -
+10-K
+
+Fiscal
+ Year Ended March 31, 2007
+
+metrics in this process include average production per representative,
+top line commission and advisory services revenues, gross margins, operating
+expenses, legal costs, earnings per share, and average revenue per
+representative.
+
+F
+ISCAL
+
+Y
+EAR
+
+E
+NDED
+
+M
+ARCH
+
+31, 2007
+C
+OMPARED TO
+
+F
+ISCAL
+
+Y
+EAR
+
+E
+NDED
+
+M
+ARCH
+
+31,
+2006
+:
+
+AVERAGE PRODUCTION PER REPRESENTATIVE
+
+Management believes
+that upgrading the overall quality of our independent representatives is a key
+to achieving robust growth in revenues and net income. Our experience has been
+that increasing the average technical qualifications and business practices of
+our representatives not only generates more revenue, but assists in limiting the
+cost of overhead functions and representative errors or misconduct. We strive to
+continually improve the overall quality of our force of representatives
+by:
+
+recruiting higher quality new representatives,
+
+terminating lower quality representatives, and
+
+assisting existing representatives to improve their skills and
+ practices.
+
+A key metric that we
+use to assess the average quality of our representatives is average revenue
+generated per representative.
+
+Average revenue per
+representative increased by 27.87%, reflecting management’s continuing emphasis
+on recruiting established and successful representatives. We look forward to a
+continuation of this trend as we maintain our efforts to increase the average
+productivity of our existing sales force and to recruit representatives who are
+already successful but seek a higher level of service than they experience from
+their existing brokerage firms.
+
+Fiscal Year
+ Ended
+
+Fiscal Year
+ Ended
+
+March 31,
+ 2007
+
+March 31,
+ 2006
+
+Incease/decrease
+
+%
+ Increase/decrease
+
+Revenue:
+
+Commission
+
+$70,273,816
+
+$60,028,731
+
+$10,245,085
+
+17.07%
+
+Advisory
+
+$6,767,136
+
+$5,147,907
+
+$1,619,229
+
+31.45%
+
+Other fee income
+
+ $941,969
+
+ $1,142,454
+
+ -$200,485
+
+ -17.55%
+
+$77,982,921
+
+$66,319,092
+
+$11,663,829
+
+17.59%
+
+Number of
+ Representatives
+
+675
+
+734
+
+-59
+
+-8.04%
+
+Average Revenue
+ Per Rep
+
+$115,530
+
+$90,353
+
+$25,177
+
+27.87%
+
+RESULTS
+ OF OPERATIONS
+
+Page 26
+
+INVESTORS CAPITAL HOLDINGS LTD -
+10-K
+
+Fiscal
+ Year Ended March 31, 2007
+
+Percent of
+ Revenue
+
+Percent
+ Change
+
+Year Ended
+ March 31,
+
+Year Ended
+ March 31,
+
+2007
+
+2006
+
+2007
+
+2006
+
+2005
+
+2007
+
+2006
+
+2005
+
+vs.
+ 2006
+
+vs.
+ 2005
+
+Revenues:
+
+Commission
+
+$ 70,273,816
+
+$ 60,028,731
+
+$ 48,660,052
+
+87.79%
+
+88.27%
+
+88.20%
+
+17.07%
+
+23.36%
+
+Advisory
+
+6,767,136
+
+5,147,907
+
+3,702,556
+
+8.45%
+
+7.57%
+
+6.71%
+
+31.45%
+
+39.04%
+
+Other fee
+ income
+
+941,969
+
+1,142,454
+
+1,189,737
+
+1.18%
+
+1.68%
+
+2.16%
+
+-17.55%
+
+-3.97%
+
+Marketing
+ revenue
+
+1,258,944
+
+1,013,828
+
+1,140,098
+
+1.57%
+
+1.49%
+
+2.07%
+
+24.18%
+
+-11.08%
+
+Other
+ income(1)
+
+811,163
+
+669,508
+
+473,091
+
+1.01%
+
+0.99%
+
+0.86%
+
+21.16%
+
+41.52%
+
+_________
+
+_________
+
+_________
+
+Total
+ Revenue
+
+80,053,028
+
+68,002,428
+
+55,165,534
+
+100.00%
+
+100.00%
+
+100.00%
+
+17.72%
+
+23.27%
+
+_________
+
+_________
+
+_________
+
+Commission and advisory fees
+
+64,926,784
+
+54,609,596
+
+44,025,004
+
+81.10%
+
+80.31%
+
+79.81%
+
+18.89%
+
+24.04%
+
+Gross
+ Profit
+
+15,126,244
+
+13,392,832
+
+11,140,530
+
+18.90%
+
+19.69%
+
+20.19%
+
+12.94%
+
+20.22%
+
+Operating
+ Expenses:
+
+Advertisement and marketing
+
+874,862
+
+895,658
+
+763,192
+
+1.09%
+
+1.32%
+
+1.38%
+
+-2.32%
+
+17.36%
+
+Communications
+
+ 489,185
+
+ 603,964
+
+ 536,386
+
+0.61%
+
+0.89%
+
+0.97%
+
+-19.00%
+
+12.60%
+
+Total
+ Selling Expenses
+
+1,364,047
+
+1,499,622
+
+1,299,578
+
+1.70%
+
+2.21%
+
+2.36%
+
+-9.04%
+
+15.39%
+
+Compensation and benefits
+
+8,604,346
+
+6,344,945
+
+5,713,028
+
+10.75%
+
+9.33%
+
+10.36%
+
+35.61%
+
+11.06%
+
+Regulatory, legal and professional
+
+4,795,947
+
+2,965,689
+
+1,527,256
+
+5.99%
+
+4.36%
+
+2.77%
+
+61.71%
+
+94.18%
+
+Occupancy(2)
+
+995,985
+
+695,003
+
+616,718
+
+1.24%
+
+1.02%
+
+1.12%
+
+43.31%
+
+12.69%
+
+Other
+ administrative expenses
+
+1,044,500
+
+968,825
+
+1,055,368
+
+1.30%
+
+1.42%
+
+1.91%
+
+7.81%
+
+-8.20%
+
+Interest
+ expense(3)
+
+ 35,775
+
+ 47,782
+
+ 40,440
+
+0.04%
+
+0.07%
+
+0.07%
+
+-25.13%
+
+18.16%
+
+Total
+ Administrative Expenses
+
+15,476,553
+
+11,022,244
+
+8,952,810
+
+19.33%
+
+16.21%
+
+16.23%
+
+40.41%
+
+23.11%
+
+_________
+
+_________
+
+_________
+
+Total
+ Operating Expenses
+
+16,840,600
+
+12,521,866
+
+10,252,388
+
+21.04%
+
+18.41%
+
+18.58%
+
+34.49%
+
+22.14%
+
+_________
+
+_________
+
+_________
+
+Operating
+ (Loss) Income
+
+(1,714,356)
+
+870,966
+
+888,142
+
+-2.14%
+
+1.28%
+
+1.61%
+
+-296.83%
+
+-1.93%
+
+(Loss)
+ Income before taxes
+
+(1,714,356)
+
+870,966
+
+888,142
+
+-2.14%
+
+1.28%
+
+1.61%
+
+-296.83%
+
+-1.93%
+
+(Benefit)
+ Provision for income taxes
+
+ (630,290)
+
+ 421,328
+
+ 269,033
+
+-0.79%
+
+0.62%
+
+0.49%
+
+-249.60%
+
+56.61%
+
+Net
+ (Loss) Income
+
+$ (1,084,066)
+
+$
+ 449,638
+
+$
+ 619,109
+
+-1.35%
+
+0.66%
+
+1.12%
+
+-341.10%
+
+-27.37%
+
+_________
+
+_________
+
+_________
+
+1.
+
+The amount
+ shown for Other income for 2006 is $23,560 higher than as stated in the
+ Company’s Form 10-K for the fiscal year ended March 31, 2006 due to
+ reclassification to Other income of a gain on the sale of an asset from a
+ separate line item under Other Expenses.
+
+2.
+
+The amount
+ shown for Occupancy for 2005 is $31,072 higher than as stated in the
+ Company’s Form 10-K for the fiscal year ended March 31, 2006 due to
+ reclassification to Occupancy of write-offs upon the disposal of equipment
+ from a separate line item under Other Expenses.
+
+3.
+
+Interest
+ expense was previously reported in the Company’s Form 10-K as other
+ expense after income or loss from operations and before income or loss
+ before taxes for the comparative periods March 31,2006 and
+ 2005.
+
+Page 27
+
+INVESTORS CAPITAL HOLDINGS LTD -
+10-K
+
+Fiscal
+ Year Ended March 31, 2007
+
+REVENUES
+
+Revenues rose $12.05 million, or 17.72%, to $80.05 million, led by a
+$10.25 million or 17.07% increase in commissions and a $1.62 million or 31.45%
+increase in advisory services revenue. While we are gratified by continued
+growth in high margin lines of business, such as trading and advisory services,
+we also value the diversification of our brokerage revenues sources provided by
+even greater growth, compared to trading services, in revenues from mutual
+funds, variable annuities and direct participation programs. Much like a
+diversified client portfolio, management believes a diversified revenue stream
+provides a degree of protection from market risk.
+
+Commissions
+
+Commissions from
+variable annuities increased by $4.5 million, or 19.87% and encompassed 44.15%
+of an overall $10.3 million increase in commission revenue. Commissions from
+direct participation programs, which predominantly include REIT’s (Real Estate
+Investment Trusts) and oil and gas programs, increased by $3.1 million or 36.72%
+.
+
+Fiscal Year
+ Ended
+
+Percentage
+
+Percentage
+
+March
+ 31,
+
+Increase/decrease
+
+of
+ Total
+
+Increase/decrease
+
+2007
+
+2006
+
+2007 vs.
+ 2006
+
+Increase/decrease
+
+2007 vs.
+ 2006
+
+Commission
+ Revenue
+:
+
+Variable Annuities
+
+$27,288,899
+
+$22,766,073
+
+$
+ 4,522,826
+
+44.15%
+
+19.87%
+
+Trading (brokerage)
+1
+
+21,559,947
+
+18,457,135
+
+3,102,812
+
+30.29%
+
+16.81%
+
+Mutual Funds
+
+9,409,256
+
+8,665,442
+
+743,814
+
+7.26%
+
+8.58%
+
+Direct Participation Programs
+
+11,534,198
+
+8,436,466
+
+3,097,732
+
+30.24%
+
+36.72%
+
+Other
+
+481,516
+
+1,703,615
+
+(1,222,099)
+
+-11.93%
+
+-71.74%
+
+Total
+ Commission Revenue
+
+$
+ 70,273,816
+
+$
+ 60,028,731
+
+$
+ 10,245,085
+
+100.00%
+
+17.07%
+
+1. Revenue designated as Trading (brokerage) includes revenue from mutual
+funds sold through our trading platform.
+
+Commissions from
+variable annuities continue to comprise the largest component of commission
+revenue. Commissions in direct participation programs grew primarily as a result
+of increased sales volume in the oil and gas programs. Over recent periods,
+trading revenue generally has maintained its share of the revenue as commissions
+from brokerage comprises the second largest component of commission revenue for
+the current period.
+
+Supporting this
+historical trend is our recruitment and retention of representatives who conduct
+transactional business as well as utilization of our clearing firm’s trading
+platform to enable us to conduct more brokerage business in an efficient
+fashion. The recent trend of higher growth in fee-based advisory services
+compared to commission-based services reflects concerted efforts by management
+to grow revenues in the higher margin advisory services area.
+
+Page 28
+
+INVESTORS CAPITAL HOLDINGS LTD -
+10-K
+
+Fiscal
+ Year Ended March 31, 2007
+
+ Advisory Fees
+
+Advisory services typically provide significantly higher margins than
+traditional non-trading broker-dealer products such as variable annuities and
+mutual funds. See " - Gross Margins". Accordingly, we have been encouraging our
+representatives to transition more of their non-trading business to advisory
+services. Although we do not dictate the nature or extent of advisory services
+our Representatives provide for their clients, we continue to make concerted
+efforts to attract them to our proprietary advisory services programs through
+education, seminars, trade shows and direct telemarketing.
+
+Fees from our
+rep-directed asset-managed A-MAP program, where asset allocation and other
+investment advisory services are provided directly by our independent
+representatives, continue to be the leading source of revenue in this category.
+Revenues from this program, which have been contributing an increasing
+proportion of advisory services revenue, grew by $1.53 million or 51.98% to
+$4.46 million compared to $2.93 million for the prior period. Supported by our
+Net Exchange Pro and Pershing direct on-line mainframe trading platforms, this
+program is popular with our representatives because of the opportunities it
+provides to deliver to their clients superior asset management services at a
+potentially lower cost, and the potential for increased overall investment
+performance. Resulting transactional cost savings have been passed on to our
+representatives’ clients in the form of lower fees for improved
+service.
+
+Other Fee
+ Income
+
+Other fee income,
+primarily comprised of licensing and financial planning fees, decreased by
+17.55% when comparing the current period to the prior period. This decrease
+stems mostly from less licensing revenues because of fewer registered
+representatives.
+
+Marketing
+ Revenue
+
+Net marketing
+revenues increased by 24.18% due to the increase in marketing support as a
+result of increased sales in the sponsorship company’s products.
+
+Other
+ Income
+
+Other income,
+consisting primarily of interest and dividends and gains/losses on investments,
+increased by 21.16% .The majority of the increase came from interest earned on
+account balances due to an increase in the average daily balance in our trading
+accounts.
+
+Page 29
+
+INVESTORS CAPITAL HOLDINGS LTD -
+10-K
+
+Fiscal
+ Year Ended March 31, 2007
+
+GROSS
+ MARGIN
+
+Gross Margin
+ Retention
+
+% of Total
+ Gross Margin
+
+Gross
+ Margin
+
+Year
+ Ended
+
+Year
+ Ended
+
+Gross
+ Margin
+
+Year Ended
+ March 31,
+
+March
+ 31,
+
+March
+ 31,
+
+Percent
+ Change
+
+2007
+
+2006
+
+2007
+
+2006
+
+2005
+
+2007
+
+2006
+
+2005
+
+2007
+
+2006
+
+2005
+
+vs. 2006
+
+vs. 2005
+
+Commission:
+
+Check
+ & Application
+
+$6,207,794
+
+$4,950,592
+
+$4,467,235
+
+12.90%
+
+12.01%
+
+13.20%
+
+41.04%
+
+36.97%
+
+40.10%
+
+25.39%
+
+10.82%
+
+Trading
+
+4,133,912
+
+3,638,391
+
+2,050,086
+
+19.17%
+
+19.71%
+
+14.40%
+
+27.33%
+
+27.17%
+
+18.40%
+
+13.62%
+
+77.48%
+
+Insurance
+ Products
+
+225,654
+
+281,489
+
+342,978
+
+99.13%
+
+95.77%
+
+98.30%
+
+1.49%
+
+2.10%
+
+3.08%
+
+-19.84%
+
+-17.93%
+
+Underwriting
+
+25,387
+
+6,907
+
+17,766
+
+10.00%
+
+10.00%
+
+15.30%
+
+0.17%
+
+0.05%
+
+0.16%
+
+267.55%
+
+-61.12%
+
+Advisory
+ Services: (1)
+
+A-Map
+ (rep direct)
+
+1,064,767
+
+703,866
+
+n/a
+
+23.89%
+
+24.00%
+
+n/a
+
+7.04%
+
+5.26%
+
+n/a
+
+51.27%
+
+n/a
+
+Other
+
+ 746,296
+
+ 1,301,535
+
+n/a
+
+ 1.89%
+
+ 13.50%
+
+ n/a
+
+ 4.93%
+
+ 9.71%
+
+n/a
+
+ -42.66%
+
+ n/a
+
+Total
+
+1,811,063
+
+2,005,401
+
+1,647,048
+
+25.78%
+
+37.50%
+
+42.60%
+
+11.97%
+
+14.97%
+
+14.78%
+
+-9.69%
+
+21.76%
+
+________
+
+________
+
+_______
+
+_____
+
+______
+
+_____
+
+_____
+
+_____
+
+_____
+
+______
+
+_____
+
+Licensing
+
+743,477
+
+911,692
+
+1,004,307
+
+100%
+
+100.00%
+
+100.00%
+
+4.92%
+
+6.81%
+
+9.01%
+
+-18.45%
+
+-9.22%
+
+Marketing
+
+1,258,945
+
+1,013,828
+
+1,140,098
+
+n/a
+
+n/a
+
+n/a
+
+8.32%
+
+7.57%
+
+10.23%
+
+24.18%
+
+-11.08%
+
+Other
+ income
+
+ 720,012
+
+ 584,532
+
+ 471,012
+
+ n/a
+
+ n/a
+
+ n/a
+
+ 4.76%
+
+ 4.36%
+
+ 4.24%
+
+ 23.18%
+
+ 24.10%
+
+Total
+ Gross Margin
+
+$15,126,244
+
+$13,392,832
+
+$11,140,530
+
+18.90%
+
+19.70%
+
+20.20%
+
+100.00%
+
+100.00%
+
+100.00%
+
+12.94%
+
+20.22%
+
+________
+
+________
+
+_______
+
+_____
+
+______
+
+_____
+
+_____
+
+______
+
+_____
+
+______
+
+_____
+
+(1) Management during fiscal year end March 31, 2005 tracked all advisory
+services as one aggregate for gross margin reporting purposes .In fiscal year
+ended March 31, 2006 management switched to tracking the A-Map rep direct
+program separately from other advisory services programs.
+
+Gross margin rose by
+$1.76 million or 13.1% to $15.13 million for the current period primarily due to
+a $1.26 million or 25.4% increase in gross margin derived from our check and
+application programs. Also contributing to this rise was a $0.50 million or
+13.62% increase from trading.
+
+Check and
+ Application
+
+The increase in
+gross margin from our check and application business came directly from an
+increase in sales volume of the variable annuity and direct participation
+components. As a result of a $7.62 million increase in sales from these product
+types, we achieved an increase of approximately $0.98 million in our profit
+margin in comparing the current period to the prior period. Please refer to the
+above commission revenue chart.
+
+Profit margins from mutual fund sales, variable annuity sales, direct
+participation programs and other
+
+Page 30
+
+INVESTORS CAPITAL HOLDINGS LTD -
+10-K
+
+Fiscal
+ Year Ended March 31, 2007
+
+check and application distribution programs generated $6.21 million or
+nearly 41.04% of the total gross margin compared to $4.95 million or 37.03%
+during the prior period. As reflected in the above gross margin table, margin
+from our check and application distribution programs comprised the greatest
+portion of our overall profit margin, with profit margin from trading being the
+next leading component among our principal categories. Investments in technology
+have allowed us to process this additional volume without adding a commensurate
+level of staff.
+
+Advisory
+ Services
+
+The Company’s
+continued emphasis on the A-MAP, our rep-directed asset managed program, is
+clearly reflected in our gross margin table as gross margin increased by $0.36
+million or 51.27% . This gross margin improvement resulted directly from growth
+in assets under management in the program which, in management’s opinion, is due
+primarily to lower fees, improved services and increased awareness of this
+program.
+
+Management’s primary
+focus in the advisory services program has been to increase assets under
+management in the belief that it will generate an increase in the overall profit
+margin in advisory services even though the percentage retention rate may
+decrease as a result of lower fee rates. Although our retention rate from
+advisory services decreased compared to the prior period, it continues to exceed
+the rates generated by most of the other products and services we and our
+representatives provide. See “Gross Margin Table”, above. Management’s emphasis
+on delivering our A-MAP program is reflected in the gross margin table with a
+concomitant $0.56 million, or 42.66%, decrease in gross margin in Other Advisory
+Services including the older wrap fee programs.
+
+Trading
+ Services
+
+Trading Services
+profit margin increased by $0.50 million or 13.62% due primarily to a $0.38
+million increase in the margin from our fees on account balances. These fees
+contribute directly to our profit margin as they require no commission payout.
+In addition, there was a $0.12 million increase in gross margins from trading
+activities that required a commission payout.
+
+As a result of the
+$0.38 million increase to our profit margin from non-commissionable fees on
+account balances, our payouts as a percentage of total trading revenue remained
+relatively flat for the comparative periods; however, payouts, as a percentage
+of commissionable trading, increased. Although our margin retention decreased
+slightly from 19.71% in the prior period to 19.17% in the current period,
+trading services remain the second largest component of revenue contributing to
+our gross margin.
+
+Despite a slight
+downward trend, the percentage retention rates generated by trading services and
+advisory services continue to exceed those generated by our check and
+application business. We intend to continue recruiting representatives who are
+duly licensed and otherwise capable of offering trading and advisory services to
+their clients.
+
+Payout
+ and Retention Rates
+
+Payouts to our
+independent representatives combined with other advisory and trading services
+costs, as a percentage of revenue generated by them, increased to 83.3% compared
+to 82.3% for the prior period. The corresponding decrease in our overall
+retention rate from 17.7% to 16.7% reflects a continuing transitioning of our
+sales force to higher producing representatives that command correspondingly
+higher payout rates (see Part I, Item I – “Our Process”) which was partially
+offset by a net increase in fees that do not generate payouts. In addition to
+selling more products through our check and application distribution programs,
+higher quality representatives have the potential to positively influence our
+overall retention rate because they are licensed to sell more of the higher
+margin products such as trading and advisory services.
+
+Page 31
+
+INVESTORS CAPITAL HOLDINGS LTD -
+10-K
+
+Fiscal
+ Year Ended March 31, 2007
+
+Management carefully
+monitors our retention rates; however, we have chosen to focus more on total
+dollars retained. Management believes that, on average, increased payout rates
+earned by higher producing representatives will be more than offset by greater
+overall contributions to margin and increased firm profitability.
+
+Management is
+continuing their efforts to improve margin contribution by recruiting and
+retaining sophisticated Representatives who are duly licensed to offer a variety
+of brokerage and advisory products and services that generate higher commission
+retention rates than those obtained from check and application products. We
+experienced higher margins from trading as a result of ticket charges and fees
+pertaining to increases in account balances that flow entirely to the profit
+margin. With respect to advisory services, we receive fees on asset account
+balances that flow directly to the firm. Refer to Note 1 -- "Revenue Recognition
+- Advisory Fees" to our Condensed Consolidated Financial Statements.
+
+OPERATING
+ EXPENSES
+
+Operating expenses,
+which experienced a $4.32 million or 34.49% increase, are discussed in detail
+below.
+
+Compensation and Benefits
+
+The largest
+component of operating expenses is compensation and benefits, which increased by
+$2.26 million or 35.61% . General salaries, which grew by 21.78%, accounted for
+$0.93 million of the increase. In addition, we experienced a $0.23 million
+increase in compensation paid to officers resulting from bonuses. Another
+significant contribution to the increase was a $0.76 million increase in stock
+compensation in the form of restricted stock awards to employees, directors,
+consultants and independent representatives. The increase in general salaries
+resulted primarily from the hiring and retention of 30 additional personnel in
+such functions as:
+
+Trading
+ and Operations -- to continue to provide an increasingly higher level of
+ service to our
+
+sophisticated
+ representative force as a differentiator in the face of increasing
+ competition,
+
+Compliance -- to meet the growing needs within the industry for
+ internal control, quality
+
+supervision and
+ continuing education to our independent representatives, as well as to
+ reduce
+
+legal and settlement expenses,
+
+Representative recruitment -- to enhance our ability to recruit higher
+ quality representatives,
+
+Legal
+ Department -- to help reduce the need for traditionally more expensive outside
+ counsel, and
+
+to provide additional services to our representatives and
+
+Other
+ general administrative areas.
+
+Regulatory, Legal and
+Professional
+
+Regulatory, Legal
+and Professional expenses increased by $1.83 million or 61.71% . The largest
+component of this increase was a $1.46 million increase in legal fees and
+settlement costs associated with the Massachusetts Proceedings referred to in
+footnote 15 to our Consolidated Financial Statements and described in detail in
+Part I, Item 3. “Legal Proceedings”. We have taken and will continue to take
+measures calculated to limit our ongoing exposure to legal proceedings arising
+from our operations. In this regard, there was a $0.15 million decrease compared
+to the prior period in legal fees and settlement costs associated with
+litigation other than the Massachusetts Proceedings. Management believes,
+although there can be no assurances, that the Massachusetts Proceedings will
+prove to be atypical, in terms of financial impact, of legal proceedings that
+will be generated in the future in connection with our on-going
+operations).
+
+The Company’s legal expenses, other than those associated with the
+Massachusetts Proceedings,
+
+Page 32
+
+INVESTORS CAPITAL HOLDINGS LTD -
+10-K
+
+Fiscal
+ Year Ended March 31, 2007
+
+decreased for the comparative period. Management believes this result is
+directly attributable to the Company’s risk-based management approach that seeks
+to minimize risk by improving the quality of its associated registered
+representatives while committing resources to educate and train our sales force,
+efficiently and accurately process their business, and appropriately supervise
+their business activities.
+
+The Company's legal
+accrual increased by $0.67 million to $1.10 million as of March 31, 2007 from
+$0.43 million as of March 31, 2006 as a result of the settlement in the
+Massachusetts Proceeding. The Company also had various arbitration claims filed
+against it that warranted an additional accrual increase. As we operate in an
+increasingly litigious industry embedded with regulation, we will continue to
+invest significant resources to reduce the likelihood of future litigation
+exposure by promoting accuracy, ensuring sound operational techniques and
+applying appropriate compliance measures.
+
+Advertising
+
+Advertising,
+including related marketing expenses, decreased by $0.02 million or 2.32%,
+primarily reflecting decreased spending on officer travel.
+
+Communications
+
+Communications
+expenses decreased by $0.11 million or 19.0%, primarily due to a decrease in
+printing and website costs offset by an increase in telephone expenses. The
+costs savings in printing expenses were achieved by communicating to our
+prospective representatives by emailing our product literature instead of direct
+mailing. The Company's website is currently used to target new revenue streams
+by providing access to information through the website and other Internet
+publications. Communication efforts and related expenses, which also include
+investor/public relations, conference, and telephone, have historically been
+positively correlated with the overall growth of our business. Our website and
+newsletter, "The Capitalist", have become effective media to communicate to
+qualified Representatives for recruitment purposes.
+
+Occupancy
+
+Occupancy expenses
+increased by $0.30 million or 43.31% primarily as a result of opening Investment
+Centers in Braintree, MA, Manhattan, NY and Bedford, NH and a new Business
+Center in Miami, FL. Furthermore, we leased additional space for senior
+management and our marketing department at a separate Lynnfield, MA location.
+The Company also experienced an increase in depreciation due to acquiring
+additional fixed assets in the form of new computers for the additional staff,
+leasehold improvements and additional furniture and fixtures for the home office
+in Lynnfield, MA to accommodate the increased number of employees.
+
+Other
+ Administrative
+
+Other administrative
+expenses, which include various insurance, postage, office and computer-related
+expenses, increased slightly by $0.08 million or 7.81% . Management continues to
+mount a concerted effort to reduce general office and postage expenses through
+several cost saving methods.
+
+Interest
+ Expense
+
+Interest expense decreased by 25.13% reflecting less margin balances in
+our firm accounts when comparing the current period to the prior
+period.
+
+Page 33
+
+INVESTORS CAPITAL HOLDINGS LTD -
+10-K
+
+Fiscal
+ Year Ended March 31, 2007
+
+OPERATING
+ AND NET LOSSES
+
+The fact that the
+Company registered operating and net losses during the current period, compared
+to the operating and net profit during the prior period, can be attributed
+primarily to expenses related to the Massachusetts Proceedings and resulting
+settlement that totaled approximately $2.20 million during the current period.
+See Part I, Item 3. “Legal Proceedings”.
+
+Despite a 15.23%,
+20.22% and 12.94% increase in gross profit over the prior year for the fiscal
+years ended March 31, 2005, 2006 and 2007, respectively, the Company has
+experienced a negative trend in earnings during this same overall period. The
+trend is attributable to increases in total operating expenses of 23.73%, 22.14%
+and 34.49% for the comparable periods. These operating expense increases have
+been driven primarily by significant increases in compensation and benefits and
+in professional fees and legal settlement costs.
+
+In order to remain
+competitive, the Company has increased the number of home office staff by 36%
+over the two year period ended March 31, 2007. Central to this staff
+enhancement, was the hiring of additional compliance staff, which typically are
+among the higher-paid of our employees. In addition, salary increases have been
+necessary to attract and retain higher quality employees so that service levels
+to our field force are constantly improved. Improvements in our service levels
+are believed to enhance our current representatives’ productivity and our
+ability to attract quality new representatives which, in turn, is believed to be
+a driving force behind the increase in gross profit experienced over the past
+three years.
+
+The growth in the
+number of employees has corresponded with a significant cost increase during the
+same period in our 100% Company-funded employee health care program in addition
+to various office and infrastructure expenses in order to house and support the
+additional employees necessary to remain competitive during the period.
+Additionally, the Company has committed considerable resources to retaining its
+key managers and employees in the form of its shareholder approved equity
+incentive plans. Stock grants authorized under the 2005 plan were made to
+certain key employees during fiscal year ended March 31, 2007 at considerable
+expense to the Company.
+
+Professional (legal
+and audit) fees and legal settlement costs have also increased significantly
+over the last three fiscal years and have contributed above all other operating
+expenses to the negative earnings trend noted above. In addition to an adverse
+2005 civil court verdict experienced by the Company resulting from commercial
+litigation unrelated to its core business, the Company incurred material legal
+costs in the fiscal years ended March 31, 2006 and 2007 as a result of its
+prolonged and vigorous defense of a November 2005 Administrative complaint filed
+against it by the Securities Division of the Secretary of the Commonwealth of
+Massachusetts (the “Massachusetts Proceedings”). The Company eventually settled
+this matter at considerable additional expense. Although there can be no
+assurance, management believes that the expense of litigating and settling the
+Massachusetts Proceedings will prove to be atypically high compared to legal
+proceedings that may be expected to continue to be brought against the Company
+in the future in the litigious and highly regulated environment in which we
+operate. For further details regarding the Massachusetts Proceeding and other
+legal proceedings, see Part I, Item 3. – “Legal Proceedings” and “Note 15-
+Litigation” in this Form 10-K.
+
+But for the cost of
+the Massachusetts Proceedings and settlement, management believes that the
+aforementioned negative earnings trend would not have continued during the
+fiscal years ended March 31, 2006 and 2007. Further, although there can be no
+assurances, management believes that there is no present reason to expect the
+historical negative earnings trend to continue as a result of costs incurred in
+matters of this type.
+
+Fiscal Year
+Ended March 31, 2006 Compared with Fiscal Year Ended
+March
+
+31, 2005
+:
+
+Results reported for
+the fiscal years ended March 31, 2006 and 2005 are comparatively discussed below
+to the extent that explanations for comparative variances in results for these
+two fiscal years differ from
+
+Page 34
+
+INVESTORS CAPITAL HOLDINGS LTD -
+10-K
+
+Fiscal
+ Year Ended March 31, 2007
+
+the explanations given above for variances in the results for the fiscal
+years ended March 31, 2007 and 2006.
+
+REVENUES
+
+Our revenues rose
+$12.84 million, or 23.3%, to $68.00 million despite the effects on the economy
+of increases in interest rates and energy prices. Revenues from commissions
+increased by $11.37 million or 23.4% for the current period compared to the
+prior period. Advisory services revenue also increased by $1.45 million or 39.0%
+between the same comparative periods. The significant increase in our revenues
+reflects general revenue growth in the diversified investment sector of the
+financial services industry as well as other factors discussed below.
+
+Revenue growth
+continues to be supported by our efforts in recruiting sophisticated and
+experienced representatives who are qualified and likely to engage in brokerage
+and investment advisory services. We had a 19.82% increase in recruitment of new
+representatives during the fiscal year ended March 31, 2006 compared to the
+prior year. Revenue growth from these new recruits generated a $2.20 million or
+90.80% increase in corresponding revenues.
+
+Revenues of $1.22
+million or 55.29% of this $2.20 million increase, and 44.16% of all current
+period revenues from representatives, were derived from trading or brokerage
+services. Our progress in recruiting representatives who are qualified and
+likely to engage in trading services have resulted in a 145.78% increase for the
+year ended March 31, 2006 compared to the fiscal year ended March 31,
+2005.
+
+Recruiting Statistics
+
+Year Ended March 31,
+
+Change
+
+Percent Change
+
+2006
+
+2005
+
+2006 vs. 2005
+
+ 2006 vs.
+2005
+
+Product Type
+
+Mutual Funds, Variable Annuities, Direct
+ Participation Programs, Other
+
+$ 2,186,700
+
+$ 1,293,029
+
+$ 893,671
+
+69.11%
+
+Trading Services(brokerage)
+
+2,054,522
+
+835,935
+
+1,218,587
+
+145.78%
+
+Advisory Services
+
+ 390,164
+
+ 298,421
+
+ 91,743
+
+ 30.74%
+
+Total
+
+$4,631,386
+
+$2,427,385
+
+$2,204,001
+
+90.80%
+
+__________
+
+_________
+
+__________
+
+__________
+
+Commissions
+
+Commissions from
+variable annuities and trading made up the largest increase in commission
+revenue. Variable annuities and trading commissions represented $7.68 million or
+67.53%, of the increase during the current period when compared to the prior
+period. Also, commissions from direct participation programs, which
+predominantly include REIT’s (Real Estate Investment Trusts) and oil and gas
+programs increased by $2.71 million or 47.28% .
+
+Commission
+ Revenue
+
+percentage
+
+percent of
+ total
+
+increase 2006
+ vs
+
+Product
+ Type
+
+2006
+
+2005
+
+2006 vs
+ 2005
+
+Increase
+
+2005
+
+Variable
+ Annuities
+
+$ 22,766,073
+
+$
+ 19,300,208
+
+$ 3,465,865
+
+30.49%
+
+17.96%
+
+Trading
+ (brokerage)
+1
+
+18,457,135
+
+14,245,778
+
+4,211,357
+
+37.04%
+
+29.56%
+
+Mutual
+ Funds
+
+8,665,442
+
+7,874,316
+
+791,126
+
+6.96%
+
+10.05%
+
+Direct
+ Participation Programs
+
+8,436,466
+
+5,728,231
+
+2,708,235
+
+23.82%
+
+47.28%
+
+Other
+
+1,703,615
+
+1,511,519
+
+192,096
+
+1.69%
+
+12.71%
+
+_________
+
+_________
+
+_________
+
+_________
+
+________
+
+Total
+ Commission Revenue
+
+60,028,731
+
+48,660,052
+
+$
+ 11,368,679
+
+100.00%
+
+23.36%
+
+_________
+
+_________
+
+_________
+
+_________
+
+________
+
+1. Revenue
+ designated as Trading (brokerage) includes revenue from mutual funds sold
+ through our trading platform.
+
+Although commissions
+from variable annuities comprise the largest component of commission revenue,
+the Company’s revenue base has been shifting toward the brokerage area, which
+represented 37.04% of the total increase in commission revenues. An increasing
+number of our representatives conduct their
+
+Page 35
+
+INVESTORS CAPITAL HOLDINGS LTD -
+10-K
+
+Fiscal
+ Year Ended March 31, 2007
+
+business in brokerage accounts which, in turn, improves our
+margins.
+
+The trend towards brokerage reflects a concerted effort on our part to
+recruit sophisticated representatives with series 7 licenses who utilize our
+brokerage platform. As a result of the shift toward brokerage products, the
+Company experienced higher overall profit margins from sales of the resulting
+product mix during the current period compared to the prior period. See “— Gross
+Margins” below.
+
+Advisory
+ Fees
+
+Advisory services
+typically provide significantly higher margins than traditional broker-dealer
+products such as variable annuities and mutual funds. See “ – Gross Margins”.
+Accordingly, we have been encouraging our representatives to convert more of
+their business to advisory services. Although we do not control which advisory
+services our representatives provide for their clients, we continue to make
+concerted efforts to attract them to our proprietary advisory services programs
+through seminars, trade shows and direct telemarketing.
+
+Fees from our
+rep-directed asset-managed program, A-MAP, where asset allocation and other
+investment advisory services are provided directly by our independent
+representatives, continue to be the leading source of revenue in this category.
+Revenues from this program grew by $1.03 million or 61.5% to $2.71 million
+compared to $1.68 million the prior period. Supported by our Net Exchange Pro
+and Pershing direct mainframe trading platforms, this program is becoming
+increasingly popular with our representatives because of the opportunities it
+provides to deliver to their clients superior asset management services at a
+potentially lower cost and the potential for increased overall market
+performance.
+
+Revenues from our
+fund-managed F-MAP or separately managed S-MAP accounts, where investment
+advisory services are provided by EPA and ICA instead of our independent
+representatives, increased by $0.50 million or 42.8% between the comparative
+periods. Over recent quarters revenues from the fund-managed category have
+slightly declined due to the termination of accounts where asset values have
+fallen below a minimum level. Also, management has not been aggressively
+marketing this program compared to the rep-directed asset-managed program and
+S-MAP program.
+
+Revenues from
+asset-managed programs where investment services are provided by outside
+advisors, decreased slightly for the year ended March 31, 2006. EPA, and more
+recently, ICA have been continuing to direct their marketing efforts away from
+these third party management programs and more toward their internal,
+proprietary asset-managed models. EPA and ICA have been providing sales,
+marketing, trading platform and other technical support to our representatives
+to enable them to deliver improved investment advisory services.
+
+Revenues from
+advisory services provided to mutual funds decreased by $.07 million when
+compared to the prior period, reflecting the termination during the current year
+of the Company’s management agreement pursuant to which it had been providing
+advisory services to mutual funds. Our mutual funds constituted only $0.25
+million or 6.8% of the total advisory services revenue category for the year
+ended March 31, 2005, and $0.18 million or 3.6% for the fiscal year ended March
+31, 2005.
+
+Our current success
+to our advisory services program recently has been a result of an enhanced
+online platform that we offer to our representatives, enabling them to perform
+their services of asset allocation in a more cost effective way. In addition,
+these savings have been passed on to the client, resulting in lower fees charged
+for an improved service.
+
+Other Fee
+ Income
+
+Other fee income
+decreased by $0.05 million or 4.00%, resulting mostly from a $0.18 million
+decrease in administrative fees for providing regulatory services to our
+representatives in connection with annual renewals of their NASD licenses and
+errors and omissions (E&O) policy enrollment. Most of this variance stems
+from the timing in the collection of an (E&O) adjustment during the first
+quarter for year
+
+Page 36
+
+INVESTORS CAPITAL HOLDINGS LTD -
+10-K
+
+Fiscal
+ Year Ended March 31, 2007
+
+ended March 31, 2005. There was no (E&O) adjustment for year ended
+March 31, 2006.
+
+Offsetting the
+above-mentioned decrease was a $0.09 million increase in financial planning fees
+from sophisticated representatives providing portfolio strategy for their
+clients’ asset-managed accounts. In addition, we experienced a $0.10 million
+dollar increase in other administrative fees to cover the increase in compliance
+costs for the maintenance of books and records.
+
+Finally, there was a
+$0.06 million decrease in administration fees on asset-managed accounts as a
+result of the termination of several of these accounts when asset balances fell
+below minimum levels.
+
+Marketing
+ Revenue
+
+Net marketing
+revenues decreased by $0.13 million or 11.1%, reflecting a $0.23 million
+increase in the cost to host our annual national convention held in Boston in
+October 2005 and our Diamond Achiever conference in March 2006. Offsetting this
+decrease was a $0.87 million dollar increase in marketing support revenues from
+several fund companies based on increases in sales volume of their products. We
+also saw a $0.02 million increase in marketing support revenues from our
+regional meetings and sales of ancillary items such as apparel, bags, hats with
+our logo and blast email services.
+
+Other
+ Income
+
+Other income,
+consisting primarily of interest and dividends and gains or losses on
+investments, increased by $0.17 million for the comparative current period to
+the prior period. The majority of the increase came primarily from interest
+earned on account balances due to the increase in daily average balance in our
+trading accounts.
+
+GROSS
+ MARGINS
+
+Gross margin rose by
+$2.23 million or 20.0% to $13.40 million for the current period primarily due to
+a $1.60 million or 77.5% increase in gross margin derived from trading over the
+prior period.
+
+Trading
+
+The increase in
+gross margin from trading reflects an increase in brokerage commissions and a
+reduction in clearing charges due to increased sales volume, increased
+commission retention rates, and more fee income within corporate accounts.
+
+Contributing to this
+improvement in gross margins from trading was a $0.38 million increase in the
+margin from our trails and from money market on account balances and a $1.22
+million contribution from net trading commissions. The primary increase in gross
+margins from trading commission is derived from a $1.10 million increase in net
+trade commissions from lower producing / payout representatives. The combined
+effect of these factors was an increase in our average payout retention in
+brokerage services from 24.6% in the prior period to 30.7% in the current period
+which, in turn, contributed to an increase in our gross trading margin from
+14.40% to 19.71% . Please refer to Gross Margin Table above.
+
+Other factors
+contributing to the increase in gross margin from trading was that there was a
+$0.21 million trading error in April of 2004 that was realized in fiscal 2005 as
+well as investments in personnel and technology to expand and upgrade the
+capabilities of our trading and operations department that enabled us to more
+efficiently service the increase in trading volume. Through our efforts we are
+continuing to recruit more capable and experienced representatives who can offer
+a broader range of brokerage products which have a greater profit margin
+compared to the normal mutual fund and variable annuity products (see
+“—Commissions”, above).
+
+Advisory
+ Services
+
+Page 37
+
+INVESTORS CAPITAL HOLDINGS LTD -
+10-K
+
+Fiscal
+ Year Ended March 31, 2007
+
+Advisory services
+profit margin increased by $0.36 million or 21.80% for the current period to the
+prior period. The majority of the profit margin in advisory services stems from
+our rep-directed asset-managed programs that make it possible for
+representatives managing client accounts to trade directly online using our
+automated trading platform. Resulting increases in the representative's trading
+volume effectively increase the Company's commission revenues and gross margin.
+Additionally, by processing more transactions at a stable fixed cost, our
+enhanced trading technology fosters economies of scale that control operating
+expenses required to process the increased trade volume.
+
+Although we
+experienced an increase in profit margin from advisory services during the
+comparative period, our retention rate decreased from 42.6% to 37.5% . There
+were a couple of factors contributing to this retention percentage decrease.
+Advisory fee rates derived from rep-directed business declined slightly,
+reflecting decreases in the commission retention rate for client accounts whose
+balances reached levels that trigger automatic retention rate reductions. Also,
+as a result of terminating the management agreement associated with the mutual
+funds we no longer receive any advisory fees from that revenue component which
+directly contributed to our margin
+
+Although our retention rate from advisory services decreased compared to
+the prior period, this category on a percentage-retention basis still retains a
+higher profit margin than most of the other products or services we and our
+representatives provide. (See –“Gross Margin Table”, above).
+
+Mutual
+ Funds, Variable Annuities, Etc.
+
+Profit margins from
+mutual fund sales, variable annuity sales, direct participation programs and
+other check and application distribution programs contributed $4.95 million or
+37.03% of the total gross margin compared to $4.47 million or 40.10% during the
+prior period. As presented in the previous gross margin table, margin from our
+check and application distribution programs comprised the greatest contribution
+to our overall profit margin; however, trading achieved the largest percentage
+increase for the comparative period of March 31, 2006 versus March 31, 2005.
+
+COMMISSION EXPENSES
+
+Commission payouts
+to our independent representatives, as a percentage of commissioned revenues,
+remained virtually steady at 82.3% for this fiscal year ended March 31, 2006
+versus 82.2% for the fiscal year ended March 31, 2005. Management is continuing
+efforts to improve commission retention rates by refining our business model to
+emphasize the recruitment and retention of sophisticated representatives. These
+individuals can offer a variety of brokerage and advisory products and services
+that give us better commission retention rates than those obtained from mutual
+funds and variable annuities. We experienced higher margins from trading as a
+result of ticket charges and fees pertaining to increases in account balances
+that flow entirely to the profit margin. From advisory services we receive fees
+on the asset balance in the account that go directly to the firm. Refer to the
+revenue recognition policy.
+
+OPERATING
+ EXPENSES
+
+Operating expenses,
+which experienced a $2.27 million or 22.1% increase for the year ended March 31,
+2006, are discussed in detail below:
+
+Compensation and benefits
+
+The largest
+component of operating expenses is compensation and benefits which increased by
+$0.63 million or 11.1% during the current period. This is substantially below
+the absolute and percentage growth rates achieved in revenues and gross margins.
+This change includes primarily an increase in general salaries of $0.67 million
+offset by a decrease in officer’s salary of $.07 million primarily as a result
+of the resignation of EPA’s president during our fiscal quarter ended June 30,
+2005. There was also a $0.08 million decrease in stock option compensation due
+to a reduction in the value of stock options distributed based on the
+“Black-Scholes Method” of option valuation for the comparative years
+ended
+
+Page 38
+
+INVESTORS CAPITAL HOLDINGS LTD -
+10-K
+
+Fiscal
+ Year Ended March 31, 2007
+
+March 31, 2006 versus March 31,
+2005.
+
+The Company
+sustained a $0.11 million increase in compensation expenses from 401(k)
+contributions, health insurance and payroll taxes in the current period versus
+the prior period. This increase along with the increase in general salaries
+primarily was the result of the hiring of 18 additional personnel. The Company
+went from having 65 full time employees at March 31, 2005 to 83 full time
+employees at March 31, 2006 to support continued growth of the
+Company.
+
+There was a $0.23
+million increase in additional personnel expense that was needed to support the
+increase in business from the trading and operations sector. Resources were
+committed to ensure that the Company continues to provide quality customer
+service to our sophisticated representative force. Also, $0.4 million of
+addition expense was incurred in connection with the hiring of additional
+personnel in the area of compliance. Resources were devoted in this area to meet
+the growing needs within the industry of providing an adequate framework of
+internal control, quality supervision and continuing education to our
+independent representative force.
+
+Regulatory, legal and
+professional
+
+Regulatory, legal
+and professional expenses increased by $1.44 million or 94.2% . The largest
+component of this increase was a $0.87 million or 264% increase in non-in-house
+legal fees, $0.74 million of which was incurred in connection with the
+Massachusetts Proceedings described in detail in Part I, Item 3 “Legal
+Proceedings”. An additional $0.13 million of this increase arose from other
+actions that management believes, with advice of counsel, are of the exposures
+likely to be presented by our ongoing operations.
+
+There were $0.31
+million in legal settlements from dealings uncommon to our business that
+contributed to the $0.54 million increase in lawsuit settlement expenses. We
+also experienced a $0.23 million dollar increase in lawsuit settlements arising
+from transactions conducted in the normal course of business.
+
+We increased our
+accruals for legal expenses from $0.25 million for the prior period to $0.43
+million for the current period. Please refer to Footnote 15 to the Condensed
+Consolidated Financial Statements. In addition, since we operate in an industry
+embedded with regulation, we will continue to invest significant resources to
+reduce the likelihood of future litigation by promoting accuracy, ensuring sound
+operational techniques and providing appropriate compliance measures.
+
+Finally, we
+experienced a $0.04 million increase in accounting expenses, primarily
+audit-related, while regulatory and professional expenses remained essentially
+flat for the comparative periods.
+
+Advertisement and Marketing
+
+Advertising expenses
+increased overall by $0.13 million or 17.36% due to a change in the overall
+marketing approach in our recruitment process. Management determined that it was
+more effective to communicate to a potential representative force with general
+marketing materials. As a result of this marketing strategy, general marketing
+expenses increased by $0.09 million offset by a $0.05 million decline in
+advertising expenses (magazines, brochures). Also there was $0.10 million dollar
+increase in meals and entertainment as a result of the officers of the Company
+continuing to meet potential representatives.
+
+Communications
+
+Communications
+expenses increased by $0.07 million or 12.6%, primarily due to increases in
+printing and website expenses approximating $0.02 million and $0.04 million,
+respectively. These costs were incurred to target new revenue streams by
+providing access to information through the Internet and other publications.
+Communication efforts and related expenses, which also include investor/public
+relations, conference, and telephone, have historically been positively
+correlated with the overall growth of our
+
+Page 39
+
+INVESTORS CAPITAL HOLDINGS LTD -
+10-K
+
+Fiscal
+ Year Ended March 31, 2007
+
+business. Our website and newsletter “The Capitalist” have become
+effective medium to communicate to potential qualified representatives for
+recruitment purposes.
+
+Occupancy
+
+Occupancy expenses
+increased by $0.11 million or 18.70% primarily as a result from $0.04 million in
+added costs for rent and condominium fees and a $0.04 million increase in
+depreciation. In the current period we added two new investment centers in
+Braintree, Massachusetts and New York, New York. We acquired additional fixed
+assets in new computers for the additional staff, leasehold improvements and
+additional furniture and fixtures to the home office in Lynnfield, Massachusetts
+to accommodate the increase in number of employees.
+
+Other
+ Administrative
+
+Other administrative
+expenses, which include various insurance, postage, office and computer-related
+expenses, decreased by $0.09 million or 8.20% . The Company experienced a $0.08
+million increase in office expenses related primarily to the opening of a new
+recruitment office in Miami, Florida and the cost of a full year of operations
+of our Los Angeles, California recruitment office. Increases in other
+administrative expenses also included $.01 million of additional office supply
+expense, a $0.03 million increase in bank charges resulting from a heavy volume
+credit card transactions to process representative license renewals, a $0.02
+million increase in other taxes due to the prior year’s adjustment regarding
+sales and use tax, and a $0.01 million increase in donations.
+
+Offsetting those
+increases, computer maintenance services declined by $0.07 million reflecting a
+greater reliance on in-house staff to service our computer systems and maintain
+our website. Postage decreased by $0.02 million as a result of paying
+commissions through Electronic Funds Transmission (EFT) and providing commission
+reports to our representatives over our website versus mailing out their check
+and commission statement. Also, the Company utilized the United States Post
+Office for overnight deliveries, which is less expensive than other parcel
+couriers.
+
+Other declines in
+office related expenses were from mutual fund expenses which experienced a $0.08
+million decline due to the termination of the management agreement for the
+mutual funds, and a $0.07 million decline in bad debt expenses from the write
+off of bad debt related to loans extended to our representatives. No loans were
+written off during the fiscal year ended March 31, 2006.
+
+Interest Expense
+
+Interest expense increased by 18.16 % in comparing the prior period to
+the current period.This was primarily due from interest on margin balances on
+firm accounts and from interest on short term obligations.
+
+OPERATING
+ INCOME
+
+Operating income
+decreased by $0.02 million or 1.93% due to an increase in operating expenses of
+22.1% . The most significant contributors to the increase in operating expenses
+were $0.74 million in legal fees in the Massachusetts Proceedings and an
+additional $1.05 million in legal fees and settlements incurred in other legal
+proceedings that the Company believes in the aggregate will prove to be
+atypically heavy when compared with legal related expenses incurred in the
+course of future operations.
+
+We will continue to
+make substantial investments in our selling and administrative services
+capabilities, including additions to management, personnel and service
+infrastructure, as part of a concerted strategy to increase revenues and
+profitability. Management firmly believes that a sustained focus on enhancing
+our state-of-the-art business platform will facilitate accelerated recruitment
+of independent representatives that are focused on growing revenues,
+particularly in high margin lines such as advisory and trading services. As part
+of this effort, the Company continues to invest in an automated trading system
+that enables sophisticated representatives to enhance client base and
+activity.
+
+Page 40
+
+INVESTORS CAPITAL HOLDINGS LTD -
+10-K
+
+Fiscal
+ Year Ended March 31, 2007
+
+NET
+ INCOME
+
+Net income decreased by approximately $0.17 million or 27.40%, or $0.03
+per basic and $0.02 per diluted share, due to a decrease in operating income and
+a related increase in the provision for income taxes due to deferred tax items.
+The decrease in operating income is a result of incurring more operating
+expenses, primarily legal expenses, proportionate to the increase in revenues
+and profit margins compared to the fiscal year ended March 31, 2005. In partial
+offset, we experienced a $0.02 million gain on the sale of an asset during the
+current period. See Footnote 3 to our Consolidated Financial Statements. There
+was no such gain in the prior period; however, there was a $0.03 million dollar
+loss on early disposal of computer equipment.
+
+LIQUIDITY
+ AND CAPITAL RESOURCES
+
+The Company believes
+that achieving its return on equity goals requires the efficient use of capital.
+We have financed our operations primarily with internally generated cash flow.
+
+Cash inflows
+historically have come primarily from the Company’s core broker-dealer and
+investment advisory services which, in recent years, have proven profitable
+except during the most recent fiscal year when financial results were reduced by
+$2.20 million in costs associated with the Massachusetts Proceedings (see Part
+I, Item 3. “Legal Proceedings”). This historic profitability typically has
+followed an annual cycle of relatively average profitability during the first
+and third fiscal quarters, relatively low profitability during the second fiscal
+quarter (when several representatives and their clients are on summer vacation),
+and relatively high profitability during the fourth fiscal quarter (when several
+representatives and their clients start a new business and investment year).
+
+In addition to the
+annual profitability cycle, negative fluctuations and general uncertainty in
+financial markets can have a negative impact on cash flow. The Company works to
+minimize this impact by aggressively recruiting sophisticated representatives
+who can offer diversified products that continue to meet the needs of their
+clients despite changing market conditions.
+
+The Company takes a
+proactive approach to minimizing or even preventing the occurrence of other
+events that may lead to unexpected cash outflows, including lawsuits, trade
+errors and fines from regulatory agencies such as the NASD or the SEC. A key to
+this approach is ensuring that adequate controls over our operations and those
+of our representatives are implemented and periodically updated. As part of this
+effort, substantial resources have been committed to enhancing the capabilities
+of our compliance team, whose tasks include assuring that our representatives
+give proper weight to the circumstances and interests of their clients when
+recommending investment options. The Company also allocates resources to stay
+current with the many rules and regulations applicable to our business by
+assisting in the education and training of our sales representatives and
+staff.
+
+As of March 31,
+2007, cash and cash equivalents totaled $5.50 million as compared to $7.72
+million as of March 31, 2006. Working capital as of March 31, 2007 was $5.32
+million as compared to $8.04 million as of March 31, 2006. The ratio of current
+assets to current liabilities was 1.80 to 1 as of March 31, 2007 as compared to
+2.70 to 1 as of March 31, 2006, principally due to cash disbursements of $1.72
+million over the course of the current period resulting from the Massachusetts
+Proceedings and settlement.
+
+Operations used
+$0.11 million in cash for the year ended March 31, 2007 as compared to $0.22
+million of cash used for the year ended March 31, 2006.
+
+In comparing cash
+flow from operating activities for fiscal year ended March 31, 2007 to fiscal
+year ended March 31, 2006, we can see that cash flow decreased by $1.53 million
+as a result of a net loss of $1.08 million for the current period versus net
+income of $0.45 million in the prior period. The $1.72 million used in the
+Massachusetts Proceedings and settlement more than accounted for the swing in
+cash flow from operating activities.
+
+Page 41
+
+INVESTORS CAPITAL HOLDINGS LTD -
+10-K
+
+Fiscal
+ Year Ended March 31, 2007
+
+Also during the
+current period we incurred stock based compensation in the form of restricted
+stock that is a $0.76 million year ended non-cash add back adjustment in
+comparing the current to the prior period. We also had additional cash flow
+increases of $1.40 million from incurred liabilities, including $0.48 million of
+expense accruals related to the Massachusetts Proceedings and settlement.
+Finally, deferred taxes reduced cash flow by $0.64 million.
+
+Cash outflows from
+investing activities for the current period totaled $2.74 million of which $0.92
+million resulted from purchasing equipment as well as technology and leasehold
+improvements. In addition, we invested $1.73 million in US Treasury Bills and
+Notes.
+
+As part of our
+financing activities we paid a $0.25 million cash dividend on June 29, 2006 to
+shareholders of record as of June 15, 2006. In addition, we incurred a short
+term note obligation to finance insurance premiums which increased cash flow by
+$0.74 million.
+
+As of March 31,
+2006, cash and cash equivalents totaled $7.72 million as compared to $8.62
+million as of March 31, 2005. Working capital as of March 31, 2006 was $8.04
+million as compared to $9.08 million as of March 31, 2005. The ratio of current
+assets to current liabilities was 2.70 to 1 as of March 31, 2006 as compared to
+3.31 to 1 as of March 31, 2005.
+
+Operations used
+$0.22 million in cash for the year ended March 31, 2006 as compared to providing
+$0.82 million cash for the year ended March 31, 2005. Cash flow from operations,
+in comparing the current period to the prior period, decreased by $1.04 million
+as a result of several factors. We experienced a $0.17 million decrease in net
+income. We had a cash flow decrease of $1.54 million from our trade receivables
+and a $0.40 million decrease in accounts receivable “asset held for sale”. We
+also had a $0.17 decrease in loan grants to registered representatives to help
+grow their businesses.
+
+Also comparing cash
+flow from operations for the year ended March 31, 2006 to the year ended March
+31, 2005, we experienced a $0.78 million cash flow increase from income taxes, a
+$0.33 million decrease from current payables in accounts payable and accrued
+expenses and a $0.74 million increase resulting from commission payables.
+
+Cash outflows from
+investing activities for the year ended March 31, 2006 comprised $0.65 million
+of which $0.41 million was for purchasing equipment as well as technology and
+leasehold improvements. Also, we had a $0.15 million cash outflow for an
+investment through a private placement.
+
+Finally, as part of
+our financing activities we paid a $0.12 million cash dividend on May 16, 2005
+to shareholders of record as of May 2, 2005, offset by $0.09 million received in
+financing debt for our insurance premiums.
+
+Cash disbursements
+for legal-related matters during the year ended March 31, 2007 totaled $2.62
+million including $1.72 million for legal fees relating to the Massachusetts
+Proceedings and $0.50 million for the initial payment pertaining to the
+settlement of the Massachusetts Proceedings. Subsequent to the March 31, 2007
+there will be at least an additional $0.50 million to be paid to the “eligible
+purchasers” of equity indexed annuities and/or the State of Massachusetts under
+the terms of the consent agreement. Management at this time does not foresee
+such future cash out flows exceeding $0.50 million that will impact our future
+cash position. Payments to eligible purchasers since December of 2006 have
+totaled $.04 million to the date of this Form 10-K. See Part I, Item 3. “Legal
+Proceedings”.
+
+Management believes,
+although there can be no assurances, that the current period net cash outflow
+--which reflects unusually burdensome expenditures to defend and settle the
+Massachusetts Proceedings --will not be indicative of future cash outflow
+trends. The scale of the financial damage resulting from the Massachusetts
+Proceedings has been atypical of legal proceedings that the Company has
+experienced to date and, in management’s estimation, will prove to be atypical
+of legal proceedings that may be expected to occur in the future. Whether or not
+management’s expectations will come to fruition may in no small measure depend
+on the degree to which we succeed, through a continually evolving and robust
+compliance regime, in assuring that the firm and its independent representatives
+operate in conformity
+
+Page 42
+
+INVESTORS CAPITAL HOLDINGS LTD -
+10-K
+
+Fiscal
+ Year Ended March 31, 2007
+
+with the many laws, rules and regulations pertaining to our broker-dealer
+and investment advisory operations.
+
+The unprecedented
+disbursements during the fiscal year ended March 31, 2007 associated with the
+Massachusetts Proceedings have had a significant negative impact on our
+brokerage firm's net capital ratio. The SEC Uniform Net Capital Rule (Rule
+15c3-1) requires that ICC, our broker-dealer subsidiary, maintain net capital of
+$100,000 and a ratio of aggregate indebtedness to net capital (a “net capital
+ratio”) not to exceed 15 to 1. Under the rule, indebtedness generally includes
+all money owed by a company, and net capital includes cash and assets that are
+easily converted into cash. SEC rules also prohibit "equity capital" (which,
+under the net capital rule, includes subordinated loans) from being withdrawn,
+cash dividends from being paid and other specified actions of similar effect
+from being taken, if, among other specified contingencies, the Company’s net
+capital ratio would exceed 10 to 1 or if we would have less than 120% of our
+minimum required net capital. As of March 31, 2007, ICC had net capital of $1.05
+million (i.e., an excess of $0.52 million) and a 7.59 to 1 net capital ratio as
+compared to net capital of approximately $0.96 million (i.e., an excess of $0.53
+million) and a 6.63 to 1to 1 net capital ratio as of March 31, 2006.
+
+In December 2006,
+ICH infused $1.3 million in capital to ICC to offset the cash drain resulting
+from the Massachusetts Proceedings and settlement. The Company's legal accrual
+increased considerably to $1.10 million as of March 31, 2007 from $0.43 million
+as of March 31, 2006 primarily as a result of the settlement of the
+Massachusetts Proceedings. The Company also had other various arbitrations filed
+against it that warranted a portion of the accrual increase.
+
+During the current
+period the increase in our legal accrual impacted ICC's net capital ratio and
+excess net capital. The Company does not consider this to be a trend and does
+not currently anticipate that similar accrual increases will be a recurring
+necessity. See Footnote 5 to our Consolidated Financial Statements.
+
+The Company
+currently has ample cash to cover additional accruals and disbursements
+resulting from these proceedings. Despite these legal proceedings, that
+increased our legal accrual, the Company remains focused on committing the
+resources necessary for continued growth.
+
+During the fiscal
+year ended March 31, 2006 in its former role as investment adviser to the
+Eastern Point Advisors Funds Trust family of mutual funds, Company disbursements
+to pay fund expenses that exceeded their respective caps averaged $0.08 million
+per quarter. As previously noted, the Company agreed to terminate its management
+contract with the Trust and, accordingly, the Company received a net cash flow
+infusion of $0.18 million for the year ended March 31, 2006 versus a $0.39
+million cash flow outlay for the year ended March 31, 2005. See Part I, Item 1 –
+“Retail Mutual Funds”
+
+For the year ended
+March 31, 2005, cash inflows from operating activities primarily came from net
+income, which contributed $0.62 million as well as the collection of $0.38
+million of accounts receivable and $0.59 million from current liabilities in
+accrued expenses and accounts payable. Cash flows decreased by $0.68 million
+primarily from $1.02 million in payments of income taxes. Cash flows also
+decreased by $0.19 million for payment of commissions and $0.18 million for
+loans to representatives to help them grow their business. Finally we had a cash
+outflow of $0.15 million to the NASD to pay a note in full.
+
+ICC made a business
+decision in the fiscal year ended March 31, 2003 to conclude an NASD
+investigation into supervisory procedures relating to the period of January,
+2000 through July, 2002. While we considered disputing the allegations in a
+formal proceeding, we estimated the cost of doing so to be prohibitive.
+Furthermore, we sought to avoid disruption of our operations. Accordingly, while
+neither admitting nor denying the allegations, we consented to a number of
+findings in order to resolve the matter in its initial stages. Repayment of the
+resulting settlement note to NASD did not have a material effect on cash flow at
+any time during the current period as the note was fully paid on August 19,
+2004. The Company has implemented and maintains an adequate system of
+supervisory and regulatory procedures and does not foresee any material
+deficiencies in the future in this regard.
+
+Page 43
+
+INVESTORS CAPITAL HOLDINGS LTD -
+10-K
+
+Fiscal
+ Year Ended March 31, 2007
+
+From investing
+activities we had cash outflows of $0.27 million for equipment and technology.
+As part of financing activities we had a cash flow decrease of $0.04 million.
+This was the result of a $0.07 million payment on a note to finance our
+insurance premiums offset by $0.03 million in proceeds from options being
+exercised.
+
+CONTRACTUAL OBLIGATIONS
+
+Payments Due by period
+
+Contractual
+ Obligations
+
+Total
+
+less than 1
+ year
+
+1-3 years
+
+3-5
+ years
+
+After 5
+ years
+
+Short- term loans and notes
+ payable
+1
+
+,
+
+lines of credit and other short-
+ term
+
+borrowings
+
+$
+ 838,358
+
+$
+ 838,358
+
+$ -
+
+$
+ -
+
+$
+ -
+
+Operating leases
+2
+
+2,128,151
+
+601,533
+
+ 1,202,506
+
+324,112
+
+-
+
+__________
+
+__________
+
+__________
+
+__________
+
+___________
+
+Total
+
+$
+ 2,966,509
+
+$
+ 1,439,891
+
+$
+ 1,202,506
+
+$ 324,112
+
+$
+ -
+
+1. Refer to
+Note 11 of the Notes to Consolidated Financial Statements for information
+regarding short- term loans and notes payable.
+
+2. Refer to
+Note 14 of the Notes to Consolidated Financial Statements for information
+regarding operating leases.

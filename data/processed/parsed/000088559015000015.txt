@@ -1,0 +1,2927 @@
+and Analysis of Financial Condition and Results of Operations
+28
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS
+INTRODUCTION
+The following Management’s
+
+Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) should be read in conjunction with the audited consolidated financial statements, and notes thereto, prepared in accordance with United States (“U.S.”) generally accepted accounting principles (“GAAP”) as of December 31, 2014 and 2013 and each of the three years in the period ended December 31, 2014 (the “2014 Financial Statements”).
+Additional information relating to the Company, including our Annual Report on Form 10-K for the fiscal year ended December 31, 2014 (the “2014 Form 10-K”), is available on SEDAR at www.sedar.com and on the U.S. Securities and Exchange Commission (the “SEC”) website at www.sec.gov.
+Unless otherwise indicated herein, the discussion and analysis contained in this MD&A is as of February 25, 2015.
+All dollar amounts are expressed in U.S. dollars, unless otherwise noted.
+OVERVIEW
+Valeant Pharmaceuticals International, Inc. (“we”, “us”, “our” or the “Company”) is a multinational, specialty pharmaceutical and medical device company that develops, manufactures, and markets a broad range of branded, generic and branded generic pharmaceuticals, over-the-counter (“OTC”) products, and medical devices (contact lenses, intraocular lenses, ophthalmic surgical equipment, and aesthetics devices), which are marketed directly or indirectly in over 100 countries. In the Developed Markets segment, we focus most of our efforts in the eye health, dermatology and neurology therapeutic classes. In the Emerging Markets segment, we focus primarily on branded generics, OTC products, and medical devices. We are diverse not only in our sources of revenue from our broad drug and medical device portfolio, but also among the therapeutic classes and geographies we serve.
+On August 5, 2013, we acquired Bausch & Lomb Holdings Incorporated (“B&L”), pursuant to an Agreement and Plan of Merger (the “Merger Agreement”) dated May 24, 2013 (the “B&L Acquisition”). B&L is a global eye health company that focuses primarily on the development, manufacture and marketing of eye health products, including contact lenses, contact lens care solutions, ophthalmic pharmaceuticals and ophthalmic surgical products. We believe we will continue to grow the B&L business due primarily to the expected growth of the overall eye health market and the introduction of new products. Further, we have substantially integrated the B&L business into our decentralized structure which has allowed us to realize operational efficiencies and cost synergies. For more information regarding the B&L Acquisition, see note 3 of notes to consolidated financial statements in Item 15 of this Form 10-K.
+Our strategy is to focus our business on core geographies and therapeutic classes that offer attractive growth opportunities while maintaining our lower selling, general and administrative cost model and decentralized operating structure. We have an established portfolio of durable products with a focus in the eye health and dermatology therapeutic areas. Further, we have completed numerous transactions over the past few years to expand our portfolio offering and geographic footprint, including, among others, the acquisitions of B&L and Medicis Pharmaceutical Corporation (“Medicis”), and we will continue to pursue value-added business development opportunities as they arise. The growth of our business is further augmented through our lower risk, output-focused research and development model, which allows us to advance certain development programs to drive future commercial growth, while minimizing our research and development expense. We believe this strategy will allow us to maximize both the growth rate and profitability of the Company and to enhance shareholder value.
+We measure our success through total shareholder return and, on that basis, as of February 18, 2015, the market price of our common shares on the New York Stock Exchange (“NYSE”) has increased approximately 550%, and the market price of our common shares on the Toronto Stock Exchange (“TSX”) has increased approximately 670%, since the Company’s (then named Biovail Corporation (“Biovail”)) acquisition of Valeant Pharmaceuticals International (“Valeant”) on September 28, 2010 (the “Merger”), as adjusted for the post-Merger special dividend of $1.00 per common share (the “post-Merger special dividend”).
+ACQUISITIONS AND DIVESTITURES
+We have completed several transactions in 2014, 2013, and 2012, including, among others, the following acquisitions and divestitures.
+29
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+
+Acquisition
+ Date
+Acquisitions of businesses and product rights
+
+2014
+
+PreCision Dermatology, Inc. (“PreCision”)
+
+July 2014
+Solta Medical, Inc. (“Solta Medical”)
+
+January 2014
+2013
+
+B&L
+
+August 2013
+Obagi Medical Products, Inc. (“Obagi”)
+
+April 2013
+Natur Produkt International, JSC (“Natur Produkt”)
+
+February 2013
+2012
+
+Medicis
+
+December 2012
+OraPharma Topco Holdings, Inc. (“OraPharma”)
+
+June 2012
+Certain assets of Gerot Lannach
+
+March 2012
+
+Divestiture
+ Date
+Divestitures
+
+2014
+
+Facial aesthetic fillers and toxins
+
+July 2014
+Metronidazole 1.3%
+
+July 2014
+Tretin-X® (tretinoin) cream and generic tretinoin gel and cream products
+
+July 2014
+2013
+
+Divestiture of certain skincare products sold in Australia
+
+October 2013
+2012
+
+Divestitures of 1% clindamycin and 5% benzoyl peroxide gel (“IDP-111”) and 5% fluorouracil cream (“5-FU”)
+
+February 2012
+For more information regarding our acquisitions and divestitures, see note 3 and note 4 of notes to consolidated financial statements in Item 15 of this Form 10-K.
+PRODUCTS IN DEVELOPMENT
+The following products, among others, are currently in development:
+•
+Envista® Toric is a one-piece hydrophobic acrylic toric intraocular lens (IOL). The lens is designed to minimize Posterior Capsular Opacification (PCO), a common post-surgical complication with IOLs that causes vision to become clouded post-surgery. The clinical study is ongoing.
+•
+Brimonidine tartrate 0.025% is being developed as an ocular redness reliever. Phase 2 studies have demonstrated fast onset and long-lasting efficacy, with low potential for rebound redness. The product is in Phase 3.
+•
+VesneoTM (latanoprostene bunod), a nitric-oxide donating prostaglandin, is being developed for the reduction of intraocular pressure (IOP) in patients with glaucoma or ocular hypertension. In September 2014, we announced positive top-line results from the pivotal Phase 3 studies. These studies met their primary endpoint and showed positive results on a number of secondary endpoints.
+•
+Lotemax® Gel Next Generation (loteprednol etabonate 0.38%), an ophthalmic steroid, is being developed for the reduction of inflammation and pain following cataract surgery. The product is in Phase 3.
+•
+Ultra Plus Toric and Multi-Focal contact lenses (Ultra Plus Powers) are made with a novel silicone hydrogel which allows more oxygen to the eyes for ocular health. These contact lenses contain a higher water content and have less dehydration as compared to our other lenses. We are expanding the power range of these contact lenses to provide these new lenses to more patients.
+•
+Biotrue® OneDay Toric is a daily disposable toric contact lens made from a polymer designed with a surface that resists dehydration and thus provides a constant water content. The clinical study is anticipated to commence in 2015.
+•
+IDP-118 is a fixed combination product with two different mechanisms of action for treating psoriasis. This project has completed Phase 2.
+30
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+•
+IDP-120 is a combination acne treatment anticipated to commence Phase 2 in 2015.
+•
+Emerade® is an adrenaline (epinephrine) auto-injector used for the emergency treatment of severe acute allergic reactions (anaphylaxis) to foods, medicines or insect stings. Emerade® is in the pre-Investigational New Drug Application (pre-IND) stage, and the clinical study is anticipated to commence in 2015.
+•
+Arestin® (life-cycle management) is an antibiotic treatment for periodontal (gum) disease. The product is in Phase 3.
+RESTRUCTURING AND INTEGRATION
+ In connection with the B&L and Medicis acquisitions, as well as other smaller acquisitions, we have implemented cost-rationalization and integration initiatives to capture operating synergies and generate cost savings across the Company. These measures included:
+•
+workforce reductions across the Company and other organizational changes;
+•
+closing of duplicative facilities and other site rationalization actions company-wide, including research and development facilities, sales offices and corporate facilities;
+•
+leveraging research and development spend; and
+•
+procurement savings.
+B&L Acquisition-Related Cost-Rationalization and Integration Initiatives
+The complementary nature of the Company and B&L businesses has provided an opportunity to capture significant operating synergies from reductions in sales and marketing, general and administrative expenses, and research and development. In total, we have identified greater than $900 million of cost synergies on an annual run rate basis that were substantially achieved by the end of 2014. This amount does not include revenue synergies or the benefits of incorporating B&L’s operations into the Company’s corporate structure. We estimate that we will incur total costs of approximately $600 million (excluding the charges of $52.8 million described in note 5 of notes to consolidated financial statements in Item 15 of this Form 10-K) in connection with these cost-rationalization and integration initiatives, which were substantially completed by the end of 2014.
+Medicis Acquisition-Related Cost-Rationalization and Integration Initiatives
+The complementary nature of the Company and Medicis businesses has provided an opportunity to capture significant operating synergies from reductions in sales and marketing, general and administrative expenses, and research and development. In total, we realized over $300 million of cost synergies on a run rate basis as of December 31, 2013. We estimate that we will incur total costs of approximately $200 million (excluding the charges of $77.3 million described in note 5 of notes to consolidated financial statements in Item 15 of this Form 10-K) in connection with these cost-rationalization and integration initiatives, which were substantially completed by the end of 2013. However, additional costs have been incurred in 2014, and we expect to incur certain costs during the next three months.
+See note 5 of notes to consolidated financial statements in Item 15 of this Form 10-K for detailed information summarizing the major components of costs incurred in connection with our B&L and Medicis acquisition-related initiatives through December 31, 2014.
+U.S. HEALTHCARE REFORM
+In March 2010, the Patient Protection and Affordable Care Act (the “Act”) was enacted in the U.S. The Act contains several provisions that impact our business. Certain provisions of the Act became effective in 2010 or 2011, while other provisions have or will become effective on subsequent dates. The principal provisions affecting our industry provide for the following: (i) an increase in the minimum Medicaid rebate to states participating in the Medicaid program from 15.1% to 23.1% on covered drugs (effective January 1, 2010); (ii) the extension of the Medicaid rebates to Managed Care Organizations that dispense drugs to Medicaid beneficiaries (effective March 23, 2010); (iii) the expansion of the 340(B) Public Health Services drug pricing program, which provides outpatient drugs at reduced rates, to include additional hospitals, clinics, and healthcare centers (effective January 1, 2010); and (iv) a fee payable to the federal government based on our prior-calendar-year share relative to other companies of branded prescription drug sales to specified government programs (effective January 1, 2011, with the total fee to be paid each year by the pharmaceutical industry increasing annually through 2018).
+31
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+In addition to the above, in 2013: (i) federal subsidies began to be phased in for brand-name prescription drugs filled in the Medicare Part D cover gap and (ii) the law requires the medical device industry to subsidize healthcare reform in the form of a 2.3% excise tax on U.S. sales of most medical devices. In 2014, the Act’s private health insurance exchanges began to operate along with the mandate on individuals to purchase health insurance. The Act also allows states to expand Medicaid coverage with most of the expansion’s cost paid for by the federal government.
+The Act did not have a material impact on our financial condition or results of operations in 2014, 2013 or 2012. In 2014, 2013 and 2012, we incurred costs of $9.3 million, $3.1 million and $1.8 million, respectively, related to the annual fee assessed on prescription drug manufacturers and importers that sell branded prescription drugs to specified U.S. government programs (e.g., Medicare and Medicaid). We also incurred costs of $42.8 million, $28.8 million and $9.8 million on Medicare Part D utilization incurred by beneficiaries whose prescription drug costs cause them to be subject to the Medicare Part D coverage gap (i.e., the “donut hole”) in 2014, 2013 and 2012, respectively. Under the legislation, the total cost incurred by us for the medical device excise tax during 2014 and 2013 was $6.0 million and $4.2 million, respectively.
+In July 2014, the Internal Revenue Service issued final regulations related to the branded pharmaceutical drug annual fee pursuant to the Act. Under the final regulations, an entity’s obligation to pay the annual fee is triggered by qualifying sales in the current year, rather than the liability being triggered upon the first qualifying sale of the following year. We adopted this guidance in the third quarter of 2014, and it did not have a material impact on our financial position or results of operations.
+The financial impact of the Act may be affected by certain additional developments over the next few years, including pending implementation guidance and certain healthcare reform proposals.
+SELECTED FINANCIAL INFORMATION
+The following table provides selected financial information for each of the last three years:
+
+Years Ended December 31,
+
+Change
+
+2014
+
+2013
+
+2012
+
+2013 to 2014
+
+2012 to 2013
+($ in millions, except per share data)
+
+$
+
+$
+
+$
+
+$
+
+%
+
+$
+
+%
+Revenues
+
+8,263.5
+
+5,769.6
+
+3,480.4
+
+2,493.9
+
+43
+
+2,289.2
+
+66
+Net income (loss) attributable to Valeant Pharmaceuticals International, Inc.
+
+913.5
+
+(866.1
+)
+
+(116.0
+)
+
+1,779.6
+
+NM
+
+(750.1
+)
+
+647
+Earnings (loss) per share attributable to Valeant Pharmaceuticals International, Inc.:
+
+Basic
+
+2.72
+
+(2.70
+)
+
+(0.38
+)
+
+5.42
+
+NM
+
+(2.32
+)
+
+611
+Diluted
+
+2.67
+
+(2.70
+)
+
+(0.38
+)
+
+5.37
+
+NM
+
+(2.32
+)
+
+611
+____________________________________
+NM — Not meaningful
+Financial Performance
+Changes in Revenues
+Total revenues increased
+$2.5 billion
+, or
+43%
+, to
+$8.3 billion
+ in 2014, primarily due to incremental product sales revenue of $2,279.9 million, in the aggregate, from all 2013 acquisitions and all 2014 acquisitions and an increase of $30.6 million in other revenues, partially offset by (i) a negative impact from divestitures, discontinuations and supply interruptions of $322.8 million in 2014 and (ii) a negative foreign currency exchange impact on the existing business of $164.5 million in 2014. Excluding the items described above, we realized incremental product sales revenue of $670.7 million in 2014 related to growth from the remainder of the existing business, partially offset by the impact of generic competition in the Developed Markets segment.
+Total revenues increased
+$2.3 billion
+, or
+66%
+, to
+$5.8 billion
+ in 2013, primarily due to incremental product sales revenue of $2,466.6 million, in the aggregate, from all 2012 acquisitions and all 2013 acquisitions, partially offset by (i) a decrease in product sales in the Developed Markets segment of $293.9 million, in the aggregate, due to the impact of generic competition, (ii) a negative impact from divestitures, discontinuations and supply interruptions of $67.8 million in 2013, (iii) a decrease in alliance and royalty revenue of $53.0 million, primarily related to the $45.0 million milestone payment received from GlaxoSmithKline (“GSK”) in connection with the launch of Potiga® recognized in the second quarter of 2012 that did not similarly occur in 2013, (iv) a negative foreign currency exchange impact on the existing business of $24.4 million in 2013, and (v) a decrease in service revenue of $9.5 million in 2013, primarily due to lower contract manufacturing revenue from the Laval, Quebec
+32
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+facility. Excluding the items described above, we realized incremental product sales revenue of $271.2 million in 2013 related to growth from the remainder of the existing business.
+The above changes in revenues are further described below under “Results of Operations — Revenues by Segment”.
+As is customary in the pharmaceutical industry, our gross product sales are subject to a variety of deductions in arriving at reported net product sales. Provisions for these deductions are recorded concurrently with the recognition of gross product sales revenue and include cash discounts and allowances, chargebacks, and distribution fees, which are paid to direct customers, as well as rebates and returns, which can be paid to both direct and indirect customers. Provision balances relating to estimated amounts payable to direct customers are netted against accounts receivable, and balances relating to indirect customers are included in accrued liabilities. The provisions recorded to reduce gross product sales to net product sales for each of the last three years were as follows:
+
+Years Ended December 31,
+
+2014
+
+2013
+
+2012
+($ in millions)
+
+$
+
+$
+
+$
+Gross product sales
+
+11,593.9
+
+7,849.8
+
+4,067.5
+Provisions to reduce gross product sales to net product sales
+
+3,490.3
+
+2,209.5
+
+778.9
+Net product sales
+
+8,103.6
+
+5,640.3
+
+3,288.6
+Percentage of provisions to gross sales
+
+30
+%
+
+28
+%
+
+19
+%
+Provisions as a percentage of gross sales increased to
+
+30%
+
+in
+
+2014
+
+from
+
+28%
+
+in
+
+2013
+.
+
+The increase was driven primarily by higher provisions for returns and rebates, including the new co-pay assistance programs for launch products including Jublia®, Luzu®, and Retin-A Micro® Microsphere 0.08% (“RAM 0.08%”), as well as increased sales of generic products and Wellbutrin XL® (to the U.S. government), which have higher rebate percentages.
+Provisions as a percentage of gross sales increased to
+
+28%
+ in 2013 from
+19%
+ in 2012. The increase was driven primarily by higher provisions from the acquisition of Medicis products, including Solodyn®, Zyclara® and Ziana®, which have higher rebate percentages.
+Changes in Earnings Attributable to Valeant Pharmaceuticals International, Inc.
+Net income attributable to Valeant Pharmaceuticals International, Inc. was
+$913.5 million
+ in 2014, compared with net loss attributable to Valeant Pharmaceuticals International, Inc. of
+$866.1 million
+ in 2013, reflecting the following factors: (i) an increase in contribution (product sales revenue less cost of goods sold, exclusive of amortization and impairments of finite-lived intangible assets) of
+$2,113.4 million
+ in 2014, (ii) higher impairment charges in 2013 (primarily driven by the impairment charge for ezogabine/retigabine) and (iii) a net gain related to the divestiture of facial aesthetic fillers and toxins assets in 2014, partially offset by (iv) an increase in selling, general and administrative expenses, (v) an increase in the provision for income taxes and (iv) an increase in non-operating expense, net which included increases in interest expense, loss on extinguishment of debt, and foreign exchange and other which were partially offset by the net gain recognized in connection with the sale by PS Fund 1, LLC (“PS Fund 1”) of the Allergan Inc. (“Allergan”) shares.
+Net loss attributable to Valeant Pharmaceuticals International, Inc. increased
+$750.1 million
+, to
+$866.1 million
+ in 2013, reflecting the following factors: (i) an increase in operating expenses (driven largely by higher impairments charges in 2013) and (ii) an increase in non-operating expenses (driven by an increase in interest expense in 2013), partially offset by (iii) an increase in contribution (product sales revenue less cost of goods sold, exclusive of amortization and impairments of finite-lived intangible assets) of
+$1,410.5 million
+ in 2013.
+The above changes are further described below under “Results of Operations”.
+Net (Loss) Income Attributable to Noncontrolling Interest
+Net loss attributable to noncontrolling interest was
+$1.3 million
+ in 2014 and net income attributable to noncontrolling interest was
+$2.5 million
+ in 2013. Net (loss) income attributable to noncontrolling interest is primarily related to the performance of joint ventures acquired in connection with the B&L Acquisition.
+RESULTS OF OPERATIONS
+Reportable Segments
+33
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+We have two operating and reportable segments: (i) Developed Markets, and (ii) Emerging Markets. The following is a brief description of our segments as of December 31, 2014:
+
+•
+Developed Markets
+ consists of (i) sales in the U.S. of pharmaceutical products, OTC products, and medical device products, as well as alliance and contract service revenues, in the areas of eye health, dermatology and podiatry, aesthetics, and dentistry, (ii) sales in the U.S. of pharmaceutical products indicated for the treatment of neurological and other diseases, as well as alliance revenue from the licensing of various products we developed or acquired, and (iii) pharmaceutical products, OTC products, and medical device products sold in Canada, Australia, New Zealand, Western Europe and Japan.
+•
+Emerging Markets
+ consists of branded generic pharmaceutical products and branded pharmaceuticals, OTC products, and medical device products. Products are sold primarily in Central and Eastern Europe (primarily Poland and Russia), Asia, Latin America (Mexico, Brazil, and Argentina and exports out of Mexico to other Latin American markets), Africa and the Middle East.
+Revenues By Segment
+Our primary sources of revenues are the sale of pharmaceutical products, OTC products, and medical devices. The following table displays revenues by segment for each of the last three years, the percentage of each segment’s revenues compared with total revenues in the respective year, and the dollar and percentage change in the dollar amount of each segment’s revenues. Percentages may not sum due to rounding.
+
+Years Ended December 31,
+
+Change
+
+2014
+
+2013
+
+2012
+
+2013 to 2014
+
+2012 to 2013
+($ in millions)
+
+$
+
+%
+
+$
+
+%
+
+$
+
+%
+
+$
+
+%
+
+$
+
+%
+Developed Markets
+
+6,167.1
+
+75
+
+4,293.2
+
+74
+
+2,502.3
+
+72
+
+1,873.9
+
+44
+
+1,790.9
+
+72
+Emerging Markets
+
+2,096.4
+
+25
+
+1,476.4
+
+26
+
+978.1
+
+28
+
+620.0
+
+42
+
+498.3
+
+51
+Total revenues
+
+8,263.5
+
+100
+
+5,769.6
+
+100
+
+3,480.4
+
+100
+
+2,493.9
+
+43
+
+2,289.2
+
+66
+Total revenues increased
+$2.5 billion
+, or
+43%
+, to
+$8.3 billion
+ in 2014 primarily due to growth from acquisitions, including the B&L Acquisition. The remaining growth in 2014 reflected both price and volume, with slightly more than half of the growth from price. In the Developed Markets, the majority of growth was driven by price, and in the Emerging Markets, the growth was driven almost entirely by volume. The growth was mainly attributable to the effect of the following factors:
+Developed Markets segment
+:
+•
+the incremental product sales revenue of $1,699.1 million, in the aggregate, from all 2013 acquisitions and all 2014 acquisitions, primarily from (i) the 2013 acquisition of B&L (driven by Ocuvite®/PreserVision®, Lotemax®, ReNu Multiplus®, and Biotrue® MultiPurpose Solution product sales) and (ii) the 2014 acquisitions of Solta Medical (mainly driven by Thermage CPT® system product sales) and PreCision (mainly driven by Clindagel® product sales); and
+•
+an increase in other revenues of $22.6 million in 2014, primarily related to higher royalty revenue.
+Those factors were partially offset by:
+•
+a negative impact from divestitures, discontinuations and supply interruptions of $262.5 million in 2014, primarily driven by a decrease of $173.6 million related to the divestiture in the third quarter of 2014 of facial aesthetic fillers and toxins, as well as the discontinuation of Maxair® and the divestiture of Buphenyl® in 2013; and
+•
+a negative foreign currency exchange impact on the existing business of $59.7 million in 2014 due to the impact of a strengthening of the U.S. dollar against certain currencies, including the Canadian dollar, Japanese yen, and Australian dollar.
+Excluding the items described above, we realized incremental product sales revenue from the remainder of the existing business of $474.4 million in 2014. The growth reflected (1) higher sales of (i) orphan products (Syprine® and Xenazine®), (ii) Targretin®, (iii) Jublia®, and (iv) Wellbutrin XL® (U.S.) and (2) higher sales from recent product launches, including the launches of RAM 0.08% and Luzu®, partially offset by a decrease in product sales of $167.8 million, in the aggregate, due to generic competition. The decrease from generic competition related to a decline in sales of the Vanos®, Retin-A Micro® (excluding RAM 0.08%), and Zovirax® franchises and Wellbutrin® XL (Canada). We anticipate a continuing decline in sales of the Vanos® franchise and Wellbutrin® XL (Canada) due to continued generic erosion. However, the rate
+34
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+of decline is expected to decrease in the future, and these brands are expected to represent a declining percentage of total revenues primarily due to anticipated growth in other parts of our business and recent acquisitions.
+Emerging Markets segment
+:
+•
+the incremental product sales revenue of $580.8 million (which includes a negative foreign currency exchange impact of $22.3 million), in the aggregate, from all 2013 acquisitions and all 2014 acquisitions, primarily from the 2013 acquisition of B&L (driven by ReNu Multiplus®, Ocuvite®, and ArtelacTM product sales) and the 2014 acquisition of Solta Medical (mainly driven by Thermage CPT® system product sales).
+This factor was partially offset by:
+•
+a negative foreign currency exchange impact on the existing business of $104.8 million in 2014 due to the impact of a strengthening of the U.S. dollar against certain currencies, including the Russian ruble; and
+•
+a negative impact from divestitures, discontinuations and supply interruptions of $60.3 million in 2014, primarily from Eastern Europe and Brazil.
+Excluding the items described above, we realized incremental product sales revenue from the remainder of the existing business of $196.3 million in 2014. The growth reflected higher sales in Eastern Europe, Middle East and North Africa, Southeast Asia and Mexico.
+Total revenues increased
+$2.3 billion
+, or
+66%
+, to
+$5.8 billion
+ in 2013, mainly attributable to the effect of the following factors:
+Developed Markets segment
+:
+•
+the incremental product sales revenue of $2,051.0 million (which includes a negative foreign currency exchange impact of $12.5 million), in the aggregate, from all 2012 acquisitions and all 2013 acquisitions, primarily from (i) the 2012 acquisitions of Medicis (mainly driven by Solodyn®, Restylane®, Dysport®, Vanos®, Ziana® and Perlane® product sales) and OraPharma (mainly driven by Arestin® product sales), and (ii) the 2013 acquisitions of B&L (driven by Lotemax® Gel, PreserVision® and SofLens® Daily Disposable Contact Lenses product sales) and Obagi (mainly driven by Nu-Derm® and Obagi-C® product sales).
+This factor was partially offset by:
+•
+decrease in product sales of $293.9 million in 2013, primarily related to a decline in sales of the Zovirax® franchise, Retin-A Micro®, BenzaClin® and Cesamet® due to generic competition;
+•
+a decrease in alliance and royalty revenue of $59.8 million, primarily related to the $45.0 million milestone payment received from GSK in connection with the launch of Potiga® recognized in the second quarter of 2012 that did not similarly occur in 2013;
+•
+a negative impact from divestitures, discontinuations and supply interruptions of $44.8 million in 2013. The largest contributors were the discontinuation of Dermaglow® and the divestitures of certain brands sold primarily in Australia;
+•
+a negative foreign currency exchange impact on the existing business of $19.9 million in 2013; and
+•
+a decrease in service revenue of $5.1 million in 2013, primarily due to lower contract manufacturing revenue from the Laval, Quebec facility.
+Excluding the items described above, we realized incremental product sales revenue from the remainder of the existing business of $163.4 million in 2013, driven by growth of the core dermatology brands, including CeraVe® and Acanya®. The growth in 2013 was driven primarily by price.
+Emerging Markets segment
+:
+•
+the incremental product sales revenue of $415.6 million (which includes a negative foreign currency exchange impact of $9.7 million), in the aggregate, from all 2012 acquisitions and all 2013 acquisitions, primarily from (i) the 2012 acquisition of certain assets of Gerot Lannach and (ii) the 2013 acquisitions of B&L (driven by ReNu Multiplus®, SofLens® and SofLens® Daily Disposable Contact Lenses product sales) and Natur Produkt.
+This factor was partially offset by:
+35
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+•
+a negative impact from divestitures, discontinuations and supply interruptions of $23.0
+
+million in 2013; and
+•
+a negative foreign currency exchange impact on the existing business of $4.5 million in 2013.
+Excluding the items described above, we realized incremental product sales revenue from the remainder of the existing business of $107.8 million in 2013 driven by growth in Poland and Russia. The main driver of this growth was volume.
+Segment Profit
+Segment profit is based on operating income after the elimination of intercompany transactions. Certain costs, such as restructuring and acquisition-related costs, in-process research and development impairments and other charges and other (income) expense, are not included in the measure of segment profit, as management excludes these items in assessing segment financial performance. In addition, a portion of share-based compensation is not allocated to segments, since the amount of such expense depends on company-wide performance rather than the operating performance of any single segment.
+The following table displays profit by segment for each of the last three years, the percentage of each segment’s profit compared with corresponding segment revenues in the respective year, and the dollar and percentage change in the dollar amount of each segment’s profit. Percentages may not add due to rounding.
+
+Years Ended December 31,
+
+Change
+
+2014
+
+2013
+
+2012
+
+2013 to 2014
+
+2012 to 2013
+($ in millions)
+
+$
+
+%
+(1)
+
+$
+
+%
+(1)
+
+$
+
+%
+(1)
+
+$
+
+%
+
+$
+
+%
+Developed Markets
+
+2,019.7
+
+33
+
+573.2
+
+13
+
+815.9
+
+33
+
+1,446.5
+
+252
+
+(242.7
+)
+
+(30)
+Emerging Markets
+
+337.3
+
+16
+
+93.0
+
+6
+
+69.0
+
+7
+
+244.3
+
+263
+
+24.0
+
+35
+Total segment profit
+
+2,357.0
+
+29
+
+666.2
+
+12
+
+884.9
+
+25
+
+1,690.8
+
+254
+
+(218.7
+)
+
+(25)
+____________________________________
+(1) — Represents profit as a percentage of the corresponding revenues.
+Total segment profit increased
+$1.7 billion
+, or
+254%
+, to
+$2.4 billion
+ in 2014, mainly attributable to the effect of the following factors:
+Developed Markets segment
+:
+•
+an increase in contribution of $1,140.2 million, in the aggregate, from all 2013 acquisitions and all 2014 acquisitions, primarily from the product sales of B&L, Solta Medical and PreCision, including higher expenses for acquisition accounting adjustments related to inventory of $28.8 million, in the aggregate, in 2014; and
+•
+a favorable impact of $307.4 million related to the existing business acquisition accounting adjustments related to inventory in 2013 that did not similarly occur in 2014.
+Those factors were partially offset by:
+•
+a decrease in contribution related to divestitures, discontinuations and supply interruptions of $214.2 million in 2014, primarily driven by a decrease in contribution of $149.0 million related to the divestiture of facial aesthetic fillers and toxins in the third quarter of 2014;
+•
+an increase in operating expenses (including amortization and impairments of finite-lived intangible assets) of $202.2 million in 2014 primarily due to the acquisitions of new businesses within the segment, partially offset by the impairment charge of $551.6 million related to ezogabine/retigabine in the third quarter of 2013; and
+•
+a negative foreign currency exchange impact on the existing business contribution of $45.4 million in 2014 due to the impact of a strengthening of the U.S. dollar against certain currencies, including the Canadian dollar, Japanese yen, and Australian dollar.
+Excluding the items described above, we realized incremental contribution from product sales from the remainder of the existing business of $434.4 million in 2014, driven by (1) higher sales of (i) orphan products (Syprine® and Xenazine®), (ii) Targretin®, (iii) Jublia®, and (iv) Wellbutrin XL® (U.S.) and (2) higher sales from recent product launches, including the launches of RAM 0.08% and Luzu®, partially offset by a decrease in contribution of $160.2 million related to a decline in sales of the Vanos®, Retin-A Micro® (excluding RAM 0.08%), and Zovirax® franchises and Wellbutrin® XL (Canada) as a result of the continued impact of generic competition.
+36
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+Emerging Markets segment
+:
+•
+an increase in contribution of $378.6 million, in the aggregate, from all 2013 acquisitions and all 2014 acquisitions, primarily from the sale of B&L and Solta Medical products; and
+•
+a favorable impact of $65.3 million related to the existing business acquisition accounting adjustments related to inventory in 2013 that did not similarly occur in 2014.
+Those factors were partially offset by:
+•
+an increase in operating expenses (including amortization and impairments of finite-lived intangible assets) of $250.3 million in 2014, primarily associated with the acquisitions of new businesses within the segment;
+•
+a negative foreign currency exchange impact on the existing business contribution of $65.0 million in 2014 due to the impact of a strengthening of the U.S. dollar against certain currencies, including the Russian ruble; and
+•
+a decrease in contribution related to divestitures, discontinuations and supply interruptions of $38.2 million in 2014.
+Excluding the items described above, we realized incremental contribution from product sales from the remainder of the existing business of $149.2 million in 2014. The growth reflected higher sales in Eastern Europe, Middle East and North Africa, Southeast Asia and Mexico.
+Total segment profit decreased
+$218.7 million
+, or
+25%
+, to
+$666.2 million
+ in 2013, mainly attributable to the effect of the following factors:
+Developed Markets segment
+:
+•
+an increase in contribution of $1,278.5 million, in the aggregate, from all 2012 acquisitions and all 2013 acquisitions, primarily from the product sales of Medicis, B&L, Obagi and OraPharma, including higher expenses for acquisition accounting adjustments related to inventory of $285.6
+
+million, in the aggregate; and
+•
+a favorable impact of $54.1
+
+million related to the existing business acquisition accounting adjustments related to inventory in 2012 that did not similarly occur in 2013.
+Those factors were more than offset by:
+•
+an increase in operating expenses (including amortization and impairments of finite-lived intangible assets) of $1,333.6 million in 2013, primarily due to an impairment charge of $551.6 million related to ezogabine/retigabine in the third quarter of 2013 and the acquisitions of new businesses within the segment. See note 6 to the 2014 Financial Statements for additional information regarding the ezogabine/retigabine impairment;
+•
+a decrease in contribution of $286.7
+
+million in 2013, primarily related to the lower sales of the Zovirax® franchise, Retin-A Micro®, BenzaClin® and Cesamet® as a result of the continued impact of generic competition;
+•
+alliance revenue of $45.0 million recognized in the second quarter of 2012, related to the milestone payment received from GSK in connection with the launch of Potiga® that did not similarly occur in 2013;
+•
+a decrease in contribution of $39.6
+
+million in 2013, primarily related to divestitures, discontinuations and supply interruptions; and
+•
+a negative foreign currency exchange impact on the existing business contribution of $14.3 million in 2013.
+Excluding the items described above, we realized incremental contribution from product sales from the remainder of the existing business of $155.2 million, driven by growth of the core dermatology brands, including CeraVe® and Acanya®.
+Emerging Markets segment
+:
+•
+an increase in contribution of $201.5 million, in the aggregate, from all 2012 acquisitions and all 2013 acquisitions, primarily from the sale of B&L, Natur Produkt and Gerot Lannach products, including higher expenses for acquisition accounting adjustments related to inventory of $62.1
+
+million, in the aggregate; and
+•
+an increase in alliance contribution of $6.1 million in 2013.
+Those factors were partially offset by:
+37
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+•
+an increase in operating expenses (including amortization and impairments of finite-lived intangible assets) of $240.0
+
+million in 2013, primarily associated with the acquisitions of new businesses within the segment;
+•
+a decrease in contribution of $12.0 million in 2013 related to divestitures, discontinuations and supply interruptions; and
+•
+a negative foreign currency exchange impact on the existing business contribution of $2.4
+
+million in 2013.
+Excluding the items described above, we realized incremental contribution from product sales from the remainder of the existing business of $70.9 million in 2013.
+Operating Expenses
+The following table displays the dollar amount of each operating expense category for each of the last three years, the percentage of each category compared with total revenues in the respective year, and the dollar and percentage changes in the dollar amount of each category. Percentages may not sum due to rounding.
+
+Years Ended December 31,
+
+Change
+
+2014
+
+2013
+
+2012
+
+2013 to 2014
+
+2012 to 2013
+($ in millions)
+
+$
+
+%
+(1)
+
+$
+
+%
+(1)
+
+$
+
+%
+(1)
+
+$
+
+%
+
+$
+
+%
+Cost of goods sold (exclusive of amortization and impairments of finite-lived intangible assets shown separately below)
+
+2,196.2
+
+27
+
+1,846.3
+
+32
+
+905.1
+
+26
+
+349.9
+
+19
+
+941.2
+
+104
+Cost of other revenues
+
+58.4
+
+1
+
+58.8
+
+1
+
+64.6
+
+2
+
+(0.4
+)
+
+(1)
+
+(5.8
+)
+
+(9)
+Selling, general and administrative
+
+2,026.3
+
+25
+
+1,305.2
+
+23
+
+756.1
+
+22
+
+721.1
+
+55
+
+549.1
+
+73
+Research and development
+
+246.0
+
+3
+
+156.8
+
+3
+
+79.1
+
+2
+
+89.2
+
+57
+
+77.7
+
+98
+Amortization and impairments of finite-lived intangible assets
+
+1,550.7
+
+19
+
+1,902.0
+
+33
+
+928.9
+
+27
+
+(351.3
+)
+
+(18)
+
+973.1
+
+105
+Restructuring, integration and other costs
+
+381.7
+
+5
+
+462.0
+
+8
+
+267.1
+
+8
+
+(80.3
+)
+
+(17)
+
+194.9
+
+73
+In-process research and development impairments and other charges
+
+41.0
+
+—
+
+153.6
+
+3
+
+189.9
+
+5
+
+(112.6
+)
+
+(73)
+
+(36.3
+)
+
+(19)
+Acquisition-related costs
+
+6.3
+
+—
+
+36.4
+
+1
+
+78.6
+
+2
+
+(30.1
+)
+
+(83)
+
+(42.2
+)
+
+(54)
+Acquisition-related contingent consideration
+
+(14.1
+)
+
+—
+
+(29.2
+)
+
+(1)
+
+(5.3
+)
+
+—
+
+15.1
+
+(52)
+
+(23.9
+)
+
+451
+Other (income) expense
+
+(268.7
+)
+
+(3)
+
+287.2
+
+5
+
+136.6
+
+4
+
+(555.9
+)
+
+NM
+
+150.6
+
+110
+Total operating expenses
+
+6,223.8
+
+75
+
+6,179.1
+
+107
+
+3,400.7
+
+98
+
+44.7
+
+1
+
+2,778.4
+
+82
+____________________________________
+(1) — Represents the percentage for each category as compared to total revenues.
+NM — Not meaningful
+Cost of Goods Sold (exclusive of amortization and impairments of finite-lived intangible assets)
+Cost of goods sold includes: manufacturing and packaging; the cost of products we purchase from third parties; royalty payments we make to third parties; depreciation of manufacturing facilities and equipment; and lower of cost or market adjustments to inventories. Cost of goods sold excludes the amortization and impairments of finite-lived intangible assets described separately below under “— Amortization and Impairments of Finite-Lived Intangible Assets”.
+Cost of goods sold increased
+$349.9 million
+, or
+19%
+, to
+$2.2 billion
+ in 2014. As a percentage of revenue, Cost of goods sold decreased to
+27%
+ in 2014 as compared to
+32%
+ in 2013, primarily due to:
+•
+the impact of lower acquisition accounting adjustments of $345.1 million in 2014, primarily related to the fair value step-up for acquired inventory from the B&L and Medicis acquisitions which was expensed in 2013 that did not similarly occur in 2014; and
+•
+a favorable impact from product mix driven by new product launches, including Jublia®, Luzu®, and RAM 0.08%. These products have a higher gross profit margin than our overall margin.
+Those factors were partially offset by:
+•
+an unfavorable impact from product mix related to (i) the product portfolio acquired as part of the B&L Acquisition and (ii) decreased sales of certain products in the Developed Markets segment due to generic competition (as described above) which have a higher gross profit margin than our overall margin.
+38
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+Cost of goods sold increased
+$941.2 million
+, or
+104%
+, to
+$1.8 billion
+ in 2013. As a percentage of revenue, Cost of goods sold increased to
+32%
+ in 2013 as compared to
+26%
+ in 2012, primarily due to:
+•
+the impact of higher acquisition accounting adjustments of $293.6 million in 2013, primarily related to the fair value step-up for acquired inventories that were sold in 2013;
+•
+an unfavorable impact from product mix related to the product portfolio acquired as part of the B&L Acquisition;
+•
+decreased sales of the Zovirax® franchise, Retin-A Micro®, BenzaClin® and Cesamet® which have a higher gross profit margin than our overall margin; and
+•
+higher sales of Xenazine® which has a lower margin than our overall margin.
+These factors were partially offset by:
+•
+a favorable impact from product mix related to the Medicis product portfolio; and
+•
+the benefits realized from worldwide manufacturing rationalization initiatives primarily from Latin America and Canada.
+Selling, General and Administrative Expenses
+Selling, general and administrative expenses include: employee compensation costs associated with sales and marketing, finance, legal, information technology, human resources, and other administrative functions; outside legal fees and consultancy costs; product promotion expenses; overhead and occupancy costs; depreciation of corporate facilities and equipment; and other general and administrative costs.
+Selling, general and administrative expenses increased
+$721.1 million
+, or
+55%
+, to
+$2.0 billion
+ in 2014, primarily due to increased expenses in our Developed Markets segment ($531.2 million) and Emerging Markets segment ($181.4 million), primarily driven by the acquisitions of new businesses within each segment, including the B&L Acquisition, partially offset by the realization of cost synergies.
+As a percentage of revenue, Selling, general and administrative expenses increased to
+25%
+ in 2014 as compared to
+23%
+ in 2013, primarily due to (i) incremental costs incurred from the full year impact of expenses related to the B&L Acquisition, (ii) higher expenses related to recent and upcoming product launches, including the recent launches of Jublia®, Luzu®, and RAM 0.08%, (iii) expenses associated with sales force expansion for the dermatology and contact lens businesses, and (iv) higher share-based compensation expenses. See note 15 to the 2014 Financial Statements for additional information related to share-based compensation.
+Selling, general and administrative expenses increased
+$549.1 million
+, or
+73%
+, to
+$1.3 billion
+ in 2013, primarily due to (i) increased expenses in our Developed Markets segment ($367.8 million) and Emerging Markets segment ($155.2 million), primarily driven by the acquisitions of new businesses within each segment, including the B&L and Medicis acquisitions, partially offset by the realization of cost synergies and (ii) net incremental compensation expense of $15.5 million in the second quarter of 2013 related to certain equity awards held by current non-management directors which were modified from units settled in common shares to units settled in cash. See note 15 to the 2014 Financial Statements for additional information.
+As a percentage of revenue, Selling, general and administrative expenses increased to
+23%
+ in 2013 as compared to
+22%
+ in 2012, primarily due to timing of costs incurred and realization of synergies from the B&L Acquisition. The increase in 2013 was also impacted by the net incremental compensation expense of $15.5 million recognized in the second quarter of 2013 (equates to 0.3% of 2013 revenue) described in the preceding paragraph.
+Research and Development Expenses
+Expenses related to research and development programs include: employee compensation costs; overhead and occupancy costs; depreciation of research and development facilities and equipment; clinical trial costs; clinical manufacturing and scale-up costs; and other third-party development costs.
+Research and development expenses increased
+$89.2 million
+, or
+57%
+, to
+$246.0 million
+ in 2014, primarily due to higher spending on programs acquired in the B&L Acquisition, including VesneoTM (latanoprostene bunod), Lotemax® life cycle programs, and brimonidine, partially offset by lower spending on Jublia® (efinaconazole 10% topical solution). In June 2014, the FDA approved the NDA for Jublia®, and the product was launched.
+39
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+Research and development expenses increased
+$77.7 million
+, or
+98%
+, to
+$156.8 million
+ in 2013, primarily due to spending on programs acquired in the B&L Acquisition, including latanoprostene bunod and the next generation silicone hydrogel lens (Bausch + Lomb Ultra®), partially offset by lower spending on ezogabine/retigabine reflecting the U.S. launch in the second quarter of 2012.
+See note 3 to the 2014 Financial Statements for additional information relating to the B&L Acquisition.
+Amortization and Impairments of Finite-Lived Intangible Assets
+Amortization and impairments of finite-lived intangible assets decreased
+$351.3 million
+, or
+18%
+, to
+$1.6 billion
+ in 2014, primarily due to (i) a decrease of $631.0 million for ezogabine/retigabine due to the impairment charge of $551.6 million recognized in the third quarter of 2013 (which also resulted in lower amortization expense in 2014), (ii) a decrease in amortization of the divested facial aesthetic fillers and toxins assets which were divested in July 2014 of $43.7 million, (iii) impairment charges of $31.5 million recognized in 2013 related to the write-down of the carrying values of assets held for sale related to certain suncare and skincare brands sold primarily in Australia, and (iv) a $22.2 million write-off recognized in 2013 related to the Opana® intangible asset, partially offset by (v) an increase in amortization of the B&L, Solta Medical and PreCision identifiable
+
+intangible assets of $242.6 million, in the aggregate, in 2014, (vi) a $55.2 million write-off recognized in 2014 related to the Kinerase® intangible asset, and (vii) a $32.4 million write-off in 2014 related to the Grifulvin® intangible asset.
+Amortization and impairments of finite-lived intangible assets increased
+$973.1 million
+, or
+105%
+, to
+$1.9 billion
+ in 2013, primarily due to (i) a net increase of $525.1 million for ezogabine/retigabine, as the impairment charge of $551.6 million in the third quarter of 2013 was partially offset by lower amortization for ezogabine/retigabine of $26.5 million in the fourth quarter of 2013, (ii) the amortization of $351.9
+
+million, in the aggregate, in 2013, primarily related to the Medicis, B&L, and Obagi identifiable intangible assets, (iii) impairment charges of $31.5 million related to the write-down of the carrying values of assets held for sale related to certain suncare and skincare brands sold primarily in Australia in 2013, (iv) $22.2 million related to the write-off of the carrying value of the Opana® intangible asset in 2013, (v) an increase in the write-offs of $16.9 million, in the aggregate, in 2013, primarily related to the discontinuation of certain products in the Brazilian, Canadian, and Polish markets, and (vi) $10.0 million related to the write-off of certain OTC skincare products in the U.S. in 2013.
+As part of our ongoing assessment of potential impairment indicators related to our finite-lived and indefinite-lived intangible assets, we will closely monitor the performance of our product portfolio. If our ongoing assessments reveal indications of impairment, we may determine that an impairment charge is necessary and such charge could be material.
+Restructuring, Integration and Other Costs
+We recognized restructuring, integration, and other costs of
+$381.7 million
+ in 2014, compared with
+$462.0 million
+ and
+$267.1 million
+ in 2013 and 2012, respectively, primarily related to the B&L, Solta Medical and PreCision acquisitions. Refer to note 5 to the 2014 Financial Statements for further details.
+In-Process Research and Development Impairments and Other Charges
+In-process research and development impairments and other charges represents impairments and other costs associated with compounds, new indications, or line extensions under development that have not received regulatory approval for marketing at the time of acquisition. IPR&D acquired through an asset acquisition is written off at the acquisition date if the assets have no alternative future use. IPR&D acquired in a business combination is capitalized as indefinite-lived intangible assets (irrespective of whether these assets have an alternative future use) until completion or abandonment of the related research and development activities. Costs associated with the development of acquired IPR&D assets are expensed as incurred.
+In 2014, we recorded charges of
+$41.0 million
+ primarily due to (i) the write-off of an IPR&D asset of $12.5 million related to analysis of Phase 2 study data for a dermatological product candidate acquired in the December 2012 Medicis acquisition, (ii) an up-front payment of $12.0 million made in connection with an amendment to a license and distribution agreement with a third party, and (iii) payments to third parties associated with the achievement of specific development milestones prior to regulatory approval under our research and development programs, including Jublia®, in 2014.
+In 2013, we recorded charges of
+$153.6 million
+, primarily due to the write-off of (i) $93.8 million relating to the modified-release formulation of ezogabine/retigabine, (ii) $27.3 million of IPR&D assets, mainly related to the termination of the A007 (Lacrisert®) development program, (iii) $14.4 million related to the termination of the Mapracorat development program, and (iv) $8.8 million related to a Xerese® life-cycle product. Refer note 10 to the 2014 Financial Statements for additional information.
+In 2012, we recorded charges of $189.9 million, primarily due to (i) $133.4 million for the write-off of an acquired IPR&D asset related to the IDP-107 dermatology program, which was acquired in September 2010 as part of the merger with Valeant, (ii)
+40
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+an impairment charge of $24.7 million related to a Xerese® life-cycle product, and (iii) $12.0 million related to a payment to terminate a research and development commitment with a third party. Refer note 10 to the 2014 Financial Statements for additional information.
+Acquisition-Related Costs
+Acquisition-related costs decreased
+$30.1 million
+, or
+83%
+, to
+$6.3 million
+ in 2014, reflecting higher expenses incurred in 2013 related to the B&L, Obagi and Natur Produkt acquisitions, as well as other acquisitions, partially offset by acquisition activities in 2014, primarily related to the PreCision and Solta Medical acquisitions.
+Acquisition-related costs decreased
+$42.2 million
+, or
+54%
+, to
+$36.4 million
+ in 2013, reflecting higher expenses incurred in 2012 related to the Medicis and OraPharma acquisitions and other 2012 acquisitions, partially offset by acquisition activities in 2013 primarily related to the B&L, Obagi and Natur Produkt
+
+acquisitions.
+See note 3 to the 2014 Financial Statements for additional information regarding business combinations. Certain costs related to our investment in PS Fund 1 were recorded in Gain on investments, net. See note 23 for additional information relating to these costs.
+Acquisition-Related Contingent Consideration
+In 2014, we recognized an acquisition-related contingent consideration gain of
+$14.1 million
+. The net gain was primarily driven by net fair value adjustments of $19.0 million related to the Elidel®/Xerese®/Zovirax® agreement entered into with Meda Pharma SARL (“Meda”) in June 2011 (the “Elidel®/Xerese®/Zovirax® agreement”), as a result of continued assessment of the impact from generic competition on performance trends and future revenue forecasts for Zovirax®.
+In 2013, we recognized an acquisition-related contingent consideration gain of
+$29.2 million
+. The net gain was primarily driven by a net gain related to the Elidel®/Xerese®/Zovirax® agreement. As a result of analysis in the third quarter of 2013 of performance trends since the launch of a generic Zovirax® ointment in April 2013, we adjusted the projected revenue forecast, resulting in an acquisition-related contingent consideration net gain of $20.0 million in 2013. Also contributing to the acquisition-related contingent net gain was a net gain of $6.9 million, which resulted from the termination, in the third quarter of 2013, of the A007 (Lacrisert®) development program, which impacted the probability associated with potential milestone payments. Refer to note 6 to the 2014 Financial Statements for further information.
+In 2012, we recognized an acquisition-related contingent consideration gain of $5.3 million, primarily driven by (i) a net gain of $10.3 million related to the iNova acquisition in December 2011 due to changes in the estimated probability of achieving the related milestones, partially offset by (ii) a net loss of $6.5 million related to the Elidel®/Xerese®/Zovirax® agreement, due to fair value adjustments to reflect accretion for the time value of money, partially offset by changes in the projected revenue forecast.
+Other (Income) Expense
+Other (income) expense primarily includes: legal settlements and related fees and gains/losses from the sale of assets and businesses.
+In 2014, we recognized other income of
+$268.7 million
+, primarily related to (i) a net gain of $323.9 million related to the divestiture of facial aesthetic fillers and toxins in the third quarter of 2014 and (ii) the reversal of a $50.0 million reserve related to the AntiGrippin® litigation in the first quarter of 2014, partially offset by (iii) a net loss of $58.5 million related to the divestiture of Metronidazole 1.3% in the third quarter of 2014, (iv) a post-combination expense of $20.4 million in the third quarter of 2014 related to the acceleration of unvested stock options for PreCision employees, and (v) a loss on sale of $8.8 million related to the divestiture of the generic tretinoin product rights in the third quarter of 2014, acquired in the PreCision acquisition. Refer to note 4, note 20 and note 3 to the 2014 Financial Statements for further details related to the divestitures of facial aesthetic fillers and toxins and Metronidazole 1.3%, the AntiGrippin® litigation and the acquisition of PreCision, respectively.
+In 2013, we recognized other expense of
+$287.2 million
+, primarily due to (i) a charge of $142.5 million in the third quarter of 2013 related to a settlement agreement with Anacor Pharmaceuticals, Inc. (“Anacor”), (ii) a post-combination expense of $52.8 million, in the aggregate, related to B&L’s previously cancelled performance-based options and the acceleration of unvested stock options for B&L employees as a result of the B&L Acquisition, (iii) a charge of $50.0 million in the fourth quarter of 2013 related to AntiGrippin® litigation
+,
+and (iv) a loss of $10.2 million related to the sale of certain skincare products sold primarily in Australia in the fourth quarter of 2013. Refer to note 4, note 3, and note 20 to the 2014 Financial Statements for further details related to the divestiture of certain skincare products sold in Australia, the B&L Acquisition, and the AntiGrippin® litigation, respectively.
+41
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+In 2012, we recorded other expense of
+$136.6 million
+, primarily due to (i) a post-combination expense of $77.3 million, related to the acceleration of unvested stock options, restricted stock awards, and share appreciation rights for Medicis employees that was triggered by the change in control and (ii) legal settlement charges of $56.8 million, mainly related to a settlement of antitrust litigation and the associated legal fees. Refer to note 3 to the 2014 Financial Statements for further details.
+Non-Operating Income (Expense)
+The following table displays each non-operating income or expense category for each of the last three years, and the dollar and percentage changes in the dollar amount of each category.
+
+Years Ended December 31,
+
+Change
+
+2014
+
+2013
+
+2012
+
+2013 to 2014
+
+2012 to 2013
+($ in millions; Income (Expense))
+
+$
+
+$
+
+$
+
+$
+
+%
+
+$
+
+%
+Interest income
+
+5.0
+
+8.0
+
+6.0
+
+(3.0
+)
+
+(38)
+
+2.0
+
+33
+Interest expense
+
+(971.0
+)
+
+(844.3
+)
+
+(481.6
+)
+
+(126.7
+)
+
+15
+
+(362.7
+)
+
+75
+Loss on extinguishment of debt
+
+(129.6
+)
+
+(65.0
+)
+
+(20.1
+)
+
+(64.6
+)
+
+99
+
+(44.9
+)
+
+223
+Foreign exchange and other
+
+(144.1
+)
+
+(9.4
+)
+
+19.7
+
+(134.7
+)
+
+NM
+
+(29.1
+)
+
+NM
+Gain on investments, net
+
+292.6
+
+5.8
+
+2.1
+
+286.8
+
+NM
+
+3.7
+
+176
+Total non-operating expense
+
+(947.1
+)
+
+(904.9
+)
+
+(473.9
+)
+
+(42.2
+)
+
+5
+
+(431.0
+)
+
+91
+____________________________________
+NM — Not meaningful
+Interest Expense
+Interest expense increased
+$126.7 million
+, or
+15%
+, to
+$971.0 million
+ in 2014, primarily due to an increase of (i) $170.3
+
+million related to higher debt balances, driven by the borrowings in the third quarter of 2013 in conjunction with the B&L Acquisition, (ii) $46.5 million related to the issuance of 5.625% senior notes due 2021 in December 2013, partially offset by (iii) a decrease of $65.6 million, in the aggregate, related to the early redemption of 6.50% senior notes due 2016 (the “2016 Notes”) in December 2013 and 6.75% senior notes due 2017 (the “2017 Notes”) in October 2014, and (iv) a decrease of $19.5 million, in the aggregate, related to the non-cash amortization and write-off of debt discounts and debt issuance costs.
+Interest expense increased
+$362.7 million
+, or
+75%
+, to
+$844.3 million
+ in 2013, primarily due to (i) an increase of $308.1 million primarily related to higher debt balances, driven by the new borrowings during the period and (ii) an increase of
+$53.1 million
+, in the aggregate, related to the non-cash amortization of debt discounts and deferred financing costs, including the write-off of deferred financing costs related to the commitment letter entered into in connection with the financing of the B&L Acquisition.
+Refer to note 12 to the 2014 Financial Statements for further details.
+Loss on Extinguishment of Debt
+In 2014, we recognized losses of
+$129.6 million
+, primarily related to (i) the refinancing of our Series E tranche B term loan facility on February 6, 2014, (ii) the redemption of the 2017 Notes in October 2014, and (iii) the redemption of 6.875% senior notes due 2018 (the “December 2018 Notes”) in December 2014. Refer to note 12 to the 2014 Financial Statements for further details.
+In 2013, we recognized losses of
+$65.0 million
+, related primarily due to (i) the redemption of the 2016 Notes in December 2013, (ii) the repricing of our Series D tranche B term loan facility and our Series C of the tranche B term loan facility on February 21, 2013, and (iii) the redemption of 9.875% senior notes assumed in connection with the B&L Acquisition in the third quarter of 2013 (see note 3 to the 2014 Financial Statements for additional information). Refer to note 12 to the 2014 Financial Statements for further details.
+In 2012, we recognized losses of $20.1 million, mainly on refinancing of our term loan B facility on October 2, 2012 and the settlement of convertible notes
+.
+Foreign Exchange and Other
+In 2014, we recognized foreign exchange losses of
+$144.1 million
+, primarily due to (i) a foreign exchange loss on a euro-denominated intercompany loan and (ii) translation losses from intercompany transactions within our European operations.
+42
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+Foreign exchange and other loss was
+$9.4 million
+ in 2013, compared with a gain of
+$19.7 million
+ in 2012, reflecting a decrease of
+$29.1 million
+, primarily due to (i) the $29.4
+
+million gain realized in 2012 on an intercompany loan that was not designated as permanent in nature that did not similarly occur in 2013, (ii) an unrealized foreign exchange loss of $8.3 million on an intercompany financing arrangement in the first quarter of 2013, partially offset by (iii) the translation gains on intercompany loans in 2013.
+
+Gain on Investments, Net
+In 2014, we recognized a gain on investment, net of
+$292.6 million
+. The gain on investment, net was primarily driven by a net gain of $286.7 million recognized in connection with the sale by PS Fund 1 of the Allergan shares. Refer to note 23 to the 2014 Financial Statements for additional information.
+In 2013, we recognized gain on investment, net of
+$5.8 million
+. The gain on investment, net was primarily driven by a realized gain of $4.0 million on the sale of an equity investment acquired as part of the Medicis acquisition in December 2012.
+Income Taxes
+The following table displays the dollar amount of the current and deferred provisions for (recovery of) income taxes for each of the last three years, and the dollar and percentage changes in the dollar amount of each provision. Percentages may not sum due to rounding.
+
+Years Ended December 31,
+
+Change
+
+2014
+
+2013
+
+2012
+
+2013 to 2014
+
+2012 to 2013
+($ in millions; Expense (Income))
+
+$
+
+$
+
+$
+
+$
+
+%
+
+$
+
+%
+Current income tax expense
+
+150.7
+
+83.4
+
+63.5
+
+67.3
+
+81
+
+19.9
+
+31
+Deferred income tax expense (benefit)
+
+29.7
+
+(534.2
+)
+
+(341.7
+)
+
+563.9
+
+NM
+
+(192.5
+)
+
+56
+Total provision for (recovery of) income taxes
+
+180.4
+
+(450.8
+)
+
+(278.2
+)
+
+631.2
+
+NM
+
+(172.6
+)
+
+62
+____________________________________
+NM — Not meaningful
+In 2014, our effective tax rate was different from our statutory Canadian tax rate due to (i) income earned in jurisdictions with a lower statutory rate than in Canada, (ii) tax expense of $82.1 million associated with the divestiture of facial aesthetic fillers and toxins to Galderma S.A. (“Galderma”) in July 2014, which is reflected as a component of tax expense on taxable foreign income set forth in the effective tax rate reconciliation in the tax footnote, and (iii) a $147.3 million tax benefit related to intra-entity integration efforts of which $129.2 million relates to current year items including the creation of deferred tax assets as a result of a liquidation of one of our foreign affiliates, a reduction of deferred tax liabilities, and the amortization of intangibles for tax purposes in jurisdictions with tax rates lower than Canada. Our consolidated foreign rate differential reflects the net total of the tax cost or benefit of income earned or losses incurred in jurisdictions outside of Canada as compared to the net total tax cost or benefit of such income (on a jurisdictional basis) at the Canadian statutory rate. Tax costs below the Canadian statutory rate generate a beneficial foreign rate differential as do tax benefits generated in jurisdictions where the statutory tax rate exceeds the Canadian statutory tax rate. It is not expected that the net total of the foreign rate differentials generated in each jurisdiction in which we operate will bear a direct relationship to the net total amount of foreign income (or loss) earned outside of Canada.
+We record a valuation allowance against our deferred tax assets to reduce the net carrying value to an amount that we believe is more likely than not to be realized. When we establish or reduce the valuation allowance against our deferred tax assets, the provision for income taxes will increase or decrease, respectively, in the period such determination is made. The majority of the increase in 2014 is due to changes in the deferred tax asset balance in Canada, the maintenance of the valuation allowance on foreign tax credits recorded in the U.S. and the establishment of a valuation allowance on certain previously recorded U.S. State deferred tax assets due to our internal restructuring, the effect of which is deferred under U.S. GAAP. In determining the amount of the valuation allowance that was necessary, we considered the amount of U.S. tax loss carryforwards, Canadian tax loss carryforwards, scientific research and experimental development pool, and investment tax credits that we would more likely than not be able to utilize based on future sources of income. Our taxes payable is impacted by our ability to use net operating losses on a current basis.
+SUMMARY OF QUARTERLY RESULTS (UNAUDITED)
+43
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+The following table presents a summary of our unaudited quarterly results of operations and operating cash flows in 2014 and 2013:
+
+2014
+
+2013
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+($ in millions)
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+Revenue
+
+1,886.2
+
+2,041.1
+
+2,056.2
+
+2,280.0
+
+1,068.4
+
+1,095.7
+
+1,541.7
+
+2,063.8
+Expenses
+(1)
+
+1,529.6
+
+1,686.0
+
+1,372.3
+
+1,635.9
+
+951.4
+
+954.2
+
+2,433.2
+
+1,840.3
+Operating income (loss)
+
+356.6
+
+355.1
+
+683.9
+
+644.1
+
+117.0
+
+141.5
+
+(891.5
+)
+
+223.5
+Net (loss) income attributable to Valeant Pharmaceuticals International, Inc.
+
+(22.6
+)
+
+125.8
+
+275.4
+
+534.9
+
+(27.5
+)
+
+10.8
+
+(973.2
+)
+
+123.8
+(Loss) earnings per share attributable to Valeant Pharmaceuticals International, Inc.:
+
+Basic
+
+(0.07
+)
+
+0.38
+
+0.82
+
+1.59
+
+(0.09
+)
+
+0.04
+
+(2.92
+)
+
+0.37
+Diluted
+
+(0.07
+)
+
+0.37
+
+0.81
+
+1.56
+
+(0.09
+)
+
+0.03
+
+(2.92
+)
+
+0.36
+Net cash provided by operating activities
+
+484.3
+
+376.0
+
+618.7
+
+815.7
+
+255.3
+
+305.1
+
+201.7
+
+279.9
+____________________________________
+(1)
+In the third quarter of 2013, we recognized an impairment charge of $551.6 million related to ezogabine/retigabine (immediate-release formulation) which is co-developed and marketed under a collaboration agreement with GSK. In addition, in the third quarter of 2013, we wrote off an IPR&D asset of $93.8 million relating to a modified-release formulation of ezogabine/retigabine. See note 6 to the 2014 Financial Statements for additional information regarding these charges.
+Fourth Quarter of 2014 Compared to Fourth Quarter of 2013
+Results of Operations
+Total revenues increased
+$216.2 million
+, or
+10%
+, to
+$2.3 billion
+ in the fourth quarter of 2014. The growth in the fourth quarter of 2014 reflected both price and volume, with slightly more than half of the growth from price. The growth also reflected the following factors:
+•
+the incremental product sales revenue of $95.6 million, in the aggregate, from all 2014 acquisitions primarily from Solta Medical (mainly driven by Thermage CPT® system product sales) and PreCision (mainly driven by Clindagel® product sales); and
+•
+an increase in other revenues of $12.2 million in the fourth quarter of 2014, primarily related to higher royalty revenue.
+Those factors were partially offset by:
+•
+a negative foreign currency impact on the existing business of $107.6 million in the fourth quarter of 2014 due to the impact of a strengthening of the U.S. dollar against certain currencies, including the Russian ruble and Euro; and
+•
+a negative impact from divestitures and discontinuations of $96.7 million in the fourth quarter of 2014, primarily driven by the divestitures of facial aesthetic fillers and toxins in the third quarter of 2014.
+Excluding the items described above, we realized incremental product sales revenue from the remainder of the existing business of $312.7 million in the fourth quarter of 2014. The growth reflected (1) higher sales of (i) Jublia® and (ii) Targretin®, and (iii) orphan products (Syprine® and Xenazine®) and (2) higher sales from recent product launches, including the launches of RAM 0.08% and Luzu®, partially offset by a decrease in product sales of $26.5 million, in the aggregate, due to generic competition. The decrease from generic competition related to a decline in sales of the Vanos® franchise and Wellbutrin® XL (Canada).
+Net income attributable to Valeant Pharmaceuticals International, Inc. increased
+$411.1 million
+, or
+332%
+, to
+$534.9 million
+ in the fourth quarter of 2014, reflecting the following factors: (i) an increase in contribution (product sales revenue less cost of goods sold, exclusive of amortization and impairments of finite-lived intangible assets) of
+$344.7 million
+, primarily from the product sales from the existing business and all 2014 acquisitions, (ii) a decrease in non-operating expenses driven largely by a net gain of $286.7 million recognized in connection with the sale by PS Fund 1 of Allergan shares, as further described above
+
+under “Results of Operations — Non-Operating Income (Expenses)”, partially offset by (iii) an increase in provision for income taxes, as further described above
+
+under “Results of Operations — Income Taxes”.
+Cash Flows From Operations
+44
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+Net cash provided by operating activities increased
+$535.8 million
+, to
+$815.7 million
+ in the fourth quarter of 2014, primarily due to:
+•
+the inclusion of cash flows from the operations in the fourth quarter of 2014 from the 2014 acquisitions, primarily the PreCision and Solta Medical acquisitions;
+•
+$397.5 million of cash proceeds representing the return on our investment in PS Fund 1 from the appreciation in the Allergan share price and our right to 15% of the net profits realized by Pershing Square on the sale of Allergan shares. Refer to note 23 to the 2014 Financial Statements for additional information;
+•
+lower payments of $92.3 million related to restructuring, integration and other costs in the fourth quarter of 2014; and
+•
+incremental cash flows from the continued growth of the existing business, including new product launches, partially offset by a decrease in contribution of $25.5 million in the fourth quarter of 2014 related to the lower sales of the Vanos® franchise and Wellbutrin® XL (Canada) as a result of generic competition.
+Those factors were partially offset by:
+•
+an increase in investment in working capital of $143.4 million in the fourth quarter of 2014, primarily related to (i) an increase in receivables driven by higher gross sales and product mix and (ii) the impact of changes related to timing of payments, including prepaid expenses, interest, severance, and integration payments, and receipts in the ordinary course of business, partially offset by an increase in accrued liabilities due to higher gross to net sales reserves.
+FINANCIAL CONDITION, LIQUIDITY AND CAPITAL RESOURCES
+Selected Measures of Financial Condition
+The following table presents a summary of our financial condition
+as of December 31, 2014 and 2013
+:
+
+As of December 31,
+
+2014
+
+2013
+
+Change
+($ in millions; Asset (Liability))
+
+$
+
+$
+
+$
+
+%
+Cash and cash equivalents
+
+322.6
+
+600.3
+
+(277.7
+)
+
+(46)
+Long-lived assets
+(1)
+
+21,912.8
+
+23,834.5
+
+(1,921.7
+)
+
+(8)
+Total debt, including current portion
+
+(15,254.6
+)
+
+(17,367.7
+)
+
+2,113.1
+
+(12)
+____________________________________
+(1)
+Long-lived assets comprise property, plant and equipment, intangible assets and goodwill.
+Cash and Cash Equivalents
+Cash and cash equivalents decreased
+$277.7 million
+, or
+46%
+, to
+$322.6 million
+
+as of December 31, 2014
+, which primarily reflected the following uses of cash:
+•
+$1.3 billion in net repayments, in the aggregate, under our senior secured credit facilities in 2014;
+•
+$1.3 billion
+ paid, in the aggregate, in connection with the purchases of businesses and intangible assets, mainly in respect of the PreCision and Solta Medical acquisitions in 2014;
+•
+$500.0 million paid in connection with the redemption of the 2017 Notes in October 2014;
+•
+$445.0 million paid in connection with the redemption of the December 2018 Notes in December 2014;
+•
+purchases of property, plant and equipment of
+$291.6 million
+;
+•
+contingent consideration payments within financing activities of
+$106.1 million
+ primarily related to the OraPharma and Eisai (Targretin®) acquisitions and the Elidel®/Xerese®/Zovirax® agreement entered into in June 2011;
+•
+$55.2 million
+ related to debt financing costs paid primarily due to (i) a call premiums paid in connection with the redemption of the 2017 Notes and the December 2018 Notes and (ii) the refinancing of our Series E tranche B term loan facility in February 2014. Refer to note 12 to the 2014 Financial Statements for additional information regarding the call premiums paid with the redemption of the 2017 Notes and December 2018 Notes; and
+45
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+•
+$44.1 million
+ of employee withholding taxes paid in connection with the exercise of share-based awards.
+Those factors were partially offset by the following sources of cash:
+•
+$2.3 billion
+ in operating cash flows, including $397.5 million of cash proceeds representing the return on our investment in PS Fund 1 from the appreciation in the Allergan share price and our right to 15% of the net profits realized by Pershing Square on the sale of Allergan shares. Refer to note 23 to the 2014 Financial Statements for additional information; and
+•
+$1.5 billion of net cash proceeds from divestitures primarily related to the divestitures of facial aesthetic fillers and toxins in July 2014. Refer to note 4 to the 2014 Financial Statements for additional information.
+Long-Lived Assets
+Long-lived assets decreased
+$1.9 billion
+, or
+8%
+, to
+$21.9 billion
+
+as of December 31, 2014
+, primarily due to:
+•
+the depreciation of property, plant and equipment and amortization of intangible assets of
+$1.7 billion
+, in the aggregate;
+•
+a reduction of the carrying amount of intangible assets and goodwill of $1.0 billion and $91.0 million, in the aggregate, related to the divestitures of (i) facial aesthetic fillers and toxins and (ii) Metronidazole 1.3%, respectively, which were each divested in July 2014. Refer to note 4 to the 2014 Financial Statements for additional information; and
+•
+a negative foreign currency exchange impact of $776.9 million.
+Those factors were partially offset by:
+•
+the inclusion of the identifiable intangible assets, goodwill and property, plant and equipment from the 2014 acquisitions of $1.2 billion, in the aggregate, primarily related to the PreCision and Solta Medical acquisitions; and
+•
+purchases of property, plant and equipment of
+$291.6 million
+.
+Long-Term Debt
+Long-term debt (including the current portion) decreased
+$2.1 billion
+, or
+12%
+, to
+$15.3 billion
+
+as of December 31, 2014
+, primarily due to (i) $1.3 billion in net repayments, in the aggregate, under our senior secured credit facilities in 2014, (ii) the redemption of $500.0 million aggregate principal amount of the 2017 Notes in October 2014, and (iii) the redemption of $445.0 million aggregate principal amount of the December 2018 Notes in December 2014. Refer to note 12 to the 2014 Financial Statements for additional information.
+
+Cash Flows
+Our primary sources of cash include: cash collected from customers, funds available from our revolving credit facility, issuances of long-term debt and issuances of equity. Our primary uses of cash include: business development transactions, funding ongoing operations, interest and principal payments, securities repurchases and restructuring activities. The following table displays cash flow information for each of the last three years:
+
+Years Ended December 31,
+
+Change
+
+2014
+
+2013
+
+2012
+
+2013 to 2014
+
+2012 to 2013
+($ in millions)
+
+$
+
+$
+
+$
+
+$
+
+%
+
+$
+
+%
+Net cash provided by operating activities
+
+2,294.7
+
+1,042.0
+
+656.6
+
+1,252.7
+
+120
+
+385.4
+
+59
+Net cash used in investing activities
+
+(99.7
+)
+
+(5,380.3
+)
+
+(2,965.7
+)
+
+5,280.6
+
+(98)
+
+(2,414.6
+)
+
+81
+Net cash (used in) provided by financing activities
+
+(2,443.7
+)
+
+4,027.7
+
+3,057.3
+
+(6,471.4
+)
+
+NM
+
+970.4
+
+32
+Effect of exchange rate changes on cash and cash equivalents
+
+(29.0
+)
+
+(5.2
+)
+
+3.8
+
+(23.8
+)
+
+458
+
+(9.0
+)
+
+NM
+Net (decrease) increase in cash and cash equivalents
+
+(277.7
+)
+
+(315.8
+)
+
+752.0
+
+38.1
+
+(12)
+
+(1,067.8
+)
+
+NM
+Cash and cash equivalents, beginning of year
+
+600.3
+
+916.1
+
+164.1
+
+(315.8
+)
+
+(34)
+
+752.0
+
+458
+Cash and cash equivalents, end of year
+
+322.6
+
+600.3
+
+916.1
+
+(277.7
+)
+
+(46)
+
+(315.8
+)
+
+(34)
+____________________________________
+NM — Not meaningful
+Operating Activities
+Net cash provided by operating activities increased
+$1.3 billion
+, or
+120%
+, to
+$2.3 billion
+ in
+2014
+, primarily due to:
+46
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+•
+the inclusion of cash flows in 2014 from all 2013 acquisitions, primarily the B&L and Obagi acquisitions, as well as all 2014 acquisitions;
+•
+$397.5 million of cash proceeds representing the return on our investment in PS Fund 1 from the appreciation in the Allergan share price and our right to 15% of the net profits realized by Pershing Square on the sale of Allergan shares. Refer to note 23 to the 2014 Financial Statements for additional information; and
+•
+incremental cash flows from the continued growth of the existing business, including new product launches, partially offset by a decrease in contribution of $160.2 million in 2014 related to the lower sales of the Vanos®, Retin-A Micro® (excluding RAM 0.08%), and Zovirax® franchises and Wellbutrin® XL (Canada) as a result of generic competition.
+Those factors were partially offset by:
+•
+an increased investment in working capital of
+$290.1 million
+ in 2014, primarily related to (i) an increase in receivables driven by higher gross sales and product mix and (ii) the impact of changes related to timing of payments, including prepaid expenses, interest, severance, and integration payments, and receipts in the ordinary course of business, partially offset by an increase in accrued liabilities due to higher gross to net sales reserves; and
+•
+higher payments of $55.6 million related to restructuring, integration and other costs in 2014.
+Net cash provided by operating activities increased
+$385.4 million
+, or
+59%
+, to
+$1.0 billion
+ in
+2013
+, primarily due to:
+•
+the inclusion of cash flows in 2013 from all 2012 acquisitions, primarily the Medicis, OraPharma, and Gerot Lannach acquisitions, as well as all 2013 acquisitions, primarily the B&L, Natur Produkt and Obagi acquisitions; and
+•
+incremental cash flows from continued growth in the existing business.
+Those factors were partially offset by:
+•
+a decrease in contribution of $286.7
+
+million in 2013, primarily related to the lower sales of the Zovirax® franchise, Retin-A Micro®, BenzaClin® and Cesamet® as a result of generic competition;
+•
+higher payments of $140.7 million related to restructuring, integration and other costs in 2013, primarily driven by the B&L Acquisition;
+•
+an increase in payments of legal settlements and related fees of $139.0 million mainly related to a settlement agreement with Anacor in 2013;
+•
+an increased investment in working capital of $125.0 million in 2013, primarily related to (i) the impact of the changes related to timing of payments in the ordinary course of business and (ii) an increase in accounts receivable, reflecting the growth of the business as well as the unfavorable impact from mix between geographies and businesses; and
+•
+the receipt of the $45.0 million milestone payment from GSK in connection with the launch of Potiga® in 2012 that did not similarly occur in 2013.
+Investing Activities
+Net cash used in investing activities decreased
+$5.3 billion
+, or
+98%
+, to
+$99.7 million
+ in
+2014
+, primarily due to:
+•
+a decrease of
+$4.0 billion
+, in the aggregate, related to lower purchases of businesses (net of cash acquired) and intangible assets in 2014, driven mainly by the August 2013 B&L Acquisition; and
+•
+a decrease of
+$1.5 billion
+, related to higher proceeds from the sale of assets and businesses, net of costs to sell, primarily attributable to the cash proceeds of approximately $1.4 billion for the divestiture of facial aesthetic fillers and toxins to Galderma in the third quarter of 2014.
+Those factors were partially offset by:
+•
+an increase of
+$176.3 million
+ related to higher purchases of property, plant and equipment.
+Net cash used in investing activities increased
+$2.4 billion
+, or
+81%
+, to
+$5.4 billion
+ in 2013, primarily due to:
+•
+an increase of $1.8 billion, in the aggregate, related to the purchases of businesses (net of cash acquired) and intangible assets, in the aggregate;
+47
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+•
+an increase of $607.8 million, mainly related to the higher proceeds received in 2012 from the sale of marketable securities acquired as part of the Medicis acquisition; and
+•
+an increase of $50.9 million, related to lower proceeds from sales of assets, primarily attributable to the cash proceeds of $66.3 million for the sale of the IDP-111 and 5-FU products in the first quarter of 2012, partially offset by the proceeds related to the sale of Buphenyl® in the second quarter of 2013.
+Financing Activities
+Net cash used in financing activities was
+$2.4 billion
+ in
+2014
+, compared with the net cash provided by financing activities of
+$4.0 billion
+ in
+2013
+, reflecting a decrease of
+$6.5 billion
+, primarily due to:
+•
+a decrease of $4.7 billion, in the aggregate, related to net proceeds from our senior secured credit facilities primarily due to (i) the borrowings of $3.9 billion in the third quarter of 2013 in connection with the B&L Acquisition and (ii) the repayments of $1.0 billion, in the aggregate, in the third quarter of 2014, partially offset by (iii) the issuance of $225.6 million in incremental term loans in the first quarter of 2014. Refer to note 12 to the 2014 Financial Statements for additional information;
+•
+a decrease related to net proceeds of $4.1 billion from the issuance of senior notes in 2013; and
+•
+a decrease of
+$2.3 billion
+ related to the net proceeds from the issuance of common stock in June 2013, which were utilized to fund the B&L Acquisition.
+Those factors were partially offset by:
+•
+an increase of $4.2 billion related to the repayment of long-term debt assumed in connection with the B&L Acquisition in 2013 that did not similarly occur in 2014;
+•
+an increase of $233.6 million related to the repayments of long-term debt assumed in connection with the Medicis acquisition in 2013 that did not similarly occur in 2014;
+•
+an increase of
+$61.1 million
+ related to the lower debt financing costs paid in 2014 due to the lower refinancing activities in 2014;
+•
+an increase of
+$55.6 million
+ related to the repurchases of common shares in 2013 that did not similarly occur in 2014; and
+•
+an increase of $37.6 million related to the repayments of short-term borrowings and long-term debt, in the aggregate, assumed in connection with the Natur Produkt acquisition in 2013 that did not similarly occur in 2014.
+Net cash provided by financing activities increased
+$970.4 million
+, or
+32%
+, to
+$4.0 billion
+ in 2013, primarily due to:
+•
+an increase related to net proceeds of $4.1 billion from the issuance of senior notes in 2013;
+•
+the net proceeds of $2.3 billion primarily related to the issuance of common stock in June 2013, which were utilized to fund the B&L Acquisition;
+•
+an increase of $1.4 billion of net borrowings under senior secured credit facilities, in the aggregate, in 2013;
+•
+an increase of $606.3 million related to cash settlement of convertible debt in 2012 that did not similarly occur in 2013; and
+•
+an increase of $225.1 million related to lower repurchases of common shares in 2013.
+Those factors were partially offset by:
+•
+a decrease of $4.2 billion related to the repayment of long-term debt assumed in connection with the B&L Acquisition in August 2013;
+•
+a decrease related to net proceeds of $2.2 billion from the issuance of senior notes in 2012;
+•
+$915.5 million paid in connection with the redemption of the 2016 Notes in December 2013;
+48
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+•
+$233.6 million related to the repayment of long-term debt assumed in connection with the Medicis acquisition in December 2012;
+•
+a decrease of $83.1 million related to the higher debt financing costs paid (including call premium of $29.8 million paid in connection with the redemption of the 2016 Notes in December 2013), primarily due to the issuance of senior notes and the Series E tranche B term loans in 2013, in the aggregate;
+•
+$37.6 million in repayments of short-term borrowings and long-term debt, in the aggregate, assumed in connection with the Natur Produkt acquisition; and
+•
+a decrease due to higher contingent consideration payments of $26.1 million, in 2013, primarily due to a payment of $40.0 million and $20.1 million, related to the OraPharma and Gerot Lannach acquisitions, respectively, partially offset by (i) lower contingent consideration payments related to the Elidel®/Xerese®/Zovirax® agreement entered into with Meda in June 2011 and (ii) a contingent consideration payment in the second quarter of 2012 related to the PharmaSwiss S.A. acquisition in March 2011.
+
+Debt
+See note 12 and note 24 of notes to consolidated financial statements in Item 15 of this Form 10-K for detailed information regarding our long-term debt.
+The senior notes issued by us are our senior unsecured obligations and are jointly and severally guaranteed on a senior unsecured basis by each of our subsidiaries that is a guarantor under our senior secured credit facilities. The senior notes issued by our subsidiary Valeant are senior unsecured obligations of Valeant and are jointly and severally guaranteed on a senior unsecured basis by us and each of our subsidiaries (other than Valeant) that is a guarantor under our senior secured credit facilities. Certain of the future subsidiaries of the Company and Valeant may be required to guarantee the senior notes. The non-guarantor subsidiaries had total assets of $6.5 billion and total liabilities of $3.2
+
+billion as of December 31, 2014, and net revenues of $2.0 billion and net earnings from operations of $435.9
+
+million for the year ended December 31, 2014.
+Our primary sources of liquidity are our cash, cash collected from customers, funds available from our revolving credit facility, issuances of long-term debt and issuances of equity. We believe these sources will be sufficient to meet our current liquidity needs. We have commitments approximating $70 million for expenditures related to property, plant and equipment. Since part of our business strategy is to expand through strategic acquisitions, we may be required to seek additional debt financing, issue additional equity securities or sell assets, as necessary, to finance future acquisitions, including the additional debt financing that will be required in connection with the proposed acquisition of Salix Pharmaceuticals, Ltd. (“Salix”) (see note 24 to the 2014 Financial Statements for information regarding our proposed acquisition of Salix), or for other general corporate purposes. Our current corporate credit rating is Ba3 for Moody’s Investors Service and BB- for Standard and Poor’s. A downgrade may increase our cost of borrowing and may negatively impact our ability to raise additional debt capital.
+
+An inability to obtain certain amendments to our Credit Agreement in connection with the proposed acquisition of Salix may increase our cost of borrowing.
+As of December 31, 2014, we were in compliance with all of our covenants related to our outstanding debt. As of December 31, 2014, our short-term portion of long-term debt amounted to
+$0.9 million
+, in the aggregate. We believe our existing cash and cash generated from operations will be sufficient to cover our short-term debt maturities as they become due.
+Securities Repurchase Programs
+See note 14 of notes to consolidated financial statements in Item 15 of this Form 10-K for detailed information regarding our various securities repurchase programs.
+OFF-BALANCE SHEET ARRANGEMENTS AND CONTRACTUAL OBLIGATIONS
+We have no off-balance sheet arrangements that have a material current effect or that are reasonably likely to have a material future effect on our results of operations, financial condition, capital expenditures, liquidity, or capital resources.
+The following table summarizes our contractual obligations
+as of December 31, 2014
+:
+49
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+
+Payments Due by Period
+
+Total
+
+2015
+
+2016 and 2017
+
+2018 and 2019
+
+Thereafter
+($ in millions)
+
+$
+
+$
+
+$
+
+$
+
+$
+Long-term debt obligations, including interest
+(1)
+
+20,266.8
+
+817.8
+
+2,715.3
+
+6,672.0
+
+10,061.7
+Acquisition-related consideration
+(2)
+
+50.0
+
+40.0
+
+10.0
+
+—
+
+—
+Lease obligations
+
+195.7
+
+44.2
+
+64.5
+
+33.7
+
+53.3
+Purchase obligations
+(3)
+
+327.3
+
+257.3
+
+54.8
+
+13.1
+
+2.1
+Total contractual obligations
+
+20,839.8
+
+1,159.3
+
+2,844.6
+
+6,718.8
+
+10,117.1
+____________________________________
+(1)
+Expected interest payments assume repayment of the principal amount of the debt obligations at maturity.
+(2)
+Reflects the minimum guaranteed obligations related to the Elidel®/Xerese®/Zovirax® agreement. These amounts do not include contingent obligations related to potential royalty payments in excess of the minimum guaranteed obligations related to the Elidel®/Xerese®/Zovirax® agreement. Such contingent obligations are recorded at fair value in our consolidated financial statements.
+(3)
+Purchase obligations consist of agreements to purchase goods and services that are enforceable and legally binding and include obligations for minimum inventory and capital expenditures, and outsourced information technology, product promotion and clinical research services.
+The above table does not reflect (i) contingent payments related to contingent milestone payments to third parties as part of certain development, collaboration and license agreements and (ii) acquisition-related contingent consideration. See note 21 of notes to consolidated financial statements in Item 15 of this Form 10-K for additional information related to these contingent payments.
+Also excluded from the above table is a liability for uncertain tax positions totaling
+$109.4 million
+. This liability has been excluded because we cannot currently make a reliable estimate of the period in which the liability will be payable, if ever.
+On January 30, 2015, we issued $1.0 billion aggregate principal amount of 5.50% senior unsecured notes due 2023 (the “2023 Notes”). The net proceeds of the 2023 Notes offering were used to (i) redeem all of the remaining December 2018 Notes on February 17, 2015, (ii) repay amounts drawn under our revolving credit facility, and (iii) for general corporate purposes. In addition, on January 22, 2015, we entered into joinder agreements to allow for an increase in commitments under our revolving credit facility to $1.5 billion and the issuance of $250.0 million in incremental term loans under the Series A-3 Tranche A Term Loan Facility. See note 24 of notes to consolidated financial statements in Item 15 of this Form 10-K for additional information.
+OUTSTANDING SHARE DATA
+Our common shares are listed on the TSX and the NYSE under the ticker symbol “VRX”.
+At February 18, 2015, we had 336,202,718 issued and outstanding common shares. In addition, as of February 18, 2015, we had 7,625,003 stock options and 806,873 time-based RSUs that each represent the right of a holder to receive one of the Company’s common shares, and 1,597,351 performance-based RSUs that represent the right of a holder to receive up to 400% of the RSUs granted. A maximum of 5,265,558 common shares could be issued upon vesting of the performance-based RSUs outstanding.
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Our business and financial results are affected by fluctuations in world financial markets, including the impacts of foreign currency exchange rate and interest rate movements. We evaluate our exposure to such risks on an ongoing basis, and seek ways to manage these risks to an acceptable level, based on management’s judgment of the appropriate trade-off between risk, opportunity and cost. We may use derivative financial instruments from time to time as a risk management tool and not for trading or speculative purposes. Currently, we do not hold any market risk sensitive instruments whose value is subject to market price risk.
+Inflation; Seasonality
+We are subject to price control restriction on our pharmaceutical products in the majority of countries in which we now operate. As a result, our ability to raise prices in a timely fashion in anticipation of inflation may be limited in some markets.
+Historically, revenues from our business tend to be weighted toward the second half of the year. Sales in the fourth quarter tend to be higher based on consumer and customer purchasing patterns associated with healthcare reimbursement
+50
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+programs. Further, the third quarter “back to school” period impacts demand for certain of our dermatology products. However, as we continue our strategy of selective acquisitions to expand our product portfolio, there are no assurances that these historical trends will continue in the future.
+Foreign Currency Risk
+In 2014, a majority of our revenue and expense activities and capital expenditures were denominated in U.S. dollars. We have exposure to multiple foreign currencies, including, among others, the Euro, Canadian dollar, Russian ruble, Japanese yen, and Australian dollar. Our operations are subject to risks inherent in conducting business abroad, including price and currency exchange controls and fluctuations in the relative values of currencies. In addition, to the extent that we require, as a source of debt repayment, earnings and cash flows from some of our operations located in foreign countries, we are subject to risk of changes in the value of the U.S. dollar, relative to all other currencies in which we operate, which may materially affect our results of operations. Where possible, we manage foreign currency risk by managing same currency revenues in relation to same currency expenses. As of December 31, 2014, a 1% increase in foreign currency exchange rates would have impacted our shareholders’ equity by approximately $56.1 million.
+In 2012, the repurchase of $18.7 million principal amount of the U.S. dollar-denominated 5.375% Convertible Notes resulted in a foreign exchange gain for Canadian income tax purposes of approximately $1.0 million. The 2012 payment represents the settlement of the 5.375% Convertible Notes outstanding balance. In 2012, the repurchase of principal amount of the U.S. dollar denominated revolving credit facility resulted in a foreign exchange gain of $8.0 million. As of December 31, 2014, the aggregate unrealized foreign exchange loss on the translation of the remaining principal amount of the senior secured credit facilities and senior notes was approximately $1,318.3 million ($843.3 million and $475.0 million, respectively) for Canadian income tax purposes. Additionally, as of December 31, 2014, the unrealized foreign exchange gain on certain intercompany balances was equal to $461.6 million. One-half of any realized foreign exchange gain or loss will be included in our Canadian taxable income. Any resulting gain will result in a corresponding reduction in our available Canadian Non-Capital Losses, Scientific Research and Experimental Development Pool, and/or Investment Tax Credit carryforward balances. However, the repayment of the senior secured credit facilities and the intercompany loans denominated in U.S. dollars does not result in a foreign exchange gain or loss being recognized in our consolidated financial statements, as these statements are prepared in U.S. dollars.
+Interest Rate Risk
+We currently do not hold financial instruments for speculative purposes. Our financial assets are not subject to significant interest rate risk due to their short duration. The primary objective of our policy for the investment of temporary cash surpluses is the protection of principal, and accordingly, we generally invest in high quality, money market investments and time deposits with varying maturities, but typically less than three months. As it is our intent and policy to hold these investments until maturity, we do not have a material exposure to interest rate risk.
+As of December 31, 2014, we had $8.8 billion and $6.6 billion principal amount of issued fixed rate debt and variable rate debt, respectively, that requires U.S. dollar repayment. The estimated fair value of our issued fixed rate debt as of December 31, 2014 was $9.3 billion. If interest rates were to increase by 100 basis-points, the fair value of our long-term debt would decrease by approximately $257.2 million. If interest rates were to decrease by 100 basis-points, the fair value of our long-term debt would increase by approximately $145.0 million. We are subject to interest rate risk on our variable rate debt as changes in interest rates could adversely affect earnings and cash flows. A 100 basis-points increase in interest rates, based on 3-month LIBOR, would have an annualized pre-tax effect of approximately $43.8 million in our consolidated statements of income (loss) and cash flows, based on current outstanding borrowings and effective interest rates on our variable rate debt. For the tranches in our credit facility that have a LIBOR floor, an increase in interest rates would only impact interest expense on those term loans to the extent LIBOR exceeds the floor. While our variable-rate debt may impact earnings and cash flows as interest rates change, it is not subject to changes in fair value.
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+Critical accounting policies and estimates are those policies and estimates that are most important and material to the preparation of our consolidated financial statements, and which require management’s most subjective and complex judgments due to the need to select policies from among alternatives available, and to make estimates about matters that are inherently uncertain. We base our estimates on historical experience and other factors that we believe to be reasonable under the circumstances. On an ongoing basis, we review our estimates to ensure that these estimates appropriately reflect changes in our business and new information as it becomes available. If historical experience and other factors we use to make these estimates do not reasonably reflect future activity, our results of operations and financial condition could be materially impacted.
+51
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+Revenue Recognition
+We recognize product sales revenue when title has transferred to the customer and the customer has assumed the risks and rewards of ownership, the timing of which is based on the specific contractual terms with each customer. In most instances, transfer of title as well as the risks and rewards of ownership occurs upon delivery of the product to the customer. Revenue from product sales is recognized net of provisions for estimated cash discounts, allowances, returns, rebates, and chargebacks, as well as distribution fees paid to certain of our wholesale customers. We establish these provisions concurrently with the recognition of product sales revenue.
+Under certain product manufacturing and supply agreements, we rely on estimates for future returns, rebates and chargebacks made by our commercialization counterparties. We make adjustments as needed to state these estimates on a basis consistent with our revenue recognition policy and our methodology for estimating returns, rebates, and chargebacks related to our own direct product sales.
+We continually monitor our product sales provisions and evaluate the estimates used as additional information becomes available. We make adjustments to these provisions periodically to reflect new facts and circumstances that may indicate that historical experience may not be indicative of current and/or future results. We are required to make subjective judgments based primarily on our evaluation of current market conditions and trade inventory levels related to our products. This evaluation may result in an increase or decrease in the experience rate that is applied to current and future sales, or an adjustment related to past sales, or both.
+Product Sales Provisions
+The following table presents the activity and ending balances for our product sales provisions for each of the last three years.
+
+Discounts
+and
+Allowances
+
+Returns
+
+Rebates
+
+Chargebacks
+
+Distribution
+Fees
+
+Total
+($ in millions)
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+Reserve balance, January 1, 2012
+
+7.8
+
+119.1
+
+121.1
+
+15.2
+
+11.5
+
+274.7
+Acquisition of Medicis
+
+2.4
+
+61.0
+
+148.4
+
+2.4
+
+7.7
+
+221.9
+Current year provision
+
+67.1
+
+57.4
+
+432.2
+
+191.4
+
+44.8
+
+792.9
+Prior year provision
+
+—
+
+(10.5
+)
+
+2.0
+
+—
+
+—
+
+(8.5
+)
+Payments or credits
+
+(58.6
+)
+
+(55.9
+)
+
+(334.4
+)
+
+(181.0
+)
+
+(50.1
+)
+
+(680.0
+)
+Reserve balance, December 31, 2012
+
+18.7
+
+171.1
+
+369.3
+
+28.0
+
+13.9
+
+601.0
+Acquisition of B&L
+
+49.0
+
+55.4
+
+104.1
+
+20.8
+
+11.7
+
+241.0
+Current year provision
+
+241.8
+
+124.6
+
+1,277.1
+
+407.1
+
+156.9
+
+2,207.5
+Prior year provision
+
+(0.6
+)
+
+1.7
+
+—
+
+0.9
+
+—
+
+2.0
+Payments or credits
+
+(218.2
+)
+
+(127.3
+)
+
+(1,183.9
+)
+
+(378.0
+)
+
+(136.3
+)
+
+(2,043.7
+)
+Reserve balance, December 31, 2013
+
+90.7
+
+225.5
+
+566.6
+
+78.8
+
+46.2
+
+1,007.8
+Acquisition of PreCision
+
+3.5
+
+20.7
+
+31.4
+
+1.5
+
+—
+
+57.1
+Current year provision
+
+422.1
+
+285.9
+
+1,271.5
+
+985.1
+
+515.4
+
+3,480.0
+Prior year provision
+
+0.9
+
+10.3
+
+(0.9
+)
+
+—
+
+—
+
+10.3
+Payments or credits
+
+(390.8
+)
+
+(162.1
+)
+
+(1,153.7
+)
+
+(877.9
+)
+
+(476.5
+)
+
+(3,061.0
+)
+Reserve balance, December 31, 2014
+
+126.4
+
+380.3
+
+714.9
+
+187.5
+
+85.1
+
+1,494.2
+Use of Information from External Sources
+In the U.S., we use information from external sources to estimate our product sales provisions. We have data sharing agreements with the three largest wholesalers in the U.S. Where we do not have data sharing agreements, we use third-party data to estimate the level of product inventories and product demand at wholesalers and retail pharmacies. Third-party data with respect to prescription demand and inventory levels are subject to the inherent limitations of estimates that rely on information from external sources, as this information may itself rely on certain estimates and reflect other limitations.
+Our distribution agreements with the three largest wholesalers in the U.S. contain target inventory levels between 1⁄2 and 11⁄2 months supply of our products, calculated using historical demand. Inventory levels can fluctuate based on changes in demand, such as the launch of a new product (such as Jublia®). The inventory data from these wholesalers is provided to us in the aggregate
+52
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+rather than by specific lot number, which is the level of detail that would be required to determine the original sale date and remaining shelf life of the inventory.
+Cash Discounts and Allowances
+We offer cash discounts for prompt payment and allowances for volume purchases to customers. Provisions for cash discounts are estimated at the time of sale and recorded as direct reductions to accounts receivable and revenue. We estimate provisions for cash discounts and allowances based on contractual sales terms with customers, an analysis of unpaid invoices, and historical payment experience. Estimated cash discounts and allowances have historically been predictable and less subjective, due to the limited number of assumptions involved, the consistency of historical experience, and the fact that we generally settle these amounts within one month of incurring the liability.
+Returns
+Consistent with industry practice, we generally allow customers to return product within a specified period before and after its expiration date, excluding our European businesses which generally do not carry a right of return. Our product returns provision is estimated based on historical sales and return rates over the period during which customers have a right of return. We utilize the following information to estimate our provision for returns:
+•
+historical return and exchange levels;
+•
+external data with respect to inventory levels in the wholesale distribution channel;
+•
+external data with respect to prescription demand for our products;
+•
+remaining shelf lives of our products at the date of sale; and
+•
+estimated returns liability to be processed by year of sale based on an analysis of lot information related to actual historical returns.
+In determining our estimates for returns, we are required to make certain assumptions regarding the timing of the introduction of new products and the potential of these products to capture market share. In addition, we make certain assumptions with respect to the extent and pattern of decline associated with generic competition. To make these assessments, we utilize market data for similar products as analogs for our estimates. We use our best judgment to formulate these assumptions based on past experience and information available to us at the time. We continually reassess and make the appropriate changes to our estimates and assumptions as new information becomes available to us. A change of 1% in the estimated return rates would have impacted our pre-tax earnings by approximately $50 million for the year ended December 31, 2014.
+Our estimate for returns may be impacted by a number of factors, but the principal factor relates to the level of inventory in the distribution channel. When we are aware of an increase in the level of inventory of our products in the distribution channel, we consider the reasons for the increase to determine if the increase may be temporary or other-than-temporary. Increases in inventory levels assessed as temporary will not differ from our original estimates of our provision for returns. Other-than-temporary increases in inventory levels, however, may be an indication that future product returns could be higher than originally anticipated, and, as a result, we may need to adjust our estimate for returns. Some of the factors that may suggest that an increase in inventory levels will be temporary include:
+•
+recently implemented or announced price increases for our products;
+•
+new product launches or expanded indications for our existing products; and
+•
+timing of purchases by our wholesale customers.
+Conversely, factors that may suggest that an increase in inventory levels will be other-than-temporary include:
+•
+declining sales trends based on prescription demand;
+•
+introduction of new products or generic competition;
+•
+increasing price competition from generic competitors; and
+•
+recent changes to the U.S. National Drug Codes (“NDC”) of our products, which could result in a period of higher returns related to products with the old NDC, as our U.S. customers generally permit only one NDC per product for identification and tracking within their inventory systems.
+53
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+Rebates and Chargebacks
+We are subject to rebates on sales made under governmental and managed-care pricing programs in the U.S. We participate in state government-managed Medicaid programs, as well as certain other qualifying federal and state government programs whereby discounts and rebates are provided to participating government entities. Medicaid rebates are generally billed 45 days after the quarter, but can be billed up to 270 days after the quarter in which the product is dispensed to the Medicaid participant. As a result, our Medicaid rebate reserve includes an estimate of outstanding claims for end-customer sales that occurred but for which the related claim has not been billed and/or paid, and an estimate for future claims that will be made when inventory in the distribution channel is sold through to plan participants. Our calculation also requires other estimates, such as estimates of sales mix, to determine which sales are subject to rebates and the amount of such rebates. A change of 1% in the volume of product sold through to Medicaid plan participants would have impacted our pre-tax earnings by approximately $48 million for the year ended December 31, 2014. Periodically, we adjust the Medicaid rebate reserve based on actual claims paid. Due to the delay in billing, adjustments to actual claims paid may incorporate revisions of that reserve for several periods.
+Managed Care rebates relate to our contractual agreements to sell products to managed care organizations and pharmacy benefit managers at contractual rebate percentages in exchange for volume and/or market share. The reserve balance for Managed Care rebates was $263.3 million, $147.7 million and $139.1 million as of December 31, 2014, 2013 and 2012, respectively.
+Chargebacks relate to our contractual agreements to sell products to group purchasing organizations and other indirect customers at contractual prices that are lower than the list prices we charge wholesalers. When these group purchasing organizations or other indirect customers purchase our products through wholesalers at these reduced prices, the wholesaler charges us for the difference between the prices they paid us and the prices at which they sold the products to the indirect customers.
+In estimating our provisions for rebates and chargebacks, we consider relevant statutes with respect to governmental pricing programs and contractual sales terms with managed-care providers and group purchasing organizations. We estimate the amount of our product sales subject to these programs based on historical utilization levels. Changes in the level of utilization of our products through private or public benefit plans and group purchasing organizations will affect the amount of rebates and chargebacks that we are obligated to pay. We continually update these factors based on new contractual or statutory requirements, and any significant changes in sales trends that may impact the percentage of our products subject to rebates or chargebacks.
+The amount of managed care, Medicaid, and other rebates and chargebacks has become more significant as a result of a combination of deeper discounts due to the price increases we implemented in each of the last three years, changes in our product portfolio due to recent acquisitions and increased Medicaid utilization due to existing economic conditions in the U.S. Our estimate for rebates and chargebacks may be impacted by a number of factors, but the principal factor relates to the level of inventory in the distribution channel.
+Rebate provisions are based on factors such as timing and terms of plans under contract, time to process rebates, product pricing, sales volumes, amount of inventory in the distribution channel and prescription trends. Accordingly, we generally assume that adjustments made to rebate provisions relate to sales made in the prior years due to the delay in billing. However, we assume that adjustments made to chargebacks are generally related to sales made in the current year, as we settle these amounts within a few months of original sale. Our adjustments to actual in 2014, 2013 and 2012 were not material to our revenues or earnings.
+Consumer Rebates and Loyalty Programs are rebates we offer on many of our products. We generally account for these programs by establishing an accrual based on our estimate of the rebate and loyalty incentives attributable to a sale. We accrue our estimates on historical experience and other relevant factors. We adjust our accruals periodically throughout each quarter based on actual experience and changes in other factors, if any, to ensure the balance is fairly stated. The reserve balance for consumer rebates and loyalty programs was $25.2 million, $113.6 million and $66.8 million as of December 31, 2014, 2013 and 2012, respectively. The decrease in the reserve balance as of December 31, 2014 was due to the sale of the aesthetic brands (facial aesthetic fillers and toxins assets) to Galderma in July 2014. The increase in the reserve balance as of December 31, 2013 compared to December 31, 2012 was due to the launch of physician rebate incentive program for the aesthetic brands.
+
+Distribution Fees
+We sell product primarily to wholesalers, and in some instances to large pharmacy chains such as CVS and Wal-Mart. We have entered into Distribution Services Agreements (DSAs) with several large wholesale customers such as McKesson, AmerisourceBergen Corporation, Cardinal, and McKesson Specialty. Under the DSA agreements, the wholesalers agree to provide services, and we pay contracted DSA Fees for these services based on product volumes.
+Acquisitions
+54
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+We have completed several acquisitions of companies, as well as acquisitions of certain assets of companies. To determine whether such acquisitions qualify as business combinations or asset acquisitions, we make certain judgments, which include assessment of the inputs, processes, and outputs associated with the acquired set of activities. If we determine that the acquisition consists of inputs, as well as processes that when applied to those inputs have the ability to create outputs, the acquisition is determined to be a business combination. In instances where the acquired set of activities does not include all of the inputs and processes used by the seller in operating the business, we make judgments as to whether market participants would be capable of acquiring the business and continuing to produce outputs, for example, by integrating the business with their own inputs and processes. If we conclude that market participants would have this capability, the acquisition is determined to be business combination.
+In a business combination, we account for acquired businesses using the acquisition method of accounting, which requires that assets acquired and liabilities assumed be recorded at fair value, with limited exceptions. The judgments made in determining the estimated fair value assigned to each class of asset acquired and liability assumed can materially impact our results of operations. As part of our valuation procedures, we typically consult an independent advisor. There are several methods that can be used to determine fair value. For intangible assets, we typically use an excess earnings or relief from royalty method. The excess earnings method starts with a forecast of the net cash flows expected to be generated by the asset over its estimated useful life. These cash flows are then adjusted to present value by applying an appropriate discount rate that reflects the risk factors associated with the cash flow streams. Some of the more significant estimates and assumptions inherent in the excess earnings method include:
+•
+the amount and timing of projected future cash flows, adjusted for the probability of technical success of products in the IPR&D stage;
+•
+the amount and timing of projected costs to develop IPR&D into commercially viable products;
+•
+the discount rate selected to measure the risks inherent in the future cash flows; and
+•
+an assessment of the asset’s life-cycle and the competitive trends impacting the asset, including consideration of any technical, legal, regulatory, or economic barriers to entry.
+The relief from royalty method involves estimating the amount of notional royalty income that could be generated if the intangible asset was licensed to a third party. The fair value of the intangible asset is the net present value of the prospective stream of the notional royalty income that would be generated over the expected useful life of the intangible asset. Values derived using the relief from royalty method are based on royalty rates observed for comparable intangible assets.
+We believe the fair values assigned to the assets acquired and liabilities assumed are based on reasonable assumptions, however, these assumptions may be incomplete or inaccurate, and unanticipated events and circumstances may occur. We will finalize these amounts as we obtain the information necessary to complete the measurement processes. Any changes resulting from facts and circumstances that existed as of the acquisition dates may result in retrospective adjustments to the provisional amounts recognized at the acquisition dates. These changes could be significant. We will finalize these amounts no later than one year from the respective acquisition dates.
+Determining the useful life of an intangible asset also requires judgment, as different types of intangible assets will have different useful lives and certain assets may even be considered to have indefinite useful lives. Useful life is the period over which the intangible asset is expected to contribute directly or indirectly to our future cash flows. We determine the useful lives of intangible assets based on a number of factors, such as legal, regulatory, or contractual provisions that may limit the useful life, and the effects of obsolescence, anticipated demand, existence or absence of competition, and other economic factors on useful life. We determined that the B&L corporate trademark has an indefinite useful life as there are no legal, regulatory, contractual, competitive, economic, or other factors that limit the useful life of this intangible asset.
+Acquisition-Related Contingent Consideration
+Some of the business combinations that we have consummated include contingent consideration to be potentially paid based upon the occurrence of future events, such as sales performance and the achievement of certain future development, regulatory and sales milestones. Acquisition-related contingent consideration associated with a business combination is initially recognized at fair value and then remeasured each reporting period, with changes in fair value recorded in the consolidated statements of income (loss). The estimates of fair value contain uncertainties as they involve assumptions about the likelihood of achieving specified milestone criteria, projections of future financial performance, and assumed discount rates. Changes in the fair value of the acquisition-related contingent consideration obligations result from several factors including changes in discount periods and rates, changes in the timing and amount of revenue estimates and changes in probability assumptions with respect to the likelihood
+55
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+of achieving specified milestone criteria. A change in any of these assumptions could produce a different fair value, which could have a material impact on our results of operations.
+Intangible Assets
+We evaluate potential impairments of amortizable intangible assets acquired through asset acquisitions or business combinations if events or changes in circumstances indicate that the carrying amounts of these assets may not be recoverable. Our evaluation is based on an assessment of potential indicators of impairment, such as:
+•
+an adverse change in legal factors or in the business climate that could affect the value of an asset. For example, a successful challenge of our patent rights resulting in earlier than expected generic competition;
+•
+an adverse change in the extent or manner in which an asset is used or is expected to be used. For example, a decision not to pursue a product line-extension strategy to enhance an existing product due to changes in market conditions and/or technological advances; or
+•
+current or forecasted reductions in revenue, operating income, or cash flows associated with the use of an asset. For example, the introduction of a competing product that results in a significant loss of market share.
+Impairment exists when the carrying amount of an amortizable intangible asset is not recoverable and its carrying value exceeds its estimated fair value. A discounted cash flow analysis is typically used to determine fair value using estimates and assumptions that market participants would apply. Some of the estimates and assumptions inherent in a discounted cash flow model include the amount and timing of the projected future cash flows, and the discount rate used to reflect the risks inherent in the future cash flows. A change in any of these estimates and assumptions could produce a different fair value, which could have a material impact on our results of operations. In addition, an intangible asset’s expected useful life can increase estimation risk, as longer-lived assets necessarily require longer-term cash flow forecasts, which for some of our intangible assets can be up to 25 years. In connection with an impairment evaluation, we also reassess the remaining useful life of the intangible asset and modify it, as appropriate.
+Indefinite-lived intangible assets, including IPR&D and the B&L corporate trademark, are tested for impairment annually, or more frequently if events or changes in circumstances between annual tests indicate that the asset may be impaired. Impairment losses on indefinite-lived intangible assets are recognized based solely on a comparison of their fair value to carrying value, without consideration of any recoverability test. In particular, we will continue to monitor closely the progression of our R&D programs, including VesneoTM (which represents a large portion of our IPR&D asset balance), as their likelihood of success is contingent upon the achievement of future development milestones. Refer to “Products in Development” above for additional information regarding our R&D programs.
+Goodwill
+Goodwill is not amortized but is tested for impairment at least annually at the reporting unit level. A reporting unit is the same as, or one level below, an operating segment. The fair value of a reporting unit refers to the price that would be received to sell the unit as a whole in an orderly transaction between market participants. We operate in two operating/reportable segments: Developed Markets and Emerging Markets. The Developed Markets segment consists of four reporting units based on geography, namely (i) U.S., (ii) Canada and Australia, (iii) Western Europe, and (iv) Japan. The Emerging Markets segment consists of three reporting units based on geography, namely (i) Central/Eastern Europe, Middle East and North Africa, (ii) Latin America, and (iii) Asia/South Africa. We conducted our annual goodwill impairment test in the fourth quarter of 2014. We estimated the fair values of our reporting units using a discounted cash flow analysis approach. These calculations contain uncertainties as they require us to make assumptions about future cash flows and the appropriate discount rate to reflect the risk inherent in the future cash flows. A change in any of these estimates and assumptions could produce a different fair value, which could have a material impact on our results of operations. We determined that none of the goodwill associated with our reporting units was impaired. The estimated fair values of each reporting unit substantially exceeded their carrying values at the date of testing. We applied a hypothetical 15% decrease to the fair values of each reporting unit, which at such date, would not have triggered additional impairment testing and analysis.
+Contingencies
+In the normal course of business, we are subject to loss contingencies, such as claims and assessments arising from litigation and other legal proceedings, contractual indemnities, product and environmental liabilities, and tax matters. We are required to accrue for such loss contingencies if it is probable that the outcome will be unfavorable and if the amount of the loss can be reasonably estimated. We evaluate our exposure to loss based on the progress of each contingency, experience in similar
+56
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+contingencies, and consultation with our legal counsel. We re-evaluate all contingencies as additional information becomes available. Given the uncertainties inherent in complex litigation and other contingencies, these evaluations can involve significant judgment about future events. The ultimate outcome of any litigation or other contingency may be material to our results of operations, financial condition, and cash flows. For a discussion of our current legal proceedings, see note 20 to the 2014 Financial Statements.
+Income Taxes
+We have operations in various countries that have differing tax laws and rates. Our tax structure is supported by current domestic tax laws in the countries in which we operate and the application of tax treaties between the various countries in which we operate. Our income tax reporting is subject to audit by domestic and foreign tax authorities. Our effective tax rate may change from year to year based on changes in the mix of activities and income allocated or earned among the different jurisdictions in which we operate, changes in tax laws in these jurisdictions, changes in tax treaties between various countries in which we operate, changes in our eligibility for benefits under those tax treaties, and changes in the estimated values of deferred tax assets and liabilities. Such changes could result in an increase in the effective tax rate on all or a portion of our income and/or any of our subsidiaries.
+Our provision for income taxes is based on a number of estimates and assumptions made by management. Our consolidated income tax rate is affected by the amount of income earned in our various operating jurisdictions, the availability of benefits under tax treaties, and the rates of taxes payable in respect of that income. We enter into many transactions and arrangements in the ordinary course of business in which the tax treatment is not entirely certain. We must therefore make estimates and judgments based on our knowledge and understanding of applicable tax laws and tax treaties, and the application of those tax laws and tax treaties to our business, in determining our consolidated tax provision. For example, certain countries could seek to tax a greater share of income than has been provided for by us. The final outcome of any audits by taxation authorities may differ from the estimates and assumptions we have used in determining our consolidated income tax provisions and accruals. This could result in a material effect on our consolidated income tax provision, results of operations, and financial condition for the period in which such determinations are made.
+Our income tax returns are subject to audit in various jurisdictions. Existing and future audits by, or other disputes with, tax authorities may not be resolved favorably for us and could have a material adverse effect on our reported effective tax rate and after-tax cash flows. We record liabilities for uncertain tax positions, which involve significant management judgment. New laws and new interpretations of laws and rulings by tax authorities may affect the liability for uncertain tax positions. Due to the subjectivity and complex nature of the underlying issues, actual payments or assessments may differ from our estimates. To the extent that our estimates differ from amounts eventually assessed and paid our income and cash flows may be materially and adversely affected.
+We assess whether it is more likely than not that we will realize the tax benefits associated with our deferred tax assets and establish a valuation allowance for assets that are not expected to result in a realized tax benefit. A significant amount of judgment is used in this process, including preparation of forecasts of future taxable income and evaluation of tax planning initiatives. If we revise these forecasts or determine that certain planning events will not occur, an adjustment to the valuation allowance will be made to tax expense in the period such determination is made.
+Share-Based Compensation
+We recognize employee share-based compensation, including grants of stock options and RSUs, at estimated fair value. As there is no market for trading our employee stock options, we use the Black-Scholes option-pricing model to calculate stock option fair values, which requires certain assumptions related to the expected life of the stock option, future stock price volatility, risk-free interest rate, and dividend yield. The expected life of the stock option is based on historical exercise and forfeiture patterns. The expected volatility of our common stock is estimated by using implied volatility in market traded options. The risk-free interest rate is based on the rate at the time of grant for U.S. Treasury bonds with a remaining term equal to the expected life of the stock option. Dividend yield is based on the stock option’s exercise price and expected annual dividend rate at the time of grant. Changes to any of these assumptions, or the use of a different option-pricing model, such as the lattice model, could produce a different fair value for share-based compensation expense, which could have a material impact on our results of operations.
+We determine the fair value of each RSU granted based on the trading price of our common shares on the date of grant, unless the vesting of the RSU is conditional on the attainment of any applicable performance goals, in which case we use a Monte Carlo simulation model. The Monte Carlo simulation model utilizes multiple input variables to estimate the probability that the performance condition will be achieved. Changes to any of these inputs could materially affect the measurement of the fair value of the performance-based RSUs.
+57
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+Employee Benefits
+Our benefits plans include defined benefit pension plans, defined contribution plans and a participatory defined benefit postretirement plan. The determination of defined benefit pension and postretirement plan obligations and their associated expenses requires the use of actuarial valuations to estimate the benefits employees earn while working, as well as the present value of those benefits. Inherent in these valuations are economic assumptions including expected returns on plan assets, discount rates at which liabilities could be settled, rates of increase in healthcare costs, rates of future compensation increases as well as employee demographic assumptions such as retirement patterns, mortality and turnover. The actuarial assumptions used may differ materially from actual results due to changing market and economic conditions, higher or lower turnover rates or longer or shorter life spans of participants. Actual results that differ from the actuarial assumptions used are recorded as actuarial gains and losses. We review the assumptions annually (and more frequently if a significant event occurs) and make any necessary changes.
+Our U.S. defined benefit pension plan and our Ireland plans incurred net actuarial losses of $30.3 million and $84.7 million in 2014, respectively, reflecting the increase in the plan’s obligation resulting primarily from a lower discount rate, partially offset by an actual return on plan assets exceeding expected returns for the Ireland plan.
+The following is a discussion of the most significant assumptions used in connection with our employee benefit plans
+.
+The expected long-term rate of return on plan assets was developed based on a capital markets model that uses expected asset class returns, variance and correlation assumptions. The expected asset class returns were developed starting with current Treasury (for the U.S. pension plan) or Eurozone (for the Ireland pension plans) government yields and then adding corporate bond spreads and equity risk premiums to develop the return expectations for each asset class. The expected asset class returns are forward-looking. The variance and correlation assumptions are also forward-looking. They take into account historical relationships, but are adjusted to reflect expected capital market trends. The expected return on plan assets for the Company’s U.S. pension plan for 2014 was 7.50% and for the postretirement benefit plan was 5.50%. The expected return for the postretirement plan is based on the expected return for the U.S. pension plan reduced by 2.00% to reflect an estimate of additional administrative expenses. The expected return on plan assets for the Company’s Ireland pension plans was 6.00% for 2014.
+The 2015 expected rate of return for the U.S. pension plan and postretirement plan will remain at 7.50% and 5.50%, respectively. The 2015 expected rate of return for the Ireland pension benefit plans will remain at 6.00%.
+The discount rate reflects the current rate at which the benefit plan liabilities could be effectively settled considering the timing of expected payments for plan participants. The discount rates for the U.S. pension and postretirement benefit plans and the Ireland pension plans were based on models that calculate a discount rate as an average of semi-annual spot rates weighted by the estimated projected plan cash flows. The models for the U.S. pension and postretirement benefit plans were derived from pricing and yield information on high quality non-callable U.S. corporate bonds.
+Due to the long-term nature of the Ireland pension plans projected cash flows and the lack of long-term high quality corporate bonds in the Eurozone, the model for the Ireland pension plans was derived from pricing and yield information on Eurozone treasury bonds. An option-adjusted spread was added to the resulting Eurozone treasury yield curve to produce a proxy to high quality corporate bonds. The discount rate used for the U.S. pension and postretirement plans at December 31, 2014 was 3.90% and 3.70%, respectively. The discount rate used for the Ireland plans at December 31, 2014 was 2.40%.
+The following table illustrates the sensitivity of the U.S. pension and postretirement plan and Ireland plan obligations and expenses to changes in the above assumptions, assuming all other assumptions remain constant.
+58
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+
+Changes in Assumption
+
+Pre-Tax Impact on
+U.S. Pension Benefit
+ Plan Expenses
+(Decrease) Increase
+
+Impact on
+U.S. Pension Benefit
+Plan Liabilities
+(Decrease) Increase
+
+($ in millions)
+
+Expected return on plan assets
+
+Increase one percentage point
+
+$
+(1.9
+)
+
+Not applicable
+
+Decrease one percentage point
+
+1.9
+
+Not applicable
+
+Discount rate
+
+Increase one percentage point
+
+(1.3
+)
+
+$
+(24.0
+)
+
+Decrease one percentage point
+
+(0.3
+)
+
+26.3
+
+Changes in Assumption
+
+Pre-Tax Impact on
+Postretirement Benefit
+ Plan Expenses
+(Decrease) Increase
+
+Impact on
+Postretirement Benefit
+Plan Liabilities
+(Decrease) Increase
+
+($ in millions)
+
+Expected return on plan assets
+
+Increase one percentage point
+
+$
+(0.1
+)
+
+Not applicable
+
+Decrease one percentage point
+
+0.1
+
+Not applicable
+
+Discount rate
+
+Increase one percentage point
+
+0.4
+
+$
+(4.6
+)
+
+Decrease one percentage point
+
+(0.4
+)
+
+5.4
+
+Changes in Assumption
+
+Pre-Tax Impact on
+Ireland Plan Expenses
+(Decrease) Increase
+
+Impact on Ireland
+Plan Liabilities
+(Decrease) Increase
+
+($ in millions)
+
+Expected return on plan assets
+
+Increase one percentage point
+
+$
+(1.2
+)
+
+Not applicable
+
+Decrease one percentage point
+
+1.2
+
+Not applicable
+
+Discount rate
+
+Increase one percentage point
+
+(2.0
+)
+
+$
+(50.4
+)
+
+Decrease one percentage point
+
+0.4
+
+66.6
+NEW ACCOUNTING STANDARDS
+Information regarding the recently issued new accounting guidance (adopted and not adopted as of December 31, 2014) is contained in note 2 to the 2014 Financial Statements.
+FORWARD-LOOKING STATEMENTS
+Caution regarding forward-looking information and statements and “Safe-Harbor” statements under the U.S. Private Securities Litigation Reform Act of 1995:
+To the extent any statements made in this Annual Report on Form 10-K contain information that is not historical, these statements are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, and may be forward-looking information within the meaning defined under applicable Canadian securities legislation (collectively, “forward-looking statements”).
+ These forward-looking statements relate to, among other things: the expected benefits of our acquisitions and other transactions (including the proposed acquisition of Salix), such as cost savings, operating synergies and growth potential of the Company; business plans and prospects, prospective products or product approvals, future performance or results of current and anticipated products; exposure to foreign currency exchange rate changes and interest rate changes; the outcome of contingencies, such as certain litigation and regulatory proceedings; general market conditions; and our expectations regarding our financial performance, including revenues, expenses, gross margins, liquidity and income taxes.
+59
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+ Forward-looking statements can generally be identified by the use of words such as “believe”, “anticipate”, “expect”, “intend”, “estimate”, “plan”, “continue”, “will”, “may”, “could”, “would”, “should”, “target”, “potential”, “opportunity”, “tentative”, “positioning”, “designed”, “create”, “predict”, “project”, “seek“, “ongoing”, “increase”, or “upside” and variations or other similar expressions. In addition, any statements that refer to expectations, projections or other characterizations of future events or circumstances are forward-looking statements. These forward-looking statements may not be appropriate for other purposes. Although we have indicated above certain of these statements set out herein, all of the statements in this Form 10-K that contain forward-looking statements are qualified by these cautionary statements. These statements are based upon the current expectations and beliefs of management. Although we believe that the expectations reflected in such forward-looking statements are reasonable, such statements involve risks and uncertainties, and undue reliance should not be placed on such statements. Certain material factors or assumptions are applied in making forward-looking statements, including, but not limited to, factors and assumptions regarding the items outlined above. Actual results may differ materially from those expressed or implied in such statements. Important factors that could cause actual results to differ materially from these expectations include, among other things, the following:
+•
+the challenges and difficulties associated with managing the rapid growth of our Company and a large complex business;
+•
+our ability to retain, motivate and recruit executives and other key employees;
+•
+the introduction of products that compete against our products that do not have patent or data exclusivity rights;
+•
+our ability to compete against companies that are larger and have greater financial, technical and human resources than we do, as well as other competitive factors, such as technological advances achieved, patents obtained and new products introduced by our competitors;
+•
+our ability to identify, finance, acquire, close and integrate acquisition targets successfully and on a timely basis;
+•
+factors relating to the acquisition and integration of the companies, businesses and products acquired by the Company, such as the time and resources required to integrate such companies, businesses and products, the difficulties associated with such integrations (including potential disruptions in sales activities and potential challenges with information technology systems integrations), the difficulties and challenges associated with entering into new business areas and new geographic markets, the difficulties, challenges and costs associated with managing and integrating new facilities, equipment and other assets, and the achievement of the anticipated benefits from such integrations, as well as risks associated with the acquired companies, businesses and products;
+•
+factors relating to our ability to achieve all of the estimated synergies from our acquisitions as a result of cost-rationalization and integration initiatives. These factors may include greater than expected operating costs, the difficulty in eliminating certain duplicative costs, facilities and functions, and the outcome of many operational and strategic decisions, some of which have not yet been made;
+•
+factors relating to our proposed acquisition of Salix, including our ability to consummate such transaction on a timely basis, if at all; the impact of substantial additional debt on our financial condition and results of operations; our ability to effectively and timely integrate the operations of the Company and Salix; our ability to achieve the estimated synergies from this proposed transaction; and, once integrated, the effects of such business combination on our future financial condition, operating results, strategy and plans;
+•
+our ability to secure and maintain third party research, development, manufacturing, marketing or distribution arrangements;
+•
+our eligibility for benefits under tax treaties and the continued availability of low effective tax rates for the business profits of certain of our subsidiaries;
+•
+our substantial debt and debt service obligations and their impact on our financial condition and results of operations;
+•
+our future cash flow, our ability to service and repay our existing debt, our ability to raise additional funds, if needed, and any restrictions that are or may be imposed as a result of our current and future indebtedness, in light of our current and projected levels of operations, acquisition activity and general economic conditions;
+•
+any downgrade by rating agencies in our corporate credit ratings, which may impact, among other things, our ability to raise additional debt capital and implement elements of our growth strategy;
+•
+interest rate risks associated with our floating rate debt borrowings;
+60
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+•
+the risks associated with the international scope of our operations, including our presence in emerging markets and the challenges we face when entering new geographic markets (including the challenges created by new and different regulatory regimes in such countries);
+•
+adverse global economic conditions and credit market and foreign currency exchange uncertainty in the countries in which we do business (such as the recent instability in Russia, Ukraine and the Middle East);
+•
+economic factors over which the Company has no control, including changes in inflation, interest rates, foreign currency rates, and the potential effect of such factors on revenues, expenses and resulting margins;
+•
+the introduction of generic competitors of our branded products;
+•
+our ability to obtain and maintain sufficient intellectual property rights over our products and defend against challenges to such intellectual property;
+•
+the outcome of legal proceedings, arbitrations, investigations and regulatory proceedings;
+•
+the risk that our products could cause, or be alleged to cause, personal injury and adverse effects, leading to potential lawsuits, product liability claims and damages and/or withdrawals of products from the market;
+•
+the availability of and our ability to obtain and maintain adequate insurance coverage and/or our ability to cover or insure against the total amount of the claims and liabilities we face, whether through third party insurance or self-insurance;
+•
+the difficulty in predicting the expense, timing and outcome within our legal and regulatory environment, including with respect to approvals by the U.S. Food and Drug Administration, Health Canada and similar agencies in other countries, legal and regulatory proceedings and settlements thereof, the protection afforded by our patents and other intellectual and proprietary property, successful generic challenges to our products and infringement or alleged infringement of the intellectual property of others;
+•
+the results of continuing safety and efficacy studies by industry and government agencies;
+•
+the availability and extent to which our products are reimbursed by government authorities and other third party payors, as well as the impact of obtaining or maintaining such reimbursement on the price of our products;
+•
+the inclusion of our products on formularies or our ability to achieve favorable formulary status, as well as the impact on the price of our products in connection therewith;
+•
+the impact of price control restrictions on our products, including the risk of mandated price reductions;
+•
+the success of preclinical and clinical trials for our drug development pipeline or delays in clinical trials that adversely impact the timely commercialization of our pipeline products, as well as factors impacting the commercial success of our currently marketed products, which could lead to material impairment charges;
+•
+the results of management reviews of our research and development portfolio, conducted periodically and in connection with certain acquisitions, the decisions from which could result in terminations of specific projects which, in turn, could lead to material impairment charges;
+•
+negative publicity or reputational harm to our products and business;
+•
+the uncertainties associated with the acquisition and launch of new products, including, but not limited to, the acceptance and demand for new pharmaceutical products, and the impact of competitive products and pricing;
+•
+our ability to obtain components, raw materials or finished products supplied by third parties and other manufacturing and related supply difficulties, interruptions and delays;
+•
+the disruption of delivery of our products and the routine flow of manufactured goods;
+•
+the seasonality of sales of certain of our products;
+•
+declines in the pricing and sales volume of certain of our products that are distributed or marketed by third parties, over which we have no or limited control;
+61
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS (Continued)
+•
+compliance with, or the failure to comply with, health care “fraud and abuse” laws and other extensive regulation of our marketing, promotional and pricing practices, worldwide anti-bribery laws (including the U.S. Foreign Corrupt Practices Act), worldwide environmental laws and regulation and privacy and security regulations;
+•
+the impacts of the Patient Protection and Affordable Care Act (as amended) and other legislative and regulatory healthcare reforms in the countries in which we operate;
+•
+interruptions, breakdowns or breaches in our information technology systems; and
+•
+other risks detailed from time to time in our filings with the SEC and the Canadian Securities Administrators (the “CSA”), as well as our ability to anticipate and manage the risks associated with the foregoing.
+Additional information about these factors and about the material factors or assumptions underlying such forward-looking statements may be found elsewhere in this Form 10-K, under Item 1A. “Risk Factors”, and in the Company’s other filings with the SEC and CSA. When relying on our forward-looking statements to make decisions with respect to the Company, investors and others should carefully consider the foregoing factors and other uncertainties and potential events. These forward-looking statements speak only as of the date made. We undertake no obligation to update or revise any of these forward-looking statements to reflect events or circumstances after the date of this Form 10-K or to reflect actual outcomes, except as required by law. We caution that, as it is not possible to predict or identify all relevant factors that may impact forward-looking statements, the foregoing list of important factors that may affect future results is not exhaustive and should not be considered a complete statement of all potential risks and uncertainties.
+MANAGEMENT’S REPORT ON DISCLOSURE CONTROLS AND PROCEDURES AND INTERNAL CONTROL OVER FINANCIAL REPORTING
+Disclosure Controls and Procedures
+We performed an evaluation of the effectiveness of our disclosure controls and procedures that are designed to ensure that the material financial and non-financial information required to be disclosed on reports and filed or submitted with the SEC is recorded, processed, summarized, and reported in a timely manner. Based on our evaluation, our management, including Chief Executive Officer (the “CEO”) and Chief Financial Officer (“CFO”), has concluded that our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934) as of December 31, 2014 are effective. Notwithstanding the foregoing, there can be no assurance that our disclosure controls and procedures will detect or uncover all failures of persons within the Company to disclose material information otherwise required to be set forth in our reports.
+Internal Controls Over Financial Reporting
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rules 13a-15(f) and 15d-15(f) under the Securities Exchange Act of 1934. Our internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles.
+Under the supervision and with the participation of management, including our CEO and CFO, we conducted an evaluation of the effectiveness of our internal control over financial reporting based on the framework described in Internal Control — Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on its evaluation under this framework, management concluded that our internal control over financial reporting was effective as of December 31, 2014.
+The effectiveness of the Company’s internal controls over financial reporting as of December 31, 2014 has been audited by PricewaterhouseCoopers LLP, an independent registered public accounting firm, as stated in their report on page F-3 of the 2014 Form 10-K.
+Changes in Internal Control Over Financial Reporting
+There were no changes in our internal controls over financial reporting identified in connection with the evaluation thereof by our management, including the CEO and CFO, during the quarter ended December 31, 2014 that have materially affected, or are reasonably likely to materially affect, our internal controls over financial reporting.
+62

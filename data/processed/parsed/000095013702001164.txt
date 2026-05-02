@@ -1,0 +1,1007 @@
+AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+ Certain statements in Management's Discussion and Analysis are
+forward-looking as defined in the Private Securities Litigation Reform Act of
+1995. These statements are based on current expectations that are subject to
+risks and uncertainties. Actual results may differ materially from expectations
+as of the date of this filing because of factors discussed below under the
+FORWARD-LOOKING STATEMENTS section.
+
+OVERVIEW
+
+ GENERAL
+
+ Brunswick Corporation (the Company) is a manufacturer and marketer of
+leading consumer brands including Mercury and Mariner outboard engines; Mercury
+MerCruiser sterndrive and inboard engines; marine parts and accessories under
+the Mercury Precision Parts and Quicksilver brands; Sea Ray, Bayliner, Maxum,
+and Sealine pleasure boats; Hatteras luxury sportfishing convertibles and
+motoryachts; Baja high-performance boats; Boston Whaler and Trophy offshore
+fishing boats; Princecraft fishing, deck and pontoon boats; Life Fitness, Hammer
+Strength and ParaBody fitness equipment; Brunswick bowling equipment and
+consumer products; and Brunswick billiards tables and accessories. The Company
+also owns and operates Brunswick family bowling centers across the United States
+and internationally, as well as a chain of specialty fitness retail stores
+concentrated in the Northeast and Pacific Northwest regions of the United
+States.
+
+ The Company's strategy is to achieve growth by developing innovative
+products, identifying and deploying leading-edge technologies, pursuing
+aggressive marketing and brand-building activities, pursuing international
+opportunities and leveraging core competencies. Further, the Company focuses on
+enhancing its
+
+ 15
+<PAGE>
+
+operating margins through effective cost management and investment in
+technology. The Company's objective is to enhance shareholder value by achieving
+returns on investments that exceed its cost of capital.
+
+ Sales in 2001 decreased 11.6 percent to $3,370.8 million on reduced sales
+from the marine engine, boat and bowling capital equipment businesses due to a
+generally weakened U.S. economy. Operating earnings decreased 51.9 percent to
+$191.1 million, primarily attributable to the decline in product sales and the
+impact of lower production of finished goods across the Company's businesses.
+See the MATTERS AFFECTING COMPARABILITY section below.
+
+ The U.S. economic recession contributed to a reduction in domestic demand
+for marine products during 2001, which adversely affected the results of the
+Company's Boat and Marine Engine segments. The Company took actions during 2001
+to stimulate retail demand and to reduce inventories by decreasing production
+levels. The Company has taken, and will continue to take, additional actions, as
+necessary, to keep inventories at desirable levels. The net effect of these
+actions, along with the reduction in demand caused by general economic factors,
+had an adverse impact on the Company's results for 2001, when compared with the
+results of the prior year.
+
+ While the effects of the recession were most pronounced on the Company's
+Marine Engine and Boat segments, the Recreation segment was also adversely
+affected. The most evident impact was the reduction in sales of bowling capital
+equipment. Also affected was the growth rate at Life Fitness, which declined
+from double-digit revenue gains in 1999 and 2000 to a single-digit gain in 2001.
+If weak economic conditions continue, these effects could continue to have an
+adverse impact on the Company's financial performance. Conversely, if economic
+conditions improve, the Company believes that the measures it has implemented to
+respond to the recession, including reductions in fixed costs and inventories,
+will allow the Company to improve its financial performance relative to prior
+reporting periods.
+
+ MATTERS AFFECTING COMPARABILITY
+
+ The Company's operating results for 2001 include the operating results of
+Omni Fitness Equipment, Inc. (Omni Fitness), a domestic retailer of fitness
+equipment; Princecraft Boats Inc. (Princecraft), a manufacturer of aluminum
+fishing, deck and pontoon boats; Sealine International (Sealine), a manufacturer
+of luxury sports cruisers and motoryachts; and Hatteras Yachts, Inc. (Hatteras),
+a manufacturer of luxury sportfishing convertibles and motoryachts. The
+operating results of Omni Fitness, Princecraft, Sealine and Hatteras are
+included from their respective acquisition dates of February 28, 2001, March 7,
+2001, July 3, 2001, and November 30, 2001. The effect of these acquisitions was
+not material to the Company's financial results.
+
+ Net earnings per diluted share totaled $0.93 in 2001 versus a net loss per
+diluted share of $1.08 in 2000 and net earnings per diluted share of $0.41 in
+1999. Comparisons of net earnings per diluted share are affected by several
+unusual charges, as well as a change in accounting principle, which are listed
+below and are discussed in detail in later sections. The effect of these items
+on diluted earnings per share is as follows:
+
+<Table>
+<Caption>
+ 2001 2000 1999
+ ----- ------ -----
+<S> <C> <C> <C>
+Net earnings (loss) per diluted share -- as reported........ $0.93 $(1.08) $0.41
+Unusual charges............................................. -- 0.45 0.77
+Cumulative effect of change in accounting principle......... 0.03 -- --
+Loss from discontinued operations........................... -- 0.77 1.14
+Loss from disposal of discontinued operations............... -- 2.59 --
+ ----- ------ -----
+Net earnings per diluted share from continuing
+ operations -- as adjusted................................. $0.96 $ 2.73 $2.32
+ ===== ====== =====
+</Table>
+
+ There are a number of matters that affect the comparability of results
+between 2001, 2000 and 1999. These matters include:
+
+ - Unusual Charges: In 2000, the Company recorded a $55.1 million charge
+ to operating earnings ($40.0 million after tax or $0.45 per diluted
+ share) to increase environmental reserves related to the cleanup of
+ contamination from a former manufacturing facility and to account for
+ the write-down of
+
+ 16
+<PAGE>
+ investments in certain Internet-related businesses. In 1999, the Company
+ recorded charges to operating earnings totaling $116.0 million ($71.4
+ million after tax or $0.77 per diluted share) relating to litigation
+ settlements.
+
+ - Change in Accounting Principle: Effective January 1, 2001, the Company
+ adopted Statement of Financial Accounting Standards (SFAS) Nos. 133/138,
+ "Accounting for Certain Derivative Instruments and Certain Hedging
+ Activities." Under SFAS Nos. 133/138, all derivative instruments are
+ recognized on the balance sheet at their fair values. As a result of the
+ adoption of this standard in 2001, the Company recorded a $4.7 million
+ loss ($2.9 million after tax or $0.03 per diluted share) as a cumulative
+ effect of a change in accounting principle, primarily resulting from
+ interest rate swaps.
+
+ - Discontinued Operations: During 2000, the Company announced its
+ intention to divest the businesses that comprised the former outdoor
+ recreation segment. In 2000, losses from the disposition of the
+ businesses, which were based on estimates, totaled $229.6 million after
+ tax, or $2.59 per diluted share. The discontinued operations generated
+ after-tax losses of $68.4 million and $105.2 million in 2000 and 1999,
+ respectively. Diluted loss per share from discontinued operations
+ totaled $0.77 in 2000 and $1.14 in 1999. See the DISCONTINUED OPERATIONS
+ section for a more detailed discussion of the operations that were
+ discontinued in 2000.
+
+RESULTS OF OPERATIONS
+
+ CONSOLIDATED
+
+ The following table sets forth certain ratios and relationships calculated
+from the consolidated statements of income:
+
+<Table>
+<Caption>
+ 2001 2000 1999
+ -------- -------- ---------
+ (DOLLARS IN MILLIONS,
+ EXCEPT PER SHARE DATA)
+<S> <C> <C> <C>
+Net sales........................................ $3,370.8 $3,811.9 $3,541.3
+Percentage increase (decrease)................... (11.6)% 7.6% 9.5%
+Operating earnings............................... $ 191.1 $ 397.1 $ 274.6
+Earnings from continuing operations.............. $ 84.7 $ 202.2 $ 143.1
+Cumulative effect of change in
+ accounting principle, net of tax............... (2.9) -- --
+Loss from discontinued operations,
+ net of tax..................................... -- (68.4) (105.2)
+Loss from disposal of discontinued operations,
+ net of tax..................................... -- (229.6) --
+ -------- -------- --------
+Net earnings (loss).............................. $ 81.8 $ (95.8) $ 37.9
+ ======== ======== ========
+Diluted earnings per share from
+ continuing operations.......................... $ 0.96 $ 2.28 $ 1.55
+Cumulative effect from change in
+ accounting principle........................... (0.03) -- --
+Diluted loss per share from
+ discontinued operations........................ -- (0.77) (1.14)
+Diluted loss per share from disposal of
+ discontinued operations........................ -- (2.59) --
+ -------- -------- --------
+Diluted earnings (loss) per share................ $ 0.93 $ (1.08) $ 0.41
+ ======== ======== ========
+EXPRESSED AS A PERCENTAGE OF NET SALES:
+Gross margin..................................... 23.2% 28.6% 28.6%
+Selling, general and administrative expense...... 14.7% 14.0% 15.1%
+Operating margin................................. 5.7% 10.4% 7.8%
+</Table>
+
+ Results for 2000 include a $55.1 million pre-tax unusual charge to
+operating earnings ($40.0 million after tax or $0.45 per diluted share) to
+increase environmental reserves related to the cleanup of contamination from a
+former manufacturing facility and to account for the write-down of investments
+in certain Internet-related businesses. Results for 1999 included a $116.0
+million pre-tax charge to operating earnings
+
+ 17
+<PAGE>
+
+($71.4 million after tax or $0.77 per diluted share) related to litigation
+settlements. Excluding these items, the amounts are as follows:
+
+<Table>
+<Caption>
+ 2001 2000 1999
+ ------ ------ ------
+ (DOLLARS IN MILLIONS,
+ EXCEPT PER SHARE DATA)
+<S> <C> <C> <C>
+Operating earnings.......................................... $191.1 $452.2 $390.6
+Operating margin............................................ 5.7% 11.9% 11.0%
+Earnings from continuing operations......................... $ 84.7 $242.2 $214.5
+Diluted earnings per share from continuing operations....... $ 0.96 $ 2.73 $ 2.32
+</Table>
+
+ In 2001, net sales of $3,370.8 million declined $441.1 million from 2000.
+Excluding acquisitions completed in 2001, sales decreased 14.1 percent for the
+year-over-year comparisons. The reduction in sales was experienced across all
+three reportable segments, but was mainly attributable to lower sales in the
+Boat and Marine Engine segments. Throughout 2001, weakened market conditions
+adversely affected domestic marine sales, particularly small boats and engines.
+Recreation segment sales benefited from growth in the fitness equipment business
+internationally, but lower sales of consumer and commercial fitness equipment in
+the United States, as well as reduced sales of bowling capital equipment and
+products, more than offset the gain.
+
+ International sales increased $20.8 million to $859.2 million compared with
+$838.4 million in 2000. Sales in Europe increased $15.9 million, or 3.7 percent,
+to $448.0 million in 2001, reflecting stronger sales of marine engine products
+and fitness equipment, which were partially offset by reduced sales of boats and
+bowling capital equipment. Unfavorable currency trends also adversely affected
+international revenue comparisons. Marine engine product sales comprised the
+largest share of international sales in 2001.
+
+ In 2000, net sales of $3,811.9 million improved $270.6 million over 1999.
+The 7.6 percent increase was primarily due to growth in the marine engine, boat
+and fitness equipment businesses. Marine engine sales benefited primarily from
+double-digit growth in international operations and good demand for low-emission
+outboard engines. Boat revenues rose from increased sales of larger,
+higher-margin boats, while increases in fitness equipment revenues resulted from
+double-digit sales gains in domestic and international commercial and consumer
+product markets.
+
+ The Company's international sales in 2000 increased 6.7 percent to $838.4
+million, a $52.8 million increase over the prior year. Sales in Europe of $432.1
+million in 2000 increased $26.0 million, or 6.4 percent, over 1999. Stronger
+sales of marine engine products and on-going growth in fitness equipment
+revenues offset declines in boat sales. Sales in the Pacific Rim grew $15.0
+million in 2000 to $166.4 million, with the 9.9 percent increase resulting from
+additional sales of marine engine products, boats and fitness equipment. Sales
+in both of these regions were adversely affected by unfavorable currency
+fluctuations between periods. Marine engine product sales comprised the largest
+share of international sales in 2000.
+
+ Gross margin percentages decreased to 23.2 percent in 2001 from 28.6
+percent in 2000. The 540 basis point decline in gross margin was principally due
+to the impact of lower production rates, plant closures and extended shutdowns.
+Production rates were cut to bring production in line with demand and reduce the
+Company's inventory levels. Gross margins also declined as a result of a shift
+in sales mix in the marine businesses toward international markets and lower
+margin products.
+
+ The Company's gross margin percentage held constant at 28.6 percent in 2000
+and 1999, as benefits were achieved from cost reductions, an improved sales mix
+and increased production volumes. These benefits helped to mitigate the
+unfavorable currency effects resulting from the sale of products that are
+manufactured in the United States and sold into certain foreign markets,
+primarily Europe and Australia.
+
+ Selling, general and administrative (SG&A) expenses, as a percentage of net
+sales, increased 70 basis points to 14.7 percent in 2001 as compared to 14.0
+percent in 2000. Excluding acquisitions, SG&A expenses as a percentage of net
+sales were 13.7 percent or 30 basis points lower than in the prior year. SG&A
+reductions have resulted from cost-containment efforts such as workforce
+reductions, hiring and wage freezes, discretion-
+
+ 18
+<PAGE>
+
+ary spending controls, and reductions in performance-based compensation, as well
+as gains recognized on the sale of a testing facility and two boat plants.
+
+ In 2000, the Company's SG&A expenses were 14.0 percent of net sales versus
+15.1 percent in 1999. The significant improvement resulted from overall sales
+growth, as well as successful cost-containment efforts, especially in the Boat
+and Marine Engine segments and the bowling business. Also contributing to this
+improvement was better pension plan performance and decreased legal expenses in
+2000, as well as spending on Year 2000 activities incurred in 1999, but not
+repeated in 2000.
+
+ Operating earnings in 2001 totaled $191.1 million versus $397.1 million in
+2000 and $274.6 million in 1999. Operating earnings included the previously
+mentioned $55.1 million pretax unusual charge in 2000 and the $116.0 million
+pretax litigation charges in 1999. Excluding these charges for each year, 2000
+operating earnings increased 15.8 percent to $452.2 million and 1999 operating
+earnings increased 10.8 percent to $390.6 million. Operating margins, excluding
+unusual charges, were 5.7 percent in 2001, 11.9 percent in 2000 and 11.0 percent
+in 1999. The decline in operating earnings between 2000 and 2001 was mainly due
+to the decline in product sales and the reduction in gross margin, partly offset
+by lower SG&A expenses.
+
+ Interest expense was $52.9 million in 2001, $67.6 million in 2000 and $61.0
+million in 1999. The decrease in 2001 was primarily attributable to a decline in
+the average outstanding debt levels and a lower weighted-average interest rate
+on short-term borrowings of 4.76 percent compared with 6.58 percent in 2000.
+Contributing to the increase in interest expense in 2000 versus 1999 was a
+higher average outstanding debt balance due to increased commercial paper
+borrowings to fund working capital requirements, capital expenditures and stock
+repurchases, and a higher weighted-average interest rate on commercial paper.
+
+ Other expense totaled $6.0 million in 2001 and $6.2 million in 2000 versus
+other income of $5.7 million in 1999. Contributing to the other expenses in 2001
+were joint venture losses and unfavorable currency adjustments. Start-up costs
+incurred in 2000 in connection with an equity investment, the divestiture of a
+joint venture in 1999 and unfavorable currency adjustments adversely affected
+other income/expense comparisons between 2000 and 1999.
+
+ The Company's effective tax rate was 36.0 percent in 2001, 37.5 percent in
+2000 and 34.7 percent in 1999. Excluding the unusual charges, the effective tax
+rate was 36.0 percent in all three years.
+
+ Average common shares outstanding used to calculate diluted earnings per
+share were 88.1 million, 88.7 million and 92.6 million in 2001, 2000 and 1999,
+respectively. The decrease in average shares outstanding in 2001 and 2000 was
+due primarily to the share repurchase program that was principally completed in
+the first half of 2000. See the CASH FLOW, LIQUIDITY AND CAPITAL RESOURCES
+section below for additional discussion of share repurchase program activity.
+
+ MARINE ENGINE SEGMENT
+
+ The following table sets forth Marine Engine segment results:
+
+ 2001 2000 1999
+ -------- -------- --------
+ (DOLLARS IN MILLIONS)
+
+Net sales...................................... $1,561.6 $1,759.9 $1,614.8
+Percentage increase (decrease)................. (11.3)% 9.0%
+Operating earnings............................. $ 173.0 $ 276.0 $ 242.5
+Percentage increase (decrease)................. (37.3)% 13.8%
+Operating margin............................... 11.1% 15.7% 15.0%
+Capital expenditures........................... $ 48.8 $ 63.8 $ 77.1
+
+ Marine Engine segment sales declined 11.3 percent to $1,561.6 million in
+2001 compared with 2000, primarily due to weak U.S. market conditions,
+especially for small boats. Domestic sales of sterndrive engines and outboard
+engines declined compared with the prior year. On-going efforts by dealers and
+boatbuilders to reduce inventory levels also contributed to the decline in
+sales. International sales were up 13.3 percent for the
+
+ 19
+<PAGE>
+
+year, despite adverse currency fluctuations, reflecting more favorable economic
+conditions than in the domestic market and increased market share, due in part
+to the bankruptcy of a competitor.
+
+ Operating earnings for the segment decreased to $173.0 million from $276.0
+million, and operating margins fell 460 basis points to 11.1 percent. Lower
+absorption of fixed costs from reduced production rates and extended plant
+shutdowns primarily accounted for the decline in operating margins for 2001
+compared with 2000. An unfavorable shift in sales mix from higher-margin
+sterndrive engines to lower-margin outboard engines, along with an increase in
+international sales, also accounted for some of the margin pressure. Benefits
+from cost-containment efforts and a reduction in salaried headcount partially
+mitigated these factors.
+
+ Net sales in the Marine Engine segment of $1,759.9 million increased 9.0
+percent in 2000 versus $1,614.8 million in 1999. The increase resulted from 12.9
+percent growth in international operations, despite adverse effects of
+unfavorable currency exchange rates. Additionally, good demand for low-emission
+outboard engines generated an increase in domestic outboard sales. Demand for
+larger sterndrive engines and expanded distribution channels for parts and
+accessories also contributed to the segment's sales growth in 2000.
+
+ Operating earnings in the segment increased 13.8 percent to $276.0 million
+in 2000 from $242.5 million in 1999. Operating margins for 2000 improved to 15.7
+percent, 70 basis points higher than 1999. These comparisons were favorably
+affected by leveraging the previously mentioned increases in sales, along with
+benefits from increased production volumes and continued improvements in
+productivity. Spending for legal matters declined in 2000 versus 1999. These
+factors helped to mitigate the adverse effect of a stronger dollar against key
+currencies and the unfavorable margin differential between low-emission and
+traditional outboard engine offerings due to higher initial production costs.
+
+ BOAT SEGMENT
+
+ The following table sets forth Boat segment results:
+
+ 2001 2000 1999
+ -------- -------- --------
+ (DOLLARS IN MILLIONS)
+Net sales................................. $1,251.3 $1,574.3 $1,476.6
+Percentage increase (decrease)............ (20.5)% 6.6%
+Operating earnings........................ $ 18.1 $ 148.2 $ 120.7
+Percentage increase (decrease)............ (87.8)% 22.8%
+Operating margin.......................... 1.4% 9.4% 8.2%
+Capital expenditures...................... $ 35.5 $ 57.4 $ 46.6
+
+ In 2001, the Boat segment sales totaled $1,251.3 million, a decrease of
+20.5 percent from 2000. Excluding the acquisitions of Princecraft, Sealine and
+Hatteras, sales declined 24.3 percent. Weak market demand for small boats was a
+leading cause for the decline, although demand for larger boats also weakened in
+the second half of the year.
+
+ Boat segment operating earnings totaled $18.1 million in 2001, declining
+$130.1 million from the prior year. Operating margins also declined, falling 800
+basis points to 1.4 percent for the year. The decline in operating margins was
+primarily attributable to the reduced absorption of fixed costs due to lower
+throughput, as well as temporary shutdowns at the boat plants. These actions
+were taken to balance supply with demand and to reduce inventories. The costs
+associated with the plant closures and an unfavorable shift in product mix
+towards smaller boats, which carry a lower gross margin, also contributed to the
+decline in operating margins. A portion of the decline was offset through
+efforts to enhance operating effectiveness, as well as reduced costs and
+decreased headcount.
+
+ The Boat segment generated $1,574.3 million in sales in 2000, an increase
+of 6.6 percent over 1999 sales results. The $97.7 million improvement in net
+sales resulted primarily from a 10 percent increase in sales of larger,
+higher-margin boats. Sales of smaller boats increased slightly for the year as
+improvements in the first half of 2000, driven by an improved mix, were
+partially offset by weakening demand experienced in the last
+
+ 20
+<PAGE>
+
+half of the year. During the second half of 2000, both dealer and Company
+inventories of certain boat categories increased as retail demand slowed.
+
+ In 2000, operating earnings in the Boat segment totaled $148.2 million, a
+22.8 percent increase over 1999. Operating margins improved 120 basis points to
+9.4 percent in 2000, up from 8.2 percent in 1999. Operating margins in 2000
+benefited from a more favorable product mix resulting from increased sales of
+larger, higher-margin boats and improved pricing.
+
+ RECREATION SEGMENT
+
+ The following table sets forth Recreation segment results:
+
+<Table>
+<Caption>
+ 2001 2000 1999
+ ------ ------ ------
+ (DOLLARS IN MILLIONS)
+<S> <C> <C> <C>
+Net sales................................................... $765.8 $770.7 $733.4
+Percentage increase (decrease).............................. (0.6)% 5.1%
+Operating earnings.......................................... $ 35.7 $ 73.1 $ 73.9
+Percentage decrease......................................... (51.2)% (1.1)%
+Operating margin............................................ 4.7% 9.5% 10.1%
+Capital expenditures........................................ $ 25.7 $ 31.8 $ 41.9
+</Table>
+
+ In 2001, the Recreation segment reported sales of $765.8 million, down 0.6
+percent from $770.7 million in 2000. Excluding the acquisition of Omni Fitness,
+a specialty retailer, sales for the segment declined 5.3 percent. Sales of
+fitness equipment increased 15.5 percent compared with the prior year, including
+the effects of Omni Fitness. Sales gains in international fitness markets were
+partially offset by reduced consumer product sales, as well as lower domestic
+sales of commercial products, as health club chains delayed expansion and
+upgrade projects due to the weakening economy. Retail bowling center sales were
+up slightly on an "equivalent center" basis. Bowling equipment sales, including
+capital equipment, balls, supplies and other accessories, declined due to
+weakness in domestic and international markets, along with efforts to reduce
+wholesale inventories.
+
+ The Recreation segment reported operating earnings of $35.7 million in 2001
+compared with $73.1 million in 2000. Operating margins declined 480 basis points
+to 4.7 percent for the year-to-date period. The Recreation segment operating
+margin reductions compared with 2000 primarily reflect the lower absorption of
+fixed costs due to temporary plant shutdowns and production rate reductions,
+partially offset by cost-containment efforts.
+
+ In 2000, the Recreation segment reported sales of $770.7 million, up 5.1
+percent from $733.4 million in 1999. The segment's sales growth was driven by a
+strong performance from the fitness equipment business, which reported a 20
+percent increase in sales resulting from double-digit gains in both commercial
+and consumer products. Revenues from commercial fitness equipment products
+improved primarily due to increased sales to health clubs and the military in
+the United States as well as in international markets. New product introductions
+and increased distribution drove the growth in consumer exercise equipment
+sales. Bowling and billiards sales were down 5 percent for the year principally
+due to a reduction in sales of bowling products. Revenues from retail bowling
+centers also declined; however, the decrease was due to a reduction of six
+bowling centers versus the prior year. Revenues from renovated bowling centers
+(Brunswick Zones) were up 10 percent over the prior year.
+
+ The Recreation segment's operating earnings totaled $73.1 million in 2000
+versus $73.9 million in 1999, and operating margins fell 60 basis points to 9.5
+percent in 2000. The decline in operating margins was attributable to the
+unfavorable impact of a stronger dollar on the European operations in the
+fitness equipment business, along with continued investment spending on new
+products and market development. These factors were partially offset by
+cost-containment efforts in the bowling and billiards businesses.
+
+ 21
+<PAGE>
+
+ DISCONTINUED OPERATIONS
+
+ During 2000, the Company announced its intention to divest the following
+businesses that comprised its former outdoor recreation segment: fishing,
+camping, bicycle, cooler, marine accessories and hunting sports accessories.
+These businesses have been accounted for as discontinued operations and the
+consolidated financial statements for all periods have been restated to present
+these businesses as discontinued operations in accordance with APB Opinion No.
+30.
+
+ The Company substantially completed the disposal of its discontinued
+operations as of December 31, 2001. The sale of the hunting sports accessories,
+cooler and North American fishing businesses were completed in 2001, and the
+sale of the bicycle and camping businesses were completed in 2000. Cash
+generated from these dispositions, including cash proceeds, net of costs to
+sell, cash required to fund operations through disposition and related tax
+benefits realized in connection with the divestitures, was approximately $275
+million after tax.
+
+ Discontinued operations experienced losses of $68.4 million in 2000 and
+$105.2 million in 1999. Losses from discontinued operations included the results
+of operations from the hunting sports accessories, marine accessories and cooler
+businesses through September 30, 2000, and from the fishing, camping and bicycle
+businesses through June 30, 2000. Losses relating to these businesses subsequent
+to these dates were estimated and provided for in the loss on the disposition of
+these businesses.
+
+ The 2000 loss from discontinued operations of $68.4 million included the
+write-off of goodwill and other long-term assets related to the camping business
+($76.0 million pre-tax, $50.0 million after tax) that was recorded in the second
+quarter of 2000. The write-off was necessary as the Company determined that
+additional actions would not improve operating performance to levels sufficient
+to recover its investment in these assets. Also included were asset write-downs
+and restructuring costs, consisting primarily of severance in the fishing and
+camping businesses, necessitated by a change in business conditions and the
+decision to outsource the manufacture of fishing reels that were previously
+produced in-house.
+
+ The loss from disposal recorded in 2000 totaled $305.3 million pre-tax and
+$229.6 million after tax. The losses associated with the disposition of these
+businesses were based on an estimate of cash proceeds, net of costs to sell,
+along with an estimate of results of operations for these businesses from the
+date the decision was made to dispose of the businesses through the actual
+disposition date. The tax benefits associated with the disposal reflect the
+non-deductibility of losses on the sale of the cooler business.
+
+ Losses from discontinued operations of $105.2 million for 1999 included a
+$178.0 million pre-tax strategic charge ($114.0 million after tax). Despite the
+Company's successful initiatives to expand distribution and reduce costs in its
+bicycle business, the profitability of the business eroded as competition from
+Asian imports substantially reduced market pricing for bicycles. While the price
+competition affected virtually all bicycles, the effects were extremely
+pronounced at the opening price points where the Company's bicycle offerings
+were concentrated. Consequently, in the fourth quarter of 1999, the Company
+determined that the goodwill associated with this business was impaired.
+Additionally, to further reduce costs, the Company committed to plans to exit
+manufacturing, reduce warehouse capacity and administrative expenses and
+rationalize product offerings. As a result of these actions, the Company
+recorded $178.0 million of charges in the bicycle business. These charges
+included the write-off of goodwill of $133.6 million, inventory write-downs of
+$27.0 million, fixed asset write-downs of $10.5 million and other incremental
+costs of $6.9 million. Additional costs of $7.0 million for severance and other
+incremental costs related to the 1999 charge were recorded in the first quarter
+of 2000 and are part of the $68.4 million after-tax loss reported from
+discontinued operations in 2000.
+
+ 22
+<PAGE>
+
+CASH FLOW, LIQUIDITY AND CAPITAL RESOURCES
+
+ The following table sets forth an analysis of cash flow for the years ended
+December 31, 2001, 2000 and 1999 (in millions):
+
+<Table>
+<Caption>
+ 2001 2000 1999
+ ------ ------- -------
+<S> <C> <C> <C>
+EBITDA*..................................................... $345.5 $ 594.8 $ 537.7
+Changes in working capital.................................. (10.9) (163.2) (53.5)
+Interest expense............................................ (52.9) (67.6) (61.0)
+Tax receipts (payments)..................................... 26.6 (55.2) (115.9)
+Other....................................................... (9.0) (57.8) (56.9)
+ ------ ------- -------
+ Cash provided by operating activities of continuing
+ operations............................................. 299.3 251.0 250.4
+ Cash used for investing activities of continuing
+ operations**........................................... (85.9) (188.1) (176.1)
+ ------ ------- -------
+ Free cash flow ***........................................ $213.4 $ 62.9 $ 74.3
+ ====== ======= =======
+ Cash flow from discontinued operations (pre-tax).......... $107.4 $ 45.3 $ 8.9
+ ====== ======= =======
+</Table>
+
+ * EBITDA is defined as net earnings, adjusted for unusual charges and
+ discontinued operations (as previously described), before interest, taxes,
+ depreciation and amortization. EBITDA is presented to assist in the analysis
+ of cash from operations. However, it is not intended as an alternative
+ measure of operating results or cash flow from operations, as determined in
+ accordance with generally accepted accounting principles.
+
+ ** Comprised principally of capital expenditures and excludes acquisition and
+ disposition activities.
+
+*** Free cash flow is defined as cash flow from operating and investing
+ activities of continuing operations, excluding acquisition, disposition and
+ financing activities.
+
+ Cash generated from operating activities, available cash balances and
+selected borrowings are the Company's major sources of funds for investments and
+dividend payments.
+
+ Net cash provided by operating activities of continuing operations totaled
+$299.3 million in 2001, compared with $251.0 million in 2000 and $250.4 million
+in 1999. Cash provided from operating activities included changes in working
+capital that resulted in a use of $10.9 million, $163.2 million and $53.5
+million in 2001, 2000 and 1999, respectively. Inventories were $557.4 million at
+December 31, 2001, versus $510.7 million at December 31, 2000. Inventory,
+excluding acquired inventory balances, decreased $39.4 million in 2001 compared
+to an increase of $104.3 million in 2000. Accounts and notes receivable totaled
+$361.9 million at December 31, 2001, compared with $419.9 million at December
+31, 2000. The $58.0 million decrease in net receivables versus the prior year
+was due primarily to lower sales activity and weaker business conditions in
+2001.
+
+ Tax receipts in 2001 reflect the realization of tax benefits associated
+with the divestitures. Tax payments in 2000 reflect benefits realized from
+antitrust settlement payments made in 2000 and 1999. Tax payments in 1999
+reflect benefits realized on losses associated with strategic charges recorded
+in 1998 and 1997. Other operating cash flow activities included payments made by
+the Company for litigation settlements totaling $6.6 million in 2001, $49.4
+million in 2000 and $57.6 million in 1999.
+
+ The Company invested $111.4 million, $156.0 million and $166.8 million in
+capital expenditures in 2001, 2000 and 1999, respectively. The largest portion
+of these expenditures was made for on-going investments to introduce new
+products, expand product lines and achieve improved production efficiencies and
+product quality.
+
+ Cash paid for acquisitions, net of debt and cash acquired, totaled $134.4
+million for 2001, comprised primarily of consideration paid for Hatteras Yachts,
+a leading manufacturer of sportfishing convertibles and motoryachts; Sealine, a
+leading manufacturer of luxury sports cruisers and motoryachts; and Princecraft,
+a manufacturer of aluminum fishing, deck and pontoon boats. Investments totaling
+$38.1 million and $13.6 mil-
+
+ 23
+<PAGE>
+
+lion for 2000 and 1999, respectively, were primarily comprised of amounts
+invested in Internet-related businesses and fitness equipment distribution
+alliances. In addition, in 1999 the Company invested $4.2 million to acquire two
+international boat companies.
+
+ The Company anticipates spending approximately $135 million for capital
+expenditures in 2002. About one-half of the capital spending is expected to be
+for new and upgraded products, about one-third for necessary maintenance
+spending and the balance targeted toward cost reductions and investments in
+information technology. The Company will continue to evaluate acquisitions and
+other investment opportunities as they arise.
+
+ Cash and cash equivalents totaled $108.5 million at the end of 2001,
+compared with $125.2 million in 2000. Total debt at year-end 2001 was $640.2
+million versus $774.5 million at the end of 2000. The decrease in total debt
+outstanding is due principally to decreases in short-term commercial paper
+borrowings. Debt-to-capitalization ratios were 36.6 percent at December 31,
+2001, and 42.1 percent at December 31, 2000. The Company has a $400.0 million
+long-term credit agreement with a group of banks described in NOTE 10, DEBT, in
+the Notes to Consolidated Financial Statements, that serves as support for
+commercial paper borrowings. There were no borrowings under the credit agreement
+at December 31, 2001. Under the terms of the long-term credit agreement, the
+Company has multiple borrowing options, and, if utilized, the borrowing rate, as
+calculated in accordance with those terms, would have been 2.07 percent at
+December 31, 2001. The Company also has $600.0 million available under a
+universal shelf registration statement filed in 2001 with the Securities and
+Exchange Commission for the issuance of equity and/or debt securities.
+
+ The Company announced in 2001 that it would begin paying dividends annually
+rather than quarterly, beginning in 2002, in order to reduce administrative
+costs. Future dividends, as declared at the discretion of the Board of
+Directors, will be paid in December.
+
+ No stock repurchases occurred during 2001. For the years ended December
+31, 2000 and 1999, the Company spent $87.1 million and $18.3 million,
+respectively, to repurchase stock under two repurchase programs. On February 8,
+2000, the Company announced a program to repurchase $100 million of its common
+stock from time to time in the open market or through privately negotiated
+transactions. During the first half of 2000, the Company repurchased 4.6 million
+shares of its common stock for $84.7 million in open market transactions under
+this program. The Company also has a program, which was initiated in 1997, to
+systematically repurchase up to five million shares of its common stock to
+offset shares the Company expects to issue under its stock option and other
+compensation plans. Under this program, the Company repurchased 0.1 million and
+0.8 million shares for $2.4 million and $18.3 million in 2000 and 1999,
+respectively. A total of 2.7 million additional shares may be repurchased under
+this program. Future repurchases of the Company's common stock under existing
+repurchase programs will be considered; however, in the short-term the Company
+intends to use excess cash to reduce debt.
+
+ The Company's financial flexibility and access to capital markets is
+supported by its balance sheet position, investment-grade credit ratings and
+ability to generate significant cash from operating activities. Management
+believes that there are adequate sources of liquidity to meet the Company's
+short-term and long-term needs.
+
+LEGAL PROCEEDINGS
+
+ On January 22, 2002, the United States Supreme Court granted discretionary
+review of the case Sprietsma vs. Mercury Marine, a "propeller guard" case on
+appeal from the Illinois Supreme Court. At issue in Sprietsma is whether federal
+law preempts tort claims alleging that marine engines should be equipped with
+devices designed to protect against propeller injuries. Nine federal courts and
+many state courts, including the Illinois Supreme Court in Sprietsma, have
+previously found such claims to be preempted by the United States Coast Guard's
+1990 decision, pursuant to the Federal Boat Safety Act, not to require propeller
+guards. The Company does not believe that the resolution of this matter will
+have a material adverse effect on the Company's consolidated financial position
+or results of operations.
+
+ 24
+<PAGE>
+
+ On September 6, 2001, the Federal Trade Commission (FTC) informed the
+Company that it had closed an investigation concerning the Company's bidding for
+certain assets of Outboard Marine Corporation (OMC) as a part of OMC's
+bankruptcy. On October 5, 2001, the FTC also informed the Company that it had
+closed a separate investigation commenced in 1997 concerning certain of the
+Company's marketing practices related to the sale of sterndrive marine engines
+to boatbuilders and dealers.
+
+ On October 27, 1999, the United States Tax Court upheld an Internal Revenue
+Service (IRS) determination that resulted in the disallowance of capital losses
+and other expenses from two partnership investments for 1990 and 1991. The
+Company appealed the Tax Court ruling to the United States Court of Appeals for
+the District of Columbia and posted a $79.8 million surety bond to secure
+payment of tax deficiencies plus accrued interest related to the appeal. On
+December 21, 2001, the Court of Appeals rendered a decision vacating the Tax
+Court's opinion and remanded the case to the Tax Court for reconsideration in
+light of an earlier Court of Appeals decision. If, on remand to the Tax Court,
+the Company does not prevail, the net amount of taxes due, plus interest, net of
+tax, would be approximately $135 million. The Company has settled all other
+issues with the IRS on open tax years 1989 through 1994 and anticipates
+favorable adjustments that would decrease the total net amount to approximately
+$53 million, which would likely be payable in 2003. The Company does not believe
+that the resolution of this matter will have a material adverse effect on the
+Company's consolidated financial position or results of operations.
+
+ In 1994, one of Life Fitness' competitors, Precor, Incorporated, filed a
+complaint in federal court in Seattle, Washington, involving one of Life
+Fitness' treadmills. The lawsuit claimed that Life Fitness had engaged in unfair
+competitive practices in violation of the Washington State Consumer Protection
+Act and that certain of its treadmills infringed a design patent held by Precor.
+Life Fitness then filed an infringement claim against Precor, in connection with
+Life Fitness' '207 patent for its flexible treadmill deck. On October 26, 1999,
+the jury awarded Precor, now a subsidiary of Illinois Tool Works, Inc.,
+approximately $5.2 million in connection with Precor's design infringement claim
+against the Company, as successor in interest to the predecessor entities of its
+Life Fitness division. The jury also rejected Life Fitness' '207 patent claim.
+Precor was awarded up to $5.3 million in attorneys' fees and prejudgment
+interest on the damage award. The Company appealed the verdict and the award of
+attorneys' fees to the United States Court of Appeals for the Federal Circuit.
+On June 27, 2001, the Court of Appeals issued its decision upholding the lower
+court's finding that Life Fitness' '207 patent claim was invalid, and reversing
+the lower court's finding that Life Fitness infringed Precor's design patent.
+The Court of Appeals remanded the award of attorneys' fees to the lower court
+for a redetermination based on the reversal of the willful infringement finding.
+On January 10, 2002, the federal court ruled that Precor is entitled only to
+those attorneys' fees directly attributable to the unfair competition claims
+under the Washington State Consumer Protection Act. The Company does not believe
+that the resolution of this matter will have a material adverse effect on the
+Company's consolidated financial position or results of operations.
+
+ In January 2000, Precor filed suit against Life Fitness in federal court in
+Washington alleging that certain of Life Fitness' cross-trainer exercise
+machines infringed Precor's Miller '829 patent. In 1999, before Precor filed its
+lawsuit, the Miller '829 patent was re-examined by the U.S. Patent & Trademark
+Office (PTO) and was rejected. The lawsuit was stayed while Precor sought a
+reissuance of the Miller patent by the PTO. The PTO issued a modified patent on
+March 5, 2002. Precor has announced that it would petition the court to lift the
+stay and continue its lawsuit against Life Fitness. The Company does not believe
+that its machines infringe the patent, as modified, but is unable to predict the
+outcome of the second Precor case.
+
+ Vapor Corporation, a former subsidiary that the Company divested in 1990,
+has been named in a number of asbestos-related lawsuits, the first of which was
+filed in 1988. The Company retained certain liabilities of Vapor, requiring it
+to respond to these suits. The suits, most of which involve numerous other
+defendants, allege that steam generators manufactured by Vapor prior to the
+Company's ownership contained small amounts of asbestos. The generators were
+used to heat railroad cars and the primary means of potential exposure appears
+to have been to railroad workers performing inspections or repairs to the
+generators. Neither the Company nor Vapor is alleged to have manufactured
+asbestos. Early in the litigation, the Company's insurers settled a number of
+claims for nominal amounts, while a number of other claims have been dismissed.
+
+ 25
+<PAGE>
+
+No suit has yet gone to trial. The Company does not believe that the resolution
+of these lawsuits will have a material adverse effect on the Company's
+consolidated financial position or results of operations.
+
+ The Company is also involved in certain legal and administrative
+proceedings under the Comprehensive Environmental Response, Compensation and
+Liability Act of 1980 and other federal and state legislation governing the
+generation and disposition of certain hazardous wastes. These proceedings,
+involving both on-and off-site waste disposal or other contamination, in many
+instances seek compensation or remedial action from the Company as a waste
+generator under Superfund legislation, which authorizes action regardless of
+fault, legality of original disposition or ownership of a disposal site. The
+Company is also involved in a number of voluntary environmental remediation
+actions addressing contamination resulting from historic activities on its
+present and former plant properties. The Company has established reserves based
+on a range of current cost estimates for all known claims. Refer to NOTE 7,
+COMMITMENTS AND CONTINGENCIES, in the Notes to Consolidated Financial Statements
+for disclosure of the potential cash requirements of environmental proceedings.
+
+ENGINE EMISSION REGULATIONS
+
+ U.S. Environmental Protection Agency (EPA) regulations finalized in 1996
+require that certain exhaust emissions from gasoline marine outboard engines be
+reduced by 8.3 percent per year for nine years beginning with the 1998 model
+year. The Company has implemented a plan that meets the EPA compliance schedule.
+It includes both modifying automotive two-stroke direct fuel injection
+technology for marine use and substituting certain two-stroke engines with
+four-stroke engines. Both of these technologies yield emission reductions of 80
+percent or better. More recently, the California Air Resources Board (CARB)
+voted to adopt regulations more stringent than the EPA regulations. These
+regulations accelerated the applicability of the EPA targeted emissions
+reductions from 2006 to 2001. This affected new engines sold in California
+beginning with the model year 2001, with further emission reductions scheduled
+in 2004 and 2008. The Company met the 2001 requirements and believes that its
+current implementation plan designed to meet the EPA exhaust emissions
+regulations will allow the Company to comply with the more stringent regulations
+as currently proposed by CARB. The Company expects the amount of low-emission
+engine sales as a percentage of total Marine Engine segment sales to continue to
+increase and anticipates that it will continue to invest in development of
+low-emission engine technologies.
+
+NEW ACCOUNTING PRONOUNCEMENTS
+
+ In June 2001, the Financial Accounting Standards Board (FASB) issued SFAS
+No. 141, "Business Combinations," and SFAS No. 142, "Goodwill and Other
+Intangible Assets." SFAS No. 141 requires that all business combinations
+initiated after June 30, 2001, be accounted for under the purchase method. SFAS
+No. 142 requires that goodwill and indefinite-lived intangible assets no longer
+be amortized to earnings, but instead reviewed annually for impairment. The
+amortization of existing goodwill and indefinite-lived intangible assets at June
+30, 2001, will be ceased at January 1, 2002. Goodwill on acquisitions completed
+subsequent to June 30, 2001, is not amortized, but instead will be reviewed
+annually for impairment. The Company is currently assessing SFAS No. 142 and has
+not yet made a determination of the impact that adoption will have on the
+consolidated financial statements. Amortization expense arising from goodwill
+and other intangible assets that will no longer be amortized under the
+provisions of the new rules was approximately $17.2 million and $15.3 million in
+2001 and 2000, respectively.
+
+ In August 2001, the FASB issued SFAS No. 144, "Accounting for the
+Impairment or Disposal of Long-Lived Assets." SFAS No. 144 supersedes both SFAS
+No. 121 and the accounting and reporting provisions of APB Opinion No. 30,
+"Reporting the Results of Operations-Reporting the Effects of Disposal of a
+Segment of a Business, and Extraordinary, Unusual and Infrequently Occurring
+Events and Transactions" (Opinion 30), for the disposal of a segment of a
+business (as previously defined in that Opinion). SFAS No. 144 retains the
+fundamental provisions in SFAS No. 121 for recognizing and measuring impairment
+losses on long-lived assets held for use and long-lived assets to be disposed of
+by sale, while also resolving significant implementation issues associated with
+SFAS No. 121. SFAS No. 144 retains the basic provisions of Opinion 30 on how to
+present discontinued operations in the income statement but broadens that
+presentation to
+ 26
+<PAGE>
+
+include a component of an entity (rather than a segment of a business). Unlike
+SFAS 121, an impairment assessment under SFAS No. 144 will never result in a
+write-down of goodwill. Rather, goodwill is evaluated for impairment under SFAS
+No. 142. SFAS No. 144 is required to be adopted no later than the fiscal year
+beginning after December 15, 2001. The adoption of SFAS No. 144 is not expected
+to have a material impact on the financial statements because the impairment
+assessment under SFAS No. 144 is largely unchanged from SFAS No. 121.
+
+EURO CONVERSION
+
+ On January 1, 1999, 11 of the 15 member countries of the European Union
+established fixed conversion rates between their existing currencies (legacy
+currencies) and one new common currency - the Euro. The transition period for
+the introduction of the Euro extends through 2002. Beginning in January 2002,
+new Euro-denominated bills and coins will be issued. The Company has evaluated,
+and will continue to evaluate, the effects on its operations of the conversion
+to the Euro. The costs to prepare for this conversion, including the costs to
+adapt information systems, have not been and are not expected to be material to
+the Company's results of operations, financial position or cash flows. The
+Company does not currently expect the introduction and use of the Euro to have a
+material effect on its foreign exchange and hedging activities, or on its use of
+derivative financial instruments. While the Company does not expect the Euro
+conversion to have a material effect on its operations, some uncertainty exists
+as to the effect that the conversion to the Euro will have on the markets for
+the Company's products. Accordingly, the effect on the Company's operations
+cannot be predicted with certainty.
+
+FORWARD-LOOKING STATEMENTS
+
+ Certain statements in this Annual Report are forward-looking as defined in
+the Private Securities Litigation Reform Act of 1995. Forward-looking statements
+in this Annual Report may include words such as "expect," "anticipate,"
+"believe," "may," "should," "could," or "estimate." These statements involve
+certain risks and uncertainties that may cause actual results to differ
+materially from expectations as of the date of this filing. These risks include,
+but are not limited to:
+
+- General economic conditions and consumer confidence, and resultant demand for
+ the Company's products, particularly in the United States and Europe:
+ Like many companies, the Company's revenues were adversely affected by
+ the U.S. recession. The Company's future results may continue to suffer
+ if general economic conditions do not improve.
+
+- The effect of interest rates and fuel prices on demand for marine products:
+ The Company's marine products particularly boats are often financed, and
+ higher interest rates can retard demand for these products. The
+ Company's marine businesses are somewhat fuel-cost-sensitive, and higher
+ fuel costs can also hurt demand.
+
+- Adverse weather conditions retarding sales of marine products:
+ Sales of the Company's marine products are generally more robust just
+ before and during spring and summer, and favorable weather during these
+ months tends to have a positive effect on consumer demand. Conversely,
+ poor weather conditions during these periods can retard demand.
+
+- The market impact of the liquidation of a bankrupt marine competitor's
+ inventory and the acquisition of that competitor's marine engine assets by
+ other marine companies:
+ The Company's Marine Engine segment has gained market share as a result
+ of the bankruptcy of a key competitor. The acquisition of the assets of
+ that competitor, however, may erode those market share gains.
+
+- Shifts in currency exchange rates:
+ The Company manufactures its products predominately in the United
+ States, though international manufacturing is increasing. A strong U.S.
+ dollar can make the Company's products less price-competitive relative
+ to locally produced products in international markets where currencies
+ are
+
+ 27
+<PAGE>
+
+ weaker. The Company is focusing on international manufacturing and
+ global sourcing in part to offset this risk.
+
+- Competitive pricing pressures:
+ Across all of the Company's product lines, introduction of lower-cost
+ alternatives can hurt the Company's competitive position. The Company's
+ efforts at cost-containment, commitment to quality products, and
+ excellence in operational effectiveness and customer service are
+ designed in part to offset this risk.
+
+- Inventory adjustments by the Company, its major dealers, retailers and
+ independent boatbuilders:
+ The Company's inventory reduction efforts have focused on reducing
+ production, which results in lower rates of absorption of fixed costs
+ and thus lower margins. In addition, as the Company's dealers and
+ retailers, as well as independent boatbuilders who purchase the
+ Company's marine engine products, adjust inventories downward, wholesale
+ demand for the Company's products diminishes. This hurts the Company's
+ short-term results and could hurt the Company's ability to meet
+ increased demand when the U.S. economy recovers and demand increases.
+
+- Financial difficulties experienced by dealers and independent boatbuilders:
+ The U.S. economic downturn has adversely affected many of the Company's
+ dealers. As the main channel for the Company's products, dealer health
+ is critical to the Company's continued success. In addition, a
+ substantial portion of the Company's engine sales are made to
+ independent boatbuilders. As a result, the Company's financial results
+ can be influenced by the financial well-being of these independent
+ boatbuilders.
+
+- The ability to maintain effective distribution:
+ The Company sells the majority of its products through third parties
+ such as dealers, retailers and distributors. Maintaining good
+ relationships with existing distribution partners, and establishing new
+ distribution channels where appropriate, is critical to the Company's
+ continued success.
+
+- The Company's ability to complete environmental remediation efforts at the
+ cost estimated:
+ As discussed in PART I, ITEM 3 above, the Company is subject to several
+ environmental proceedings, some of which involve costly remediation
+ efforts over extended periods of time. The Company believes that it is
+ adequately reserved for these environmental obligations, but significant
+ increases in the costs of these programs could hurt the Company's
+ results of operations in the period or periods in which additional
+ reserves or outlays are deemed necessary.
+
+- The Company's ability to develop product technologies which comply with
+ regulatory requirements:
+ As discussed in PART I, ITEM 3 above, the Company's Marine Engine
+ Segment is subject to emissions standards that require ongoing efforts
+ to bring the Company's engine products in line with regulatory
+ requirements. The Company believes that these efforts are on track and
+ will be successful, but unforeseen delays in these efforts could have an
+ adverse effect on the Company's results of operations.
+
+- The success of marketing and cost-management programs and the Company's
+ ability to develop and produce new products and technologies:
+ The Company is constantly subject to competitive pressures. The
+ Company's continuing ability to respond to these pressures, particularly
+ through cost-containment initiatives, marketing strategies, and the
+ introduction of new products and technologies, are critical to the
+ Company's continued success.

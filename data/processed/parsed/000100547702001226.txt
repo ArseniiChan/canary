@@ -1,0 +1,2272 @@
+AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+ OF OPERATIONS
+
+OVERVIEW
+
+ On June 7, 2001, our shareholders approved a recapitalization
+involving the creation of two separately traded tracking stocks: WorldCom group
+stock, which is intended to track the separate performance of our data,
+Internet, international and commercial voice businesses; and MCI group stock,
+which is intended to reflect the performance of our consumer, small business,
+wholesale long distance voice and data, wireless messaging and dial-up Internet
+access businesses.
+
+ Through the businesses that we have realigned as the WorldCom group,
+which have an extensive, advanced facilities-based global communications
+network, we provide a broad range of integrated communications and managed
+network services to both U.S. and non-U.S. based corporations. Offerings include
+data services such as frame relay, asynchronous transfer mode and Internet
+protocol networks; Internet related services, including dedicated access,
+virtual private networks, digital subscriber lines, web centers encompassing
+application and server hosting and managed data services; commercial voice
+services; and international communications services.
+
+ Through the businesses that we have realigned as the MCI group, we
+provide a broad range of retail and wholesale communications services, including
+long distance voice and data communications, consumer local voice
+communications, wireless messaging, private line services and dial-up Internet
+access services. Our retail services are provided to consumers and small
+businesses in the United States. We are the second largest carrier of long
+distance telecommunications services in the United States. Our services include:
+basic long distance telephone service, dial around, collect calling, operator
+assistance and calling card services (including prepaid calling cards) and toll
+free or 800 services. We offer these services individually and in combinations.
+Through combined offerings, we provide customers with benefits such as single
+billing, unified services for multi-location companies and customized calling
+plans. Our wholesale businesses include wholesale voice and data services
+provided to carrier customers and other resellers and dial-up Internet access
+services.
+
+ On July 1, 2001, we acquired Intermedia for approximately $5.8
+billion, including assumed long-term debt, pursuant to the merger of a wholly
+owned subsidiary with and into Intermedia, with Intermedia continuing as the
+surviving corporation and as a subsidiary of WorldCom. As a result of the
+Intermedia merger, we acquired a controlling interest in Digex, a provider of
+managed Web and application hosting services. In connection with the Intermedia
+merger, stockholders of Intermedia received one share of WorldCom group stock
+(or 57.1 million WorldCom group shares in the aggregate) and 1/25th of a share
+of MCI group stock (or 2.3 million MCI group shares in the aggregate) for each
+share of Intermedia common stock they owned. Holders of Intermedia preferred
+stock, other than Intermedia Series B Preferred Stock, received one share of a
+class or series of our preferred stock, with substantially identical terms,
+which were established upon consummation of the Intermedia merger. As a result
+of the merger with Intermedia, we own approximately 90% of the voting securities
+of Intermedia.
+
+ Since the Intermedia merger, we initiated plans to improve cash flow
+and operating results by reorganizing and restructuring Intermedia's operations.
+These plans include workforce reductions and other administrative cost savings,
+the discontinuance of all product lines with unacceptable or negative margins
+and the ultimate disposal of all assets associated with such product lines or
+businesses.
+
+ We believe that the Intermedia merger should support our web hosting
+expansion by providing a comprehensive portfolio of hosting products and
+services for mid-sized and large businesses. Additionally, we expect that Digex
+will continue to build its operations and expand its customer base, causing it
+to continue to incur operating losses for the foreseeable future, which could
+adversely affect our results of operations.
+
+ 40
+<Page>
+
+ During the second quarter of 2001, we reached a long-term strategic
+decision to restructure our investment in Embratel. The restructuring included
+the resignation of certain Embratel board of directors seats, the irrevocable
+obligation to vote a portion of our common shares in a specified manner and the
+transfer of certain economic rights associated with such shares to an unrelated
+third party. Based on these actions, the accounting principles generally
+accepted in the United States prohibit the continued consolidation of Embratel's
+results. Accordingly, we have deconsolidated Embratel's results effective
+January 1, 2001.
+
+ The following discussion and analysis relates to our financial
+condition and results of operations for the years ended December 31, 1999, 2000
+and 2001. This information should be read in conjunction with the consolidated
+financial statements and notes thereto contained herein, and the combined
+financial statements and notes thereto of each of the WorldCom group and the MCI
+group contained herein as well as the "Cautionary Statement Regarding
+Forward-Looking Statements" in this Form 10-K.
+
+ADDITIONAL DISCUSSION RELATED TO THE WORLDCOM GROUP AND THE MCI GROUP FINANCIAL
+STATEMENTS
+
+ Each of the WorldCom group and the MCI group includes the results of
+operations shown in the combined statements of operations and the attributed
+assets and liabilities shown in the combined balance sheets of the relevant
+group. If we acquire interests in other businesses, we intend to attribute those
+assets and any related liabilities to our WorldCom group or our MCI group in
+accordance with our tracking stock policy statement. All net income and cash
+flows generated by the assets will be attributed to the group to which the
+assets were attributed and all net proceeds from any disposition of these assets
+will also be attributed to that group.
+
+ Although we sometimes refer to such assets and liabilities as those
+of the WorldCom group or the MCI group, neither of the groups is a separate
+legal entity. Rather, all of the assets of a group are owned by WorldCom and
+holders of the WorldCom group stock or the MCI group stock are shareholders of
+WorldCom and subject to all of the risks of an investment in WorldCom and all of
+its businesses, assets and liabilities.
+
+ We intend, for so long as the WorldCom group stock and the MCI group
+stock remains outstanding, to include in filings by WorldCom under the
+Securities Exchange Act of 1934, as amended, the combined financial statements
+of each of the WorldCom group and the MCI group. These combined financial
+statements will be prepared in accordance with accounting principles generally
+accepted in the United States, and in the case of annual financial statements,
+will be audited. These combined financial statements are not legally required
+under current law or SEC regulations.
+
+ Our board of directors or any special committee appointed by our
+board of directors may, without shareholder approval, change the policies set
+forth in our tracking stock policy statement. Our board of directors or any
+special committee appointed by our board of directors also may, without
+shareholder approval, adopt additional policies or make exceptions with respect
+to the application of the policies described in our policy statement in
+connection with particular facts and circumstances, all as they may determine to
+be in the best interests of WorldCom. Our board is subject to fiduciary duties
+to all of WorldCom's shareholders as one group, not to the holders of any series
+of stock separately. Any changes or exceptions will be made after a
+determination by our board of what is in the best interests of WorldCom as a
+whole, which may be detrimental to the interests of the holders of one series of
+stock. The ability to make these changes may make it difficult to address the
+future of a group based on the group's past performance.
+
+RESULTS OF OPERATIONS
+
+ The following table sets forth for the periods indicated our
+statements of operations as a percentage of our revenues for the periods
+indicated:
+
+ 41
+<Page>
+
+<Table>
+<Caption>
+ FOR THE YEARS ENDED
+ DECEMBER 31,
+ ---------------------------
+ 1999 2000 2001
+ ----- ----- -----
+<S> <C> <C> <C>
+Revenues ..................................................................................... 100.0% 100.0% 100.0%
+Line costs ................................................................................... 41.0 39.6 41.9
+Selling, general and administrative .......................................................... 24.9 27.1 31.4
+Depreciation and amortization ................................................................ 12.1 12.5 16.7
+ ----- ----- -----
+Operating income ............................................................................. 22.0 20.9 10.0
+Other income (expense):
+ Interest expense .......................................................................... (2.7) (2.5) (4.4)
+ Miscellaneous ............................................................................. 0.7 1.0 1.2
+ ----- ----- -----
+Income before income taxes, minority interests and cumulative effect of accounting change .... 20.0 19.4 6.8
+Provision for income taxes ................................................................... 8.3 7.7 2.6
+ ----- ----- -----
+Income before minority interests and cumulative effect of accounting change .................. 11.7 11.6 4.2
+Minority interests ........................................................................... (0.5) (0.8) 0.1
+Cumulative effect of accounting change ....................................................... -- (0.2) --
+ ----- ----- -----
+Net income ................................................................................... 11.2 10.6 4.3
+Distributions on mandatorily redeemable preferred securities and other preferred dividend
+ requirements .............................................................................. 0.2 0.2 0.3
+ ----- ----- -----
+Net income applicable to common shareholders ................................................. 11.0% 10.5% 3.9%
+ ===== ===== =====
+</Table>
+
+YEAR ENDED DECEMBER 31, 2000 VS.
+ YEAR ENDED DECEMBER 31, 2001
+
+ For the years December 31, 2000 and 2001, our revenues were as
+follows (dollars in millions):
+
+<Table>
+<Caption>
+ 2000 2001
+ --------------------- ---------------------
+ PERCENT PERCENT
+ $ OF TOTAL $ OF TOTAL
+ ------- -------- ------- --------
+<S> <C> <C> <C> <C>
+WorldCom group ................. $22,755 58.2% $21,348 60.7%
+MCI group ...................... 16,335 41.8 13,831 39.3
+ ------- ----- ------- -----
+ $39,090 100.0% $35,179 100.0%
+ ======= ===== ======= =====
+</Table>
+
+ Reported revenues by category for the years ended December 31, 2000
+and 2001 reflect the following changes by category (dollars in millions):
+
+<Table>
+<Caption>
+ PERCENT
+ 2000 2001 CHANGE
+ ------- ------- -------
+<S> <C> <C> <C>
+COMMERCIAL SERVICES REVENUES
+ Voice ......................................... $ 7,036 $ 6,591 (6.3)%
+ Data .......................................... 7,389 8,620 16.7
+ International ................................. 2,367 2,977 25.8
+ Embratel, net ................................. 3,508 -- (100.0)
+ Internet ...................................... 2,455 3,160 28.7
+ ------- -------
+TOTAL COMMERCIAL SERVICES REVENUES ............... 22,755 21,348 (6.2)
+ Consumer ..................................... 7,778 7,227 (7.1)
+ Wholesale .................................... 3,388 2,641 (22.0)
+ Alternative channels and small business ...... 3,541 2,427 (31.5)
+ Dial-up Internet ............................. 1,628 1,536 (5.7)
+ ------- -------
+ TOTAL ........................................... $39,090 $35,179 (10.0)
+ ======= =======
+</Table>
+
+ Commercial services revenues, which include the revenues generated
+from commercial voice, data, international and Internet services, for 2001 were
+$21.3 billion versus $22.8 billion for 2000. As previously indicated, during the
+second quarter of 2001, we took steps to restructure our investment in Embratel
+which resulted in the deconsolidation of Embratel effective January 1, 2001.
+Excluding Embratel from the 2000 period, 2001 commercial services revenues
+increased 10.9% versus 2000.
+
+ 42
+<Page>
+
+ Voice revenues for 2001 decreased 6.3% over 2000 on traffic growth
+of 2.6% The revenue decreases were partially offset by wireless voice revenue
+increases of 32.6% for 2001. Excluding wireless voice revenues, commercial voice
+revenues decreased 12.7% over 2000. Voice revenues include domestic commercial
+long distance and local switched revenues.
+
+ Data revenues for 2001 increased 16.7% over 2000. Data includes both
+commercial long distance and local dedicated bandwidth sales. For the year ended
+December 31, 2001, approximately 32% of data revenues were derived from frame
+relay and asynchronous transfer mode services, where we experienced demand for
+capacity increases across the product set as businesses moved more of their
+mission-critical applications to their own networks during the period. At the
+same time, we continued to experience strong price pressure for data services in
+our emerging markets due to competition and the general decline in economic
+condition of our customers, which we expect to continue in the foreseeable
+future.
+
+ International revenues for 2001 increased 25.8% to $3.0 billion
+versus $2.4 billion, excluding Embratel, for 2000. Geographically, Europe grew
+18.4% and Asia Pacific and other areas grew 43.9% for 2001. These increases were
+partially offset by foreign currency fluctuations that had the effect of
+reducing revenues by approximately $160 million in 2001. Although our mix
+improved towards a more profitable blend of data versus voice, and retail versus
+wholesale, our international business continues to experience significant price
+pressure on its products.
+
+ Internet revenues for 2001 increased 28.7% over 2000. Growth was
+driven by demand for dedicated circuits as business customers continue to
+migrate their data networks and applications to Internet-based technologies
+requiring greater amounts of bandwidth. Additionally, Internet revenues for 2001
+included $58 million of Digex revenues, after intercompany eliminations, as a
+result of the Intermedia merger. During 2001, we began to introduce our new
+managed hosting products and virtual private networks on public and shared
+environments. We expect these products, which are in the initial phases of their
+life cycle, to gradually contribute to our revenue growth over the next several
+quarters. Internet revenues include dedicated Internet access, managed
+networking services and applications (such as virtual private networks), web
+hosting and electronic commerce and transaction services (such as web centers
+and credit card transaction processing).
+
+ Consumer revenues for 2001 decreased 7.1% over 2000. The majority of
+this decrease is attributed to decreases in calling card, dial around and dial-1
+revenues as a result of consumers' substitution of wire line services with
+wireless and e-mail. Our consumer local initiatives continued to perform well as
+consumer local revenues increased approximately 180% for 2001 versus 2000.
+
+ Wholesale revenues for 2001 decreased 22.0% over 2000. The wholesale
+market continued to be extremely price competitive, and this, in addition to
+bankruptcies, a reduction in private line circuits related to customer internal
+network consolidation and the impact of the September 11th attacks, contributed
+to the year-over-year decrease. Wholesale revenues during 2001 were also
+impacted by proactive revenue initiatives, which were made to improve the
+quality of the wholesale revenue stream as we shift the MCI group's focus from
+revenue growth to cash generation.
+
+ Alternative channels and small business revenues for 2001 decreased
+31.5% over 2000. Alternative channels and small business includes sales agents
+and affiliates, wholesale alternative channels, small business, prepaid calling
+card and wireless messaging revenues. These decreases are attributed to pricing
+pressures in the wholesale and small business markets which negatively affected
+revenue growth and gross margins in this area, and proactive initiatives to
+de-emphasize services with unacceptable gross margins as we shift the MCI
+group's focus from revenue growth to cash generation.
+
+ Dial-up Internet revenues for 2001 decreased 5.7% over 2000. Our
+dial access network has grown 12.7% to approximately 3.2 million modems as of
+December 31, 2001, compared with the prior year period. Additionally, Internet
+connect hours increased 9.3% to 7.1 billion hours for 2001 versus 2000. These
+network usage increases were more than offset by pricing pressure resulting from
+the impact of volume discounts, which lowered average revenue per hour by
+approximately 17% for 2001 versus 2000.
+
+ 43
+<Page>
+
+ LINE COSTS. For the years ended December 31, 2000 and 2001, our line
+costs were as follows (dollars in millions):
+
+<Table>
+<Caption>
+ 2000 2001
+ ----------------------- -----------------------
+ PERCENT PERCENT
+ $ OF TOTAL $ OF TOTAL
+ -------- -------- -------- --------
+<S> <C> <C> <C> <C>
+WorldCom group ........... $ 8,745 56.6% $ 8,120 55.1%
+MCI group ................ 7,177 46.4 7,080 48.0
+Intergroup eliminations .. (460) (3.0) (461) (3.1)
+ -------- ----- -------- -----
+ $ 15,462 100.0% $ 14,739 100.0%
+ ======== ===== ======== =====
+</Table>
+
+ Line costs as a percentage of revenues for 2001 increased to 41.9%
+as compared to 39.6% for 2000. Excluding Embratel for the 2000 period, line
+costs for 2000 were $13.8 billion, or 38.9% of revenues. The increase as a
+percentage of revenues reflects the pricing pressure in the commercial data,
+international, Internet and wholesale markets as well as the continued
+competitive pricing in the dial-up Internet business which experienced a 17%
+decrease in dial-up revenues per hour for 2001 versus 2000. Additionally, line
+costs as a percentage of revenues have increased as a result of the decrease in
+higher margin calling card and dial around revenues due to wireless substitution
+as noted above.
+
+ Line costs were partially offset by foreign currency exchange
+fluctuations, which had the effect of reducing line costs as a percentage of
+revenues by less than one-half of a percentage point for 2001 as compared to
+2000, and by increased data and dedicated Internet traffic over our own
+facilities, which positively affected line costs as a percentage of revenues by
+more than one-half of a percentage point for 2001.
+
+ The principal components of line costs are access charges and
+transport charges. Regulators have historically permitted access charges to be
+set at levels that are well above traditional local phone companies' costs. As a
+result, access charges have been a source of universal service subsidies that
+enable local exchange rates to be set at levels that are affordable. We have
+actively participated in a variety of Federal, state, local and international
+regulatory proceedings with the goal of bringing access charges to cost-based
+levels and to fund universal service using explicit subsidies funded in a
+competitively neutral manner. We cannot predict the outcome of these proceedings
+or whether or not the results will have a material adverse impact on our
+consolidated financial position or results of operations. However, our goal is
+to manage transport costs through effective utilization of our networks,
+favorable contracts with carriers and network efficiencies made possible as a
+result of expansion of our customer base.
+
+ SELLING, GENERAL AND ADMINISTRATIVE. For the years ended December
+31, 2000 and 2001, our selling, general and administrative expenses were as
+follows (dollars in millions):
+
+<Table>
+<Caption>
+ 2000 2001
+ ----------------------- -----------------------
+ PERCENT PERCENT
+ $ OF TOTAL $ OF TOTAL
+ -------- -------- -------- --------
+<S> <C> <C> <C> <C>
+WorldCom group ........... $ 5,689 53.7% $ 6,058 54.8%
+MCI group ................ 5,162 48.7 5,348 48.4
+Intergroup eliminations .. (254) (2.4) (360) (3.2)
+ -------- ----- -------- -----
+ $ 10,597 100.0% $ 11,046 100.0%
+ ======== ===== ======== =====
+</Table>
+
+ Selling, general and administrative expenses for 2001 were $11.0
+billion or 31.4% of revenues as compared to $10.6 billion or 27.1% of revenues
+for 2000. Selling, general and administrative expenses for 2000 include a $685
+million pre-tax charge ($340 million from the WorldCom group and $345 million
+from the MCI group) associated with specific domestic and international
+wholesale accounts that were deemed uncollectible due to bankruptcies,
+litigation and settlements of contractual disputes that occurred in the third
+quarter of 2000. Additionally, selling, general and administrative expenses for
+2000 include a $93 million pre-tax associated with the termination of the Sprint
+Corporation merger agreement (allocated to the WorldCom group).
+
+ Selling, general and administrative expenses for 2001 include
+pre-tax costs of $865 million ($742 million from the WorldCom group and $123
+million from the MCI group) related to the write-off of investments in certain
+publicly traded and privately held companies, $23 million ($12 million from the
+WorldCom group and $11 million
+
+ 44
+<Page>
+
+from the MCI group) as a result of the costs associated with the tracking stock
+capitalization and $207 million associated with domestic and international
+severance packages and other costs related to our 2001 workforce reductions
+($159 million allocated to the WorldCom group and $48 million allocated to the
+MCI group).
+
+ Excluding these charges and Embratel in 2000, selling, general and
+administrative expenses as a percentage of revenues would have been 28.3% for
+2001 versus 25.0% for 2000.
+
+ The increase in selling, general and administrative expenses for
+2001 includes increased costs associated with "generation d" initiatives, which
+are designed to position us as a leading supplier of e-business solutions, that
+include product marketing, customer care, information systems and product
+development, employee retention costs, and costs associated with multichannel
+multipoint distribution service product development. Additionally, the increase
+in selling, general and administrative expenses can be attributed to proactive
+initiatives to de-emphasize specific wholesale services revenues with
+unacceptable gross margins which began in the fourth quarter of 2000. These
+actions resulted in lower revenues, as discussed above, but had no immediate
+effect on selling, general and administrative expenses for both the wholesale
+and alternative channels and small business channels.
+
+ Selling, general and administrative expenses were offset in part by
+foreign currency exchange fluctuations which had the effect of reducing selling,
+general and administrative expenses as a percentage of revenues by almost
+one-quarter of a percentage point for 2001. Additionally, domestic and
+international workforce reductions in the first and fourth quarters of 2001,
+helped to stabilize selling, general and administrative expenses during the
+remainder of the year.
+
+ DEPRECIATION AND AMORTIZATION. For the years ended December 31, 2000
+and 2001, our depreciation and amortization expense was as follows (dollars in
+millions):
+
+<Table>
+<Caption>
+ 2000 2001
+ ----------------------- -----------------------
+ PERCENT PERCENT
+ $ OF TOTAL $ OF TOTAL
+ -------- -------- -------- --------
+<S> <C> <C> <C> <C>
+WorldCom group ........... $ 3,280 67.3% $ 4,121 70.1%
+MCI group ................ 884 18.1 938 15.9
+Intergroup eliminations .. 714 14.6 821 14.0
+ -------- ----- -------- -----
+ $ 4,878 100.0% $ 5,880 100.0%
+ ======== ===== ======== =====
+</Table>
+
+ Depreciation and amortization expense for 2001 increased to $5.9
+billion or 16.7% of revenues from $4.9 billion or 12.5% of revenues for 2000.
+Excluding Embratel in 2000, depreciation and amortization would have been $4.4
+billion or 12.3% of revenues for 2000. These increases reflect additional
+depreciation associated with 2000 and 2001 capital expenditures as well as
+increased depreciation associated with the assets acquired in the Intermedia
+merger. Beginning January 1, 2002, we stopped amortizing intangible assets with
+indefinite useful lives, including goodwill and tradenames in accordance with
+SFAS No. 142 "Goodwill and Other Intangible Assets." Based on current levels of
+such assets, this will reduce our amortization expense by approximately $1.3
+billion annually.
+
+ INTEREST EXPENSE. Interest expense for 2001 was $1.5 billion or 4.4%
+of revenues as compared to $970 million or 2.5% of revenues for 2000. Excluding
+Embratel in 2000, interest expense would have been $1.0 billion or 2.8% of
+revenues for 2000. For 2000 and 2001, weighted-average annual interest rates on
+our long-term debt, excluding Embratel in all periods, were 6.93% and 7.29%
+respectively, while weighted-average levels of borrowings were $20.6 billion and
+$29.2 billion, respectively. Interest expense for 2001 increased as a result of
+higher debt levels from the May 2001 bond offering and debt acquired in the
+Intermedia merger.
+
+ Capitalized interest for 2001 was $498 million versus $495 million
+for 2000. We expect capitalized interest for 2002 to decline by approximately
+$40-$60 million as a result of lower capital expenditure construction. However,
+continued debt reduction and interest rate management should partially offset
+the impact of lower capitalized interest on interest expense for 2002.
+
+ MISCELLANEOUS INCOME AND EXPENSE. Miscellaneous income for 2001 was
+$412 million or 1.2% of revenues compared to $385 million or 1.0% of revenues
+for 2000. Miscellaneous income includes investment income, equity in
+
+ 45
+<Page>
+
+income and losses of affiliated companies, the effects of fluctuations in
+exchange rates for transactions denominated in foreign currencies, gains and
+losses on the sale of assets and other non-operating items.
+
+ PROVISION FOR INCOME TAXES. The effective income tax rate was 38.7%
+of income before taxes for 2001 and 40% for 2000. See note 9 of our notes to
+consolidated financial statements for a reconciliation of the statutory federal
+rate for income taxes to our effective income tax rate.
+
+ CUMULATIVE EFFECT OF ACCOUNTING CHANGE. During 2000, we adopted SAB
+101, which requires certain activation and installation fee revenues to be
+amortized over the average life of the related service rather than be recognized
+immediately. Costs directly related to these revenues may also be deferred and
+amortized over the customer contract life. This adoption resulted in a one-time
+expense of $85 million, net of income tax benefit of $50 million in the first
+quarter of 2000.
+
+ NET INCOME APPLICABLE TO COMMON SHAREHOLDERS. For 2001, we reported
+net income applicable to common shareholders of $1.4 billion as compared to $4.1
+billion for 2000.
+
+YEAR ENDED DECEMBER 31, 1999 VS.
+ YEAR ENDED DECEMBER 31, 2000
+
+ For the years ended December 31, 1999 and 2000, our revenues were as
+follows (dollars in millions):
+
+<Table>
+<Caption>
+ 1999 2000
+ ----------------------- -----------------------
+ PERCENT PERCENT
+ $ OF TOTAL $ OF TOTAL
+ -------- -------- -------- --------
+<S> <C> <C> <C> <C>
+WorldCom group ........... $ 19,736 55.0% $ 22,755 58.2%
+MCI group ................ 16,172 45.0 16,335 41.8
+ -------- ----- -------- -----
+ $ 35,908 100.0% $ 39,090 100.0%
+ ======== ===== ======== =====
+</Table>
+
+ Reported revenues by category for the years ended December 31, 1999
+and 2000 reflect the following changes by category (dollars in millions):
+
+<Table>
+<Caption>
+ PERCENT
+ 1999 2000 CHANGE
+ ------- ------- -------
+<S> <C> <C> <C>
+COMMERCIAL SERVICES REVENUES
+ Voice .................................... $ 7,433 $ 7,036 (5.3)
+ Data ..................................... 5,830 7,389 26.7
+ International ............................ 1,624 2,367 45.8
+ Embratel, net ............................ 2,772 3,508 26.6
+ Internet ................................. 1,554 2,455 58.0
+ ------- -------
+TOTAL COMMERCIAL SERVICES REVENUES .......... 19,213 22,755 18.4
+ Consumer ................................. 7,590 7,778 2.5
+ Wholesale ................................ 3,943 3,388 (14.1)
+ Alternative channels and small business .. 3,142 3,541 12.7
+ Dial-up Internet ......................... 1,497 1,628 8.8
+ ------- -------
+TOTAL COMMUNICATIONS SERVICES REVENUES ...... 35,385 39,090 10.5
+ Other .................................... 523 -- --
+ ------- -------
+TOTAL ....................................... $35,908 $39,090 8.9
+ ======= =======
+</Table>
+
+ Commercial services revenues, which include the revenues generated
+from commercial voice, data, international and Internet services, for 2000
+increased 18.4% to $22.8 billion versus $19.2 billion for 1999.
+
+ Voice revenues for 2000 decreased 5.3% over 1999 on traffic growth
+of 6.4% as a result of federally mandated access charge reductions, noted under
+line costs below, that were passed through to the customer. The revenue decrease
+was partially offset by local voice revenue increases of 17.4% and wireless
+voice revenue increases of 104% for 2000. We continued to show significant
+percentage gains in local and wireless voice services as customers purchased
+"all-distance" voice services from us. However, local revenues and wireless
+voice revenues are
+
+ 46
+<Page>
+
+still a relatively small component of total commercial voice revenues. Excluding
+local and wireless voice revenues, commercial voice services revenues for 2000
+decreased 15.2% over 1999.
+
+ Data revenues for 2000, increased 26.7% over 1999. The revenue
+growth for data services was driven by a 32.8% increase in frame relay and
+asynchronous transfer mode services. As of December 31, 2000, approximately 35%
+of data revenues were derived from frame relay and asynchronous transfer mode
+services. We continued to experience strong demand for capacity increases across
+the product set as businesses moved more of their mission-critical applications
+to their own networks. Additionally, as of December 31, 2000, our domestic local
+voice grade equivalents had increased 98% to 65.5 million versus the prior year
+amount.
+
+ International revenues for 2000 increased 45.8% to $2.4 billion
+versus $1.6 billion for 1999. This includes a 28% increase in revenues from
+Europe, and a 119% increase in revenues from Asia and other areas. As of
+December 31, 2000, we had 21 international facility based city networks versus
+17 in 1999. Additionally, during 2000 we added over 5,000 buildings for a total
+of over 15,000 buildings connected on the international networks.
+
+ Embratel revenues for 2000 increased 26.6% to $3.5 billion versus
+$2.8 billion for 1999 as a result of a higher number of fixed phone lines and
+cellular devices in service within Brazil.
+
+ Internet revenues for 2000 increased 58.0% over 1999. Growth was
+driven by demand for dedicated circuits as business customers migrated their
+data networks and applications to Internet-based technologies with greater
+amounts of bandwidth.
+
+ Consumer revenues for 2000 increased 2.5% over 1999 as the MCI
+group's partner marketing programs helped to drive Dial-1 product gains.
+Consumer revenue growth was impacted by declines in transaction brands and
+calling card services, which were pressured by increasing wireless substitution,
+and 10-10-321, which the MCI group no longer actively markets.
+
+ Wholesale revenues for 2000 decreased 14.1% versus 1999 as a result
+of price pressure. Wholesale revenues for 2000 were also impacted by proactive
+fourth quarter 2000 revenue actions which had the effect of reducing wholesale
+revenues by approximately $90 million in the fourth quarter of 2000. These
+actions were made to improve the quality of the wholesale revenue stream as we
+shift the MCI group's focus from revenue growth to cash generation.
+
+ Alternative channels and small business revenues for 2000 increased
+12.7% over 1999. This increase is primarily attributable to internal growth for
+wholesale alternative channel voice revenues. We expect that pricing pressures
+in the wholesale and small business markets will negatively affect revenue
+growth and gross margins in this area and this level of growth will decline in
+the foreseeable future as a result of these services being de-emphasized as we
+shift the MCI group's focus from revenue growth to cash generation.
+
+ Dial-up Internet revenue growth for 2000 was 8.8% over 1999. Our
+dial access network has grown 71% to over 2.8 million modems as of December 31,
+2000, compared with 1999. Additionally, Internet connect hours increased 54.8%
+to 6.5 billion hours for 2000 versus 1999. These network usage increases were
+offset by pricing pressure on dial-up Internet traffic as a result of contract
+repricings in the second quarter of 2000, which lowered average revenue per hour
+by 25% for 2000 versus 1999.
+
+ Other revenues which, prior to April 1999, consisted of the
+operations of SHL Systemhouse Corp. and SHL Systemhouse Co., were $523 million
+for 1999. SHL provided information technology services including outsourcing,
+information technology consulting, systems integration, private network
+management, technology development and applications and systems development. In
+April 1999, we completed the sale of SHL to Electronic Data Systems Corporation
+for $1.6 billion.
+
+ 47
+<Page>
+
+ LINE COSTS. For the years ended December 31, 1999 and 2000, our line
+costs were as follows (dollars in millions):
+
+<Table>
+<Caption>
+ 1999 2000
+ ----------------------- -----------------------
+ PERCENT PERCENT
+ $ OF TOTAL $ OF TOTAL
+ -------- -------- -------- --------
+<S> <C> <C> <C> <C>
+WorldCom group ........... $ 7,905 53.6% $ 8,745 56.6%
+MCI group ................ 7,087 48.1 7,177 46.4
+Intergroup eliminations .. (253) (1.7) (460) (3.0)
+ -------- ----- -------- -----
+ $ 14,739 100.0% $ 15,462 100.0%
+ ======== ===== ======== =====
+</Table>
+
+ Line costs as a percentage of revenues for 2000 decreased to 39.6%
+as compared to 41.0% for 1999. The overall improvements are a result of
+increased data and dedicated Internet traffic at the WorldCom group, which
+positively affected line costs as a percentage of revenues by approximately one
+percentage point. Additionally, access charge reductions that occurred in
+January 2000 and July 2000 reduced total line cost expense by approximately $245
+million for 2000. While access charge reductions were primarily passed through
+to customers, line costs as a percentage of revenues were positively affected by
+almost one half of a percentage point. These improvements were somewhat offset
+by 2000 contract repricings in our dial-up Internet business as noted above and
+continued competitive pricing on the dial-up Internet business, which
+effectively held the average cost per hour constant although average dial-up
+Internet revenues per hour decreased by 25%.
+
+ SELLING, GENERAL AND ADMINISTRATIVE. For the years ended December
+31, 1999 and 2000, our selling, general and administrative expenses were as
+follows (dollars in millions):
+
+<Table>
+<Caption>
+ 1999 2000
+ ----------------------- -----------------------
+ PERCENT PERCENT
+ $ OF TOTAL $ OF TOTAL
+ -------- -------- -------- --------
+<S> <C> <C> <C> <C>
+WorldCom group ........... $ 4,195 47.0% $ 5,689 53.7%
+MCI group ................ 5,071 56.7 5,162 48.7
+Intergroup eliminations .. (331) (3.7) (254) (2.4)
+ -------- ----- -------- -----
+ $ 8,935 100.0% $ 10,597 100.0%
+ ======== ===== ======== =====
+</Table>
+
+ Selling, general and administrative expenses for 2000 were $10.6
+billion or 27.1% of revenues as compared to $8.9 billion or 24.9% of revenues
+for the year ended December 31, 1999.
+
+ Selling, general and administrative expenses for 2000 include a $93
+million pre-tax charge associated with the termination of the Sprint Corporation
+merger agreement, including regulatory, legal, accounting and investment banking
+fees and other costs, and a $685 million pre-tax charge associated with specific
+domestic and international wholesale accounts that were no longer deemed
+collectible due to bankruptcies, litigation and settlements of contractual
+disputes that occurred in the third quarter of 2000. We maintain general
+uncollectible reserves based on historical experience, and specific reserves for
+items such as bankruptcies, litigation and contractual settlements that are
+established in the period in which the settlement is both estimable and
+probable. During the third quarter of 2000, an unprecedented number of our
+wholesale customers either filed for bankruptcy or changed their status in
+bankruptcy from reorganization to liquidation. This, combined with the third
+quarter 2000 declines in stock prices for many companies in the
+telecommunications industry and the overall tightening of the capital markets,
+which limited the access of many telecommunications providers to the necessary
+capital to continue operations, led to our specific write-off of such accounts.
+Prior to the third quarter 2000 events, the general uncollectible reserves were,
+in our view, adequate. Additionally, under contractual arrangements with
+traditional local phone companies and other competitive local exchange carriers,
+we billed the traditional local phone companies and competitive local exchange
+carriers for traffic originating on the traditional local phone company's or
+competitive local exchange carrier's networks and terminating on our network.
+The traditional local phone companies and competitive local exchange carriers
+have historically disputed these billings, although the collectibility of these
+billings had continued to be affirmed by public service commission and FCC
+rulings and by the full payment from a traditional local phone company of the
+largest past due amount. However, during the third quarter of 2000, court
+rulings and Congressional discussions led to our negotiation and settlement with
+certain traditional local phone companies and competitive local exchange
+carriers for
+
+ 48
+<Page>
+
+these outstanding receivables. Based on the outcome of these negotiations, we
+recorded a specific provision for the associated uncollectible amounts.
+
+ Excluding these charges, selling, general and administrative
+expenses as a percentage of revenues would have been 25.1% for 2000. Selling,
+general and administrative expenses for 2000 includes increased costs associated
+with "generation d" initiatives, which are designed to position us as a leading
+supplier of e-business solutions, that include product marketing, customer care,
+information systems and product development, employee retention costs, and costs
+associated with multichannel multipoint distribution service product
+development. These increased costs affected selling, general and administrative
+expense as a percentage of revenues by approximately two percentage points.
+
+ DEPRECIATION AND AMORTIZATION. For the years ended December 31, 1999
+and 2000, WorldCom's depreciation and amortization expense was as follows
+(dollars in millions):
+
+<Table>
+<Caption>
+ 1999 2000
+ ----------------------- -----------------------
+ PERCENT PERCENT
+ $ OF TOTAL $ OF TOTAL
+ -------- -------- -------- --------
+<S> <C> <C> <C> <C>
+WorldCom group ........... $ 3,013 69.2% $ 3,280 67.3%
+MCI group ................ 757 17.4 884 18.1
+Intergroup eliminations .. 584 13.4 714 14.6
+ -------- ----- -------- -----
+ $ 4,354 100.0% $ 4,878 100.0%
+ ======== ===== ======== =====
+</Table>
+
+ Depreciation and amortization expense for 2000 increased to $4.9
+billion or 12.5% of revenues from $4.4 billion or 12.1% of revenues for 1999.
+This increase primarily reflects additional depreciation associated with
+increased capital expenditures.
+
+ INTEREST EXPENSE. Interest expense for 2000 was $970 million or 2.5%
+of revenues as compared to $966 million or 2.7% of revenues for 1999. For 2000
+and 1999, weighted-average annual interest rates on our long-term debt were
+7.28% and 7.23% respectively, while weighted-average levels of borrowings were
+$21.6 billion and $19.1 billion, respectively.
+
+ Interest expense for 2000 was favorably impacted by increased
+construction activity and the associated interest capitalization, offset in part
+by higher weighted-average levels of borrowings and higher interest rates on our
+variable rate debt and 2000 public debt offerings. Interest expense for 2000 was
+also favorably impacted as a result of SHL sale proceeds, investment sale
+proceeds and proceeds from the increase in our receivables purchase program in
+the third quarter of 1999 used to repay indebtedness under our credit facilities
+and commercial paper program.
+
+ MISCELLANEOUS INCOME AND EXPENSE. Miscellaneous income for 2000 was
+$385 million or 1.0% of revenues as compared to $242 million or 0.7% of revenues
+for 1999. Miscellaneous income includes investment income, equity in income and
+losses of affiliated companies, the effects of fluctuations in exchange rates
+for transactions denominated in foreign currencies, gains and losses on the sale
+of assets and other non-operating items.
+
+ PROVISION FOR INCOME TAXES. The effective income tax rate for 2000
+was 40.0% of income before taxes. The 2000 rate is greater than the expected
+federal statutory rate of 35% primarily due to the amortization of the
+non-deductible goodwill. Excluding non-deductible amortization of goodwill, our
+effective income tax rate would have been 35.0%.
+
+ CUMULATIVE EFFECT OF ACCOUNTING CHANGE. During the fourth quarter of
+2000, we implemented SAB 101, which requires certain activation and installation
+fee revenues to be amortized over the average life of the related service rather
+than be recognized immediately. Costs directly related to these revenues may
+also be deferred and amortized over the customer contract life. As required by
+SAB 101, we retroactively adopted this accounting effective January 1, 2000,
+which resulted in a one-time expense of $85 million, net of income tax benefit
+of $50 million.
+
+ 49
+<Page>
+
+ NET INCOME APPLICABLE TO COMMON SHAREHOLDERS. For the year ended
+December 31, 2000, we reported net income applicable to common shareholders of
+$4.1 billion as compared to $3.9 billion for the year ended December 31, 1999.
+
+ATTRIBUTION AND ALLOCATION OF ASSETS, LIABILITIES, REVENUES AND EXPENSES BETWEEN
+ THE WORLDCOM GROUP AND THE MCI GROUP
+
+ The following is a discussion of the methods used to attribute and
+allocate property and equipment, revenues, line costs, shared corporate
+services, intangible assets and financing arrangements to the WorldCom group and
+the MCI group. These methods have been consistently applied for the years ended
+December 31, 1999, 2000 and 2001. Additionally, our management believes that the
+cost allocations outlined below are equitable and provide a reasonable estimate
+of the costs attributable to each group.
+
+ PROPERTY AND EQUIPMENT. Property and equipment was attributed to the
+WorldCom group and the MCI group based on specific identification consistent
+with the assets necessary to support the continuing operations of the businesses
+attributed to the respective groups. The balances of property and equipment
+attributed to each of the groups as of December 31, 2001 are as follows:
+
+<Table>
+<Caption>
+ WORLDCOM MCI
+ GROUP GROUP WORLDCOM
+ ----- ----- --------
+ (IN MILLIONS)
+<S> <C> <C> <C>
+Transmission equipment ............... $ 23,369 $ 445 $ 23,814
+Communications equipment ............. 5,434 2,444 7,878
+Furniture, fixtures and other ........ 10,583 680 11,263
+Construction in progress ............. 5,576 130 5,706
+ -------- -------- --------
+ 44,962 3,699 48,661
+Accumulated depreciation ............. (8,170) (1,682) (9,852)
+ -------- -------- --------
+ $ 36,792 $ 2,017 $ 38,809
+ ======== ======== ========
+</Table>
+
+ REVENUES. Revenues have been attributed to the WorldCom group and
+the MCI group based on specific identification of the lines of business that are
+attributed to the two groups.
+
+ LINE COSTS. Allocated line costs and related liabilities include the
+costs of the fiber optic systems attributed to the WorldCom group and the costs
+of the business voice switched services attributed to the MCI group. Line costs
+have been attributed to the WorldCom group and the MCI group predominantly based
+on specific identification of network usage by that group. Where determinations
+based on specific usage alone were impractical, we used other allocation
+methods, including methods based on the total revenues generated by each group.
+
+ SHARED CORPORATE SERVICES. A portion of our shared corporate
+services and related balance sheet amounts (such as executive management, human
+resources, legal, regulatory, accounting, tax, treasury, strategic planning and
+information systems support) has been attributed to the WorldCom group or the
+MCI group based upon identification of such services specifically benefiting
+such group. Where determinations based on specific usage alone have been
+impractical, we used other allocation methods that we believe are fair,
+including methods based on such factors as the number of employees and total
+line costs or revenues generated by each group.
+
+ ALLOCATION OF INTANGIBLE ASSETS. Intangible assets include the
+excess consideration paid over the fair value of net tangible assets acquired by
+us in business combinations accounted for under the purchase method and include
+goodwill, channel rights, developed technology and tradenames. These assets have
+been attributed to the respective groups based on specific identification and
+where acquired companies have been divided between the WorldCom group and the
+MCI group, the intangible assets have been allocated based on the respective
+fair values at the date of purchase of the related operations attributed to each
+group. Our management believes that this method of allocation is equitable and
+provides a reasonable estimate of the intangible assets attributable to the
+WorldCom group and the MCI group.
+
+ 50
+<Page>
+
+ All tradenames, including the MCI tradename and the other related
+MCI tradenames, have been attributed to the WorldCom group. The MCI group will
+be allocated an expense, and the WorldCom group will be allocated a
+corresponding decrease in depreciation and amortization expense, for the use of
+the MCI tradenames for the next four years based on the following schedule:
+
+ 2002: $30.0 million
+ 2003: $35.0 million
+ 2004: $40.0 million
+ 2005: $45.0 million
+
+ Any renewal or termination of use of the MCI tradename by the MCI
+group will be subject to the general policy that our board of directors will act
+in the best interests of WorldCom. For each of the years ended December 31,
+1999, 2000 and 2001, depreciation and amortization expense associated with the
+MCI tradenames allocated to the WorldCom group was decreased by $27.5 million
+per annum for use of the MCI tradenames by the MCI group.
+
+ Goodwill and other intangibles assigned or allocated to the WorldCom
+group and the MCI group as of December 31, 2001 are as follows:
+
+<Table>
+<Caption>
+ WORLDCOM MCI
+ GROUP GROUP WORLDCOM
+ ----- ----- --------
+ (IN MILLIONS)
+<S> <C> <C> <C>
+Goodwill ....................... $ 40,551 $ 9,274 $ 49,825
+Tradenames ..................... 1,112 -- 1,112
+Developed technology ........... 1,590 510 2,100
+Other intangibles .............. 3,414 1,443 4,857
+ -------- -------- --------
+ 46,667 11,227 57,894
+Accumulated amortization ....... (5,849) (1,508) (7,357)
+ -------- -------- --------
+ $ 40,818 $ 9,719 $ 50,537
+ ======== ======== ========
+</Table>
+
+ FINANCING ARRANGEMENTS. As of January 1, 1999, $6.0 billion of our
+outstanding debt was notionally allocated to the MCI group and the remainder of
+our debt was notionally allocated to the WorldCom group. Our debt was allocated
+between the WorldCom group and the MCI group based upon a number of factors
+including estimated future cash flows and the ability to pay debt service and
+dividends of each of the groups. In addition, management considered certain
+measures of creditworthiness, such as coverage ratios and various tests of
+liquidity, in the allocation process. Our management believes that the initial
+allocation was equitable and supportable by both the WorldCom group and the MCI
+group. The debt allocated to the MCI group bears interest at a rate indicative
+of the rate at which the MCI group would borrow from third parties if it was a
+wholly owned subsidiary of WorldCom but did not have the benefit of any
+guarantee by WorldCom. Interest rates will be calculated on a quarterly basis.
+Debt allocated to the MCI group bears an interest rate equal to the
+weighted-average interest rate, excluding capitalized interest, of WorldCom debt
+plus 1 1/4 percent. Interest allocated to the WorldCom group reflects the
+difference between our actual interest expense and the interest expense charged
+to the MCI group. Subsequent to the recapitalization, each group's allocated
+debt increases or decreases by the amount of any net cash generated by, or
+required to fund, the group's operating activities, investing activities,
+dividend payments, share repurchases and other financing activities.
+
+ As of December 31, 2001, our receivables purchase program consisted
+of a $3.7 billion pool of receivables in which the purchaser owned an undivided
+interest, including $2.0 billion sold. The WorldCom group was allocated $2.8
+billion of the pool and $1.7 billion of the sold receivables. The MCI group was
+allocated the balance. The receivables sold were assigned based on specific
+identification where practical, or allocated based on total revenues. Our
+management believes that this method of allocation is equitable and provides a
+reasonable estimate of the receivables attributable to the groups.
+
+ 51
+<Page>
+
+WORLDCOM GROUP RESULTS OF OPERATIONS
+
+ The following table sets forth for the periods indicated the
+WorldCom group's statements of operations in millions of dollars and as a
+percentage of its revenues for the periods indicated:
+
+<Table>
+<Caption>
+ FOR THE YEARS ENDED DECEMBER 31,
+ ----------------------------------------------------------------------
+ 1999 2000 2001
+ -------------------- -------------------- --------------------
+<S> <C> <C> <C> <C> <C> <C>
+Revenues ............................................ $ 19,736 100.0% $ 22,755 100.0% $ 21,348 100.0%
+Line costs .......................................... 7,905 40.1 8,745 38.4 8,120 38.0
+Selling, general and administrative ................. 4,195 21.3 5,689 25.0 6,058 28.4
+Depreciation and amortization ....................... 3,013 15.3 3,280 14.4 4,121 19.3
+Other charges ....................................... (8) -- -- -- -- --
+ -------- ----- -------- ----- -------- -----
+Operating income .................................... 4,631 23.5 5,041 22.2 3,049 14.3
+Other income (expense):
+ Interest expense ............................... (460) (2.3) (458) (2.0) (1,029) (4.8)
+ Miscellaneous .................................. 237 1.2 385 1.7 412 1.9
+ -------- ----- -------- ----- -------- -----
+Income before income taxes, minority interests and
+ cumulative effect of accounting ................ 4,408 22.3 4,968 21.8 2,432 11.4
+Provision for income taxes .......................... 1,856 9.4 1,990 8.7 943 4.4
+ -------- ----- -------- ----- -------- -----
+Income before minority interests and cumulative
+ effect of accounting change .................... 2,552 12.9 2,978 13.1 1,489 7.0
+Minority interests .................................. (186) (0.9) (305) (1.3) 35 0.2
+Cumulative effect of accounting change .............. -- -- (75) (0.3) -- --
+Distributions on other mandatorily redeemable
+ preferred securities and other preferred
+ dividend requirements ......................... 72 0.4 65 0.3 117 0.5
+ -------- ----- -------- ----- -------- -----
+Net income .......................................... $ 2,294 11.6% $ 2,533 11.1% $ 1,407 6.6%
+ ======== ===== ======== ===== ======== =====
+</Table>
+
+YEAR ENDED DECEMBER 31, 2000 VS.
+ YEAR ENDED DECEMBER 31, 2001
+
+ REVENUES. Reported revenues by category for 2000 and 2001 reflect
+the following changes by category (dollars in millions):
+
+<Table>
+<Caption>
+ PERCENT
+ 2000 2001 CHANGE
+ ------- ------- -------
+<S> <C> <C> <C>
+COMMERCIAL SERVICES REVENUES
+ Voice .................................... $ 7,036 $ 6,591 (6.3)%
+ Data ..................................... 7,389 8,620 16.7
+ International ............................ 2,367 2,977 25.8
+ Embratel, net ............................ 3,508 -- (100.0)
+ Internet ................................. 2,455 3,160 28.7
+ ------- -------
+TOTAL COMMERCIAL SERVICES REVENUES .......... $22,755 $21,348 (6.2)
+ ======= =======
+</Table>
+
+ WorldCom group revenues for 2001 were $21.3 billion versus $22.8
+billion for 2000. As previously indicated, during the second quarter of 2001, we
+took steps to restructure our investment in Embratel which resulted in the
+deconsolidation of Embratel effective January 1, 2001. Excluding Embratel from
+the 2000 periods, WorldCom group revenues for 2001 increased 10.9% versus 2000.
+
+ Voice revenues for 2001 decreased 6.3% over 2000 on traffic growth
+of 2.6%. The revenue decreases were partially offset by wireless voice revenue
+increases of 32.6% for 2001. Excluding wireless voice revenues, commercial voice
+revenues decreased 12.7% over 2000.
+
+ 52
+<Page>
+
+ Data revenues for 2001 increased 16.7% over 2000. For the year ended
+December 31, 2001, approximately 32% of data revenues were derived from frame
+relay and asynchronous transfer mode services, where we experienced demand for
+capacity increases across the product set as businesses moved more of their
+mission-critical applications to their own networks during the period. At the
+same time, we continued to experience strong price pressure for data services in
+our emerging markets due to competition and the general decline in economic
+condition of our customers, which we expect to continue in the foreseeable
+future.
+
+ International revenues for 2001 increased 25.8% to $3.0 billion
+versus $2.4 billion, excluding Embratel, for 2000. Geographically, Europe grew
+18.4% and Asia Pacific and other areas grew 43.9% for 2001. These increases were
+partially offset by foreign currency fluctuations that had the effect of
+reducing revenues by approximately $160 million in 2001. Although our mix
+improved towards a more profitable blend of data versus voice, and retail versus
+wholesale, our international business continues to experience significant price
+pressure on its products.
+
+ Internet revenues for 2001 increased 28.7% over 2000. Growth was
+driven by demand for dedicated circuits as business customers continue to
+migrate their data networks and applications to Internet-based technologies
+requiring greater amounts of bandwidth. Additionally, Internet revenues for 2001
+included $58 million of Digex revenues, net of intercompany eliminations, as a
+result of the Intermedia merger. During 2001, we began to introduce our new
+managed hosting products and virtual private networks on public and shared
+environments. We expect these products, which are in the initial phases of their
+life cycle, to gradually contribute to our revenue growth over the next several
+quarters. Internet revenues include dedicated Internet access, managed
+networking services and applications (such as virtual private networks), web
+hosting and electronic commerce and transaction services (such as web centers
+and credit card transaction processing).
+
+ LINE COSTS. Line costs as a percentage of revenues for 2001
+decreased to 38.0% as compared to 38.4% reported for 2000. Excluding Embratel in
+2000, line costs would have been $7.1 billion, or 37.0% of revenues for 2000.
+The increase as a percentage of revenues excluding Embratel, reflects the
+pricing pressure in the data, international and Internet markets. Line costs
+were partially offset by foreign currency exchange fluctuations which had the
+effect of reducing line costs as a percentage of revenues by more than one-half
+of a percentage point for 2001, and by increased data and dedicated Internet
+traffic over our own facilities, which positively affected line costs as a
+percentage of revenues by almost three-fourths of one percentage point for 2001.
+
+ SELLING, GENERAL AND ADMINISTRATIVE. Selling, general and
+administrative expenses for 2001 were $6.1 billion or 28.4% of revenues as
+compared to $5.7 billion or 25.0% of revenues for the prior year period.
+Selling, general and administrative expenses for 2000 include a $340 million
+pre-tax charge associated with specific domestic and international wholesale
+accounts that were deemed uncollectible due to bankruptcies, litigation and
+settlements of contractual disputes that occurred in the third quarter of 2000
+and a $93 million pre-tax charge associated with the termination of the Sprint
+Corporation merger agreement. Selling, general and administrative expenses for
+2001 include pre-tax costs of $742 million related to the write-off of
+investments in certain publicly traded and privately held companies, $12 million
+as a result of the costs associated with the tracking stock capitalization and
+$159 million associated with domestic and international severance packages and
+other costs related to our 2001 workforce reductions. Excluding these charges
+and Embratel in 2000, selling, general and administrative expenses as a
+percentage of revenues would have been 24.1% for 2001 versus 22.5% for 2000.
+
+ The increase in selling, general and administrative expenses for
+2001 includes increased costs associated with "generation d" initiatives that
+include product marketing, customer care, information system and product
+development, employee retention costs, and costs associated with multichannel
+multipoint distribution service product development.
+
+ 53
+<Page>
+
+ Selling, general and administrative expenses were offset in part by
+foreign currency exchange fluctuations which had the effect of reducing selling,
+general and administrative expenses as a percentage of revenues by less than
+one-half of a percentage point for 2001. Additionally, domestic and
+international workforce reductions in the first and fourth quarters of 2001
+helped to stabilize selling, general and administrative costs during the
+remainder of the year.
+
+ DEPRECIATION AND AMORTIZATION. Depreciation and amortization expense
+for 2001 increased to $4.1 billion or 19.3% of revenues from $3.3 billion or
+14.4% of revenues for 2000. Excluding Embratel in 2000, depreciation and
+amortization would have been $2.8 billion or 14.5% of revenues for 2000. The
+increase reflects increased depreciation associated with 2000 and 2001 capital
+expenditures as well as increased depreciation associated with the assets
+acquired in the Intermedia merger. Beginning January 1, 2002, the WorldCom group
+stopped amortizing intangible assets with indefinite useful lives, including
+goodwill and tradenames in accordance with SFAS No. 142. Based on current levels
+of such assets, this will reduce the WorldCom group's amortization expense by
+approximately $1.0 billion annually.
+
+ INTEREST EXPENSE. Interest expense for 2001 was $1.0 billion or 4.8%
+of revenues as compared to $458 million or 2.0% of revenues for 2000. Excluding
+Embratel in 2000, interest expense would have been $502 million, or 2.6% of
+revenues for 2000. Interest expense on borrowings incurred by WorldCom and
+allocated to the WorldCom group reflects the difference between WorldCom's
+actual interest expense and the interest expense allocated to the MCI group. The
+MCI group was allocated interest based on the weighted-average interest rate,
+excluding capitalized interest, of WorldCom debt plus 1 1/4 percent.
+
+ Capitalized interest for 2001 was $498 million versus $495 million
+for 2000. We expect capitalized interest for 2002 to decline by approximately
+$40 - $60 million as a result of lower capital expenditure construction.
+However, continued debt reduction and interest rate management should partially
+offset the impact of lower capitalized interest on interest expense for 2002.
+
+ MISCELLANEOUS INCOME AND EXPENSE. Miscellaneous income for 2001 was
+$412 million, or 1.9% of revenues as compared to $385 million, or 1.7% of
+revenues for 2000. Miscellaneous income includes investment income, equity in
+income and losses of affiliated companies, the effects of fluctuations in
+exchange rates for transactions denominated in foreign currencies, gains and
+losses on the sale of assets and other non-operating items.
+
+ PROVISION FOR INCOME TAXES. The effective income tax rate was 38.8%
+of income before taxes for 2001 and 40.1% for 2000. See note 10 to the WorldCom
+group's combined financial statements for a reconciliation of the statutory
+federal rate for income taxes to the WorldCom group's effective income tax rate.
+
+ CUMULATIVE EFFECT OF ACCOUNTING CHANGE. During 2000, we adopted SAB
+101, which requires certain activation and installation fee revenues to be
+amortized over the average life of the related service rather than be recognized
+immediately. Costs directly related to these revenues may also be deferred and
+amortized over the customer contract life. This adoption resulted in a one-time
+expense of $75 million, net of income tax benefit of $43 million, for the
+WorldCom group in the first quarter of 2000.
+
+ NET INCOME. For 2001, the WorldCom group reported net income of $1.4
+billion as compared to $2.5 billion for 2000. Pro forma diluted income per
+common share for 2001 was $0.48 compared to income per common share of $0.87 for
+2000. Pro forma diluted income per share assumes the recapitalization occurred
+at the beginning of 2000 and that the WorldCom group stock and MCI group stock
+existed for all periods presented.
+
+YEAR ENDED DECEMBER 31, 1999 VS.
+ YEAR ENDED DECEMBER 31, 2000
+
+ REVENUES. Revenues for 2000 increased 15.3% to $22.8 billion versus
+$19.7 billion for 1999. The increase in total revenues is attributable to
+internal growth of the WorldCom group.
+
+ 54
+<Page>
+
+ Reported revenues by category for the years ended December 31, 1999
+and 2000 reflect the following changes by category (dollars in millions):
+
+<Table>
+<Caption>
+ PERCENT
+ 1999 2000 CHANGE
+ ------- ------- -------
+<S> <C> <C> <C>
+COMMERCIAL SERVICES REVENUES
+ Voice ..................................... $ 7,433 $ 7,036 (5.3)
+ Data ...................................... 5,830 7,389 26.7
+ International ............................. 1,624 2,367 45.8
+ Embratel, net ............................. 2,772 3,508 26.6
+ Internet .................................. 1,554 2,455 58.0
+ ------- -------
+TOTAL COMMERCIAL SERVICES REVENUES ........... 19,213 22,755 18.4
+ Other .................................... 523 -- --
+ ------- -------
+TOTAL ........................................ $19,736 $22,755 15.3
+ ======= =======
+</Table>
+
+ Voice revenues for 2000 decreased 5.3% over 1999 on traffic growth
+of 6.4% as a result of federally mandated access charge reductions, noted under
+line costs below, that were passed through to the customer. The revenue decrease
+was partially offset by local voice revenue increases of 17.4% and wireless
+voice revenue increases of 104% for 2000. We continued to show significant
+percentage gains in local and wireless voice services as customers purchased
+"all-distance" voice services from us. However, local revenues and wireless
+voice revenues are still a relatively small component of total commercial voice
+revenues. Excluding local and wireless voice revenues, commercial voice services
+revenues for 2000 decreased 15.2% over 1999.
+
+ Data revenues for 2000, increased 26.7% over 1999. The revenue
+growth for data services was driven by a 32.8% increase in frame relay and
+asynchronous transfer mode services. As of December 31, 2000, approximately 35%
+of data revenues were derived from frame relay and asynchronous transfer mode
+services. We continued to experience strong demand for capacity increases across
+the product set as businesses moved more of their mission-critical applications
+to their own networks. Additionally, as of December 31, 2000, our domestic local
+voice grade equivalents had increased 98% to 65.5 million versus the prior year
+amount.
+
+ International revenues for 2000 increased 45.8% to $2.4 billion
+versus $1.6 billion for 1999. This includes a 28% increase in revenues from
+Europe, and a 119% increase in revenues from Asia and other areas. As of
+December 31, 2000, we had 21 international facility based city networks versus
+17 in 1999. Additionally, during 2000 we added over 5,000 buildings for a total
+of over 15,000 buildings connected on the international networks.
+
+ Embratel revenues for 2000 increased 26.6% to $3.5 billion versus
+$2.8 billion for 1999 as a result of a higher number of fixed phone lines and
+cellular devices in service within Brazil.
+
+ Internet revenues for 2000 increased 58.0% over 1999. Growth was
+driven by demand for dedicated circuits as business customers migrated their
+data networks and applications to Internet-based technologies with greater
+amounts of bandwidth.
+
+ Other revenues which, prior to April 1999, consisted of the
+operations of SHL, were $523 million for 1999. In April 1999, we completed the
+sale of SHL to Electronic Data Systems for $1.6 billion.
+
+ LINE COSTS. Line costs as a percentage of revenues for 2000
+decreased to 38.4% as compared to 40.1% reported for 1999. The overall
+improvement is a result of increased data and dedicated Internet traffic over
+WorldCom-owned facilities, which positively affected line costs as a percentage
+of revenues by approximately one and one-half percentage points. Additionally,
+access charge reductions that occurred in January 2000 and July 2000 reduced
+total line cost expense by approximately $95 million for 2000. While access
+charge reductions were primarily passed through to customers, line costs as a
+percentage of revenues were positively affected by more than a quarter of a
+percentage point.
+
+ SELLING, GENERAL AND ADMINISTRATIVE. Selling, general and
+administrative expenses for 2000 were $5.7 billion or 25.0% of revenues as
+compared to $4.2 billion or 21.3% of revenues for 1999. Selling, general and
+administrative
+
+ 55
+<Page>
+
+expenses for 2000 include a $340 million pre-tax charge associated with specific
+accounts that were deemed uncollectible due to bankruptcies, litigation and
+settlements of contractual disputes that occurred in the third quarter of 2000,
+and a $93 million pre-tax charge associated with the termination of the Sprint
+Corporation merger agreement, including regulatory, legal, accounting and
+investment banking fees and other costs. Excluding these charges, selling,
+general and administrative expenses as a percentage of revenues were 23.1% for
+2000. Selling, general and administrative expenses for 2000 includes increased
+costs associated with "generation d" initiatives that include product marketing,
+customer care, information system and product development, employee retention
+costs, and costs associated with multichannel multipoint distribution service
+product development. These increased costs affected selling, general and
+administrative expense as a percentage of revenues by approximately three
+percentage points.
+
+ DEPRECIATION AND AMORTIZATION. Depreciation and amortization expense
+for the year ended December 31, 2000 increased to $3.3 billion or 14.4% of
+revenues from $3.0 billion or 15.3% of revenues for 1999. This increase reflects
+increased depreciation associated with increased capital expenditures. As a
+percentage of revenues, these costs decreased due to the higher revenue base.
+
+ INTEREST EXPENSE. Interest expense for 2000 was $458 million or 2.0%
+of revenues as compared to $460 million or 2.3% of revenues for 1999. Interest
+expense on borrowings incurred by WorldCom and allocated to the WorldCom group
+reflects the difference between WorldCom's actual interest expense and the
+interest expense allocated to the MCI group. The MCI group was allocated
+interest based on the weighted-average interest rate, excluding capitalized
+interest, of WorldCom debt plus 1 1/4 percent.
+
+ MISCELLANEOUS INCOME AND EXPENSE. Miscellaneous income for 2000 was
+$385 million or 1.7% of revenues as compared to $237 million or 1.2% of revenues
+for 1999. Miscellaneous income includes investment income, equity in income and
+losses of affiliated companies, the effects of fluctuations in exchange rates
+for transactions denominated in foreign currencies, gains and losses on the sale
+of assets and other non-operating items.
+
+ PROVISION FOR INCOME TAXES. The effective income tax rate for 2000
+was 40.1% of income before taxes. The 2000 rate is greater than the expected
+federal statutory rate of 35% primarily due to the amortization of the
+non-deductible goodwill. Excluding non-deductible amortization of goodwill, the
+WorldCom group's effective income tax rate would have been 34.1%.
+
+ CUMULATIVE EFFECT OF ACCOUNTING CHANGE. During the fourth quarter of
+2000, we implemented SAB 101, which requires certain activation and installation
+fee revenues to be amortized over the average life of the related service rather
+than be recognized immediately. Costs directly related to these revenues may
+also be deferred and amortized over the customer contract life. As required by
+SAB 101, we retroactively adopted this accounting effective January 1, 2000,
+which resulted in a one-time expense of $75 million, net of income tax benefit
+of $43 million for the WorldCom group.
+
+ NET INCOME. For the year ended December 31, 2000, the WorldCom group
+reported net income of $2.5 billion as compared to $2.3 billion for the year
+ended December 31, 1999.
+
+MCI GROUP RESULTS OF OPERATIONS
+
+ The following table sets forth for the periods indicated the MCI
+group's statements of operations in millions of dollars and as a percentage of
+its revenues for the periods indicated:
+
+<Table>
+<Caption>
+ FOR THE YEARS ENDED DECEMBER 31,
+ -------------------------------------------------------------
+ 1999 2000 2001
+ ----------------- ----------------- -----------------
+<S> <C> <C> <C> <C> <C> <C>
+Revenues ................................................. $ 16,172 100.0% $ 16,335 100.0% $ 13,831 100.0%
+Line costs ............................................... 7,087 43.8 7,177 43.9 7,080 51.2
+Selling, general and administrative ...................... 5,071 31.4 5,162 31.6 5,348 38.7
+Depreciation and amortization ............................ 757 4.7 884 5.4 938 6.8
+ -------- ----- -------- ----- -------- -----
+Operating income ......................................... 3,257 20.1 3,112 19.1 465 3.4
+</Table>
+
+ 56
+<Page>
+
+<Table>
+<Caption>
+ FOR THE YEARS ENDED DECEMBER 31,
+ -------------------------------------------------------------
+ 1999 2000 2001
+ ----------------- ----------------- -----------------
+<S> <C> <C> <C> <C> <C> <C>
+Other income (expense):
+ Interest expense .................................... (506) (3.1) (512) (3.1) (504) (3.6)
+ Miscellaneous ....................................... 5 -- -- -- -- --
+ -------- ----- -------- ----- -------- -----
+Income (loss) before income taxes and cumulative effect
+ of accounting change ................................ 2,756 17.0 2,600 15.9 (39) (0.3)
+Income tax expense (benefit) ............................. 1,109 6.9 1,035 6.3 (16) (0.1)
+ -------- ----- -------- ----- -------- -----
+Income (loss) before cumulative effect
+ of accounting change ................................. 1,647 10.2 1,565 9.6 (23) (0.2)
+Cumulative effect of accounting change ................... -- -- (10) (0.1) -- --
+ -------- ----- -------- ----- -------- -----
+Net income (loss) ........................................ $ 1,647 10.2% $ 1,555 9.5% $ (23) (0.2)%
+ ======== ===== ======== ===== ======== =====
+</Table>
+
+YEAR ENDED DECEMBER 31, 2000 VS.
+ YEAR ENDED DECEMBER 31, 2001
+
+ REVENUES. Revenues for 2001 decreased 15.3% to $13.8 billion versus
+$16.3 billion for 2000. The decrease in total revenues is primarily attributable
+to consumers' substitution of wire line services with wireless and e-mail, and
+proactive revenue initiatives resulting in services being de-emphasized as we
+shift the MCI group's focus from revenue growth to cash generation.
+
+ Reported revenues by category for 2000 and 2001 reflect the
+following changes by category (dollars in millions):
+
+<Table>
+<Caption>
+ PERCENT
+ 2000 2001 CHANGE
+ ------- ------- -------
+<S> <C> <C> <C>
+Consumer ........................................... $ 7,778 $ 7,227 (7.1)
+Wholesale .......................................... 3,388 2,641 (22.0)
+Alternative channels and small business ............ 3,541 2,427 (31.5)
+Dial-up Internet ................................... 1,628 1,536 (5.7)
+ ------- -------
+TOTAL .............................................. $16,335 $13,831 (15.3)
+ ======= =======
+</Table>
+
+ Consumer revenues for 2001 decreased 7.1% over 2000. The majority of
+this decrease is attributed to decreases in calling card, dial around and dial-1
+revenues as a result of consumers' substitution of wire line services with
+wireless and e-mail. Our consumer local initiatives continued to perform well as
+consumer local revenues increased approximately 180% for 2001 versus 2000.
+
+ Wholesale revenues for 2001 decreased 22.0% over 2000. The wholesale
+market continued to be extremely price competitive and this, in addition to
+bankruptcies, a reduction in private line circuits related to customer internal
+network consolidation and the impact of the September 11th attacks, contributed
+to the year-over-year decrease. Wholesale revenues during 2001 were also
+impacted by proactive revenue initiatives, which were made to improve the
+quality of the wholesale revenue stream as we shift the MCI group's focus from
+revenue growth to cash generation.
+
+ Alternative channels and small business revenues for 2001 decreased
+31.5% over 2000. Alternative channels and small business includes sales agents
+and affiliates, wholesale alternative channels, small business, prepaid calling
+card and wireless messaging revenues. These decreases are attributed to pricing
+pressures in the wholesale and small business markets which negatively affected
+revenue growth and gross margins in this area, and proactive initiatives to
+de-emphasize services with unacceptable gross margins as we shift the MCI
+group's focus from revenue growth to cash generation.
+
+ Dial-up Internet revenues for 2001 decreased 5.7% over 2000. Our
+dial access network has grown 12.7% to approximately 3.2 million modems as of
+December 31, 2001, compared with the prior year period. Additionally, Internet
+connect hours increased 9.3% to 7.1 billion hours for 2001 versus 2000. These
+network usage increases were more than offset by pricing pressure resulting from
+the impact of volume discounts, which lowered average revenue per hour by
+approximately 17% for 2001 versus 2000.
+
+ 57
+<Page>
+
+ LINE COSTS. Line costs as a percentage of revenues for 2001
+increased to 51.2% as compared to 43.9% reported for 2000. The increase was
+primarily the result of continued competitive pricing in the dial-up Internet
+business as noted above, which experienced a 17% decrease in dial-up revenues
+per hour for 2001 versus 2000. Additionally, line costs as a percentage of
+revenues increased as a result of pricing pressure in the wholesale markets as
+well as the decrease in higher margin calling card and dial around revenues due
+to wireless substitution as noted above.
+
+ SELLING, GENERAL AND ADMINISTRATIVE. Selling, general and
+administrative expenses for 2001 were $5.3 billion or 38.7% of revenues as
+compared to $5.2 billion or 31.6% of revenues for the prior year period.
+Selling, general and administrative expenses for 2000 include a $345 million
+pre-tax charge associated with specific wholesale accounts that were deemed
+uncollectible due to bankruptcies, litigation and settlements of contractual
+disputes that occurred in the third quarter of 2000. Selling, general and
+administrative expenses for 2001 include pre-tax costs of $123 million related
+to the write-off of investments in certain publicly traded and privately held
+companies, $11 million as a result of the costs associated with the tracking
+stock capitalization and $48 million associated with domestic severance packages
+and other costs related to our February 2001 workforce reductions. Excluding
+these costs, selling, general and administrative expenses as a percentage of
+revenues were 37.4% for 2001 versus 29.5% for 2000.
+
+ The increase in selling, general and administrative expenses can be
+attributed to proactive initiatives to de-emphasize specific wholesale services
+revenues with unacceptable gross margins which began in the fourth quarter of
+2000. These actions resulted in lower revenues, as discussed above, but had no
+immediate effect on selling, general and administrative expenses for both the
+wholesale and alternative channels. Workforce reductions in the first quarter of
+2001 have helped to stabilize selling, general and administrative expenses since
+the second quarter of 2001.
+
+ DEPRECIATION AND AMORTIZATION. Depreciation and amortization expense
+for 2001 increased to $938 million or 6.8% of revenues from $884 million or 5.4%
+of revenues for 2000. The increase primarily reflects additional depreciation
+associated with 2000 and 2001 capital expenditures. Beginning January 1, 2002,
+MCI group stopped amortizing intangible assets with indefinite useful lives,
+including goodwill in accordance with SFAS No. 142. Based on current levels of
+such assets, this will reduce MCI group's amortization expense by approximately
+$300 million annually.
+
+ INTEREST EXPENSE. Interest expense for 2001 was $504 million or 3.6%
+of revenues as compared to $512 million or 3.1% of revenues for 2000. Interest
+expense on borrowings incurred by WorldCom and allocated to the MCI group was
+based on the weighted-average interest rate, excluding capitalized interest, of
+WorldCom debt plus 1 1/4 percent. As of January 1, 1999, $6.0 billion of
+WorldCom's outstanding debt was notionally allocated to the MCI group. During
+2001, the MCI group repaid $495 million of the notionally allocated debt and as
+of December 31, 2001 the MCI group's long-term debt balance was $5.5 billion.
+
+ INCOME TAX BENEFIT. The effective income tax rate was 41.0% of loss
+before taxes for 2001 versus 39.8% of income before taxes for 2000. See note 8
+to the MCI group's combined financial statments for a reconciliation of the
+statutory federal rate for income taxes to the MCI group's effective income tax
+rate.
+
+ CUMULATIVE EFFECT OF ACCOUNTING CHANGE. During 2000, we adopted SAB
+101, which requires certain activation and installation fee revenues to be
+amortized over the average life of the related service rather than be recognized
+immediately. Costs directly related to these revenues may also be deferred and
+amortized over the customer contract life. This adoption resulted in a one-time
+expense of $10 million, net of income tax benefit of $7 million for the MCI
+group in the first quarter of 2000.
+
+ NET INCOME (LOSS). For 2001, the MCI group reported a net loss of
+$23 million as compared to net income of $1.6 billion for 2000. Pro forma
+diluted loss per common share for 2001 was $0.20 compared to income per common
+share of $13.52 for 2000. Pro forma diluted income per share assumes the
+recapitalization occurred at the beginning of 2000 and that the WorldCom group
+stock and MCI group stock existed for all periods presented.
+
+ 58
+<Page>
+
+YEAR ENDED DECEMBER 31, 1999 VS.
+ YEAR ENDED DECEMBER 31, 2000
+
+ REVENUES. Revenues for 2000 increased 1.0% to $16.3 billion versus
+$16.2 billion for 1999. The increase in total revenues is attributable to
+internal growth of the MCI group.
+
+ Reported revenues by category for the year ended December 31, 1999
+and 2000 reflect the following changes by category (dollars in millions):
+
+<Table>
+<Caption>
+ PERCENT
+ 1999 2000 CHANGE
+ ------- ------- -------
+<S> <C> <C> <C>
+Consumer ..................................... $ 7,590 $ 7,778 2.5
+Wholesale .................................... 3,943 3,388 (14.1)
+Alternative channels and small business ...... 3,142 3,541 12.7
+Dial-up Internet ............................. 1,497 1,628 8.8
+ ------- -------
+Total revenues ............................... $16,172 $16,335 1.0
+ ======= =======
+</Table>
+
+ Consumer revenues for 2000 increased 2.5% over 1999, as the MCI
+group's partner marketing programs helped to drive Dial-1 product gains.
+Consumer revenue growth was impacted by declines in transaction brands and
+calling card services, which were pressured by increasing wireless substitution,
+and 10-10-321, which the MCI group no longer actively markets.
+
+ Wholesale revenues for 2000 decreased 14.1% versus 1999 as a result
+of price pressure. Wholesale revenues for 2000 were also impacted by proactive
+fourth quarter 2000 revenue actions which had the effect of reducing wholesale
+revenues by approximately $90 million in the fourth quarter of 2000. These
+actions were made to improve the quality of the wholesale revenue stream as we
+shift the MCI group's focus from revenue growth to cash generation.
+
+ Alternative channels and small business revenues for 2000 increased
+12.7% over 1999. This increase is primarily attributable to internal growth for
+wholesale alternative channel voice revenues. We expect that pricing pressures
+in the wholesale and small business markets will negatively affect revenue
+growth and gross margins in this area and this level of growth will decline in
+the foreseeable future as a result of these services being de-emphasized as we
+shift the MCI group's focus from revenue growth to cash generation.
+
+ Dial-up Internet revenue growth for 2000 was 8.8% over 1999. Our
+dial access network has grown 71% to over 2.8 million modems as of December 31,
+2000, compared with 1999. Additionally, Internet connect hours increased 54.8%
+to 6.5 billion hours for 2000 versus the prior year. These network usage
+increases were offset by pricing pressure on dial-up Internet traffic as a
+result of contract repricings in the second quarter of 2000, which lowered
+average revenue per hour by 25% for 2000 versus 1999.
+
+ LINE COSTS. Line costs as a percentage of revenues for 2000
+increased to 43.9% as compared to 43.8% reported for the prior year period. The
+increase was primarily the result of contract repricings in the dial-up Internet
+business as noted above and continued competitive pricing on the dial-up
+Internet business which effectively held the average cost per hour constant
+although average dial-up Internet revenues per hour decreased by 25%.
+Additionally, access charge reductions that occurred in January 2000 and July
+2000 reduced total line costs by approximately $150 million for 2000. While
+access charge reductions were primarily passed through to customers, line costs
+as a percentage of revenues was positively affected by one-half of a percentage
+point.
+
+ SELLING, GENERAL AND ADMINISTRATIVE. Selling, general and
+administrative expenses for 2000 were $5.2 billion or 31.6% of revenues as
+compared to $5.1 billion or 31.4% of revenues for the prior year period.
+Selling, general and administrative expenses for 2000 include a $345 million
+pre-tax charge associated with specific wholesale accounts that were deemed
+uncollectible due to bankruptcies, litigation and settlements of contractual
+disputes that occurred in the third quarter of 2000. Excluding this charge,
+selling, general and administrative expenses as a percentage of
+
+ 59
+<Page>
+
+revenues were 29.5% for 2000. This decrease as a percentage of revenues
+primarily results from lower advertising and marketing costs incurred in the
+consumer business.
+
+ DEPRECIATION AND AMORTIZATION. Depreciation and amortization expense
+for 2000 increased to $884 million or 5.4% of revenues from $757 million or 4.7%
+of revenues for 1999. These increases primarily reflect additional depreciation
+associated with capital expenditures.
+
+ INTEREST EXPENSE. Interest expense for 2000 was $512 million or 3.1%
+of revenues as compared to $506 million or 3.1% of revenues for 1999. Interest
+expense on borrowings incurred by WorldCom and allocated to the MCI group was
+based on the weighted-average interest rate, excluding capitalized interest, of
+WorldCom debt plus 1 1/4 percent. As of January 1, 1999, $6.0 billion of
+WorldCom's outstanding debt was notionally allocated to the MCI group.
+
+ MISCELLANEOUS INCOME AND EXPENSE. For the year ended December 31,
+2000, miscellaneous income was zero as compared to $5 million for 1999.
+
+ PROVISION FOR INCOME TAXES. The effective income tax rate for 2000
+was 39.8% of income before taxes. The 2000 rate is greater than the expected
+federal statutory rate of 35% primarily due to the amortization of the
+non-deductible goodwill. Excluding non-deductible amortization of goodwill, the
+MCI group's effective income tax rate would have been 36.7%.
+
+ CUMULATIVE EFFECT OF ACCOUNTING CHANGE. During the fourth quarter of
+2000, we implemented SAB 101, which requires certain activation and installation
+fee revenues to be amortized over the average life of the related service rather
+than be recognized immediately. Costs directly related to these revenues may
+also be deferred and amortized over the customer contract life. As required by
+SAB 101, we retroactively adopted this accounting effective January 1, 2000,
+which resulted in a one-time expense of $10 million, net of income tax benefit
+of $7 million at the MCI group.
+
+ NET INCOME. For the year ended December 31, 2000, the MCI group
+reported net income of $1.56 billion as compared to $1.65 billion for the year
+ended December 31, 1999.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+ As of December 31, 2001, our total debt, net of cash and cash
+equivalents, was $28.8 billion. Additionally, at December 31, 2001, we had
+available liquidity of $9.4 billion under our credit facilities and commercial
+paper program and cash on hand.
+
+ As of January 1, 1999, the MCI group was notionally allocated $6.0
+billion of WorldCom's debt and the remaining outstanding debt was notionally
+allocated to the WorldCom group. WorldCom management has a wide degree of
+discretion over the cash management policies of both the WorldCom group and the
+MCI group. Cash generated by either group can be transferred to the other group
+without prior approval of WorldCom's shareholders. Due to the discretion
+possessed by management over the cash management policies of both groups,
+including the timing and decision of whether to finance capital expenditures, it
+may be difficult to assess each group's liquidity and capital resource needs,
+and, in turn, the future prospects of each group based on past performance. For
+2001, the MCI group generated sufficient cash to repay $495 million of its
+allocated notional debt and pay $71 million for dividends on MCI group stock.
+
+ On June 8, 2001, we replaced our existing $7 billion 364-Day
+Revolving Credit and Term Loan Agreement with two new credit facilities
+consisting of a $2.65 billion 364-Day Facility, and a $1.6 billion Multi-Year
+Facility. The 364-Day Facility and the Multi-Year Facility, together with our
+$3.75 billion Existing Facility, provide us with aggregate credit facilities of
+$8 billion. These credit facilities provide liquidity support for our commercial
+paper program and for other general corporate purposes.
+
+ 60
+<Page>
+
+ The Existing Facility and the Multi-Year Facility mature on June 30,
+2002 and June 8, 2006, respectively. The 364-Day Facility has a 364-day term,
+which may be extended for successive 364-day terms to the extent of the
+committed amounts from those lenders consenting thereto, with a requirement that
+lenders holding 51% of the committed amounts consent and so long as the final
+maturity date does not extend beyond June 8, 2006. Additionally, we may elect to
+convert the principal debt outstanding under the 364-Day Facility to a term loan
+maturing no later than one year after the conversion date, so long as the final
+maturity date does not extend beyond June 8, 2006. The Existing Facility is
+subject to annual commitment fees not to exceed 0.25% of any unborrowed portion
+of the facilities, and the current commitment fee is 0.11%. WorldCom does not
+intend to replace the Existing Facility when it matures on June 30, 2002. The
+364-Day Facility and the Multi-Year Facility are subject to annual facility fees
+not to exceed 0.20% or 0.25%, respectively, of the average daily commitment
+under each such facility (whether used or unused). The current commitment fee on
+the 364-Day Facility is 0.07% and the current commitment fee on the Multi-Year
+Facility is 0.09%.
+
+ The credit facilities bear interest payable in varying periods,
+depending on the interest period, not to exceed six months, or with respect to
+any Eurodollar Rate borrowing, 12 months if available to all lenders, at rates
+selected by us under the terms of the credit facilities, including a Base Rate
+or Eurodollar Rate, plus the applicable margin. The applicable margin for the
+Eurodollar Rate borrowing generally varies from 0.35% to 0.75%, and is currently
+set at 0.35%, as to loans under the Existing Facility, from 0.29% to 0.80%, and
+is currently set at 0.33% as to loans under the 364-Day Facility and 0.27% to
+0.75%, and is currently set at 0.31% as to loans under the Multi-Year Facility,
+in each case based upon our then current debt ratings.
+
+ The credit facilities are unsecured and require compliance with
+various covenants including a financial covenant based on the ratio of total
+debt to total book capitalization, which may not exceed 0.68 to 1.00, calculated
+on a consolidated basis. The credit facilities also require compliance with
+various operating covenants which, among other things, permit the following
+transactions so long as we are not in default thereunder:
+
+ o distributions to shareholders;
+
+ o the incurrence of additional indebtedness, except that newly secured
+ debt or the total debt of the covered subsidiaries, cannot exceed
+ 10% of the book value of the consolidated assets of WorldCom and the
+ covered subsidiaries; and
+
+ o sales of assets in the ordinary course of business and additional
+ sales if after such sales, the aggregate book value of all such
+ assets sold during the term of the credit facilities does not
+ exceed 20% of the book value of the consolidated assets of WorldCom
+ and the covered subsidiaries.
+
+As of the date of this filing, we were in compliance with these covenants.
+
+ On May 9, 2001, we completed the pricing of a public debt offering
+of approximately $11.9 billion principal amount of debt securities, based on
+currency exchange rates on May 8, 2001. The net proceeds of $11.7 billion have
+been or will be used for general corporate purposes, including the repayment of
+commercial paper and other debt repayments as outlined below. The public debt
+offering consisted of the following series of notes:
+
+<Table>
+<Caption>
+ PRINCIPAL INTEREST FIRST
+ AMOUNT MATURITY PAYABLE INTEREST DATE
+ ------------------------------------------------------------------------------------
+<S> <C> <C> <C> <C>
+6.50% Notes due 2004 $1.5 billion May 15, 2004 Semiannually November 15, 2001
+7.50% Notes due 2011 $4.0 billion May 15, 2011 Semiannually November 15, 2001
+8.25% Notes due 2031 $4.6 billion May 15, 2031 Semiannually November 15, 2001
+6.75% Notes due 2008 (euro)1.25 billion May 15, 2008 Annually May 15, 2002
+7.25% Notes due 2008 (pound)500 million May 15, 2008 Annually May 15, 2002
+</Table>
+
+ 61
+<Page>
+
+ All of the notes, except for the 6.50% Notes due 2004 are
+redeemable, as a whole or in part, at our option, at any time or from time to
+time, at respective redemption prices equal to the greater of 100% of the
+principal amount of the notes to be redeemed or:
+
+ o In the case of the U.S. dollar notes, the sum of the present values
+ of the Remaining Scheduled Payments, as defined therein, discounted,
+ on a semiannual basis, assuming a 360-day year consisting of twelve
+ 30-day months, at the Treasury Rate, as defined therein, plus:
+
+ o 30 basis points for the Notes due 2011, and
+
+ o 35 basis points for the Notes due 2031;
+
+ o In the case of the euro notes, the sum of the present values of the
+ Remaining Scheduled Payments, as defined therein, discounted, on an
+ annual basis (based on the actual number of days elapsed divided by
+ 365 or 366, as the case may be), at the Reference Euro Dealer Rate,
+ as defined therein, plus 25 basis points; and
+
+ o In the case of the sterling notes, the price expressed as a
+ percentage (rounded to three decimal places, with .0005 being
+ rounded up) at which the Gross Redemption Yield, as defined therein,
+ on the outstanding principal amount of the notes on the Reference
+ Date, as defined therein, is equal to the Gross Redemption Yield
+ (determined by reference to the middle-market price) at 3:00 p.m.
+ (London time) on that date on the Benchmark Gilt, as defined
+ therein, plus 25 basis points;
+
+plus, in the case of the U.S. dollar notes, the euro notes and the sterling
+notes, accrued interest to the date of redemption which has not been paid.
+
+ In connection with the Intermedia merger, we assumed Intermedia's
+outstanding debt including $1.2 billion of senior discount notes with interest
+rates ranging from 11.25% to 12.5%, $0.9 billion of senior notes with interest
+rates ranging from 8.5% to 9.5%, credit facility borrowings of $258 million and
+other long-term debt including capital leases of $0.6 billion. We repaid the
+Intermedia credit facility borrowings of $258 million and subsequently
+terminated Intermedia's credit facility during the third quarter of 2001.
+Additionally, on September 28, 2001, we redeemed all of Intermedia's 12.5%
+senior discount notes for $337 million. Cash balances were used to repay these
+amounts.
+
+ During the third and fourth quarters of 2001, $1.5 billion of 6.125%
+senior notes matured, $917 million of floating rate notes matured, we redeemed
+all of our outstanding 8.875% senior notes due 2006 for $694 million, we retired
+$1.1 billion of our outstanding debt through open market debt repurchases
+(including $546 million of outstanding debt assumed in the Intermedia merger)
+and we redeemed all of our outstanding Series G preferred stock at par for $200
+million. Cash balances were used to repay these amounts.
+
+ Included in WorldCom long-term debt is a $700 million 6.125% senior
+note due 2012, which is a remarketable instrument. On April 15, 2002, the
+underwriter has an option to remarket the note and we have the option to accept
+the remarketing, exchange the note for new 5, 7 or 10-year notes at prevailing
+interest rates or redeem the note for cash. Since the note matures in 2012, it
+is not included in our 2002 scheduled debt maturities of $172 million.
+
+ Additionally, in February 2002, we liquidated our remaining
+investment in News Corporation. We received cash proceeds of $870 million, net
+of $60 million for sales discounts and banking fees. The investment's book value
+as of December 31, 2001 was approximately $930 million. Therefore, a loss of $60
+million will be recognized in miscellaneous income (expense) in the first
+quarter of 2002 related to this transaction.
+
+ Our senior debt is currently rated as follows:
+
+<Table>
+<Caption>
+Rating Agency Rating Outlook
+--------------------------------------------------------------
+<S> <C> <C>
+Moody's Investors Service A3 Under review
+Standard & Poor's BBB+ Negative
+Fitch Ratings BBB+ Stable
+</Table>
+
+Any downgrade in rating will not trigger any events on our outstanding bond
+debt, although the cost of future bond offerings may increase. Our credit
+facilities contain ratings triggers affecting interest rates and our annual
+commitment fee, which are outlined above and are not liquidity triggers.
+Additionally, if WorldCom merges or consolidates with another corporation, the
+surviving corporation, after giving effect to the merger or consolidation, among
+other things, must have a then effective debt rating equal to or higher than
+Baa3 by Moody's and BBB- by Standard & Poor's. Further, our $2 billion
+receivables purchase program contains rating triggers which reduce the
+availability under the program, and if we are rated less than Baa3 by Moody's
+and less than BBB- by Standard & Poor's, or if we are not rated by either
+agency, then the receivables purchase program is terminated. Our management
+frequently communicates with the rating agencies and currently believes that a
+downgrade below Baa3 or BBB- is not likely.
+
+OPERATING ACTIVITIES
+
+ For the years ended December 31, 1999, 2000 and 2001, our cash flows
+from operations were as follows (dollars in millions):
+
+ 62
+<Page>
+
+<Table>
+<Caption>
+ 1999 2000 2001
+ ------- ------- -------
+<S> <C> <C> <C>
+WorldCom group ................................... $ 7,352 $ 5,330 $ 6,605
+MCI group ........................................ 3,653 2,336 1,389
+ ------- ------- -------
+ Net cash provided by operating activities ... $11,005 $ 7,666 $ 7,994
+ ======= ======= =======
+</Table>
+
+ The 2001 increase reflects decreases in accounts receivable and
+other working capital requirements, offset by lower operating results in both
+the WorldCom group and the MCI group. The 2000 decrease reflects increases in
+working capital requirements and deferred tax obligations in both the WorldCom
+group and the MCI group, offset by improved operating results in the WorldCom
+group.
+
+INVESTING ACTIVITIES
+
+ For the years ended December 31, 1999, 2000 and 2001, our net cash
+used in investing activities was as follows (dollars in millions):
+
+<Table>
+<Caption>
+ 1999 2000 2001
+ ------- ------- -------
+<S> <C> <C> <C>
+WorldCom group ................................... $(8,045) $(13,612) $(8,818)
+MCI group ........................................ (1,510) (773) (872)
+ ------- -------- -------
+ Net cash used in investing activities ....... $(9,555) $(14,385) $(9,690)
+ ======= ======== =======
+</Table>
+
+ The WorldCom group's primary capital expenditures totaled $7.9
+billion in 1999, $11.0 billion in 2000 and $7.6 billion in 2001. Primary capital
+expenditures include purchases of transmission, communications and other
+equipment. The MCI group's capital expenditures totaled $787 million in 1999,
+$500 million in 2000 and $267 million in 2001. The MCI group's capital
+expenditures include purchases of switching equipment, dial modems and messaging
+and other equipment.
+
+ Investing activities include intangible asset increases at the
+WorldCom group of $389 million in 1999, $771 million in 2000 and $367 million in
+2001, and at the MCI group of $354 million in 1999, $167 million in 2000 and
+$327 million in 2001. Intangible asset additions primarily represent costs
+incurred to develop software for internal use.
+
+ Additionally, investing activities include acquisitions and related
+costs at the WorldCom group of $786 million in 1999, $14 million in 2000 and
+$206 million in 2001 and $292 million at the MCI group in 1999.
+
+FINANCING ACTIVITIES
+
+ For the years ended December 31, 1999, 2000 and 2001, cash provided
+by (used in) financing activities was as follows (dollars in millions):
+
+<Table>
+<Caption>
+ 1999 2000 2001
+ ------- ------- -------
+<S> <C> <C> <C>
+WorldCom group ............................................ $ 17 $ 8,215 $ 3,080
+MCI group ................................................. (2,097) (1,592) (551)
+ ------- ------- -------
+ Net cash provided by (used in) financing activities .. $(2,080) $ 6,623 $ 2,529
+ ======= ======= =======
+</Table>
+
+ Financing activities include net repayments on debt of $2.9 billion
+in 1999 and net proceeds on borrowings on debt of $6.4 billion in 2000 and $3.0
+billion in 2001. Financing activities for the MCI group reflect the repayments
+of intergroup advances, repayment of notionally allocated debt from WorldCom and
+dividends paid.
+
+ Also included in financing activities are proceeds from WorldCom's
+common stock issuances of $886 million in 1999, $585 million in 2000 and $124
+million in 2001 as a result of WorldCom common stock option and warrant
+exercises.
+
+ 63
+<Page>
+
+ Distributions on company obligated mandatorily redeemable and other
+preferred securities and dividends paid on other equity securities were $72
+million in 1999, $65 million in 2000 and $154 million in 2001. The 2001 increase
+represents dividends associated with our Series D, E, F and G preferred stock
+which was issued in connection with the Intermedia merger, and dividends paid on
+MCI group stock.
+
+ In January 2000, each share of our Series C Preferred Stock was
+redeemed by us for $50.75 in cash, or approximately $190 million in the
+aggregate. Additionally, on August 20, 2001 the holder of our Series G preferred
+stock exercised its right to require us to redeem all of the outstanding Series
+G preferred stock at par for $200 million.
+
+ In October 2001, we exercised our option to redeem all of our
+outstanding Series B Preferred Stock. Prior to the redemption date,
+substantially all of the holders of our Series B Preferred Stock elected to
+convert the preferred stock into 0.1460868 shares of WorldCom group stock and
+0.005843472 shares of MCI group stock for each share of Series B Preferred Stock
+held.
+
+ During the second quarter of 2001, we declared the initial quarterly
+dividend for the MCI group stock. A cash dividend of $0.60 per share of MCI
+group stock, or approximately $70 million in the aggregate, was paid on October
+15, 2001 to shareholders of record as of the close of business on September 28,
+2001. Dividends of $0.60 per share of MCI group stock were also declared during
+the third and fourth quarters of 2001 which have been or will be paid in 2002.
+
+ The development of our businesses and the installation and expansion
+of our domestic and international networks will continue to require significant
+capital expenditures. For 2002, the WorldCom group capital expenditures are
+expected to be between $5.0 and $5.5 billion and the MCI group capital
+expenditures and intangible (software development) spending are expected to be
+approximately $500 million.
+
+ We believe that cash flow from operations and available liquidity,
+including our credit facilities and commercial paper program and available cash
+will be sufficient to meet our capital needs, debt service and dividend
+requirements for the next twelve months. However, economic downturns and other
+adverse developments, including factors beyond our control, could impair our
+ability to service our indebtedness.
+
+CRITICAL ACCOUNTING POLICIES
+
+ Our significant accounting policies are described in Note 1 to the
+consolidated and combined financial statements included in Item 8 of this Form
+10-K. We believe some of our most critical accounting policies include:
+
+ o estimating valuation allowances and accrued liabilities
+ associated with revenue reserves and provisions for
+ uncollectible accounts and pending litigation and regulatory
+ matters;
+
+ o accounting for income taxes;
+
+ o goodwill and intangibles;
+
+ o valuation of long-lived and intangible assets, and goodwill;
+
+ o estimating depreciation and amortization associated with
+ long-lived assets; and
+
+ o Allocation policies between the Worldcom group and the MCI
+ group
+
+ ESTIMATING VALUATION ALLOWANCES AND ACCRUED LIABILITIES. The
+preparation of our consolidated financial statements requires us to make
+estimates and assumptions that affect the reported amount of assets and
+liabilities as well as the reported amounts of revenues and expenses for the
+periods presented. Specifically, our management must make estimates of future
+customer credits through the analysis of historical trends and known events.
+Significant management judgments and estimates must be made and used in
+connection with establishing the revenue reserves associated with discounts
+earned on special customer agreements, billing reserves for pricing changes and
+customer disputes. Material differences may result in the amount and timing of
+our revenue adjustments if management projections differ from actual results.
+Similarly, our management must make estimates regarding the collectibility of
+our accounts receivable. Management specifically analyzes accounts receivable
+including historical bad debts, customer concentrations, customer
+credit-worthiness
+
+ 64
+<Page>
+
+and current economic trends when evaluating the adequacy of the allowance for
+doubtful accounts. As of December 31, 2001, our accounts receivable balance was
+$5.3 billion, net of allowance for doubtful accounts of $1.1 billion.
+
+ We have recorded accruals for loss contingencies in our consolidated
+financial statements associated with legal and regulatory proceedings that are
+incidental to our business. Such accruals are based on our management's estimate
+of the projected liability and range of loss in accordance with applicable
+accounting guidance. Because of the uncertainties related to both the amount and
+range of loss on the remaining pending matters, management is unable to make a
+reasonable estimate of the ultimate liability related to an unfavorable outcome.
+As additional information becomes available, we will assess the potential
+liability related to our pending matters and revise our estimates. The results
+of these various legal and regulatory matters are uncertain and could have a
+material adverse affect on our consolidated results of operations or financial
+position.
+
+ ACCOUNTING FOR INCOME TAXES. As part of the process of preparing our
+consolidated financial statements we are required to estimate our income taxes
+in each of the jurisdictions in which we operate. This process involves our
+estimating actual current tax exposure for WorldCom together with assessing
+temporary differences resulting from differing treatment of items, such as
+property, plant and equipment depreciation, for tax and accounting purposes.
+Actual income taxes could vary from these estimates due to future changes in
+income tax law or results from final tax exam reviews.
+
+ GOODWILL AND INTANGIBLES. Purchase accounting requires extensive use
+of accounting estimates and judgments to allocate the purchase price to the fair
+market value of the assets and liabilities purchased. In our recording of the
+Intermedia merger, we allocated the purchase price among certain identifiable
+intangible assets and goodwill based on third party appraisals.
+
+ VALUATION OF LONG-LIVED ASSETS, GOODWILL AND INTANGIBLES. We assess
+the impairment of identifiable intangibles, long-lived assets and goodwill
+whenever events or changes in circumstances indicate that the carrying value may
+not be recoverable. Factors we consider important which could trigger an
+impairment review include the following:
+
+ o significant underperformance relative to expected historical
+ or projected future operating results;
+
+ o significant changes in the use of our assets or the strategy
+ for our overall business;
+
+ o significant negative industry or economic trends;
+
+ o significant decline in our stock price for a sustained period;
+ and
+
+ o our market capitalization relative to net book value.
+
+ We determine any impairment by comparing the undiscounted future
+cash flows estimated to be generated by those assets to their respective
+carrying amounts. In the event an impairment exists, a loss is recognized based
+on the amount by which the carrying value exceeds the fair value of the asset or
+group of assets. If quoted market prices for an asset are not available, fair
+market value is determined primarily using the anticipated cash flows discounted
+at a rate commensurate with the risk involved. Losses on property and equipment
+to be disposed of are determined in a similar manner, except that fair market
+values are reduced for the cost to dispose.
+
+ As discussed below, SFAS No. 142, became effective on January 1,
+2002 and as a result, we stopped amortizing approximately $45.0 billion of net
+goodwill and $1.0 billion of net tradenames. Based on our current levels of such
+assets, this will reduce amortization by approximately $1.3 billion annually. In
+lieu of amortization, we are required to perform an initial impairment review of
+our goodwill and tradenames in 2002 and an annual impairment review thereafter.
+We expect to complete our initial impairment review no later than the second
+quarter of 2002.
+
+ We currently estimate that we will record an impairment charge upon
+completion of the initial impairment review of approximately $15 to $20 billion,
+with approximately $1 billion at the MCI group.
+
+ 65
+<Page>
+
+ DEPRECIATION AND AMORTIZATION OF LONG-LIVED ASSETS. We assign useful
+lives for long-lived assets based on periodic studies of actual asset lives and
+our intended use for those assets. Any change in these asset lives would be
+reported in our statement of operations as soon as any change in estimate is
+determined. There have been no material changes in asset lives during the three
+years ended December 31, 2001.
+
+ ALLOCATION POLICIES BETWEEN THE WORLDCOM GROUP AND THE MCI GROUP.
+The financial information for the WorldCom group and the MCI group reflect the
+performance of the businesses attributed to each group and includes the
+attribution and allocation of our assets, liabilities, revenues and expenses
+between the WorldCom group and the MCI group in accordance with our tracking
+stock policy. Our management believes that the attribution and allocation
+methods used are equitable and provide a reasonable estimate of the costs
+attributable to each group. However, it is not practical to determine whether
+the allocated amounts represent amounts that would have been incurred on a
+stand-alone basis. Our board of directors or any special committee appointed by
+our board of directors may, without shareholder approval, change the policies
+set forth in our tracking stock policy statement and may adopt additional
+policies or make exceptions with respect to the application of the policies
+described in our policy statement in connection with particular facts and
+circumstances, all as they may determine to be in the best interests of
+WorldCom. Our board is subject to fiduciary duties to all of WorldCom's
+shareholders as one group, not to the holders of any series of stock separately.
+These policies are discussed in this management's discussion and analysis of
+financial condition and results of operations as well as in note 1 of the notes
+to combined financial statements of the WorldCom group and the MCI group.
+
+RELATED PARTY TRANSACTIONS
+
+ We have entered into certain loan and guaranty arrangements
+involving Bernard J. Ebbers, WorldCom's President and Chief Executive Officer,
+principally relating to certain obligations to financial institutions secured by
+Mr. Ebbers' stock in WorldCom. Following recent declines in the closing price of
+the WorldCom group stock, the outstanding debt covered by the WorldCom guaranty
+in favor of Bank of America, N.A., or Bank of America, has been repaid and we
+have deposited with Bank of America approximately $35 million to collateralize a
+letter of credit used to support financing for which Mr. Ebbers is obligated.
+The underlying letter of credit is scheduled to expire on February 15, 2003,
+subject to renewal, extension or substitution.
+
+ WorldCom made aggregate payments of approximately $198.7 million to
+Bank of America pursuant to the guaranty, in addition to the deposit
+collateralizing the letter of credit. That amount, together with any amounts
+paid or costs incurred by us in connection with the letter of credit, plus
+accrued interest at a floating rate equal to that under one of our credit
+facilities, is payable by Mr. Ebbers to us on demand. The amount of such
+interest accrued through February 28, 2002, is approximately $875,000 and the
+interest rate as of that date was 2.15% per annum.
+
+ In addition to the guaranty arrangements, we have also agreed to
+loan up to $165 million in principal amount to Mr. Ebbers. These loans are
+payable on demand and bear interest at floating rates equal to that under
+certain of our credit facilities. As of February 28, 2002, the aggregate
+principal amount of indebtedness owed by Mr. Ebbers to us under these loans was
+approximately $144.3 million. Accrued interest on these loans is approximately
+$5.5 million through February 28, 2002, at interest rates ranging from 2.14% to
+2.16% per annum as of that date.
+
+ We have been advised that Mr. Ebbers has used, or plans to use, the
+proceeds of the loans from WorldCom principally to repay certain indebtedness
+under loans secured by shares of our stock owned by him and that the proceeds of
+such secured loans were used for private business purposes. The loans and
+guaranty by WorldCom were made following a determination that they were in the
+best interests of WorldCom and our shareholders in order to avoid additional
+forced sales of Mr. Ebbers' stock in WorldCom. The determination was made by our
+Compensation and Stock Option Committee as a result of the pressure on our stock
+price, margin calls faced by Mr. Ebbers and other considerations. Such actions
+were ratified and approved by our board of directors.
+
+ In connection with the transactions described above, and subject to
+certain limitations, and effective upon termination of restrictions under
+existing lending agreements, Mr. Ebbers pledged to WorldCom the shares of our
+stock owned by him with respect to his obligations under the loans and guaranty
+from WorldCom. The pledge of certain of those shares is subordinated to the
+prior rights of other lenders and is not currently perfected. Mr. Ebbers also
+agreed to indemnify WorldCom for any amounts expended or losses, damages, costs,
+claims or expenses incurred under the guaranty or the loans from WorldCom and
+has provided information demonstrating that his assets are sufficient to cover
+his outstanding obligations to us.
+
+CONTRACTUAL OBLIGATIONS AND COMMITMENTS
+
+ As of December 31, 2001, we had various contractual obligations and
+commitments which are more fully disclosed in our notes to consolidated
+financial statements. Components of these obligations and commitments include:
+
+ o our long-term debt, which includes capital leases. The detail of our
+ long-term debt maturities is outlined below under "Quantitative and
+ qualitative disclosures about market risk";
+
+ 66
+<Page>
+
+ o our operating leases for office facilities and equipment under
+ non-cancelable operating leases having initial or remaining terms of
+ more than one year and our obligations under rights-of-way and
+ franchise agreements with various entities for use of their
+ rights-of way for the installation of our telecommunications
+ systems. Total multi-year obligations under operating leases and
+ rights-of-way are $3.9 billion and $443 million, respectively, as of
+ December 31, 2001;
+
+ o our outsourcing agreement with EDS pursuant to which we outsource
+ portions of our information technology, or IT, operations to EDS.
+ EDS has assumed responsibility for our IT system operations at more
+ than a dozen of our processing centers worldwide. As of December 31,
+ 2001, the contractual obligation associated with this multi-year
+ contract was $2.4 billion in the aggregate;
+
+ o our obligations under contractual commitments with traditional local
+ phone companies who provide ports to us in co-located facilities,
+ which we use for dial-up Internet access. As of December 31, 2001,
+ the contractual commitment associated with these contracts was $1.9
+ billion in the aggregate. During 2001, we were successful in the
+ renegotiation of many of these contracts, at no cost, and as a
+ result, the multi-year contractual commitment has been lowered by
+ more than $1.1 billion versus the comparable obligation in 2000. We
+ will recognize the benefits associated with these savings over the
+ next three to five years; and
+
+ o our obligations associated with the purchase of special access
+ circuits from traditional local phone companies under optional
+ payment plans which are term and volume discounts off traditional
+ local phone company standard pricing. At December 31, 2001, the
+ remaining obligations associated with the optional payment discount
+ plans are $1.8 billion.
+
+ For a detailed description of our long-term debt and further
+disclosure regarding leases and other commitments, please see note 4 and note 8
+to our consolidated financial statements, which are incorporated herein by
+reference.
+
+RECENTLY ISSUED ACCOUNTING STANDARDS
+
+ In June 2001, the FASB issued SFAS No. 141 "Business Combinations"
+and SFAS No. 142 "Goodwill and Other Intangible Assets." SFAS No. 141 requires
+business combinations initiated after June 30, 2001, which includes the
+Intermedia merger, to be accounted for using the purchase method of accounting
+and broadens the criteria for recording intangible assets separate from
+goodwill. Recorded goodwill and intangibles will be evaluated against this new
+criteria and may result in certain intangibles being subsumed into goodwill, or
+alternatively, amounts initially recorded as goodwill may be separately
+identified and recognized apart from goodwill. Under the new rules, goodwill and
+intangible assets deemed to have indefinite lives will no longer be amortized
+but will be subject to annual impairment tests. The statement includes
+provisions for the identification of reporting units for purposes of assessing
+potential future impairments of goodwill. Upon adoption, we stopped amortizing
+intangible assets with indefinite useful lives, including goodwill and
+tradenames. Based on current levels of such assets, this will reduce
+amortization expense by approximately $1.3 billion annually ($1.0 billion at
+WorldCom group and $0.3 billion at MCI group). Additionally, we are conducting
+impairment reviews of all intangibles assets with indefinite useful lives and we
+expect to complete this assessment no later than the second quarter of 2002, in
+accordance with the provisions of SFAS No. 142. Based on our preliminary
+analyses, we estimate that as a result of the adoption of SFAS No. 142 we will
+reduce goodwill by $15 to $20 billion, with approximately $1 billion of the
+reduction at the MCI group.
+
+ 67
+<Page>
+
+ In June 2001, the FASB issued SFAS No. 143 "Asset Retirement
+Obligations," which establishes new accounting and reporting standards for legal
+obligations associated with retiring assets. The fair value of a liability for
+an asset retirement obligation must be recorded in the period in which it is
+incurred, with the cost capitalized as part of the related long-lived assets and
+depreciated over the asset's useful life. Changes in the liability resulting
+from the passage of time will be recognized as operating expenses. SFAS No. 143
+must be adopted by 2003. We have not yet quantified the impact of adopting SFAS
+No. 143 on our consolidated results of operations or financial position.
+
+ In August 2001, the FASB issued SFAS No. 144 "Accounting for the
+Impairment or Disposal of Long Lived Assets," which supersedes both SFAS No. 121
+"Accounting for the Impairment of Long-Lived Assets for Long-Lived Assets to be
+Disposed Of," and the accounting and reporting provisions for the disposal of a
+segment of a business contained in APB Opinion No. 30, "Reporting the Results of
+Operations - Reporting the Effects of Disposal of a Segment of a Business, and
+Extraordinary, Unusual and Infrequently Occurring Events and Transactions." SFAS
+No. 144 establishes a single accounting model for long-lived assets to be
+disposed of by sale and broadens the presentation of discontinued operations.
+The provisions of SFAS No. 144 are effective beginning in 2002 and are not
+expected to have a material impact on our consolidated results of operations or
+financial position.
+
+EURO CONVERSION
+
+ On January 1, 2002, the national currencies of 12 out of the 15
+member countries of the European Union were replaced by the euro, a new common
+currency and legal tender. We have completed our work to address the many issues
+involved with the introduction of the euro, including the conversion of
+information technology systems, recalculating currency risk, recalibrating other
+financial instruments, and implementing strategies concerning continuity of
+contracts. Our processes for preparing taxation and accounting records have been
+refined and we do not expect any additional significant costs to be incurred as
+a result of any future changes or refinements we may consider necessary. We
+believe that our business might be affected in the future by the impact of
+increased price transparency, however, we expect to be able to maintain our
+margins across our international operations as a result of any pricing changes
+that we decide to make purely as a result of the introduction of the euro.

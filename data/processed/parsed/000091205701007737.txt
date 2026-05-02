@@ -1,0 +1,358 @@
+AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+INTRODUCTION - SAFE HARBOR DISCLOSURE
+
+The following discussion and analysis contains historical information. It also
+contains forward-looking statements within the meaning of the "safe harbor"
+provisions of the Private Securities Litigation Reform Act of 1995, particularly
+in reference to statements regarding our expectations, plans and objectives. You
+can generally identify forward-looking statements by the use of the words "may,"
+"will," "expect," "intend," "estimate," "anticipate," "believe," or "continue,"
+or similar language. Forward-looking statements involve substantial risks and
+uncertainties. You should give careful consideration to cautionary statements
+made in this discussion and analysis. We base our statements on our current
+expectations. Forward-looking statements may be impacted by a number of factors,
+risks and uncertainties that could cause actual results to differ materially
+from those described in the forward-looking statements. Our filings with the
+Securities and Exchange Commission identify factors that could cause material
+differences. Among these factors are our ability to:
+
+ (i) fund our current and future business strategies either
+ through continuing operations or external financing;
+ (ii) attract and retain key employees;
+ (iii) compete successfully against competitive products and
+ services;
+ (iv) maintain relationships with key suppliers and providers of
+ market data; and
+ (v) respond to the effect of economic and business conditions
+ generally.
+
+RECENT BUSINESS DEVELOPMENTS
+
+PCQUOTE.COM AND HYPERFEED LAUNCH MERCENARY SOFTWARE
+
+On February 28, 2001, PCQuote.com and HyperFeed announced the availability of
+Mercenary software. A "day-of execution tool", Mercenary is a real-time
+tick-by-tick technical indicator that can help traders decide when to pull
+the trigger. A technical analysis tool that monitors stock activity,
+Mercenary identifies trading opportunities and visually depicts a selected
+equity's momentum. Investors can input a selection of stocks (up to 50 ticker
+symbols per screen) and, at a glance, decide whether to buy or sell, or just
+keep a pulse on a market segment or specific issue's condition. Exclusively
+available to online investors through PCQuote.com, Mercenary is also
+available to financial institutions, Web portals and businesses through
+HyperFeed.
+
+RESULTS OF OPERATIONS FOR 2000 COMPARED TO 1999
+
+Total revenue increased $13.3 million, or 40.2%, to $46.4 million in 2000
+from $33.1 million in 1999. Our HyperFeed services and PCQuote.com services
+both posted increases in 2000 over 1999. HyperFeed service revenue increased
+$5.0 million, or 28.1%, to $22.7 million in 2000 from $17.7 million in 1999.
+Revenue growth was achieved through increases in analytics subscriptions and
+datafeed license fees to existing, as well as new customers, such as Charles
+Schwab and National Discount Brokers. Revenue from PCQuote.com services
+increased $8.3 million, or 54.2%, to $23.7 million in 2000 from $15.4 million
+in 1999. The increase is principally due to the growth of our largest
+customer, AB Watley, who grew from less than 10% of our revenue in 1999 to
+approximately 21% of our revenue in 2000.
+
+Direct costs of services increased $4.2 million, or 16.6%, to $29.7 million
+in 2000 from $25.5 million in 1999. Principal components of the increase were
+royalties and payments to providers of market data, directly attributable to
+the growth of our largest customer. Amortization of software development
+costs remained the same at $2.4 million in 2000 and 1999. Also included in
+2000 is a $1.7 million non-cash charge, versus $1.2 million in 1999, for the
+amortization of prepaid license fees as a result of the value assigned to the
+warrant issued in April 1999 to CNNFN in exchange for the three-and-a-half
+year license agreement with PCQuote.com.
+
+ 14
+<PAGE>
+
+PART II - ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS, RESULTS OF OPERATIONS FOR 2000 COMPARED TO 1999,
+CONTINUED
+
+The resulting gross margin increased $9.1 million, or 118.8%, to $16.8
+million in 2000 from $7.7 million in 1999. As a percentage of revenue, gross
+margin increased to 36.1% in 2000 from 23.1% in 1999. The expansion in
+percentage gross margin is attributable to internal cost efficiencies
+implemented in 1999, coupled with an increased sales focus in 2000 on higher
+margin datafeed services.
+
+Direct costs associated with HyperFeed services decreased $0.4 million, or
+2.8%, to $12.3 million in 2000 from $12.7 million in 1999. Increases in
+amortization of software development costs were offset by cost-savings
+related to leased equipment in customer service and support and lower costs
+of datafeed operations principally due to the termination of a lease for
+satellite transmission space in the third quarter of 1999. Amortization of
+software development costs increased to $1.5 million in 2000 from $1.4
+million in 1999. The resulting gross margin on HyperFeed services increased
+106.0%, to $10.4 million in 2000 from $5.0 million in 1999. HyperFeed
+services gross margin as a percentage of HyperFeed services revenue increased
+to 45.7% in 2000 from 28.4% in 1999.
+
+Direct costs associated with PCQuote.com services increased $4.6 million, or
+35.9%, to $17.4 million in 2000 from $12.8 million in 1999. Increases in
+license and exchange fees, directly attributable to the increase in revenue,
+were the principal components of the increase in direct costs. Amortization
+of previously capitalized software development costs decreased to $0.9
+million in 2000 from $1.1 in 1999. The gross margin on PCQuote.com services
+increased $3.8 million, or 143.5%, to $6.4 million in 2000 from $2.6 million
+in 1999. PCQuote.com services gross margin as a percentage of PCQuote.com
+services revenue increased to 26.9% in 2000 from 17.0% in 1999.
+
+Total operating expenses decreased $2.1 million, or 12.5%, to $14.9 million
+in 2000 from $17.0 million in 1999. The two primary factors that contributed
+to the decrease were (1) the $1.4 million one-time charge in 1999 for the
+early termination of our old satellite distribution contract, which had the
+potential to run through August 2006 at a cost of $56,000 per month; and (2)
+the $1.8 million charge in 1999 for costs related to the PCQuote.com initial
+public offering that we decided not to pursue due to market conditions.
+
+Growth related increases were experienced in sales costs, product and market
+development costs, and depreciation and amortization, while general and
+administrative expenses declined slightly.
+
+Sales costs increased 6.7%, to $3.9 million in 2000 from $3.7 million in
+1999. The increase in sales costs was directly attributable to the growth in
+revenue.
+
+General and administrative expenses decreased $0.4 million, or 7.4%, to $4.9
+million in 2000 from $5.3 million in 1999. The decrease was principally due
+to a reduction in the bad debt expense.
+
+Product and market development costs increased $0.8 million, or 20.8%, to
+$4.4 million in 2000 from $3.6 million in 1999. The increase was due to an
+expansion of our development and marketing efforts for our existing and new
+services and markets.
+
+Depreciation and amortization increased 34.8% to $1.7 million in 2000 from
+$1.2 million in 1999. The increase is the result of communications and
+computer equipment purchases for increased growth and new service offerings.
+
+Interest expense increased to $0.2 million in 2000 from $0.1 million in 1999.
+Interest expense in 2000 consists of interest on our bank term loan and
+interest on PCQuote.com's $2.0 million borrowing from Motorola, Inc. in
+September 1999.
+
+ 15
+<PAGE>
+
+PART II - ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS, CONTINUED
+
+RESULTS OF OPERATIONS FOR 1999 COMPARED TO 1998
+
+Total revenue increased $10.1 million, or 43.8%, to $33.1 million in 1999
+from $23.0 million in 1998. Our HyperFeed services and PCQuote.com services
+both posted increases in 1999 over 1998. HyperFeed service revenue increased
+$4.6 million, or 35.0%, to $17.7 million in 1999 from $13.1 million in 1998.
+Revenue growth was experienced in license fees for our HyperFeed datafeed and
+fees for combined analytics and HyperFeed services. Revenue from PCQuote.com
+services increased $5.5 million, or 55.3%, to $15.4 million in 1999 from $9.9
+million in 1998. The number of subscribers to our PCQuote.com analytical
+services grew to 9,800 at the end of 1999 from 6,300 at the end of 1998.
+
+Direct costs of services increased $8.5 million, or 49.8%, to $25.5 million
+in 1999 from $17.0 million in 1998. Principal components of the increase were
+royalties and payments to providers of market data, directly attributable to
+the growth in subscribers, in addition to a one-time $1.0 million second
+quarter charge incurred in connection with the termination of our software
+distributor agreement with Townsend Analytics and entering into two separate
+new agreements between Townsend and ourselves and our subsidiary,
+PCQuote.com. Offsetting these increases to a degree were decreases in
+satellite distribution and leased equipment costs, as a result of the early
+termination of our old satellite distribution contract and the expiration of
+customer site equipment operating leases. We have a new lower-cost satellite
+distribution network and our customers are now purchasing their own
+equipment. Amortization of software development costs increased to $2.4
+million in 1999 from $1.8 million in 1998. Also included in direct costs for
+1999 is a non-cash charge of $1.2 million for amortization of prepaid license
+fees as a result of the value assigned to the warrant issued in April 1999 to
+CNNFN in exchange for the 3 1/2 year license agreement with PCQuote.com.
+
+The resulting gross margin increased $1.6 million, or 26.6%, to $7.6 million
+in 1999 from $6.0 million in 1998. Excluding the one-time $1.0 million
+termination charge and the $1.2 million non-cash amortization of prepaid
+license fees, the gross margin increased $3.8 million, or 62.9%, to an
+adjusted $9.8 million in 1999 as compared to 1998. As a percentage of
+revenue, the gross margin was 23.1% in 1999, 29.7% excluding the one-time
+termination and non-cash license fee amortization, as compared to 26.2% in
+1998.
+
+Direct costs associated with HyperFeed services increased $2.2 million, or
+21.4%, to $12.7 million in 1999 from $10.5 million in 1998. Increases in
+license and exchange fees, directly attributable to the growth in subscribers
+and $500,000 of the $1.0 million termination payment, and amortization of
+software development costs were offset to a degree by efficiencies in
+distribution and support operations. Amortization of software development
+costs increased $300,000 to $1.4 million in 1999 from $1.1 million in 1998.
+The resulting gross margin on HyperFeed services increased $2.3 million, or
+88.2%, to $5.0 million in 1999 from $2.7 million in 1998. HyperFeed services
+gross margin as a percentage of HyperFeed services revenue increased to 28.4%
+in 1999 from 20.4% in 1998.
+
+Direct costs associated with PCQuote.com services increased $6.2 million, or
+95.3%, to $12.8 million in 1999 from $6.6 million in 1998. The significant
+growth we experienced resulted in corresponding increases in license fees,
+exchange fees and data distribution costs. Contributing to the increase was
+$500,000 of the $1.0 million termination payment and the $1.2 million
+non-cash charge for amortization related to the CNNFN warrant. Amortization
+of software development costs increased $400,000 to $1.1 million in 1999 from
+$700,000 in 1998. Consequently, gross margin on PCQuote.com services
+decreased $800,000, or 22.3%, to $2.6 million in 1999 from $3.4 million in
+1998. Gross margin increased $900,000, or 27.9%, after excluding the effects
+of the non-cash amortization of prepaid license fees and the one-time
+termination payment.
+
+ 16
+<PAGE>
+
+PART II - ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS, RESULTS OF OPERATIONS FOR 1999 COMPARED TO 1998,
+CONTINUED
+
+Total operating expenses increased $6.3 million, or 58.3%, to $17.0 million
+in 1999 from $10.7 million in 1998. Three primary factors contributed to the
+increase:
+
+ - the ramp-up of operations, including the hiring of a separate
+ management team, for our subsidiary, PCQuote.com, Inc., in
+ contemplation of its initial public offering;
+
+ - the $1.4 million charge for the early termination of our old
+ satellite distribution contract, which had the potential to run
+ through August 2006 at a cost of $56,000 per month; and
+
+ - a $1.8 million charge for costs related to the initial public
+ offering that we decided not to pursue at the current time due to
+ market conditions.
+
+Growth related increases were experienced in general and administrative
+expenses and product and market development costs, while sales costs declined
+slightly and depreciation and amortization remained relatively unchanged.
+
+Sales costs decreased 4.5%, to $3.7 million in 1999 from $3.8 million in
+1998. The decrease was the result of a change in our previous sales incentive
+compensation structure, in addition to lower support costs.
+
+General and administrative expenses increased $2.0 million, or 58.8%, to $5.3
+million in 1999 from $3.3 million in 1998. The increase reflects the addition
+of management personnel for our PCQuote.com subsidiary, as well as
+administrative personnel required to service the growth in our operations and
+customer base. Increases were also experienced in collection costs, in line
+with our revenue growth, and legal, accounting and professional consulting
+fees.
+
+Product and market development costs increased $1.3 million, or 54.6%, to
+$3.6 million in 1999 from $2.3 million in 1998. We significantly increased
+personnel resources in new product development, in addition to personnel and
+promotional efforts to expand our PCQuote.com Web site and Internet service
+offerings.
+
+Depreciation and amortization remained unchanged at $1.2 million year to year.
+
+Interest expense decreased $1.7 million to slightly over $100,000 in 1999
+from $1.8 million in 1998. The decrease is the result of the conversion of
+the convertible subordinated debenture and borrowings on the credit facility
+into equity in December 1998. Interest expense in 1999 consists of interest
+on our bank term loan and on PCQuote.com's $2.0 million borrowing from
+Motorola, Inc.
+
+In December 1998, we converted current debt into convertible preferred stock.
+The maximum conversion rates for the two series of preferred stock issued
+were set at and above the closing market price of our common stock at the
+time the conversion was approved by our Board in September 1998. Stockholder
+approval, obtained in December, was a condition to closing the debt
+conversion transactions. The market price of our common stock on the closing
+date was slightly higher than the maximum conversion price agreed to in
+September. Accounting and SEC pronouncements require this differential to be
+treated as non-cash preferred dividends. Consequently, preferred dividends of
+$1,018,938 were recognized in 1998 with a corresponding increase in
+additional paid-in capital from the preferred stock issuance.
+
+ 17
+<PAGE>
+
+PART II - ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS, CONTINUED
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Net cash and cash equivalents increased $1.1 million to $2.5 million at the
+end of 2000 from the end of 1999. Expenditures for property and equipment
+were $2.1 million in 2000, an increase of $0.5 million over 1999. We spent
+approximately $0.4 million to build out new office facilities at our expanded
+Aurora, Illinois location. Other expenditures were for equipment to support
+the growth in our business, as well as to improve our communications,
+processing and distribution networks and infrastructure. Capitalized software
+costs of $1.3 million were $0.1 million, or 4.7%, higher for the year ended
+December 31, 2000, compared to the prior year, principally due to the
+development of new applications and services to be introduced in 2001. There
+were no new direct borrowings during 2000, and we repaid $0.3 million of the
+principal balance on our bank term loan and $0.8 million on our note payable
+to Motorola, Inc. We received approximately $0.4 million in net proceeds from
+the sale of shares of common stock to employees pursuant to our Employee
+Stock Purchase Plan and the sale of shares of common stock to employees who
+exercised options previously granted to them under our 1999 Combined
+Incentive and Non-Statutory Stock Option Plan.
+
+Total revenue increased $13.3 million, or 40.2%, to $46.4 million in 2000
+versus $33.1 million for the 1999 period, while direct costs of services
+increased 16.6% to $29.7 million versus $25.5 million in 1999. The resulting
+gross margin increased 118.8% to $16.8 million in 2000 from $7.7 million in
+1999. As a percentage of revenue, the gross margin was 36.1% in 2000 as
+compared to 23.1% in 1999. Given anticipated increases in the number of
+investors trading online and the expected demand for financial market data,
+we expect continued growth in revenue, gross margin and net income.
+
+Earnings before interest, taxes, depreciation and amortization ("EBITDA")
+increased to a positive $7.7 million in 2000 from a $4.5 million EBITDA
+deficit in 1999. Reducing EBITDA by capitalized software development costs
+and equipment purchases resulted in positive cash flows, before working
+capital and financing activities, of $4.3 million in 2000 as compared to a
+deficit of $7.2 million in 1999. We believe our existing capital resources,
+cash generated from continuing operations, and our ability to access external
+capital, if necessary, are sufficient for working capital purposes.
+
+As we have previously reported, we have explored multiple alternatives that
+may be available for the purpose of enhancing stockholder value, including a
+merger, a spin-off or sale of part of our business, a strategic relationship
+or joint venture with another technology or financial services firm and
+equity financing. We continue to explore opportunities to enhance stockholder
+value.
+
+EFFECT OF RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS
+
+During 1998, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards (SFAS) No. 133, "Accounting for Derivative
+Instruments and Hedging Activities," as amended, which is effective for all
+fiscal years beginning after June 15, 2000. SFAS No. 133 establishes a
+comprehensive standard for the recognition and measurement of derivative
+instruments and hedging activities. The Company does not expect the adoption
+of the new standard to have a material effect on its financial position,
+liquidity, or results of operations.
+
+OTHER
+
+We do not believe general inflation materially impacts our sales and
+operating results. We do not expect that current tax legislation will
+significantly affect our future financial position, liquidity or operating
+results.
+
+At December 31, 2000, we had federal income tax net operating loss
+carryforwards of approximately $28,175,000 for federal income tax purposes
+and approximately $26,519,000 for the alternative minimum tax. The net
+operating loss carryforwards will expire, if not previously utilized, as
+follows: 2001: $1,539,000; 2002: $560,000; 2003: $79,000; 2004: $576,000;
+2005: $1,557,000; 2006: $301,000 and thereafter $23,563,000. (See Note 6 of
+the Notes to Consolidated Financial Statements.)
+
+ 18
+<PAGE>
+
+PART II - ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS, CONTINUED

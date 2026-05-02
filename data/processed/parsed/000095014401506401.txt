@@ -1,0 +1,475 @@
+-- "Management's Discussion and Analysis of Financial Condition and
+Results of Operations").
+
+ 10
+<PAGE> 11
+
+ COMPREHENSIVE CARE CORPORATION AND SUBSIDIARIES
+
+<TABLE>
+<CAPTION>
+ YEAR ENDED MAY 31,
+STATEMENT OF OPERATIONS DATA: 2001 2000 1999 1998 1997
+ -------- -------- -------- -------- --------
+ (Amounts in thousands, except per share data)
+
+<S> <C> <C> <C> <C> <C>
+OPERATING REVENUES .............................................. $ 18,974 $ 17,719 $ 39,029 $ 39,787 $ 32,531
+COSTS AND EXPENSES:
+ Healthcare operating expenses ................................. 16,108 15,801 29,778 30,808 27,996
+ General and administrative expenses ........................... 3,842 6,974 9,148 7,085 7,383
+ Provision for (recovery of) doubtful accounts ................. (439) (606) 1,641 94 228
+ Depreciation and amortization ................................. 656 794 1,037 772 685
+ Restructuring expenses ........................................ (30) 831 600 -- 195
+ -------- -------- -------- -------- --------
+ 20,137 23,794 42,204 38,759 36,487
+ -------- -------- -------- -------- --------
+OPERATING INCOME (LOSS) FROM CONTINUING OPERATIONS .............. (1,163) (6,075) (3,175) 1,028 (3,956)
+
+OTHER INCOME (EXPENSES):
+ Loss in connection with prepayment of note receivable ......... (496) -- -- -- --
+ Gain on sale of assets ........................................ -- 9 2 314 47
+ Loss on sale of assets ........................................ -- (1) (4) (9) (33)
+ Reduction in accrued interest expense ......................... 290 -- -- -- --
+ Other non operating income (expense) .......................... 332 204 (79) 50 (390)
+ Interest income ............................................... 163 399 309 406 259
+ Interest expense .............................................. (208) (289) (281) (172) (732)
+ -------- -------- -------- -------- --------
+INCOME (LOSS) FROM CONTINUING OPERATIONS BEFORE INCOME TAXES .... (1,082) (5,753) (3,228) 1,617 (4,805)
+Income tax expense (benefit) .................................... 35 13 (146) 63 (341)
+ -------- -------- -------- -------- --------
+INCOME (LOSS) FROM CONTINUING OPERATIONS ........................ (1,117) (5,766) (3,082) 1,554 (4,464)
+
+DISCONTINUED OPERATIONS:
+
+Income (loss) from operations ................................... -- -- (334) 417 (505)
+Loss on disposal, including operating loss of $282 .............. -- -- (698) -- --
+ -------- -------- -------- -------- --------
+INCOME (LOSS) BEFORE EXTRAORDINARY ITEM ......................... (1,117) (5,766) (4,114) 1,971 (4,969)
+EXTRAORDINARY GAIN .............................................. -- -- 120 -- 2,172
+ -------- -------- -------- -------- --------
+NET INCOME (LOSS) ............................................... (1,117) (5,766) (3,994) 1,971 (2,797)
+
+Dividends on convertible Preferred Stock ........................ -- -- (55) (82) (31)
+ -------- -------- -------- -------- --------
+
+NET INCOME (LOSS) ATTRIBUTABLE TO COMMON STOCKHOLDERS ........... $ (1,117) $ (5,766) $ (4,049) $ 1,889 $ (2,828)
+ ======== ======== ======== ======== ========
+
+BASIC EARNINGS PER SHARE:
+Income (loss) from continuing operations ........................ $ (0.29) $ (1.51) $ (0.88) $ 0.44 $ (1.46)
+Discontinued operations:
+ Income (loss) from operations ................................. -- -- (0.09) 0.12 (0.16)
+ Loss on disposal .............................................. -- -- (0.20) -- --
+
+Extraordinary item .............................................. -- -- 0.03 -- 0.70
+ -------- -------- -------- -------- --------
+Net income (loss) ............................................... $ (0.29) $ (1.51) $ (1.14) $ 0.56 $ (0.92)
+ ======== ======== ======== ======== ========
+
+DILUTED EARNINGS PER SHARE:
+Income (loss) from continuing operations ........................ $ (0.29) $ (1.51) $ (0.88) $ 0.40 $ (1.46)
+Discontinued operations:
+ Income (loss) from operations ................................. -- -- (0.09) 0.11 (0.16)
+ Loss on disposal .............................................. -- -- (0.20) -- --
+
+Extraordinary item .............................................. -- -- 0.03 -- 0.70
+ -------- -------- -------- -------- --------
+Net income (loss) ............................................... $ (0.29) $ (1.51) $ (1.14) $ 0.51 $ (0.92)
+ ======== ======== ======== ======== ========
+
+BALANCE SHEET DATA:
+Working capital (deficit) ....................................... $(11,770) $(12,245) $ (9,355) $ (8,859) $(12,657)
+Total assets .................................................... 9,754 21,275 29,066 30,405 24,746
+Long-term debt .................................................. 2,244 2,244 2,253 2,704 2,712
+Long-term debt including current maturities and debentures ...... 2,244 2,244 2,256 2,706 2,758
+Stockholders' deficit ........................................... $(11,778) $(10,672) $ (4,914) $ (1,286) $ (3,570)
+</TABLE>
+
+ 11
+<PAGE> 12
+
+ COMPREHENSIVE CARE CORPORATION AND SUBSIDIARIES
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+ OF OPERATIONS.
+
+ This Annual Report on Form 10-K includes forward-looking statements,
+the realization of which may be impacted by certain important factors discussed
+below under "Risk Factors -- Important Factors Related to Forward-Looking
+Statements and Associated Risks".
+
+GENERAL
+
+ The Company reported a net loss of $1.1 million, or $0.29 per share,
+for the fiscal year ended May 31, 2001 compared to the net loss of $5.8 million,
+or $1.51 per share, for the fiscal year ended May 31, 2000. The following table
+summarizes the Company's financial data for the fiscal years ended May 31, 2001
+and 2000 (in thousands):
+
+<TABLE>
+<CAPTION>
+ CONSOLIDATED CONSOLIDATED
+ OPERATIONS OPERATIONS
+ FISCAL 2001 FISCAL 2000
+ ------------ ------------
+
+<S> <C> <C>
+Operating revenues ..................... $ 18,974 $ 17,719
+
+Healthcare operating expenses .......... 16,108 15,801
+General/administrative expenses ........ 3,842 6,974
+Other operating expenses ............... 187 1,019
+ -------- --------
+
+ 20,137 23,794
+ -------- --------
+ Operating loss ...................... $ (1,163) $ (6,075)
+ ======== ========
+</TABLE>
+
+RESULTS OF OPERATIONS - THE YEAR ENDED MAY 31, 2001 COMPARED TO THE YEAR ENDED
+MAY 31, 2000.
+
+ The Company reported an operating loss of $1.2 million for the fiscal
+year ended May 31, 2001. Operating revenues increased by $1.3 million, or 7.1%,
+for the fiscal year ended May 31, 2001 compared to the fiscal year ended May 31,
+2000. This increase is attributable to the implementation in Fiscal 2001 of two
+major, managed care contracts which accounted for $4.9 million of operating
+revenues during the fiscal year ended May 31, 2001, offset by the loss of
+revenues during Fiscal 2001 specific to the Humana contracts and the loss of two
+major contracts that terminated during the third quarter of Fiscal 2000.
+
+ Healthcare operating expenses increased by approximately $0.3 million,
+or 1.9%, for the fiscal year ended May 31, 2001 as compared to the fiscal year
+ended May 31, 2000. This increase is directly attributable to the new business
+added during Fiscal 2001. Healthcare operating expense as a percentage of
+operating revenue decreased from 89.2% for the fiscal year ended May 31, 2000 to
+84.9% for the fiscal year ended May 31, 2001. Efforts are being made to further
+increase revenues during Fiscal 2002 without adding significantly to our
+healthcare operating costs.
+
+ General and administrative expenses decreased by approximately $3.1
+million, or 44.9%, for the fiscal year ended May 31, 2001 as compared to the
+fiscal year ended May 31, 2000. General and administrative expense as a
+percentage of revenue decreased from 39.4% for the fiscal year ended May 31,
+2000 to 20.3% for the fiscal year ended May 31, 2001. This decrease is
+attributable to the significant cost reductions that were initiated following
+the loss of two major, managed care contracts in Fiscal 2000.
+
+ Other operating expenses decreased by $0.8 million for the fiscal year
+ended May 31, 2001 compared to the fiscal year ended May 31, 2000. This decrease
+is primarily attributable to the $0.8 million of restructuring expense in Fiscal
+2000.
+
+ Management believes that the Company's current infrastructure is
+sufficient to support continued revenue growth during Fiscal 2002 without the
+need for any significant increase to staff or other operating costs.
+
+ 12
+<PAGE> 13
+
+ COMPREHENSIVE CARE CORPORATION AND SUBSIDIARIES
+
+RESULTS OF OPERATIONS - YEAR ENDED MAY 31, 2000 COMPARED TO THE YEAR ENDED MAY
+31, 1999.
+
+ The Company reported an operating loss of approximately $6.1 million
+from continuing operations for the fiscal year ended May 31, 2000, primarily
+attributable to the loss of two major, managed care contracts during the fourth
+quarter of Fiscal 1999. Additionally, this loss included approximately $0.9
+million of restructuring expenses in connection with the elimination of the
+Company's California office and affiliated employees, approximately $0.6 million
+of increased marketing and other costs specific to the Company's efforts to
+regain business, approximately $0.1 million of operating costs incurred to
+manage the Company's Year 2000 readiness program, and approximately $0.1 million
+of costs in connection with the NCQA accreditation. These expenses were offset
+in part by $0.3 million of revenue related to favorable cost report settlements
+that took place during the year. This is compared to an operating loss of $3.2
+million from continuing operations reported for the fiscal year ended May 31,
+1999, which included approximately $0.9 million of bad debt expense specific to
+two major contracts that terminated during Fiscal 1999, $0.3 million of bad debt
+expense specific to hospital accounts receivable that were written off after the
+March 11, 1999 disposal date, and $0.2 million of bad debt expense specific to
+CCI contracts that terminated prior to May 31, 1999. Additionally, the Company
+incurred $0.8 million of expense in its unsuccessful bid for a managed care
+contract in Argentina and approximately $0.6 million of restructuring costs
+related to the loss of the PCA contract in Puerto Rico during Fiscal 1999.
+
+ Operating revenues from continuing operations decreased by
+approximately 54.6%, or $21.3 million, for the fiscal year ended May 31, 2000
+compared to the fiscal year ended May 31, 1999. This decrease is primarily
+attributable to the loss of two major contracts during the fourth quarter of
+Fiscal 1999 and two major contracts during the third quarter of Fiscal 2000.
+
+ Healthcare operating expenses from continuing operations decreased by
+46.9%, or $14.0 million, for the fiscal year ended May 31, 2000 as compared to
+the fiscal year ended May 31, 1999. This decrease is attributable to the loss of
+revenue specific to two major contracts that terminated in Fiscal 1999 and two
+major contracts that terminated in Fiscal 2000. Healthcare operating expense as
+a percentage of net revenue from continuing operations increased from 76.3% for
+the fiscal year ended May 31, 1999 to 89.2% for the fiscal year ended May 31,
+2000. This percentage increase is attributable to $0.3 million of claims expense
+recorded during the fiscal year ended May 31, 2000 specific to the Puerto Rico
+contract, which terminated in Fiscal 1999. Additionally, this percentage
+increase is attributable to continuing fixed costs that cannot be tied to the
+specific contracts that were terminated during Fiscal 1999.
+
+ General and administrative expenses from continuing operations
+decreased by approximately 23.8%, or $2.2 million, for the fiscal year ended May
+31, 2000 as compared to the fiscal year ended May 31, 1999. This decrease is
+primarily attributable to $1.5 million of savings in legal and accounting fees,
+a $0.5 million reduction in building lease costs, a $0.2 million savings in
+directors fees, $0.2 million of savings in corporate salaries, and a $0.1
+million reduction in shareholder reporting costs in comparison to costs incurred
+for the same period during Fiscal 2000. These savings were offset by $0.3
+million of fees paid to marketing consultants during Fiscal 2000. General and
+administrative costs as a percentage of revenue increased from 23.4% for the
+fiscal year ended May 31, 1999 to 39.4% for the fiscal year ended May 31, 2000.
+This percentage increase is attributable to the continuing fixed costs that
+could not be tied to the specific contracts that were terminated during Fiscal
+1999.
+
+ Other operating expenses from continuing operations decreased by $2.3
+million for the fiscal year ended May 31, 2000 compared to the fiscal year ended
+May 31, 1999. This decrease is primarily attributable to the $0.9 million of bad
+debt expense recognized during the fiscal year ended May 31, 1999 specific to
+the two major, managed care contracts that terminated during Fiscal 1999, $0.3
+million of bad debt expense specific to hospital accounts receivable that were
+written off after the March 11, 1999 disposal date, and $0.2 million of bad debt
+expense specific to CCI contracts that were terminated prior to May 31, 1999. In
+contrast to the $1.6 million of bad debt expense recognized in Fiscal 1999, the
+Company recognized recoveries totaling $0.6 million during the fiscal year ended
+May 31, 2000. Additionally, expense for depreciation and amortization decreased
+by $0.2 million during Fiscal 2000 in comparison to the prior year. These gains
+were offset by a restructuring charge related to the elimination of the
+Company's California administrative office and related executive staff during
+Fiscal 2000. Such costs exceeded the prior year restructuring charge, which
+pertained to the loss of the Puerto Rico contract, by approximately $0.2
+million.
+
+ 13
+<PAGE> 14
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+ At May 31, 2001, the Company had unrestricted cash and cash equivalents
+of $2.9 million. During the fiscal year ended May 31, 2001, the Company used
+$0.1 million in its continuing operations. Additionally, $0.5 million was
+provided by its investing activities. The Company reported a net loss of
+approximately $1.1 million for the fiscal year ended May 31, 2001, compared to a
+net loss of $5.8 million for the fiscal year ended May 31, 2000. The Company has
+an accumulated deficit of $63.6 million and total stockholders' deficit of $11.8
+million as of May 31, 2001. Additionally, the Company's current assets at May
+31, 2001 amounted to approximately $7.5 million and current liabilities were
+approximately $19.3 million, resulting in a working capital deficiency of
+approximately $11.8 million. The Company's primary use of available cash
+resources is to expand its managed care business and fund operations.
+
+ The Company's available sources of cash during the next fiscal year
+will be derived from operations. At this time, the Company cannot state with any
+degree of certainty whether additional equity or debt financing will be
+available to it and, if available, that the source of financing would be
+available on terms and conditions acceptable to the Company. Any potential
+sources of additional financing may be subject to business and economic
+conditions outside the Company's control.
+
+ The working capital and stockholders' deficits raise doubt about the
+Company's ability to continue as a going concern. The accompanying consolidated
+financial statements do not include any adjustments to reflect the possible
+future effects on the recoverability and classification of assets or the amount
+and classification of liabilities that may result from the outcome of this
+uncertainty.
+
+RISK FACTORS
+
+IMPORTANT FACTORS RELATED TO FORWARD-LOOKING STATEMENTS AND ASSOCIATED RISKS
+
+ This Annual Report on Form 10-K contains certain forward-looking
+statements that are based on current expectations and involve a number of risks
+and uncertainties. Factors that may materially affect revenues, expenses and
+operating results include, without limitation, the Company's success in (i)
+expanding the managed behavioral healthcare operations, (ii) effective
+management in the delivery of services, (iii) risk and utilization in context of
+capitated payouts, and (iv) retaining certain refunds from the IRS (see Note 13
+to the audited consolidated financial statements -- "Income Taxes").
+
+ Assumptions relating to the foregoing involve judgments that are
+difficult to predict accurately and are subject to many factors that can
+materially affect results. Budgeting and other management decisions are
+subjective in many respects and thus susceptible to interpretations and periodic
+revisions based on actual experience and business developments, the impact of
+which may cause the Company to alter its budgets which may in turn affect the
+Company's results. In light of the factors that can materially affect the
+forward-looking information included herein, the inclusion of such information
+should not be regarded as a representation by the Company or any other person
+that the objectives or plans of the Company will be achieved.
+
+CONCENTRATION OF RISK
+
+ The Company currently has ten contracts with three HMOs to provide
+behavioral healthcare services under commercial, Medicaid, and Medicare plans,
+to contracted members in Connecticut, Florida, and Texas. These combined
+contracts represent approximately 51.7% and 14.1% of the Company's operating
+revenue for the fiscal year ended May 31, 2001 and 2000, respectively. The terms
+of each contract are generally for one-year periods and are automatically
+renewable for additional one-year periods unless terminated by either party.
+
+UNCERTAINTY OF FUTURE PROFITABILITY
+
+ As of May 31, 2001, the Company had stockholders' deficit of $11.8
+million and a working capital deficiency of approximately $11.8 million. The
+Company had a net loss for the fiscal year ended May 31, 2001 of approximately
+$1.1 million. There can be no assurance that the Company will be able to achieve
+and sustain profitability or that the Company can achieve and maintain positive
+cash flow on an ongoing basis. Present results of operations are not necessarily
+indicative of anticipated future results of operations.
+
+ 14
+<PAGE> 15
+
+ COMPREHENSIVE CARE CORPORATION AND SUBSIDIARIES
+
+NEED FOR ADDITIONAL FUNDS; UNCERTAINTY OF FUTURE FUNDING
+
+ During recent fiscal years, a principal source of liquidity has been
+the sale of hospital facilities. During Fiscal 1999, the Company completed its
+plan to dispose of its hospital business segment and, as such, does not
+currently own any hospital facilities. Subject to various market conditions, an
+additional source of liquidity could be the issuance of additional equity
+securities, which could result in substantial dilution to stockholders.
+
+ The Company may be required to repay a portion of the tax refunds
+received from the Internal Revenue Service for Fiscal 1996 and 1995, which
+amounted to $9.4 million and $5.4 million, respectively (see "Taxes" below and
+Note 13 to the audited, consolidated financial statements - "Income Taxes").
+Further, the Company may be required to repay some amount to Medi-Cal in
+connection with the judgment entered on February 26, 1999, which is more fully
+described under Item 1, Legal Proceedings, above.
+
+TAXES
+
+ In connection with the filing of its Federal income tax returns for
+fiscal years 1995 and 1996, the Company filed a tentative refund claim to carry
+back losses described in Section 172(f) of the Internal Revenue Code ("IRC"),
+requesting a refund to the Company of $9.4 million and $5.5 million,
+respectively, of which refunds of $9.4 million and $5.4 million were received.
+In addition, the Company also filed amended Federal income tax returns for
+fiscal years prior to 1995, requesting similar refunds of losses carried back
+under Section 172(f) of $6.2 million for 1986; $0.4 million for 1985; $0.7
+million for 1983; and $0.4 million for 1982, a total of $7.7 million.
+
+ During fiscal years 1997 and 1996, the Company recognized a portion of
+the refunds received as a tax benefit of $0.3 million and $2.4 million,
+respectively. The balance of the refunds received, $12.1 million, is recorded as
+a deferred liability, "Unbenefitted tax refunds received" pending resolution by
+the Internal Revenue Service ("IRS") of the appropriateness of the Section
+172(f) carryback. The additional refunds requested under Section 172(f) for
+prior years of $7.7 million have not been received, nor has the Company
+recognized any tax benefit related to these potential refunds.
+
+ Section 172(f) of the IRC provides for a ten-year net operating loss
+carryback for specific losses attributable to (1) a product liability or (2) a
+liability arising under a federal or state law or out of any tort if the act
+giving rise to such liability occurs at least three years before the beginning
+of the taxable year. The applicability of Section 172(f) to the type of business
+in which the Company operates is unclear. No assurance can be provided that the
+Company will be able to retain the refunds received to date or that the other
+refunds requested will be received.
+
+ On August 21, 1998, the Company received an examination report, dated
+August 6, 1998, from the IRS advising the Company that it was disallowing $12.4
+million of the $14.8 million of refunds previously received, and the additional
+refunds requested of $7.7 million. If the position of the IRS were to be upheld
+the Company would be required to repay $12.4 million in refunds previously
+received, plus accrued interest of approximately $6.7 million through May 31,
+2001. Accordingly, the Company would be entitled to a repayment of the fees
+advanced to its tax advisor relating to these refunds of approximately $2.5
+million, which is reported as "other receivable" in the accompanying balance
+sheets. This report commenced the administrative appeals process. The Company
+filed a protest letter with the IRS on November 6, 1998. The IRS reserves the
+right to assess and collect the tax previously refunded to the Company at any
+time during the appeals process.
+
+ On July 11, 2000, the Company submitted an Offer in Compromise (the
+"Offer") to the Appeals Office of the IRS to resolve the controversy with
+respect to the refunds at a substantially reduced amount. The IRS is currently
+evaluating the Offer. A preliminary meeting with the IRS with respect to the
+Offer took place in October 2000 and, subsequent to this meeting, the Company
+has provided additional documents to the IRS. The Company has continued its
+discussions with the IRS during the first quarter of Fiscal 2002 and expects to
+continue such discussions during the second quarter of Fiscal 2002. There can be
+no assurance that the IRS will accept the Offer.
+
+UNCERTAINTY OF PRICING; HEALTHCARE REFORM AND RELATED MATTERS
+
+ Managed care operations are at risk for costs incurred to supply agreed
+upon levels of service. Failure to anticipate or control costs could have
+material, adverse effects on the Company. Additionally, the business of
+providing services on a full-risk capitation basis exposes the Company to the
+additional risk that contracts negotiated and entered into may ultimately be
+determined to be unprofitable if utilization levels require the Company to
+deliver and provide services at capitation rates which do not account for or
+factor in such utilization levels.
+
+ 15
+<PAGE> 16
+
+ COMPREHENSIVE CARE CORPORATION AND SUBSIDIARIES
+
+ The levels of revenues and profitability of healthcare companies may be
+affected by the continuing efforts of governmental and third party payers to
+contain or reduce the costs of healthcare through various means. In the United
+States, there have been, and the Company expects that there will continue to be,
+a number of federal and state proposals to implement governmental controls on
+the price of healthcare. It is uncertain what legislative proposals will be
+adopted or what actions federal, state or private payers for healthcare goods
+and services may take in response to any healthcare reform proposals or
+legislation. The Company cannot predict the effect that healthcare reforms may
+have on its business and no assurance can be given that any such reforms will
+not have a material adverse effect on the Company.
+
+DEPENDENCE ON KEY PERSONNEL
+
+ The Company depends and will continue to depend upon the services of
+its senior management and skilled personnel.
+
+SHARES ELIGIBLE FOR FUTURE SALE
+
+ The Company has issued or committed to issue 9,000 shares related to
+the 7 1/2% convertible subordinated debentures due April 15, 2010, and options
+or other rights to purchase approximately 1,103,000 shares. The Company may
+contemplate issuing additional amounts of debt, equity or convertible securities
+in public or private transactions for use in fulfilling its future capital needs
+(see "Need for Additional Funds; Uncertainty of Future Funding"). Issuance of
+additional equity could adversely affect the trading price of the Company's
+Common Stock.
+
+ANTI-TAKEOVER PROVISIONS
+
+ The Company's Restated Certificate of Incorporation provides for 60,000
+authorized shares of Preferred Stock, the rights, preferences, qualifications,
+limitations and restrictions of which may be fixed by the Board of Directors
+without any vote or action by the stockholders that could have the effect of
+diluting the Common Stock or reducing working capital that would otherwise be
+available to the Company. As of May 31, 2001, there are no outstanding shares of
+Preferred Stock (see Note 16 to the audited consolidated financial statements --
+"Preferred Stock, Common Stock, and Stock Option Plans"). The Company's Restated
+Certificate of Incorporation also provides for a classified board of directors
+with directors divided into three classes serving staggered terms. The Company's
+stock option plans generally provide for the acceleration of vesting of options
+granted under such plans in the event of certain transactions which result in a
+change of control of the Company. Section 203 of the General Corporation Law of
+Delaware prohibits the Company from engaging in certain business combinations
+with interested stockholders. In addition, each share of the Company's Common
+Stock includes one right on the terms and subject to the conditions of the
+Rights Agreement between the Company and Continental Stock Transfer & Trust
+Company. These provisions may have the effect of delaying or preventing a change
+in control of the Company without action by the stockholders and therefore could
+adversely affect the price of the Company's Common Stock or the possibility of
+sale of shares to an acquiring person.
+
+ 16
+<PAGE> 17
+
+ COMPREHENSIVE CARE CORPORATION AND SUBSIDIARIES

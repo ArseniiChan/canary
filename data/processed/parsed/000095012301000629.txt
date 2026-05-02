@@ -1,0 +1,2108 @@
+and Analysis of Financial
+	Condition and Results of Operations
+
+The following discussion and analysis of the financial condition
+and results of operations of TD Waterhouse Group, Inc. (the
+“Company”) is based on the consolidated results of our
+U.S. and international businesses. A more detailed discussion of
+the accounting principles used to consolidate the assets,
+liabilities and results of operations of the businesses and the
+specific entities included in the consolidation is set forth in
+Notes 1, 2 and 3 to our consolidated financial statements,
+on pages 53 to 56 of this report.
+
+Overview
+
+We are one of the largest online financial services providers in
+the world. We offer investors a broad range of brokerage, mutual
+fund, banking and other consumer financial products on an
+integrated basis through 231 branches in the U.S., Canada, the
+U.K., Australia, and Hong Kong. In fiscal year 2000, we also
+formed joint ventures with partners in India and Japan to
+provide those countries with online financial services. Our
+common stock trades on the New York and Toronto stock exchanges.
+Our principal stockholder is TD Bank, one of Canada’s
+largest financial institutions.
+
+Revenues
+
+Commissions and fees, which account for the majority of total
+revenues, include commissions earned for executing customer
+trades; payments received by us from market-makers, exchanges
+and other execution agents for order flow; and fees for
+providing trade execution and clearance services to financial
+institutions in the U.S. and Canada. Commissions and fees are
+primarily affected by changes in transaction volumes and changes
+in the commission or fee rates charged per transaction.
+Commissions, which account for more than 92% of commissions and
+transaction fees, fluctuate based on the number of active
+customer accounts, the average number of trades per account and
+the average commission per revenue trade. Active customer
+accounts have grown 43%, to 3.11 million as at October 31,
+2000, from 2.17 million as at October 31, 1999, which was
+up 35% from 1.61 million as at October 31, 1998. We define
+active accounts as accounts that had purchase, sale or other
+activity, or a balance, during the previous calendar quarter.
+The growth in trading volumes in the U.S. and major global
+equities markets, along with the migration of customers to the
+online channel, resulted in a 25% increase in the average number
+of trades per active account for fiscal 2000 over fiscal 1999,
+which had grown by 30% over fiscal 1998. The effect of such
+increases has been partially offset by a decrease in the average
+commission per revenue trade, to approximately $21 per trade in
+fiscal 2000, down 10% from approximately $23 per trade in fiscal
+1999, which was down 20% from approximately $29 per trade in
+fiscal 1998. This has been due primarily to the introduction of
+our online trading products in the U.S. in early 1997, which
+provided customers using our online services with discounts from
+our standard commission schedule. Customer use of online trading
+has steadily increased to 73% of trades conducted during fiscal
+2000, up from 62% for fiscal 1999, which was up from 45% for
+fiscal 1998. We use other broker-dealers to execute our
+customers’ orders, and receive revenue from these
+broker-dealers for this order flow. Payments for order flow have
+not increased commensurate with increases in trading volumes, as
+a result of changes in regulations and market conventions that
+caused market-makers and execution agents to change their
+payment policies for order flow by reducing the payment per
+trade and by limiting the types of trades on which payments are
+made. Order flow revenue has been consistently less than 4% of
+total revenue for the periods discussed herein. Transaction fees
+for execution and clearing services have grown since 1996 due to
+the addition of new clients in the U.S. and Canada, and general
+increases in market volumes.
+
+Mutual fund and related revenue represents customary trailer
+fees from third-party and affiliated mutual funds in the U.S.
+and Canada and, in the U.S. only, fees for shareholder services,
+administration and investment management services provided to
+our proprietary money market and mutual funds. Such fees are
+
+34
+
+based primarily upon the daily amount of customer assets
+invested in third-party mutual funds and upon the average daily
+net asset value of our proprietary money market and mutual
+funds. As of October 31, 2000, customers had invested $33.6
+billion in mutual and money market funds through us, which
+represented an increase of 26% from the $26.7 billion customers
+had invested as of October 31 1999. The $26.7 billion
+invested at fiscal 1999 year end had increased 37% over the
+fund balances of $19.5 billion held as of October 31, 1998.
+Included in these balances was $7.2 billion in no-load, no-fee
+mutual funds sponsored by third parties, up 64% from the fiscal
+1999 year-end balance of approximately $4.4 billion, which,
+in turn, was up 47% from the $3.0 billion invested as at
+October 31, 1998. Our proprietary money market and mutual
+funds had net assets valued at $9.0 billion at October 31,
+2000 up 15% from the fiscal 1999 year-end balance of $7.8
+billion, which had grown 100% from the $3.9 billion held as at
+October 31, 1998. Commissions relating to the purchase and
+sale of mutual funds are included in commissions and fees.
+
+We also receive fees for providing referral and administrative
+services to our affiliate, TD Waterhouse Bank, N.A.
+(“TDWB”), which are based on the daily cash balances
+our customers choose to sweep into a Federal Deposit Insurance
+Corporation (“FDIC”) insured money market account with
+TDWB. Customer balances invested that were swept into the
+FDIC-insured account totaled $4.9 billion as at October 31,
+2000, which was an increase of 11% over the $4.4 billion held as
+at October 31, 1999. The $4.4 billion balance at fiscal
+1999 year end represented an increase of 76% over the $2.5
+billion invested as at October 31, 1998. In addition, we
+provide investment advisory services to TDWB with respect to
+TDWB’s fixed income portfolio, and receive a fee based on
+the market value of the assets under management. Fees related to
+services provided to TDWB are classified as mutual fund and
+related revenue.
+
+Net interest revenue is the difference between interest earned
+on our interest-earning assets (which primarily consist of
+margin loans to customers) and the interest expense associated
+with our interest-bearing liabilities (which include free credit
+balances in customers’ accounts, deposits received for
+stock loaned, and other borrowings). Net interest revenue is
+principally affected by changes in customer margin balances as
+well as the prevailing net interest spread. Net interest spread
+represents the difference between the rate we charge customers
+on margin loans (based on the broker call rate) and the rate we
+pay our customers (which is our lowest-cost source of funds) or
+the rate we pay our other creditors. In the U.S., securities
+regulations place limits on the amount of customer funds we can
+use to finance our business, while no such limitations exist in
+Canada. Accordingly, the net interest spread from our Canadian
+brokerage operations has exceeded that of our U.S. operations.
+
+Other revenue consists primarily of revenues derived from
+ancillary services such as floor brokerage and retirement
+account administration. Other revenue is also derived from
+foreign exchange transactions on customer investments in stocks
+traded on exchanges outside the customer’s home country,
+fees from affiliates, and gains on proprietary holdings of
+securities.
+
+Our primary markets are the U.S. and Canada, which accounted for
+66% and 29%, respectively, of our fiscal 2000 consolidated
+revenues; 74% and 24%, respectively, of our consolidated
+revenues for fiscal 1999; and 69% and 29%, respectively, for
+fiscal 1998. At October 31, 2000, customers in the U.S.
+held approximately 2.6 million of our total customer accounts,
+and approximately 1.1 million were held by customers in Canada,
+rounded as reflected in the table below. The table below shows
+the growth in our business over the past three years in each of
+our operating regions:
+
+Fiscal year ended October 31
+
+2000
+
+1999
+
+1998
+
+United States
+
+	Revenues (in thousands)
+
+$
+
+1,040,688
+
+$
+
+709,214
+
+$
+
+423,789
+
+	Net Income before taxes and goodwill (in thousands)
+
+$
+
+274,359
+
+$
+
+167,863
+
+$
+
+93,731
+
+	Total accounts
+
+2,574,000
+
+1,989,000
+
+1,510,000
+
+	Average daily trades
+
+142,000
+
+88,000
+
+42,200
+
+	Total customer assets (in billions)
+
+$
+
+121.3
+
+$
+
+96.6
+
+$
+
+58.6
+
+35
+
+Fiscal year ended October 31
+
+2000
+
+1999
+
+1998
+
+Canada
+
+	Revenues (in thousands)
+
+$
+
+453,932
+
+$
+
+228,967
+
+$
+
+180,051
+
+	Net income before taxes and goodwill (in thousands)
+
+$
+
+177,270
+
+$
+
+62,861
+
+$
+
+47,252
+
+	Total accounts
+
+1,055,000
+
+700,000
+
+593,000
+
+	Average daily trades
+
+37,200
+
+17,000
+
+12,900
+
+	Total customer assets (in billions)
+
+$
+
+34.6
+
+$
+
+23.2
+
+$
+
+16.1
+
+Outside North America
+
+	Revenues (in thousands)
+
+$
+
+80,795
+
+$
+
+21,936
+
+$
+
+10,621
+
+	Net income before taxes and goodwill (in thousands)
+
+$
+
+(26,501
+
+)
+
+$
+
+(10,796
+
+)
+
+$
+
+(4,505
+
+)
+
+	Total accounts
+
+752,000
+
+272,000
+
+199,000
+
+	Average daily trades
+
+8,500
+
+2,100
+
+1,100
+
+	Total customer assets (in billions)
+
+$
+
+3.0
+
+$
+
+1.9
+
+$
+
+1.2
+
+Operating expenses
+
+Our largest operating expense is employee compensation and
+benefits, which includes salaries and wages, incentive
+compensation and related employee benefits, and taxes. We employ
+a small number of commissioned sales representatives; therefore,
+compensation and benefits do not vary directly with changes in
+commission revenue. Most associates do, however, receive annual
+incentive compensation based on the overall operating results of
+our operations in each geographical region as well as individual
+employee performance. Therefore, a significant portion of
+compensation and benefits expense will fluctuate based on our
+operating results. Prior to the beginning of the third fiscal
+quarter on May 1, 2000, compensation expense also reflected
+the change in intrinsic value of TD Bank stock options granted
+to our employees under TD Bank’s stock option plan.
+Effective May 1, 2000, certain holders signed legally
+binding waivers to forfeit their right to a shareless exercise
+as provided by the plan. As a result, no further expense will be
+recorded for the change in the intrinsic value of the stock
+options.
+
+Execution and clearing costs include fees paid to floor brokers
+and exchanges for trade execution costs, fees paid to
+third-party vendors for data processing services, and fees paid
+to clearing entities for certain clearance and settlement
+services. Execution and clearing costs, with the exception of
+data processing expenses, generally fluctuate based on
+transaction volume. Data processing services are generally
+provided under longer-term fixed fee arrangements with providers.
+
+Occupancy and equipment expense includes the costs of leasing
+and maintaining our office space and branch network, the lease
+and rental costs related to computers and other equipment, and
+depreciation and amortization expense associated with our fixed
+assets and leasehold improvements. Occupancy and equipment
+expense is affected primarily by increases in the number of
+branches and employees.
+
+Advertising and marketing includes media, print and direct mail
+advertising expenses and other costs incurred to create brand
+awareness, promote our product and service offerings, and
+introduce new products and services. Due to the rapid
+development of new products and services and increased
+competition, advertising and marketing expense has increased
+significantly from period to period. Management expects this
+trend to continue, as evidenced by our announcement of an
+expected $165 million branding and advertising campaign. As with
+other variable expenses, this expense will be managed to keep in
+step with revenue growth.
+
+Communications expense includes telephone expenses, which are
+generally affected by changes in customer transaction volumes
+and the increased use of electronic communications channels and
+online service offerings.
+
+We have been active in acquiring new businesses to rapidly
+expand our operations, including Marathon Brokerage in 1993,
+Waterhouse Securities Group in 1996, Pont Securities Limited in
+1997 and Rivkin Croll Smith, Kennedy Cabot & Co., Jack
+White & Company and Gall & Eke in 1998. In the
+fiscal year 2000, we acquired YorkSHARE Limited in the U.K., CT
+Securities Inc. in Canada and Dealwise Limited in the U.K.
+
+36
+
+Goodwill relating to our major acquisitions is generally
+amortized over a period of 20 years from the date of
+acquisition.
+
+We also provided the initial funding of two joint ventures in
+Japan and India, which were completed in the second fiscal
+quarter, and began activity in the third quarter. The results of
+operations for these joint ventures with The Bank of
+Tokyo-Mitsubishi, Ltd., which provides access to the Japanese
+market, and with Tata Finance Limited, which provides access to
+the developing market in India, are reflected in other income
+and are accounted for under the equity method of accounting.
+
+Professional fees include fees paid to consultants engaged to
+support our product, service and systems development efforts, as
+well as legal and accounting fees. These expenses generally
+fluctuate with overall changes in the level of business activity.
+
+Other expenses consist of account administration costs such as
+statement production, and general administrative expenses and
+other costs including printing and supplies, along with fees
+paid to TD Bank’s branch network for their support and
+other costs, including postage. They also include expenses for
+trading errors and provisions against our margin loan portfolio.
+
+We are subject to income taxes in each country in which we
+operate. The difference between our effective tax rate and the
+U.S. statutory rate of 35% differs from period to period, but
+primarily results from state and local taxes in the U.S.,
+provincial taxes in Canada and the effect of certain
+non-deductible expenses, most notably the amortization of
+goodwill.
+
+Effect of Recent Market Conditions
+
+During our first two quarters of fiscal 2000, stock markets in
+the U.S. and Canada experienced a significant increase in market
+price levels and trading volume, which contributed to an
+increase in investor interest in buying and trading securities.
+During this period, we reached record levels of trading volume,
+revenues and net income. However, in the third and fourth
+quarters of fiscal 2000, market price levels and trading volume
+decreased considerably from their peak levels earlier in the
+year and the stock markets became increasingly volatile. Our
+revenues and net income were affected by this downturn. Although
+we achieved record results in the second half of the fiscal year
+when compared to historical corresponding periods, nevertheless,
+such results were lower than those achieved earlier in the year.
+We remained profitable by carefully managing our expenses,
+including customer acquisition costs, in response to these
+changing market conditions, which continued through the first
+quarter of our fiscal year 2001.
+
+We adjust our expenses to the extent possible in anticipation of
+and in response to such changes in financial market conditions
+and customer trading patterns. Certain of our expenses
+(including incentive compensation, portions of communications,
+and execution and clearing costs) vary directly with changes in
+financial performance or customer trading activity. Expenses
+relating to the level of temporary employees, contractors,
+overtime hours, professional services, and advertising and
+marketing are adjustable over the short term to help us achieve
+our financial objectives. Additionally, developmental spending
+(including branch openings, product and service rollouts, and
+certain information technology systems improvements) is
+generally discretionary and can be altered in response to market
+conditions. However, a significant portion of our expenses such
+as salaries and wages, occupancy and equipment, depreciation and
+amortization of goodwill do not vary directly, at least in the
+short term, with fluctuations in revenues or securities trading
+volumes. Also, we view our developmental spending as essential
+to our future growth, and therefore attempt to avoid major
+adjustments in such spending unless faced with a sustained
+slowdown in customer trading activity. Given the nature of our
+revenues and expenses, continued severe market fluctuations and
+decreased investor activity could have a material adverse effect
+on our business, financial condition and operating results in
+future periods. Our results for any interim period are not
+necessarily indicative of results for a full year.
+
+37
+
+Results of Operations
+
+The following table provides the statements of income data for
+the periods indicated as a percentage of total revenues:
+
+Year ended October 31
+
+2000
+
+1999
+
+1998
+
+Revenues
+
+	Commissions and fees
+
+63.8
+
+%
+
+66.0
+
+%
+
+66.6
+
+%
+
+	Mutual fund and related revenue
+
+9.4
+
+10.2
+
+9.6
+
+	Net interest revenue
+
+22.3
+
+19.5
+
+19.2
+
+	Other
+
+4.5
+
+4.3
+
+4.6
+
+	Total revenues
+
+100.0
+
+%
+
+100.0
+
+%
+
+100.0
+
+%
+
+Expenses
+
+	Employee compensation and benefits
+
+26.9
+
+%
+
+28.9
+
+%
+
+29.8
+
+%
+
+	Execution and clearing costs
+
+10.7
+
+13.9
+
+15.5
+
+	Occupancy and equipment
+
+8.3
+
+8.3
+
+9.2
+
+	Advertising and marketing
+
+7.0
+
+6.5
+
+5.4
+
+	Communications
+
+4.0
+
+4.3
+
+5.0
+
+	Amortization of goodwill
+
+2.8
+
+3.9
+
+5.4
+
+	Professional fees
+
+3.0
+
+2.6
+
+2.5
+
+	Other
+
+13.1
+
+12.6
+
+10.3
+
+	Total expenses
+
+75.8
+
+%
+
+81.0
+
+%
+
+83.1
+
+%
+
+	Income before income taxes
+
+24.2
+
+%
+
+19.0
+
+%
+
+16.9
+
+%
+
+	Income tax provision
+
+10.9
+
+8.9
+
+8.9
+
+	Net income
+
+13.3
+
+%
+
+10.1
+
+%
+
+8.0
+
+%
+
+Financial Overview
+
+Years ended October 31, 2000, 1999 and 1998
+
+2000 versus 1999
+
+Net income for the fiscal year ended October 31, 2000 set a
+new record at $210.3 million, up 116.0% from fiscal year 1999
+net income of $97.3 million. Fiscal year 2000 revenues also set
+a new record at $1,575 million, up 64.1% from $960.1 million in
+fiscal year 1999. This was due primarily to a 58.6% increase in
+commissions and transaction fees, a 50.7% increase in mutual
+fund and related revenue, an 88.0% increase in net interest
+revenue and a 73.0% increase in other revenue.
+
+Total operating expenses during fiscal year 2000 were $1,194
+million, up 53.5% from $777.6 million for fiscal year 1999. This
+increase resulted largely from a $147.0 million increase in
+compensation and benefits costs, which included the impact of
+almost 2,200 new associates to handle increased business volume,
+of whom more than 1,200 were dedicated to retail service.
+Increases were also experienced in volume-driven clearing costs
+($34.7 million), occupancy and equipment in connection with the
+expanded staffing, branch expansion and infrastructure upgrades
+($50.1 million), increased marketing and advertising expenses
+related to the national advertising and global branding
+campaigns ($48.0 million), and other expenses, including trading
+errors and margin loan portfolio provisions, and general and
+account administration costs ($85.8 million).
+
+1999 versus 1998
+
+Net income for the fiscal year ended October 31, 1999 was a
+record $97.3 million, up 99.8% from fiscal year 1998 net income
+of $48.7 million. Fiscal year 1999 revenues were also a record
+$960.1 million, up 56.2% from $614.5 million in fiscal year
+1998, primarily due to a 54.7% increase in commissions and
+transaction fees, a 66.8% increase in mutual fund and related
+revenue, and a 58.7% increase in net interest revenue.
+
+38
+
+Total operating expenses during fiscal year 1999 were
+$777.6 million, up 52.1% from $511.0 million for
+fiscal year 1998, primarily resulting from the significant
+growth in our business and the full-year impact of our 1998
+acquisition of Jack White & Company.
+
+Commissions and fees
+
+2000 versus 1999
+
+Commissions and fees were $1,005 million for the fiscal
+year ended October 31, 2000, up $371.0 million, or
+58.6%, from fiscal year 1999. The total number of trades
+executed increased 77.3% as our customer account base grew, and
+our online offering increased in popularity. Average commission
+per revenue trade decreased 10.2% to approximately $21 due to
+the expanding popularity of our online brokerage services, which
+are offered at a lower price than traditional agent-based
+trading. For fiscal year 2000, total daily average online trades
+and total daily electronic trades, reflected in the table below,
+as rounded, represented 73% and 77% of total trades,
+respectively, as compared to 62% and 66%, respectively, for
+fiscal year 1999.
+
+We added approximately 1,017,000 new customer accounts during
+fiscal year 2000, excluding acquisitions, an increase of 38%
+from approximately 739,000 new accounts added during fiscal year
+1999. Our advertising and marketing expense per new account was
+approximately $109 for fiscal year 2000 versus approximately $85
+for fiscal year 1999.
+
+Fiscal year ended October 31
+
+2000
+
+1999
+
+% change
+
+Average trades per day
+
+	Total daily average online trades
+
+137,500
+
+66,600
+
+106
+
+	Touch-tone
+
+6,200
+
+4,400
+
+42
+
+	Total daily average electronic trades
+
+143,700
+
+71,000
+
+102
+
+	Agent trades
+
+44,000
+
+36,100
+
+22
+
+	Total daily average trades
+
+187,700
+
+107,100
+
+75
+
+%
+
+	Average commission per revenue trade
+
+$
+
+20.68
+
+$
+
+23.02
+
+(10
+
+)%
+
+1999 versus 1998
+
+Commissions and fees were $633.5 million for the fiscal
+year ended October 31, 1999, up $224.1 million, or
+54.7%, from fiscal year 1998. The total number of trades
+executed increased 90.6% as our customer base grew due to the
+rapid growth of our core franchise. The average commission per
+revenue trade decreased 20.1% to approximately $23, due to the
+increased proportion of trades placed through our online
+brokerage channels. For fiscal year 1999, total daily average
+online trades and total daily electronic trades, reflected in
+the table below, as rounded, represented 62% and 66%,
+respectively, as compared to 45% and 51%, respectively, for
+fiscal year 1998.
+
+We added approximately 739,000 new customer accounts during
+fiscal year 1999, an increase of 45% from the approximately
+511,000 new accounts added during fiscal year 1998. Our
+advertising and marketing expense per new account was
+approximately $85 for fiscal year 1999 versus approximately $65
+for fiscal year 1998.
+
+Fiscal year ended October 31
+
+1999
+
+1998
+
+% change
+
+Average trades per day
+
+	Total daily average online trades
+
+66,600
+
+25,200
+
+164
+
+	Touch-tone
+
+4,400
+
+3,400
+
+28
+
+	Total daily average electronic trades
+
+71,000
+
+28,600
+
+148
+
+	Agent trades
+
+36,100
+
+27,600
+
+31
+
+	Total daily average trades
+
+107,100
+
+56,200
+
+91
+
+%
+
+	Average commission per revenue trade
+
+$
+
+23.02
+
+$
+
+28.82
+
+(20
+
+)%
+
+39
+
+Mutual fund and related revenue
+
+2000 versus 1999
+
+Mutual fund and related revenue was $148.3 million for the
+fiscal year ended October 31, 2000, up $49.9 million,
+or 50.7%, from the prior fiscal year. This increase was
+primarily due to a strong increase in customer assets in
+third-party mutual funds, proprietary money market and mutual
+funds, and money market accounts.
+
+1999 versus 1998
+
+Mutual fund and related revenue was $98.4 million for the
+fiscal year ended October 31, 1999, up $39.4 million,
+or 66.8%, from the prior fiscal year. This increase was
+primarily due to a significant increase in customer assets in
+third-party mutual funds and proprietary money market and mutual
+funds, including the full-year impact of the acquisition of Jack
+White & Company.
+
+Net interest revenue
+
+2000 versus 1999
+
+Net interest revenue was $351.1 million for the fiscal year
+ended October 31, 2000, up $164.2 million, or 87.9%,
+from fiscal year 1999. This increase was due primarily to a
+90.0% increase in average customer margin loans to
+$8.52 billion during fiscal year 2000 from
+$4.48 billion during fiscal year 1999. Our net interest
+spread decreased to 2.50% in fiscal year 2000 from 2.59% in
+fiscal year 1999. This was due primarily to the margin loan
+volumes of our U.S. operations growing more rapidly (92%)
+than the volumes of our Canadian operations (79%), as our U.S.
+operations have a lower net interest spread than their Canadian
+counterparts.
+
+1999 versus 1998
+
+Net interest revenue was $186.8 million for the fiscal year
+ended October 31, 1999, up $69.1 million, or 58.7%,
+from fiscal year 1998. This increase was due primarily to an
+83.5% increase in average customer margin loans to
+$4.48 billion during fiscal year 1999 from
+$2.44 billion during fiscal year 1998. Our net interest
+spread decreased to 2.59% in fiscal year 1999 from 3.02% in
+fiscal year 1998 due primarily to the rapid growth of our U.S.
+operations, which have a lower net interest spread than our
+Canadian operations.
+
+Operating Expenses
+
+Years ended October 31, 2000, 1999 and 1998
+
+2000 versus 1999
+
+Compensation and benefits expense was $424.6 million for
+the fiscal year ended October 31, 2000, up
+$147.0 million, or 53.0%, from the prior fiscal year. This
+increase was primarily due to the increase in the number of
+associates to support our rapid growth and to provide incentive
+compensation in line with our operating results.
+
+Execution and clearing costs were $168.2 million for fiscal
+year 2000, up $34.7 million, or 26.0%, from fiscal year
+1999. The increase was primarily due to the increased
+transaction volume during the year, partially offset by the
+savings derived from the operational leverage of our clearing
+operations.
+
+Occupancy and equipment expense was $130.1 million for the
+fiscal year ended October 31, 2000, up $50.1 million,
+or 62.6%, from fiscal year 1999. This increase was due primarily
+to additional lease expenses for our expanded office space, as
+well as increased lease and depreciation expenses for data
+processing equipment. During fiscal year 2000, we opened a net
+total of 17 new branches.
+
+Advertising and marketing expense was $110.8 million in
+fiscal year 2000, up $48.0 million, or 76.5%, from fiscal
+year 1999. This increase primarily relates to increased national
+advertising in the U.S., but also includes costs from the
+foreign national advertising and branding campaigns launched in
+the fourth quarter of fiscal 1999.
+
+40
+
+Communications expense was $62.7 million during fiscal year
+2000, up $21.6 million, or 52.6%, from fiscal year 1999.
+This increase was due primarily to increased trading volumes and
+the opening of new branches.
+
+Amortization of goodwill was $43.6 million for fiscal year
+2000, up $6.2 million, or 16.5%, from fiscal year 1999.
+This increase was due to the acquisitions of YorkSHARE Limited
+in the U.K. in the first quarter of fiscal 2000, CT Securities
+Inc. in Canada in the second quarter of fiscal 2000, and
+Dealwise Limited in the U.K. in the third quarter of fiscal 2000.
+
+Professional fees were $47.3 million in fiscal year 2000,
+up $22.8 million, or 92.9%, from the prior fiscal year.
+This increase was primarily due to additional fees incurred for
+computer programming and systems consultants
+($9.7 million), state registration fees ($5.2 million)
+for the increased number of dedicated retail associates (up more
+than 1,200) in call centers and branches, and an increase in
+costs of management for international operations expansion.
+
+Other expenses were $206.6 million for fiscal year 2000, up
+$85.8 million, or 71.1%, from the prior fiscal year. This
+increase in other expenses is a reflection of the overall
+increase in the business, as it includes costs related to
+account opening and maintenance, statement production, postage,
+printing and supplies, along with increased account
+administration support costs in Canada. The increase in other
+expenses also reflects increased costs incurred for trading
+errors and an increase in provisions on the margin loan
+portfolio.
+
+Our effective income tax rates for fiscal years 2000 and 1999
+were 44.9% and 46.7%, respectively. Our effective tax rates,
+excluding the effects of non-deductible goodwill, were 41.8% and
+41.6%, respectively, for the fiscal years ended October 31,
+2000 and 1999.
+
+1999 versus 1998
+
+Compensation and benefits expense was $277.6 million for
+the fiscal year ended October 31, 1999, up
+$94.2 million, or 51.4%, from the prior fiscal year. This
+increase was due primarily to a greater number of associates and
+to increases in incentive compensation consistent with our
+increased profits.
+
+Execution and clearing costs were $133.4 million for fiscal
+year 1999, up $37.9 million, or 39.7%, from fiscal year
+1998. The increase was due primarily to the corresponding
+increase in trade volume during the year, partially offset by
+the savings derived from the operational leverage of our
+clearing business.
+
+Occupancy and equipment expense was $80.0 million for the
+fiscal year ended October 31, 1999, up $23.4 million,
+or 41.3%, from fiscal year 1998. This increase was due primarily
+to additional lease expenses on our expanded office space, as
+well as increased lease and depreciation expenses on data
+processing equipment. During fiscal year 1999, we opened 20 new
+branches.
+
+Advertising and marketing expense was $62.8 million for
+fiscal year 1999, up $29.6 million, or 89.0%, from fiscal
+year 1998. This increase relates primarily to increased national
+advertising campaigns.
+
+Communications expense was $41.1 million for fiscal year
+1999, up $10.3 million, or 33.4%, from fiscal year 1998. This
+increase was due primarily to increased trading volumes and the
+opening of new branches.
+
+Amortization of goodwill was $37.4 million for fiscal year
+1999, up $4.4 million, or 13.3%, from fiscal year 1998.
+This increase was due primarily to the full-year effect of the
+acquisition of Jack White & Company, which occurred in
+late May 1998.
+
+Professional fees were $24.5 million in fiscal year 1999,
+up $9.1 million, or 59.7%, from the prior fiscal year. This
+increase was due primarily to additional fees incurred for
+computer programming and systems consultants.
+
+Other expenses were $120.8 million for fiscal year 1999, up
+$57.7 million, or 91.4%, from the prior fiscal year,
+consistent with the overall increase in business activity.
+
+Our effective income tax rates for fiscal years 1999 and 1998
+were 46.7% and 52.9%, respectively. Our effective tax rates,
+excluding the effects of non-deductible goodwill, were 41.6% and
+44.3%, respectively, for the fiscal years ended October 31,
+1999 and 1998.
+
+41
+
+Quarterly Results
+
+The following tables set forth certain unaudited quarterly
+statements of income data and certain unaudited quarterly
+operating data for the eight quarters ended October 31,
+2000. In our opinion, this unaudited information has been
+prepared on substantially the same basis as the financial
+statements appearing on pages 49 to 52, and includes all
+adjustments (consisting of normal recurring adjustments)
+necessary to present fairly the unaudited quarterly data. The
+unaudited quarterly data should be read in conjunction with the
+financial statements and notes. The results for any quarter are
+not necessarily indicative of results for any future period.
+
+Quarter Ended
+
+October 31,
+
+July 31,
+
+April 30,
+
+January 31,
+
+October 31,
+
+2000
+
+2000
+
+2000
+
+2000
+
+1999
+
+(in thousands of dollars, except share and per share amounts)
+
+Revenues
+
+	Commissions and fees
+
+$
+
+205,880
+
+$
+
+202,947
+
+$
+
+336,871
+
+$
+
+258,810
+
+$
+
+149,397
+
+	Mutual fund and related revenue
+
+40,347
+
+37,065
+
+37,707
+
+33,197
+
+29,097
+
+	Net interest revenue
+
+92,268
+
+88,846
+
+94,046
+
+75,917
+
+61,851
+
+	Other
+
+20,986
+
+16,752
+
+20,052
+
+13,724
+
+12,785
+
+	Total revenues
+
+359,481
+
+345,610
+
+488,676
+
+381,648
+
+253,130
+
+Expenses
+
+	Employee compensation and benefits
+
+107,056
+
+97,539
+
+116,488
+
+103,534
+
+75,946
+
+	Execution and clearing costs
+
+38,275
+
+40,610
+
+48,154
+
+41,149
+
+32,851
+
+	Occupancy and equipment
+
+37,469
+
+32,445
+
+33,347
+
+26,854
+
+21,800
+
+	Advertising and marketing
+
+21,946
+
+23,434
+
+29,250
+
+36,131
+
+24,063
+
+	Communications
+
+14,667
+
+14,468
+
+19,973
+
+13,616
+
+8,413
+
+	Amortization of goodwill
+
+11,803
+
+11,556
+
+10,576
+
+9,625
+
+9,537
+
+	Professional fees
+
+15,888
+
+11,477
+
+11,318
+
+8,602
+
+7,849
+
+	Other
+
+36,222
+
+47,251
+
+82,259
+
+40,865
+
+32,159
+
+	Total expenses
+
+283,326
+
+278,780
+
+351,365
+
+280,376
+
+212,618
+
+	Income before income taxes
+
+76,155
+
+66,830
+
+137,311
+
+101,272
+
+40,512
+
+	Income tax provision
+
+33,966
+
+32,339
+
+60,691
+
+44,256
+
+19,588
+
+	Net income
+
+$
+
+42,189
+
+$
+
+34,491
+
+$
+
+76,620
+
+$
+
+57,016
+
+$
+
+20,924
+
+	Earnings per share — basic
+
+$
+
+0.11
+
+$
+
+0.09
+
+$
+
+0.20
+
+$
+
+0.15
+
+$
+
+0.06
+
+	Earnings per share — diluted
+
+$
+
+0.11
+
+$
+
+0.09
+
+$
+
+0.20
+
+$
+
+0.15
+
+$
+
+0.06
+
+[Additional columns below]
+
+[Continued from above table, first column(s) repeated]
+
+Quarter Ended
+
+July 31,
+
+April 30,
+
+January 31,
+
+1999
+
+1999
+
+1999
+
+(in thousands of dollars, except share and per share amounts)
+
+Revenues
+
+	Commissions and fees
+
+$
+
+155,455
+
+$
+
+176,634
+
+$
+
+152,044
+
+	Mutual fund and related revenue
+
+25,722
+
+22,812
+
+20,783
+
+	Net interest revenue
+
+51,668
+
+39,311
+
+34,004
+
+	Other
+
+10,109
+
+10,241
+
+8,204
+
+	Total revenues
+
+242,954
+
+248,998
+
+215,035
+
+Expenses
+
+	Employee compensation and benefits
+
+71,335
+
+70,462
+
+59,859
+
+	Execution and clearing costs
+
+32,489
+
+33,424
+
+34,679
+
+	Occupancy and equipment
+
+21,409
+
+19,047
+
+17,754
+
+	Advertising and marketing
+
+14,642
+
+12,487
+
+11,569
+
+	Communications
+
+9,971
+
+11,999
+
+10,717
+
+	Amortization of goodwill
+
+9,290
+
+9,284
+
+9,279
+
+	Professional fees
+
+6,422
+
+6,166
+
+4,082
+
+	Other
+
+28,383
+
+31,212
+
+29,000
+
+	Total expenses
+
+193,941
+
+194,081
+
+176,939
+
+	Income before income taxes
+
+49,013
+
+54,917
+
+38,096
+
+	Income tax provision
+
+22,621
+
+24,954
+
+18,029
+
+	Net income
+
+$
+
+26,392
+
+$
+
+29,963
+
+$
+
+20,067
+
+	Earnings per share — basic
+
+$
+
+0.08
+
+$
+
+0.09
+
+$
+
+0.06
+
+	Earnings per share — diluted
+
+$
+
+0.08
+
+$
+
+0.09
+
+$
+
+0.06
+
+42
+
+Quarter Ended
+
+October 31,
+
+July 31,
+
+April 30,
+
+January 31,
+
+October 31,
+
+July 31,
+
+2000
+
+2000
+
+2000
+
+2000
+
+1999
+
+1999
+
+Other Operating Data
+
+	Pre-tax operating margin, excluding goodwill
+
+24.5
+
+%
+
+22.7
+
+%
+
+30.3
+
+%
+
+29.1
+
+%
+
+19.8
+
+%
+
+24.0
+
+%
+
+	Average commissions per revenue trade
+
+$
+
+20.80
+
+$
+
+19.69
+
+$
+
+20.87
+
+$
+
+21.36
+
+$
+
+22.38
+
+$
+
+22.07
+
+	Average trades per day:
+
+	Online
+
+110,000
+
+115,600
+
+189,500
+
+136,900
+
+70,000
+
+69,900
+
+	Electronic(1)
+
+115,100
+
+121,000
+
+197,900
+
+143,100
+
+73,600
+
+74,200
+
+	Total
+
+151,900
+
+156,800
+
+254,800
+
+190,000
+
+103,500
+
+108,600
+
+	Total accounts
+
+4,381,000
+
+4,248,000
+
+3,850,000
+
+3,332,000
+
+2,961,000
+
+2,833,000
+
+	Total active accounts(2)
+
+3,109,000
+
+3,011,000
+
+2,813,000
+
+2,372,000
+
+2,168,000
+
+2,066,000
+
+	Number of new accounts
+
+166,000
+
+172,000
+
+418,000
+
+261,000
+
+150,000
+
+169,000
+
+	Total customer assets (in billions)
+
+$
+
+158.9
+
+$
+
+162.6
+
+$
+
+160.4
+
+$
+
+150.3
+
+$
+
+121.7
+
+$
+
+112.7
+
+	Total associates
+
+8,298
+
+8,436
+
+8,121
+
+7,040
+
+6,110
+
+5,981
+
+	Total branches
+
+231
+
+227
+
+224
+
+219
+
+212
+
+210
+
+[Additional columns below]
+
+[Continued from above table, first column(s) repeated]
+
+Quarter Ended
+
+April 30,
+
+January 31,
+
+1999
+
+1999
+
+Other Operating Data
+
+	Pre-tax operating margin, excluding goodwill
+
+25.8
+
+%
+
+22.0
+
+%
+
+	Average commissions per revenue trade
+
+$
+
+23.11
+
+$
+
+24.14
+
+	Average trades per day:
+
+	Online
+
+69,400
+
+56,900
+
+	Electronic(1)
+
+74,300
+
+61,500
+
+	Total
+
+118,000
+
+98,000
+
+	Total accounts
+
+2,640,000
+
+2,467,000
+
+	Total active accounts(2)
+
+1,884,000
+
+1,736,000
+
+	Number of new accounts
+
+253,000
+
+167,000
+
+	Total customer assets (in billions)
+
+$
+
+106.1
+
+$
+
+95.7
+
+	Total associates
+
+5,310
+
+4,534
+
+	Total branches
+
+210
+
+200
+
+(1)
+
+	Electronic trades include transactions completed both online and
+	by touch-tone telephone.
+
+(2)
+
+	Active accounts are accounts that had purchase, sale or other
+	activity, or a balance during the previous calendar quarter.
+
+During fiscal year 2000 we opened a net total of 17 new
+branches, compared to the increase of 20 branches in fiscal 1999.
+
+We have experienced, and expect to continue to experience,
+significant fluctuations in quarterly operating results due to a
+variety of factors, including general volume and volatility in
+the securities markets, the impact of competition, levels of
+online trading, changes in interest rates, changes in foreign
+currency exchange rates, changes in regulations, our ability to
+manage personnel and process online trading activity, the amount
+and timing of capital expenditures, costs incurred in the course
+of acquisitions, and general economic conditions. Our expense
+structure is based on historical expense levels and the levels
+of demand for our brokerage services. If demand for our
+brokerage services declines and we are unable to adjust our cost
+structure on a timely basis, it could have a material adverse
+effect on our business, financial condition and operating
+results.
+
+Due to all of the foregoing factors, period-to-period
+comparisons of our revenues and operating results are not
+necessarily meaningful, and such comparisons cannot be relied on
+as indicators of future performance. In addition, we cannot
+assure you that we will be able to sustain the rates of revenue
+growth that we have experienced in the past, improve our
+operating results or sustain our profitability on a quarterly
+basis.
+
+Credit
+
+Credit is extended to customers who purchase securities and
+other financial products in their margin accounts. The customer
+must deposit and maintain a minimum percentage ownership in her
+or his portfolio. The extent of these loans is based on federal
+regulations and internal policies. Consistent with the growth of
+our business and robust markets, we have experienced a
+substantial increase in margin loans over previous years. Stock
+positions held in customer accounts are held as collateral for
+these loans. Risk of credit loss arises if the market value of
+the customer’s portfolio falls below the loan value in the
+account, thus eliminating the equity. The risk of loss is
+increased when there are progressive and/or rapidly declining
+markets.
+
+The control procedures that we employ include: authentication
+and qualification of customer accounts; verification of checks;
+ongoing review of margin maintenance requirement detail by
+security and customer; intra-day margin account management;
+planning for potential losses; and maintaining the effectiveness
+of collections. Surveillance reports are utilized in our efforts
+to ensure these loans are adequately secured, thus limiting
+credit exposure. Our independent risk management function
+monitors and modifies our risk management policies and
+procedures as required.
+
+43
+
+Liquidity and Capital Resources
+
+Historically, we have financed our customer securities
+operations primarily through customer credit balances, deposits
+received for securities loaned, and other short-term borrowings.
+As of October 31, 2000, 88.5% of our assets consisted of
+cash and cash equivalents or assets readily convertible into
+cash (principally receivables from customers, receivables from
+brokers and dealers, deposits paid for stock borrowed and
+securities owned). Receivables from customers consist primarily
+of margin loans to customers, which are secured by
+customers’ readily marketable securities. Receivables from
+brokers and dealers consist of amounts receivable for pending
+securities transactions, which generally can be settled within
+three business days. Deposits paid for securities borrowed
+represent cash deposits placed with brokers securing marketable
+securities borrowed by us. Securities owned consist primarily of
+U.S. and Canadian government securities and other securities
+that trade in highly liquid markets.
+
+Capital expenditures and investments in new technology, services
+and advertising have been primarily financed to date through
+earnings from operations. Acquisitions of new businesses have
+been funded through capital generated from our initial public
+offering in June 1999, earnings from operations and
+issuance of preferred and exchangeable preferred stock.
+
+Net income plus depreciation and amortization was
+$290.6 million, $151.0 million and $91.6 million
+for the fiscal years ended October 31, 2000, 1999 and 1998,
+respectively. Depreciation and amortization expense, which
+relates to fixed assets, leasehold improvements and goodwill,
+was $80.3 million, $53.6 million and
+$42.9 million for the fiscal years ended October 31,
+2000, 1999 and 1998, respectively. Capital expenditures were
+$107.3 million, $62.2 million and $17.7 million
+for the fiscal years ended October 31, 2000, 1999 and 1998,
+respectively, and represented 6.8%, 6.5% and 2.9%, respectively,
+of total revenues in each period. Capital expenditures,
+excluding acquisitions of new businesses, during the fiscal
+years ended October 31, 2000, 1999 and 1998 related
+primarily to the purchase of communications and data processing
+equipment, and leasehold improvements related to new branches
+and office facilities. The cash cost of acquiring new
+businesses, net of assets acquired and liabilities assumed, was
+approximately $124.6 million, $12.0 million and
+$292.2 million during the years ended October 31,
+2000, 1999 and 1998, respectively.
+
+Our broker-dealer subsidiaries are subject to regulatory
+requirements intended to ensure their general soundness and
+liquidity, which require that the broker-dealers comply with
+certain minimum capital requirements. These regulations, which
+differ in each country, generally prohibit our broker-dealer
+subsidiaries from repaying borrowings from TD Bank, paying cash
+dividends, making loans to us or to affiliates, or otherwise
+entering into transactions which would result in a significant
+reduction in their regulatory capital positions without prior
+notification and/or the approval of a broker-dealer’s
+principal regulator. Our capital structure is designed to
+provide each entity and business with capital and liquidity
+consistent with its business and regulatory requirements.
+
+Recently Issued Accounting Standards
+
+Statement of Financial Accounting Standards (“SFAS”)
+No. 133,
+Accounting for Derivative Instruments and
+Hedging Activities
+, was issued in 1998. This standard
+requires us to recognize all derivatives as either assets or
+liabilities in our financial statements and to measure such
+instruments at their fair values. Hedging activities must be
+redesignated and documented pursuant to the provisions of the
+standard. This standard is effective for all fiscal quarters of
+fiscal years which begin after June 15, 2000. At this time,
+we do not believe that adoption of this standard will have a
+material impact on our financial condition and results of
+operations.
+
+In March 1998, the Accounting Standards Executive Committee
+of the American Institute of Certified Public Accountants issued
+Statement of Position (“SOP”) No. 98-1,
+
+Accounting for the Costs of Computer Software Developed or
+Obtained for Internal Use
+, effective for fiscal years
+beginning after December 15, 1998. SOP 98-1 requires
+that certain costs of computer software developed or obtained
+for internal use be capitalized and amortized over the useful
+life of the related software. We have adopted this standard for
+the fiscal year November 1, 1999 to October 31, 2000.
+
+44
+
+In December 1999, the Securities and Exchange Commission
+released Staff Accounting Bulletin (“SAB”)
+No. 101,
+Revenue Recognition in Financial
+Statements
+, which provides guidance on the recognition,
+presentation and disclosure of revenue in financial statements.
+Management does not believe that SAB No. 101 will have a
+material impact on our financial condition and results of
+operations.

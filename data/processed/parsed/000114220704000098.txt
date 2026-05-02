@@ -1,0 +1,317 @@
+AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+ OF OPERATION
+
+Certain statements contained in this Management's Discussion and Analysis are
+not based on historical facts, but are forward-looking statements that are based
+upon numerous assumptions about future conditions that may prove ultimately to
+be inaccurate. Actual events and results may differ materially from anticipated
+results described in such statements. The Partnership's ability to achieve such
+results is subject to certain risks and uncertainties. Such risks and
+uncertainties include, but are not limited to, changes in healthcare
+reimbursement systems and rates, the availability of capital and financing,
+changes to amounts recorded as revenues due to final resolution of amounts due
+to and from third-party payors, and other factors affecting the Partnership's
+business that may be beyond its control.
+
+Results of Operations
+
+The following is a discussion of the major factors that materially affected the
+Partnership's operations during the three years ending December 31, 2001 and the
+comparability of operations between those years.
+
+Significant changes have and will continue to be made in government
+reimbursement programs, and such changes could have a material impact on future
+reimbursement formulas. The Balanced Budget Act of 1997 (the "Act"), enacted in
+August, 1997, has targeted the Medicare program for reductions in spending
+growth of approximately $9.5 billion for skilled nursing facilities over four or
+five years, primarily through the implementation of the Medicare prospective
+payment system (the "Medicare PPS") for skilled services. The Medicare PPS per
+diem, which would cover routine service, ancillary and capital-related costs,
+initially will be a blended rate based on (i) a facility-specific payment rate
+derived from each facility's 1995 cost report, adjusted by an inflation factor
+and (ii) a federal per diem rate derived from all hospital-based and
+freestanding (skilled nursing facility) 1995 cost reports, adjusted for case mix
+and geographic variations in labor costs. The blended rate will be further
+adjusted by a facility-specific case mix (acuity) index.
+
+The Partnership's nursing home facility changed to the Medicare PPS on January
+1, 1999. Implementation of the Medicare PPS contributed to the decrease in
+revenues in 1999, even though the facility-specific Medicare rate for 1999 of
+$379.77 provided the facility with approximately $260,000 in additional revenue
+compared to payments based on the full federal rates. Effective October 1, 2000,
+all facilities in our industry received a 4% increase in Medicare per diem
+payment, and additionally, effective April 1, 2001, a variety of Resource
+Utilization Group ("RUG") categories, including our nursing home facility,
+received increases ranging from 6.7% to 20% depending on the type and complexity
+of the services involved. The per diem add-on to the RUG categories and the 4%
+across the board increase in payment, another of which was effective on October
+1, 2001, have lessened the impact of the transition to the Medicare PPS. The RUG
+add ons will expire whenever CMS refines the case mix classification system, and
+CMS has stated they will be in place at least until October 2004. However, the
+4% across the board rate increase expired in October 2002, and the Partnership
+expects a decrease in revenue as a result of the expiration of the Medicare Rate
+Increases.
+
+The following table compares Medicare cost per day for 2001, 2000, and 1999, the
+first year of Medicare PPS for the categories shown below. This data is
+consistent with the Medicare data and categories reported to and used by the
+Medicare administration in monitoring the program. No such breakdown of costs
+exists for Medicaid and private pay patients.
+
+<TABLE>
+<CAPTION>
+
+-------------------------------------------------------------------------------------------------------------------
+ Cost Increase Cost Increase
+ 1999 Medicare 2000 Medicare (Decrease) 2001 Medicare (Decrease)
+ Category Cost Per Day Cost Per Day 1999/2000 Cost Per Day 2000/2001
+-------------------------------------------------------------------------------------------------------------------
+<S> <C> <C> <C> <C> <C>
+Routine Nursing $125.46 $134.47 $9.01 $135.42 $0.95
+-------------------------------------------------------------------------------------------------------------------
+Inpatient
+Rehabilitation $93.19 $46.76 $(46.43) $50.36 $3.60
+-------------------------------------------------------------------------------------------------------------------
+Other Inpatient $29.07 $20.89 $(8.18) $29.03 $8.14
+-------------------------------------------------------------------------------------------------------------------
+Total $247.72 $202.12 $(45.60) $214.81 $12.69
+-------------------------------------------------------------------------------------------------------------------
+
+</TABLE>
+The cost increases for fiscal 2001 resulted from several factors. First, we have
+experienced routine nursing and inflationary increases. Second, inpatient
+rehabilitation services in the aggregate and the complexity of services required
+increased during 2001, as the case mix shifted to more acute cases. Third, the
+percentage of Medicare days applicable to rehabilitation services increased from
+77% in 2000 to 79% in 2001. Lastly, the increases are the result of other
+inpatient cost such as the Medicare drug cost which increased from $67,206 in
+2000 to $102,052 in 2001.
+
+The 18% decrease in total Medicare cost per day in fiscal 2000 was primarily
+attributable to a 28% reduction in the overhead allocated to the rehabilitation
+area as a result of a decrease in the square footage of the rehabilitation area.
+The overhead allocated to inpatient rehabilitation was $194,324 and $138,967 in
+1999 and 2000, respectively. Also contributing to the decrease in total Medicare
+cost per day was a 12% reduction in other inpatient costs from $168,062 in 1999
+to $148,248 in 2000. This decrease was attributable to a reduction in medical
+supplies expense. These decreases in other inpatient costs and inpatient
+rehabilitation were partially offset by a 16% increase in nursing salaries from
+$1,356,479 in 1999 to $1,578,223 in 2000. The increase in nursing salaries was
+primarily attributable to an increase in the number of nurses employed, as well
+as an increase in the number of hours worked by each nurse.
+
+Management believes that revenues will continue to be lower under the Medicare
+PPS; however, management believes that reductions in therapy costs, use of
+general purchasing agents and other expense reduction measures should in part
+offset the effect of any rate reductions. The Partnership can give no assurance
+that payments under such program in the future will remain at a level comparable
+to the present level or increase. Any decreases in the level of payments could
+have a material adverse effect on the Partnership.
+
+ Revenue:
+
+ 2001 compared to 2000
+
+Operating revenues increased $910,214 (13%) in 2001 as compared to 2000. The
+increase was attributable primarily to an increase in the number of Medicare,
+managed care and private patients at the nursing facility. Also contributing to
+the increase in operating revenues was an increase in census at the retirement
+facility and yearly room rate increases. Census increased at both facilities due
+to targeted marketing efforts by both facilities. Although both facilities
+experienced increases in census, revenue increases are a result of both number
+of patients and the degree of services required due to the acuity (or severity
+of illness) of patients.
+
+ 2000 compared to 1999
+
+Operating revenues increased $536,149 (8%) in 2000 as compared to 1999. The
+increase was attributable to several factors. First, there was a 41% increase in
+the average daily census of Medicare patients at the nursing facility, as well
+as a 15% increase in the average daily census of managed care patients at the
+nursing facility. Furthermore, there was an increase in the Medicare
+reimbursement rate at the nursing facility. Also contributing to the increase in
+operating revenues was a 12% increase in average daily census at the retirement
+facility.
+
+ Expenses:
+
+ 2001 compared to 2000
+
+Operating costs and expenses increased by $215,182 (3%) in 2001 as compared to
+2000. The increase was attributable primarily to the 3% increase in occupancy
+rate at the nursing home and the 26% increase in occupancy rate at the
+retirement center, which in turn caused an increase in staffing and other costs
+of serving occupants. The increase in costs and expenses was, however, minimized
+to the extent possible by detailed attention to variable cost controls. Also
+contributing to the increase in operating costs and expenses was the increase in
+a variety of insurance expenses (group insurance, property insurance and general
+liability insurance) and taxes.
+
+Also, during the three month period ended December 31, 2001, Management resolved
+certain liabilities relating to unpaid management fees and certain state
+Medicaid programs. These liabilities, totaling approximately $463,000 were
+credited against operating expenses.
+
+ 2000 compared to 1999
+
+Operating costs and expenses increased $211,632 in 2000 as compared to 1999. The
+increase was attributable primarily to additional staffing needs at the
+retirement center resulting from the increased occupancy rate.
+
+ Net Income (Loss):
+
+ 2001 compared to 2000
+
+For the fiscal year ended December 31, 2001, the Partnership had a net income
+increase of $685,231 over 2000. This increase was primarily attributable to
+increased census, increased patient quality mix (i.e. an increase in Medicare
+and private pay patients), and detailed attention to variable cost controls.
+
+ 2000 compared to 1999
+
+For the fiscal year ended December 31, 2000, the Partnership had net income of
+$89,880, and for the fiscal year ended December 31, 1999, the Partnership had a
+net loss of ($244,752). The net gain in 2000 was attributable primarily to the
+increase in operating revenue in 2000 of $536,149 and a decrease in management
+and oversight fees in 2000 from 1999, partially offset by an increase of
+$235,599 in other operating costs and expenses in 2000 from 1999. The increase
+in operating costs and expenses was primarily due to additional staffing needs
+at the retirement center as result of the increased census.
+
+Liquidity and Capital Resources
+
+At December 31, 2001, the Partnership held cash and cash equivalents of
+$1,496,189, an increase of $390,367 from the amount held at December 31, 2000.
+The cash balance will be necessary to meet the Partnership's current obligations
+and for operating reserves. In addition, cash balances maintained at the two
+Partnership facilities must be maintained in accordance with operating reserves
+established by the U.S. Department of Housing and Urban Development ("HUD"). At
+December 31, 2001, the balance of HUD reserved cash at the facilities was
+$511,769, which is equal to the mortgage escrow and reserve for replacement
+accounts.
+
+During fiscal 2001, operating cash flows provided by operations increased to
+$898,000 compared to $272,000 in fiscal 2000. The most significant contributor
+to the improved cash flow was the increase in net income experienced by the
+partnership in 2001.
+
+As the Partnership continues to adjust to Medicare PPS, it believes that it will
+produce sufficient cash flow to meet its ongoing operations needs associated
+with the two facilities currently owned by the Partnership. In addition, the
+Partnership's cash reserves are considered adequate to meet contingent
+liabilities related to third-party reimbursements from the operation of
+facilities previously owned by the Partnership in Colorado. During 2001, the
+Partnership did not receive any demands for payment of any actual or contingent
+liabilities related to these previously-owned facilities. The Partnership does
+not currently have any lines of credit nor are the General Partners obligated to
+provide financial support, should the need arise. Therefore, there can be no
+assurance that sufficient funds will be available.
+
+As discussed in "Results of Operations," the nursing facility benefited from
+temporary increases in the rates paid by Medicare. Following the expiration of
+these temporary rate increases in October 2002, the Partnership expects that it
+will continue to generate sufficient cash flow from its operations to meet its
+operating needs. In order to offset some of the impact of the expiration of the
+rate increases, the Partnership plans to evaluate steps to reduce expenses and
+to increase census at the nursing facility.
+
+As of December 31, 2001, the Partnership was not obligated to perform any major
+capital expenditures. The Managing General Partner anticipates that any repairs,
+maintenance, or capital expenditures will be financed with cash reserves, HUD
+replacement reserves and cash flow from operations.
+
+No cash was distributed to the Partners during the year ended December 31, 2001.
+In 1998, the Partnership distributed $600,000 to the Limited Partners. No funds
+were distributed during 1999 or 2000. Cumulative distributions paid to the
+Limited Partners as of December 31, 2001 were $3,538,203. The Managing General
+Partner desires to make annual distributions from operating cash flow in future
+periods. However, the Partnership's ability to make distributions may be limited
+by HUD's requirements for surplus cash at both the nursing facility and
+retirement center level.
+
+Critical Accounting Policies
+
+The Partnership's discussion and analysis of the financial condition and results
+of operations are based upon the consolidated financial statements, which have
+been prepared in accordance with accounting principles generally accepted in the
+United States. The preparation of these financial statements requires the use of
+estimates and judgments that affect the reported amounts and related disclosures
+of assets and liabilities, the disclosure of contingent assets and liabilities
+at the date of the financial statements and the reported amounts of revenues and
+expenses during the reporting period. Actual results may differ materially from
+these estimates. The Partnership believes the following critical accounting
+policies, among others, affect the more significant judgments and estimates used
+in the preparation of the consolidated financial statements.
+
+Operating revenue
+
+Operating revenue consists of rental income, long-term nursing revenues, and
+other ancillary services revenues. Operating revenues are recognized as services
+are provided. Revenues are recorded net of provisions for contractual allowances
+with third-party payors, primarily Medicare and Medicaid. Net revenues
+realizable under third-party payor agreements are subject to change due to
+examination and retroactive adjustment. Estimated third-party payor settlements
+are recorded in the period the related services are rendered. The methods of
+making such estimates are reviewed periodically, and differences between the net
+amounts accrued and subsequent settlements or estimates of expected settlements
+are reflected in current results of operations. See "Results of Operations"
+above for further discussion of recent changes to third-party payor
+reimbursement rates.
+
+Property, equipment and long-lived assets
+
+Long-lived assets are reviewed for impairment whenever events or changes in
+circumstances indicate that the carrying amount may not be recoverable. The
+Partnership evaluates the carrying value of long-lived assets in relation to the
+future projected undiscounted cash flows of the underlying properties to assess
+recoverability in accordance with Statement of Financial Accounting Standards
+No. 144 "Accounting for the Impairment or Disposal of Long-Lived Assets" ("SFAS
+144"). Those projected future undiscounted cash flows require significant
+assumptions about future operations, such as reimbursement rates for Medicaid
+and Medicare patients, occupancy rates, wage rates, workers compensation costs
+and professional liability costs. Under SFAS 144, an impairment loss is
+recognized if the sum of the future net expected cash flows is less than the
+carrying amount of the long-lived assets being evaluated. The difference between
+the carrying amount of the long-lived assets being evaluated, and the estimated
+fair market value of the assets represents the impairment loss. The Partnership
+determines estimated fair value for the long-lived assets that it intends to
+retain based on anticipated future cash flows discounted at rates commensurate
+with the risks involved.
+
+Funding Obligations
+
+We have various contractual commitments that we must fund in 2002 and future
+years as part of our normal operations. Summary information about these matters
+is set forth in the following table.
+
+The following table discloses aggregate information, as of December 31, 2001,
+about our contractual obligations and the periods in which payments are due:
+
+<TABLE>
+<CAPTION>
+
+ Payments Due By Period (in thousands)
+ --------------------------------------------------------------------------------------------
+ Total 2002 2003 2004 2005 2006 Thereafter
+ Payments
+ Due
+ -------------------------------------------------------------------------------------------------------------
+
+<S> <C> <C> <C> <C> <C> <C> <C>
+Long-Term Debt $3,865 $98 $105 $114 $122 $132 $3,294
+ -------------------------------------------------------------------------------------------------------------
+
+Total
+Contractual
+Cash
+Obligations $3,865 $98 $105 $114 $122 $132 $3,294
+ =============================================================================================================
+
+</TABLE>
+
+The subsidiaries of the Partnership are obligated to pay management fees to a
+related party in an amount equal to 5% of net operating revenues. This agreement
+may be terminated by either party upon 60 days notice to the other party.
+
+There are no other significant commercial commitments that we could be obligated
+to pay in the future that are not included in our consolidated balance sheet.

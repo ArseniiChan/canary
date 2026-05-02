@@ -1,0 +1,714 @@
+AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+ OF OPERATIONS
+
+ The following discussion highlights the principal factors affecting our
+financial condition and results of operations as well as our liquidity and
+capital resources for the periods described. This discussion should be read in
+conjunction with the Consolidated Financial Statements and related notes thereto
+appearing elsewhere in this Form 10-K. The operating results for the periods
+presented were not significantly affected by inflation.
+
+GENERAL
+
+ Pediatrix is the nation's leading provider of neonatal physician
+services to hospital-based NICUs. In addition, we are the nation's leading
+provider of perinatal physician services. We were founded in 1979 by Drs. Roger
+Medel and Gregory Melnick. Since obtaining our first hospital contract in 1980,
+we have grown by increasing revenues at existing units ("same unit growth") and
+by adding new units. We also provide physician services to hospital-based PICUs
+and pediatrics departments in hospitals.
+
+ On May 15, 2001, we acquired Magella Healthcare Corporation ("Magella")
+in a merger transaction (the "Merger"). The total purchase price for Magella was
+$173.6 million, which we paid in shares of our common stock. In connection with
+the Merger, we recorded assets totaling approximately $232.8 million, including
+approximately $206.5 million in goodwill, and assumed liabilities of
+approximately $59.2 million. As a result of the merger, Magella became a wholly
+owned subsidiary of Pediatrix and the former stockholders of Magella became
+shareholders of Pediatrix. The Merger has been accounted for by Pediatrix as an
+acquisition of Magella under the purchase method of accounting for business
+combinations. This discussion and the Consolidated Financial Statements included
+elsewhere in this report reflect our operations and financial results of the
+Company, which from May 15, 2001, includes the business and operations of
+Magella.
+
+ In addition to the Merger, we completed six acquisitions and added
+seven NICUs through our internal marketing activities during 2001. We have
+developed integrated regional networks, including both neonatology and
+perinatology, in the Austin, Dallas-Fort Worth, Denver-Colorado Springs, Des
+Moines, Kansas City, Las Vegas, Phoenix-Tucson, Reno, San Antonio, San Jose,
+Seattle-Tacoma and Southern California metropolitan areas and intend to develop
+additional regional and statewide networks. We believe that these networks,
+augmented by ongoing marketing and acquisition efforts, will strengthen our
+position with managed care organizations and other third party payors.
+
+CRITICAL ACCOUNTING POLICIES
+
+ The preparation of financial statements in conformity with accounting
+principles generally accepted in the United States requires estimates and
+assumptions that affect the reporting of assets, liabilities, revenues and
+expenses, and the disclosure of contingent assets and liabilities. Certain of
+our accounting policies are critical to understanding our financial statements
+because their application places significant demands on management's judgment,
+with financial reporting results relying on estimates of matters that are
+inherently uncertain.
+
+ We believe that the critical accounting policies described in the
+following paragraphs affect the most significant estimates and assumptions used
+in the preparation of our consolidated financial statements. For all these
+policies, we caution that future events rarely develop exactly as estimated, and
+the best estimates routinely require adjustment.
+
+REVENUE RECOGNITION
+
+ We recognize patient service revenue at the time services are provided
+by our affiliated physicians. Patient service revenue is presented net of an
+estimated provision for contractual adjustments
+
+ 24
+<PAGE>
+
+and uncollectibles. Management estimates allowances for contractual adjustments
+and uncollectibles on accounts receivable based on historical and other factors,
+including an evaluation of expected adjustments and delinquency rates, past
+adjustment and collection experience in relation to amounts billed, current
+economic conditions, and other relevant information. Contractual adjustments
+result from the difference between the physician rates for services performed
+and reimbursements by government-sponsored health care programs and insurance
+companies for such services. The evaluation of these factors involves complex,
+subjective judgments. Changes in these factors may significantly impact our
+Consolidated Financial Statements. See Notes 2 and 3 to our Consolidated
+Financial Statements for additional information regarding adjustments to these
+allowances.
+
+PROFESSIONAL LIABILITY COVERAGE
+
+ We maintain professional liability coverage, which indemnifies us and
+our health care professionals on a claims-made basis with a portion of self
+insurance retention. We record a liability for self-insured deductibles and an
+estimate of liabilities for claims incurred but not reported based on an
+actuarial valuation which is based on historical loss patterns. An inherent
+assumption in such estimates is that historical loss patterns can be used to
+predict future patterns with reasonable accuracy. Because many factors can
+affect past and future loss patterns, the effect of changes in such factors on
+our estimates must be carefully evaluated. The evaluation of these factors
+involves complex, subjective judgments. Insurance liabilities are necessarily
+based on estimates, and actual results may vary significantly from such
+estimates. Liabilities for claims incurred but not reported are not discounted.
+
+GOODWILL
+
+ We record acquired assets and liabilities at their respective fair
+values under the purchase method of accounting, recording to goodwill the excess
+of cost over the fair value of the net assets acquired. Goodwill related to
+acquisitions completed prior to July 1, 2001 was amortized through the year
+ended December 31, 2001 on a straight-line basis over 25 years.
+
+ We evaluate long-lived assets, including goodwill and identifiable
+intangibles, at least annually and record an impairment whenever events or
+changes in circumstances indicate that the carrying value of the assets may not
+be fully recoverable. The recoverability of such assets, which consist primarily
+of goodwill, is measured by a comparison of the carrying value of the assets to
+the future undiscounted cash flows before interest charges to be generated by
+the assets. For goodwill, we consider various factors relating to each acquired
+business, including hospital and physician contract changes, local market
+developments, changes in third-party payments, national health care trends, and
+other publicly-available information. If these factors indicate that goodwill is
+impaired, the impairment to be recognized is measured as the excess of the
+carrying value over the fair value. Long-lived assets, including goodwill and
+identifiable intangibles, to be disposed of are reported at the lower of the
+carrying value or fair value less disposal costs. We do not believe there are
+any indicators that would require an adjustment to such assets or their
+estimated periods of recovery at December 31, 2001 pursuant to the current
+accounting standards. However, the evaluation of these factors involves complex,
+subjective judgments, and actual results may vary significantly from such
+estimates. See "Accounting Matters" below and Note 2 to our Consolidated
+Financial Statements.
+
+ Other significant accounting policies, not involving the same level of
+measurement uncertainties as those discussed above, are nevertheless important
+to an understanding of the financial statements. For example, our financial
+statements are presented on a consolidated basis with our affiliated
+professional associations, corporations and partnerships (the "PA Contractors")
+because we or one of our subsidiaries have entered into management agreements
+with our PA Contractors meeting the criteria set forth in the Emerging Issues
+Task Force Issue 97-2 for a "controlling financial interest". Our management
+agreements are further described in Note 2 to our Consolidated Financial
+Statements. Such policies often require difficult judgments on complex matters
+that are often subject to multiple sources of authoritative guidance and such
+matters are among topics currently under reexamination by accounting standards
+setters and regulators. Although no specific conclusions reached by these
+standard setters appear likely to cause a material change in our accounting
+policies, outcomes cannot be predicted with
+
+ 25
+<PAGE>
+
+confidence. Also see Note 2 to our Consolidated Financial Statements, which
+discusses accounting policies that have been selected by management.
+
+PAYOR MIX
+
+ We bill payors for services provided by physicians based upon rates for
+the specific services provided. The rates are substantially the same for all
+patients in a particular geographic area regardless of the party responsible for
+paying the bill. We determine our net patient service revenue based upon the
+difference between our gross fees for services and our ultimate collections from
+payors, which differ from the gross fees due to (i) Medicaid reimbursements at
+government-established rates, (ii) managed care payments at contracted rates,
+(iii) various reimbursement plans and negotiated reimbursements from other third
+parties, and (iv) discounted and uncollectible accounts of private pay patients.
+
+ Our payor mix is comprised of government (principally Medicaid),
+contracted managed care, other third parties and private pay patients. We
+benefit from the fact that most of the medical services provided at the NICU or
+PICU are classified as emergency services, a category typically classified as a
+covered service by managed care payors. In addition, we benefit when patients
+are covered by Medicaid, despite Medicaid's lower reimbursement rates as
+compared with other payors, because typically these patients would not otherwise
+be able to pay for services due to lack of insurance coverage. However, a
+significant increase in the government, managed care or capitated components of
+our payor mix at the expense of other third party payors, as we have experienced
+in the last few years, could result in reduced reimbursement rates and, in the
+absence of increased patient volume, could have a material adverse effect on our
+financial condition and results of operations. See our description of the charge
+recorded in 2000 under "Results of Operations - Year Ended December 31, 2000, as
+Compared to Year Ended December 31, 1999" below. The following is a summary of
+our payor mix, expressed as a percentage of net patient service revenue,
+exclusive of administrative fees, for the periods indicated.
+
+ Years Ended December 31,
+ --------------------------------
+ 1999 2000 2001
+ ---- ---- ----
+ Government 21% 21% 23%
+ Contracted managed care 45% 48% 49%
+ Other third parties 33% 30% 27%
+ Private pay 1% 1% 1%
+ --- --- ---
+ 100% 100% 100%
+ === === ===
+
+ The payor mix shown above is not necessarily representative of the
+amount of services provided to patients covered under these plans. For example,
+services provided to patients covered under government programs represented
+approximately 45% of our total gross patient service revenue but only 23% of our
+net patient service revenue during 2001.
+
+RESULTS OF OPERATIONS
+
+ The following table sets forth, for the periods indicated, certain
+information related to our operations expressed as a percentage of our net
+patient service revenue (patient billings net of contractual adjustments and
+uncollectibles, and including administrative fees):
+
+ 26
+<PAGE>
+<TABLE>
+<CAPTION>
+
+ Years Ended December 31,
+ ----------------------------------------
+ 1999 2000 2001
+ ----- ----- ------
+<S> <C> <C> <C>
+ Net patient service revenue 100% 100% 100%
+ ----- ----- -----
+ Operating expenses:
+ Practice salaries and benefits 55.9 61.1 55.7
+ Practice supplies and other operating
+ expenses 4.1 4.5 4.0
+ General and administrative expenses
+ 14.9 18.5 17.7
+ Depreciation and amortization 5.3 5.7 6.1
+ ----- ----- -----
+ Total operating expenses 80.2 89.8 83.5
+ ----- ----- -----
+ Income from operations 19.8 10.2 16.5
+ Other income (expense), net (1.1) (1.4) (0.6)
+ ----- ----- -----
+ Income before income taxes 18.7 8.8 15.9
+ Income tax provision 7.7 4.3 7.3
+ ----- ----- -----
+ Net income 11.0% 4.5% 8.6%
+ ===== ===== =====
+
+</TABLE>
+
+YEAR ENDED DECEMBER 31, 2001 AS COMPARED TO YEAR ENDED DECEMBER 31, 2000
+
+ Our net patient service revenue increased $111.5 million, or 45.9%, to
+$354.6 million for the year ended December 31, 2001, as compared with $243.1
+million for the same period in 2000. Net patient service revenue for the year
+ended December 31, 2000 included a charge of $6.5 million, which was recorded
+during the quarter ended June 30, 2000, to increase the allowance for
+contractual adjustments and uncollectible accounts.
+
+ Excluding the $6.5 million charge, net patient service revenue
+increased by $105.0 million, or 42.1%, for the year ended December 31, 2001. Of
+this $105.0 million increase, approximately $86.5 million, or 82.4%, was
+attributable to new units at which we provide services as a result of
+acquisitions, including units that were obtained in the Merger. Same unit
+patient service revenue increased approximately $18.5 million, or 7.6%, for the
+year ended December 31, 2001. The increase in same unit net patient service
+revenue is primarily the result of (i) improved collection performance due to
+process changes implemented in the last 18 months including the regionalization
+of billing and collection functions; (ii) improved managed care contracting;
+(iii) the flow through of price increases implemented after the completion of
+the Merger; (iv) higher acuity level of patient services billed; and (v) volume
+increases. Same units are those units at which we provided services for all of
+2001 and 2000.
+
+ Practice salaries and benefits increased $49.1 million, or 33.1%, to
+$197.6 million for the year ended December 31, 2001, as compared with $148.5
+million for the same period in 2000. The increase was attributable to new
+physicians and other clinical staff as a result of the Merger, and to support
+new unit growth and volume growth at existing units.
+
+ Practice supplies and other operating expenses increased $3.3 million,
+or 29.7%, to $14.3 million for the year ended December 31, 2001, as compared
+with $11.0 million for the same period in 2000. Of this $3.3 million increase,
+approximately $1.6 million was attributable to increased costs related to the
+Merger. The remaining approximately $1.7 million was primarily attributable to:
+(i) increases in rent for medical equipment and medical office space; and (ii)
+an increase in medical supplies related to the growth in our national hearing
+screen program.
+
+ General and administrative expenses include all salaries and benefits
+and supplies and other operating expenses not specifically related to the
+day-to-day operations of our physician group practices. General and
+administrative expenses increased $17.9 million, or 40.0%, to $62.8 million for
+the year ended December 31, 2001, as compared to $44.9 million for the same
+period in 2000. Of this $17.9 million increase, approximately $8.2 million, or
+45.8%, was attributable to increased costs for services provided to the
+practices acquired in the Merger. Approximately $9.7 million, or 54.2%, was
+primarily due to an increase costs for: (i) salaries and benefits for billing
+and collections personnel as we continued our
+
+ 27
+<PAGE>
+
+regionalization of billing and collection functions; (ii) legal fees related to
+government investigations and our class action lawsuit; (iii) rent and other
+operating expenses related to the expansion of our regional billing and
+collection offices; and (iv) information services for the development and
+support of clinical and operational systems.
+
+ Depreciation and amortization expense increased by approximately $7.6
+million, or 55.2% to $21.4 million for the year ended December 31, 2001, as
+compared with $13.8 million for the same period in 2000, primarily as a result
+of depreciation on fixed asset additions and amortization of goodwill in
+connection with the Merger and other acquisitions.
+
+ Income from operations increased approximately $33.5 million, or
+135.0%, to approximately $58.4 million for the year ended December 31, 2001, as
+compared with $24.9 million for the same period in 2000. Our operating margin
+increased 6.3 percentage points to 16.5% for the year ended December 31, 2001,
+as compared to 10.2% for the same period in 2000. Excluding the $6.5 million
+charge to revenue in the 2000 period, income from operations increased $27.0
+million and operating margin increased 3.9 percentage points.
+
+ We recorded net interest expense of approximately $2.2 million for the
+year ended December 31, 2001, as compared with net interest expense of
+approximately $3.4 million for the same period in 2000. The decrease in interest
+expense in 2001 is primarily the result of a net reduction in the average
+balance outstanding under our line of credit.
+
+ Our effective income tax rate was approximately 45.9% and 48.8% for the
+years ended December 31, 2001 and 2000, respectively. The decrease in the tax
+rate for the year ended December 31, 2001 is primarily due to the reduction of
+non-deductible amounts associated with goodwill as a percentage of our pretax
+income.
+
+ Net income increased to approximately $30.4 million for the year ended
+December 31, 2001, as compared to $11.0 for the same period in 2000.
+
+ Diluted net income per common and common equivalent share was $1.36 on
+weighted average shares of 22.5 million for the year ended December 31, 2001, as
+compared to $.68 on the weighted average shares of 16.1 million for the year
+ended December 31, 2000. The significant increase in the weighted average shares
+outstanding is due to: (i) the shares issued in the Merger which were
+outstanding from May 15, 2001; (ii) the dilutive effect of convertible notes and
+stock options assumed in the Merger; and (iii) an increase in our stock price.
+
+YEAR ENDED DECEMBER 31, 2000 AS COMPARED TO YEAR ENDED DECEMBER 31, 1999
+
+ Our net patient service revenue increased $16.1 million, or 7.1%, to
+$243.1 million for the year ended December 31, 2000, as compared with $227.0
+million for the same period in 1999. Net patient service revenue for the year
+ended December 31, 2000 includes a charge of $6.5 million, which was recorded
+during the quarter ended June 30, 2000, to increase the allowance for
+contractual adjustments and uncollectible accounts. This charge is attributable
+to management's assessment of accounts receivable, which was revised to reflect
+the decline occurring in our collection rates. This decline in collection rates
+is the result of:
+
+ o an increased use of non-critical care codes on which we
+ realize a lower collection rate as a percentage of billed
+ charges. Since the billing inquiries began in the second
+ quarter of 1999, the physicians employed by us have been
+ billing for non-critical care services at a higher rate than
+ prior to these inquiries. Based upon the fee schedules
+ established by government-sponsored health care programs and
+ contracted rates with managed care organizations, we receive a
+ lower percentage of the fee charged for these services than
+ for critical care services.
+
+ o a significant decline in the reimbursement from non-contracted
+ payors. Approximately 30% of our Company's net patient service
+ revenue, exclusive of administrative fees, is derived from
+ payors
+
+ 28
+<PAGE>
+
+ that do not have a contractual relationship with us.
+ Historically, we have received a significant portion of our
+ billed charges as reimbursement from these payors, although in
+ late 1999 and throughout 2000 we realized a decline in our
+ collections as a percentage of charges billed to these
+ companies. This decline is primarily due to a reduction in the
+ payors' established "usual and customary" rates (rates set by
+ insurance companies as reimbursement for non-contracted
+ services) and the passage of legislation in some states that
+ limits our ability to collect from patients. While we appeal
+ the payor's usual and customary determination, we have seen
+ continued delays in settlement of receivables under appeal and
+ increased instances of the payor denying any additional
+ payment.
+
+ o continued difficulties in the health care reimbursement
+ environment, primarily with managed care payors.
+
+ o disruption within our collection offices due to the billing
+ inquiries and the transition to a regional collection
+ structure. During 2000 and the last half of 1999, the billing
+ and collection functions realized significant disruption as we
+ allocated resources within those departments to obtain
+ information requested in the billing inquiries. Additionally,
+ we transitioned our collection function into a regional
+ structure which included the movement of collection activities
+ for certain billings. This transition of collection
+ responsibility resulted in a certain level of disruption due
+ to the lack of continuity in the collection function.
+
+ Excluding the $6.5 million charge, net patient service revenue
+increased by $22.5 million, or 9.9%, for the year ended December 31, 2000. Of
+this $22.5 million increase, approximately $13.9 million, or 61.8%, was
+attributable to new units, including units at which we provide services as a
+result of acquisitions. Same unit patient service revenue increased
+approximately $8.6 million, or 3.8%, for the year ended December 31, 2000. Same
+units are those units at which we provided services for all of 2000 and 1999.
+While we realized growth in same unit revenue, the increase was at a lower rate
+than the growth in services provided during 2000. The lower rate of growth was
+the result of an increased use of non-critical care codes in 2000 as compared to
+1999, and a higher provision for contractual adjustments and uncollectible
+accounts.
+
+ Practice salaries and benefits increased $21.5 million, or 16.9%, to
+$148.5 million for the year ended December 31, 2000, as compared with $127.0
+million for the same period in 1999. The increase was primarily attributable to
+hiring new physicians and other clinical staff, to support new unit growth and
+volume growth at existing units.
+
+ Practice supplies and other operating expenses increased $1.7 million,
+or 18.0%, to $11.0 million for the year ended December 31, 2000, as compared
+with $9.3 million for the same period in 1999. The increase was primarily
+attributable to increased costs related to the addition of new outpatient
+offices.
+
+ General and administrative expenses increased $11.2 million, or 33.4%,
+to $44.9 million for the year ended December 31, 2000, as compared to $33.7
+million for the same period in 1999. Of this $11.2 million increase,
+approximately $9.0 million, or 80.4%, was attributable to an increase in: (i)
+salaries and benefits for billing and collections personnel as we continued our
+regionalization of our billing and collection functions; (ii) information
+services for the development and support of clinical and operational systems;
+(iii) additional rent expense related to our corporate and regional collection
+offices; (iv) increased legal fees related to government investigations; and (v)
+increased supply and other operating costs related to regional billing and
+collection offices.
+
+ Depreciation and amortization expense increased by approximately $1.7
+million, or 14.4%, to $13.8 million for the year ended December 31, 2000, as
+compared with $12.1 million for the same period in 1999, primarily as a result
+of depreciation on fixed asset additions and amortization of goodwill in
+connection with acquisitions.
+
+ 29
+<PAGE>
+
+ Income from operations decreased approximately $20.1 million, or 44.7%,
+to approximately $24.9 million for the year ended December 31, 2000, as compared
+with $45.0 million for the same period in 1999. Excluding the $6.5 million
+charge to revenue, income from operations declined $13.6 million.
+
+ Operating margin declined to 10.2% in 2000 from 19.8% in 1999. This
+decline was primarily due to: (i) lower net revenue for services provided due to
+an increased use of non-critical care codes and a higher provision for
+contractual adjustments and uncollectible accounts; (ii) a charge of $6.5
+million to increase the allowance for contractual adjustments and uncollectible
+accounts; and (iii) increased administrative costs as a result of our
+regionalization of billing and collection functions.
+
+ We recorded net interest expense of approximately $3.4 million for the
+year ended December 31, 2000, as compared with net interest expense of
+approximately $2.4 million for the same period in 1999. The increase in interest
+expense in 2000 is primarily the result of funds used for the acquisition of
+physician practices and the use of our line of credit for such purposes.
+
+ The effective income tax rate was approximately 48.8% and 41.2% for the
+years ended December 31, 2000 and 1999, respectively. The increase in the tax
+rate was due to the growth of non-deductible amounts associated with goodwill as
+a percentage of pretax income.
+
+ Net income decreased 56.1% to $11.0 million for the year ended December
+31, 2000, as compared to $25.0 million for the same period in 1999. Diluted net
+income per common and common equivalent share decreased to $.68 for the year
+ended December 31, 2000, compared to $1.58 for the year ended December 31, 1999.
+
+QUARTERLY RESULTS
+
+ The following table presents certain unaudited quarterly financial data
+for each of the quarters in the years ended December 31, 2000 and 2001. This
+information has been prepared on the same basis as the Consolidated Financial
+Statements appearing elsewhere in this Form 10-K and includes, in our opinion,
+all adjustments (consisting of only normal recurring adjustments) necessary to
+present fairly the quarterly results when read in conjunction with the
+Consolidated Financial Statements and the notes thereto. We have historically
+experienced and expect to continue to experience quarterly fluctuations in net
+patient service revenue and net income. These fluctuations are primarily due to
+the following factors:
+
+ o A significant number of employees, including physicians, at
+ Pediatrix exceed the level of taxable wages for social
+ security during the first and second quarter of the year. As a
+ result, we incur a significantly higher payroll tax burden
+ during those quarters.
+
+ o A lower number of calendar days are present in the first and
+ second quarters of the year as compared to the remainder of
+ the year. Since we provide services in the NICU on a 24 hour
+ basis, 365 days a year, any reduction in service days will
+ have a corresponding reduction in net patient service revenue.
+
+ 30
+<PAGE>
+ Additionally, the quarterly results may be impacted by the timing of
+acquisitions and any fluctuation in patient volume. As a result, the operating
+results for any quarter are not necessarily indicative of results for any future
+period or for the full year.
+
+<TABLE>
+<CAPTION>
+
+ 2000 Calendar Quarters 2001 Calendar Quarters
+ ------------------------------------------------ ------------------------------------------------
+ First Second Third Fourth First Second Third Fourth
+ --------- --------- --------- --------- --------- --------- --------- ---------
+ (in thousands, except for per share data)
+<S> <C> <C> <C> <C> <C> <C> <C> <C>
+Net patient service revenue $ 59,409 $ 55,178 $ 64,272 $ 64,216 $ 63,920 $ 83,137 $ 102,784 $ 104,754
+ --------- --------- --------- --------- --------- --------- --------- ---------
+Operating expenses:
+ Practice salaries and
+ benefits 36,659 37,073 37,795 36,949 38,249 46,424 55,899 57,010
+ Practice supplies and
+ other operating
+ expenses 2,230 2,689 2,915 3,188 2,897 3,564 3,898 3,937
+ General and
+ administrative expenses 10,135 11,153 11,712 11,895 12,191 15,577 16,896 18,177
+ Depreciation and
+ amortization 3,336 3,435 3,478 3,561 3,578 5,103 6,344 6,412
+ --------- --------- --------- --------- --------- --------- --------- ---------
+Total operating expenses 52,360 54,350 55,900 55,593 56,915 70,668 83,037 85,536
+ --------- --------- --------- --------- --------- --------- --------- ---------
+Income from operations 7,049 828 8,372 8,623 7,005 12,469 19,747 19,218
+Other expense, net (907) (941) (893) (672) (452) (715) (695) (367)
+ --------- --------- --------- --------- --------- --------- --------- ---------
+Income (loss) before income 6,142 (113) 7,479 7,951 6,553 11,754 19,052 18,851
+ taxes
+
+Income tax provision 2,764 178 3,650 3,881 2,949 5,397 8,733 8,703
+ --------- --------- --------- --------- --------- --------- --------- ---------
+Net income (loss) $ 3,378 $ (291) $ 3,829 $ 4,070 $ 3,604 $ 6,357 $ 10,319 $ 10,148
+
+Per share data:
+ Net income (loss)
+ per common and common
+ equivalent share:
+ Basic $ .22 $ (.02) $ .24 $ .26 $ .23 $ .32 $ .43 $ .41
+
+ Diluted $ .22 $ (.02) $ .24 $ .25 $ .22 $ .30 $ .40 $ .39
+
+</TABLE>
+
+ The net loss in the second quarter of 2000 was the result of a $6.5
+million dollar charge against net patient service revenue to increase the
+allowance for contractual adjustments and uncollectible accounts. The
+significant increase in net patient service revenue reflected in the second,
+third and fourth quarters of 2001 is primarily related to the Merger which was
+completed on May 15, 2001.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+ As of December 31, 2001, we had approximately $27.6 million of cash and
+cash equivalents on hand as compared to $3.1 million at December 31, 2000.
+Additionally, we had working capital of approximately $34.4 million at December
+31, 2001, an increase of $32.3 million from working capital of $2.1 million at
+December 31, 2000.
+
+ We generated cash flow from operating activities of $24.0 million,
+$36.1 million and $90.3 million for the years ended December 31, 1999, 2000 and
+2001, respectively. In 2000, we realized a significant increase in the cash
+provided from operating activities as compared to 1999. This increase was
+primarily due to a significant reduction in days' revenue outstanding in
+accounts receivable, primarily in the second half of 2000, and a significant
+decrease in income taxes paid due to a decline in pre-tax income. In 2001, we
+continued to realize a significant increase in cash provided from operating
+activities as compared to 2000. This increase was due to the continued reduction
+in days' revenue outstanding combined with the impact of the Merger on cash
+provided from operating activities.
+
+ During 2001, we completed the acquisition of six physician practices,
+using approximately $19.8 million in cash. These acquisitions were funded
+principally by cash generated from operations.
+
+ 31
+<PAGE>
+
+ In the third quarter of 2001, we refinanced our $75 million line of
+credit, which matured on September 30, 2001, with an amended and restated credit
+agreement (the "Line of Credit") in the amount of $100 million. At our option,
+the Line of Credit, which matures on August 14, 2004, bears interest at either
+the prime rate or the Eurodollar rate plus an applicable margin rate ranging
+from 2% to 2.75%. The Line of Credit is collateralized by substantially all of
+our assets. We are subject to certain covenants and restrictions specified in
+our Line of Credit, including covenants that require us to maintain a minimum
+level of net worth and earnings and a restriction on the payment of dividends
+and certain other distributions, as specified therein. At December 31, 2001, we
+are in compliance with such financial covenants. We had no outstanding balance
+under our Line of Credit at December 31, 2001, as compared to $23.5 million at
+December 31, 2000. The decrease is primarily due to the increase in cash
+provided from operations. At December 31, 2001, we had $100 million available
+under our Line of Credit.
+
+ We maintain professional liability coverage that indemnifies us and our
+health care professionals on a claims-made basis for losses incurred related to
+medical malpractice litigation with a portion of self insurance retention. We
+record a liability for self-insured deductibles and an estimated liability for
+malpractice claims incurred but not reported based on an actuarial valuation.
+Our current professional liability insurance policy expires May 1, 2002, and we
+are currently reviewing our coverage options, which will include a higher
+self-insured retention. We also maintain directors and officers insurance
+coverage that indemnifies us for losses incurred related to securities
+litigation and other litigation brought against management. Our current
+professional liability and directors and officers insurance coverage expires on
+November 30, 2002. There can be no assurance that we will be able to obtain
+substantially similar coverage for professional liability and directors and
+officers insurance upon expiration or that such coverage will be available at
+acceptable costs or on favorable terms.
+
+ The health care services industry is highly regulated. We believe that
+billing audits, inquiries and investigations by government agencies will
+continue to occur in the ordinary course of our business and in the health care
+services industry in general. In response to such billing audits, inquiries and
+investigations, our affiliated physicians could take an unduly conservative
+approach to coding for their services by, for example, increasing the use of
+non-critical care codes, for which our reimbursement is lower than critical care
+codes, as they may have in the past. If they were to do this, we could receive
+lower reimbursements from third party payors which could have a material adverse
+effect on our liquidity and capital resources.
+
+ We expect that our insurance coverage will adequately cover the
+financial terms of our recent settlement of the class action securities
+litigation filed against us and certain of our directors in the United States
+District Court for the Southern District of Florida and, therefore, that the
+settlement will not have a material adverse effect on our liquidity.
+
+ Our annual capital expenditures have typically been for computer
+hardware and software and for furniture, equipment and improvements at the
+corporate headquarters and our regional offices. During the year ended December
+31, 2001, capital expenditures amounted to approximately $7.1 million.
+
+ At December 31, 2001, the Company had certain obligations and
+commitments under promissory notes, capital leases and operating leases totaling
+approximately $32.8 million. Such amount consisted of approximately $3.2 million
+in obligations under promissory notes and capital lease obligations, and
+approximately $29.6 million in commitments under operating leases. Such
+obligations mature as follows: 2002 - $7.2 million; 2003-2004 - $17.2 million;
+2005-2006 - $7.7 million; and $0.7 million thereafter.
+
+ We anticipate that funds generated from operations, together with cash
+on hand, and funds available under our Line of Credit, will be sufficient to
+meet our working capital requirements, finance our required capital expenditures
+and meet our contractual obligations for at least the next 12 months.
+
+ACCOUNTING MATTERS
+
+ In June 2001, the Financial Accounting Standards Board (the "Board")
+issued Statements of Financial Accounting Standards No. 141 ("FAS 141"),
+"Business Combinations," and No. 142 ("FAS 142"),
+
+ 32
+<PAGE>
+
+"Goodwill and Other Intangible Assets." FAS 141 (i) requires that the purchase
+method of accounting be used for all business combinations initiated after June
+30, 2001; (ii) establishes specific criteria for the initial recognition and
+measurement of intangible assets separately from goodwill; and (iii) requires
+unallocated negative goodwill be written off immediately. FAS 142 supersedes APB
+17, INTANGIBLE ASSETS, and is effective for fiscal years beginning after
+December 15, 2001. FAS 142 primarily addresses the accounting for goodwill and
+intangible assets subsequent to their initial recognition. FAS 142 (i) prohibits
+the amortization of goodwill and indefinite-lived intangible assets, (ii)
+requires that goodwill and indefinite-lived intangible assets be tested annually
+for impairment (and in interim periods if certain events occur indicating that
+the carrying value of goodwill and/or indefinite-lived intangible assets may be
+impaired), (iii) requires that reporting units be identified for the purpose of
+assessing potential future impairments of goodwill, and (iv) removes the
+forty-year limitation on the amortization period of intangible assets that have
+finite lives. FAS 141 is effective for all business combinations initiated after
+June 30, 2001. FAS 142 is effective for fiscal years beginning after December
+15, 2001 with two exceptions: (i) goodwill and intangible assets acquired after
+June 30, 2001 are immediately subject to the nonamortization provisions of the
+Statement, and (ii) the provisions of the Statement are not applicable to mutual
+enterprises and not-for-profit organizations until further deliberation by the
+Board.
+
+ Effective July 1, 2001, we adopted the provisions of FAS 141 and the
+nonamortization provisions of FAS 142 pertaining to goodwill recorded in
+connection with acquisitions consummated subsequent to June 30, 2001. The
+adoption of the provisions of FAS 141 and the nonamortization provisions of FAS
+142 did not have a material impact on our results of operations for the year
+ended December 31, 2001.
+
+ We will fully adopt the provisions of FAS 142 in the first quarter of
+2002. We are in the process of determining what our reporting units are and what
+amounts of goodwill, other assets, and liabilities should be allocated to those
+reporting units. We will no longer record approximately $20.3 million of
+amortization expense relating to our existing goodwill for the year ended
+December 31, 2002.
+
+ FAS 142 requires that goodwill be tested annually for impairment using
+a two-step process. The first step is to identify a potential impairment and, in
+transition, this step must be completed within six months of adoption and
+measured as of the beginning of the fiscal year. We expect to complete the first
+step during the first quarter of 2002. The second step measures the amount of
+the impairment loss as of the beginning of the year of adoption, if any, and
+must be completed by the end of our fiscal year. Any impairment loss resulting
+from the transitional impairment tests will be reflected as the cumulative
+effect of a change in accounting principle in the first quarter of 2002. We have
+not yet determined what effect these impairment tests will have on our financial
+position and results of operations.
+
+ In October 2001, the Board issued Statement of Financial Accounting
+Standards No. 144 ("FAS 144"), "Accounting for the Impairment or Disposal of
+Long-Lived Assets." FAS 144 supersedes Financial Accounting Standards No. 121,
+"Accounting for the Impairment of Long-Lived Assets and for Long-Lived Assets to
+be Disposed of," and addresses (i) the recognition and measurement of the
+impairment of long-lived assets to be held and used and (ii) the measurement of
+long-lived assets to be disposed of by sale. FAS 144 is effective for fiscal
+years beginning after December 15, 2001. We are currently assessing the impact,
+if any, of the adoption of this statement on the Company's financial position
+and results of operations.

@@ -1,0 +1,582 @@
+Management's Discussion and
+Analysis of Financial Condition and Results of Operations and (c) Item 8.
+Financial Statements and Supplementary Data including, without limitation, the
+Environmental Matters Note. Important factors that could cause the actual
+results to differ materially from those in these forward-looking statements
+include, among other items, the Company's successful execution of internal
+performance plans; performance issues with key suppliers, subcontractors and
+business partners; the ability to negotiate financing arrangements with lenders;
+legal proceedings; changes in the need for additional machinery and equipment
+and/or in the cost for the expansion of the Corporation's operations; product
+demand and market acceptance risks; the effect of economic conditions; the
+impact of competitive products and pricing; product development,
+commercialization and technological difficulties; unanticipated environmental
+remediation expenses or claims; capacity and supply constraints or difficulties;
+an inability to perform customer contracts at anticipated cost levels; changing
+priorities or reductions in the U.S. government defense budget; contract
+continuation and future contract awards; U.S. international military budget
+constraints and determinations; and other factors that generally affect the
+business of companies operating in the Corporation's segments.
+
+Introduction
+------------
+ Pursuant to the Securities Exchange Act of 1934, the Registrant,
+Curtiss-Wright Corporation hereby files its Annual Report on Form 10-K for the
+fiscal year ended December 31, 2001. References in the text to the
+"Corporation," "Company," "Curtiss-Wright" or the "Registrant" include
+Curtiss-Wright Corporation and its consolidated subsidiaries unless the context
+indicates otherwise. References to the Company's "Annual Report" are to its 2001
+Annual Report to Stockholders, which is attached hereto as Exhibit 13.
+
+ Page 4
+
+<PAGE>
+
+ PART I
+
+Item 1. Business.
+-----------------
+
+General Business
+----------------
+
+ On October 26, 2001, the Corporation's shareholders approved a
+recapitalization plan, which enabled Unitrin Inc. ("Unitrin") to distribute its
+approximate 44% equity interest in Curtiss-Wright to its shareholders on a
+tax-free basis. In addition to approving the recapitalization plan, shareholders
+also approved the implementation of certain corporate governance changes to the
+Corporation's Restated Certificate of Incorporation and By-Laws.
+
+ Under the recapitalization plan, and in order to meet certain Internal
+Revenue Code requirements, Unitrin's approximately 4.4 million shares were
+exchanged for an equivalent number of shares of a new Class B Common Stock of
+Curtiss-Wright which are entitled to elect 80% of Curtiss-Wright's Board of
+Directors. After such exchange, Unitrin immediately distributed the Class B
+common shares to its approximately 8,000 registered stockholders in a tax-free
+distribution. The holders of the remaining outstanding common shares of
+Curtiss-Wright are entitled to elect up to 20% of the Board of Directors
+after the distribution. Other than the right to elect Directors, the two
+classes of stock vote as a single class (except as required by law) and are
+equal in all other respects. The new Class B Common Stock was listed on the
+New York Stock Exchange, effective November 29, 2001.
+
+ Under the terms of the recapitalization agreement reached between
+Unitrin and Curtiss-Wright, Unitrin agreed to reimburse the Corporation for
+certain costs associated with the recapitalization up to a maximum of $1.75
+million. This amount was received subsequent to the recapitalization.
+
+ On November 20, 2001, the Registrant's Board of Directors authorized
+the amendment of the Corporation's Shareholder Rights Plan (the "Right's Plan")
+to account for the newly created Class B Common Stock. The Right's Plan provides
+one preferred stock purchase right for each share of the Registrant's Class B
+Common Stock and Common Stock, entitling the registered holders to purchase from
+the Registrant one one-thousandth of a share of the respective Preferred Stock,
+par value $.01 per share of the Registrant at a price of $235 per one
+one-thousandth of a share of preferred stock, subject to adjustment. The
+description and terms of the Right's Plan are set forth in the Amended and
+Restated Rights Agreement which is filed as Exhibit 4 to the Registrant's Report
+on Form 8-K, filed with the Securities and Exchange Commission on November 20,
+2001.
+
+ Page 5
+
+<PAGE>
+
+Business Description
+--------------------
+ Curtiss-Wright Corporation was incorporated in 1929 under the laws of
+the State of Delaware. The Company reports its operations in three Segments:
+Motion Control, Metal Treatment, and Flow Control.
+
+Motion Control
+--------------
+ This segment of the corporation primarily designs, develops and manufactures
+mechanical systems, drive systems and electronic controls for the aerospace and
+defense industry. Aerospace products offered consist of electro-mechanical and
+hydro-mechanical actuation components and systems, which are designed to
+position aircraft control surfaces, or to operate canopies, cargo doors, weapons
+bay doors or other devices used on aircraft. Defense products consist mainly of
+ground defense aiming and stabilization systems, fire control subsystems and
+hydro-pneumatic suspension systems for armored fighting vehicles.
+
+ Aircraft applications include actuators and control systems for the Boeing
+737, 747, 757, 767 and 777 jet airliners, the Lockheed Martin F-16 Falcon
+fighter, the Boeing F/A-18 fighter, the F-22 Raptor fighter, jointly developed
+by Lockheed Martin and Boeing, the Bell Boeing V-22 Osprey, and the Sikorsky
+Black Hawk and Seahawk helicopters. Motion Control is also developing flight
+control actuators for the Engineering and Manufacturing Development (EMD) phase
+of Lockheed Martin's Joint Strike Fighter (JSF) program. The JSF is the next
+generation fighter aircraft being designed for use by all three branches of the
+U.S. military as well as several foreign governments. The U.S. Air Force's
+Unmanned Combat Air Vehicle (UCAV) weapons bay door system is another major
+development effort for the Corporation. The manufacturing of these applications
+is performed at the Shelby, North Carolina facility.
+
+ As a related service within this segment, Curtiss-Wright also provides
+commercial airlines, the military and general aviation customers with component
+overhaul and repair services. The services provided include the overhaul and
+repair of hydraulic, pneumatic, mechanical, electro-mechanical, and electronic
+components, aircraft parts sourcing, and component exchange services for a wide
+array of aircraft. The segment provides these services from facilities in
+Gastonia, North Carolina; Miami, Florida; Karup, Denmark; and a marketing and
+distribution facility in Singapore. The segment also sells a commercial rescue
+tool using its "Power Hinge"'TM' aerospace technology under the trademark Power
+Hawk'r'. Various accessories and related equipment are also offered for the
+Power Hawk'r'. The primary use for this tool is the extrication of automobile
+accident victims.
+
+ Motion Control markets its aerospace products using a direct sales force.
+These products are sold in competition with a number of other suppliers, most of
+which have broader product lines and greater financial, technical, and human
+resources. Competition is primarily on the basis of engineering capability,
+quality and price and is focused on offering solutions to perform control and
+actuation functions on a limited number of new production programs. This
+segment's overhaul and repair services are sold in competition with a number of
+other overhaul and repair providers. Competition in the overhaul and repair
+business is based upon quality, delivery and price. Marketing is accomplished
+
+ Page 6
+
+<PAGE>
+
+through independent sales representatives and by direct sales employees.
+
+ In 1999 and 2000, the Corporation consolidated its aerospace manufacturing
+and overhaul operations from its facility in Fairfield, New Jersey to its
+facilities in Shelby and Gastonia, North Carolina. In addition, the segment's
+engineering and development functions were relocated to a new facility in Pine
+Brook, New Jersey.
+
+ Defense products offered by the segment consist of electro-mechanical and
+electro-hydraulic actuation components and systems including electronic controls
+for the military tracked and wheeled vehicle, high-speed tilting train, and
+commercial marine propulsion markets. These products, which are designed and
+manufactured at the segment's facility in Neuhausen am Rheinfall, Switzerland,
+primarily consist of turret aiming and stabilization systems and suspension
+systems for armored military vehicles sold to defense equipment manufacturers,
+and tilting systems for high-speed train applications. The products are sold
+using a direct sales force to customers primarily in Western Europe, Southeast
+Asia and South Africa.
+
+ On November 1, 2001, the Company acquired Lau Defense Systems ("LDS") based
+in Littleton, Massachusetts and Vista Controls ("Vista") located in Santa
+Clarita, California. Collectively the acquired companies design, develop and
+manufacture mission-critical electronic control systems primarily for defense
+markets. Products include electronic components and subsystems used in fire
+control, aiming and stabilization, munitions loading and environmental
+processors for military ground vehicles. They provide electronic subsystems for
+the demanding combat platforms in existence today including the Bradley
+fighting vehicle, the Abrams M1A2/A3 tank, and the Brigade Combat Team Interim
+Armored Vehicle, which is in the U.S. Army's modernization and
+transformation efforts. They also provide the mission management and flight
+control computers used on the U.S. Air Force Global Hawk, a high-altitude and
+high endurance unmanned aerial vehicle. In February 2002, the Corporation signed
+a licensing agreement with Viisage Technology, Inc. ("Viisage"), a leader in
+facial-recognition technology and identification systems, to market and sell
+their facial-recognition solutions to all agencies associated with the U.S.
+Department of Defense. Viisage is a related party of the former owner of LDS
+and Vista.
+
+ LDS and Vista sell their products primarily to the prime contractors and
+subsystem suppliers, both directly and through a network of independent sales
+representatives. The addition of these companies provides a North American base
+of operations for our ground defense vehicle business, while offering
+opportunities to market and sell additional products to our existing aerospace
+customers.
+
+ Sales by this segment to the Boeing Company in 2001, 2000, and 1999 were
+$44.2 million, $41.6 million, and $42.9 million, respectively. The loss of the
+Boeing Company as a customer would have a material adverse effect on this
+segment. U.S. Government direct and end use sales of this segment in 2001, 2000,
+and 1999 were $35.8 million, $21.2 million, and $17.4 million, respectively. The
+loss of this business would also have a material adverse affect on this segment.
+
+ Page 7
+
+<PAGE>
+
+ The backlog of this segment as of January 31, 2002 was $165.2 million as
+compared with $123.2 million as of January 31, 2001. Of the January 31, 2002
+backlog, approximately 59% is expected to be shipped during 2002. None of the
+business of this segment is seasonal. Raw materials are generally available in
+adequate quantities from a number of suppliers.
+
+Metal Treatment
+---------------
+ This segment of Curtiss-Wright provides approximately 50 metal-treating
+services, with its principal services being "shot-peening" and "heat-treating."
+"Shot-peening" is the process by which the durability of metal parts are
+improved by the bombardment of the part's surface with spherical media such as
+steel shot, ceramic or glass beads to compress the outer layer of the metal.
+"Heat-treating" is a metallurgical process of subjecting metal objects to heat
+and/or cold, or otherwise treating the material to change the physical and/or
+chemical characteristics or properties of the material. These processes are used
+principally to improve the service life, strength and durability of metal parts.
+They are also used to form curvatures in metal panels, which are assembled as
+wingskins of commercial and military aircraft, and to manufacture reed valves
+used in compressors. The segment provides these services for a broad spectrum of
+customers in various industries, including aerospace, automotive, construction
+equipment, oil, petrochemical, metal working, and other industries. Through a
+combination of acquisitions and new plant openings, this segment continues to
+increase its network of regional facilities. Operations are now conducted from
+42 facilities located in the United States, Canada, England, France, Germany,
+and Belgium.
+
+ In addition to shot-peening and heat-treating, other products and services
+include shot-peen forming, lasershot peening, plating, reed valve manufacturing
+and engineering/testing and field services. In 2001, this segment expanded its
+reach with the opening of a shot-peening facility in Germany and the acquisition
+of heat-treating facilities in Kansas and New Jersey.
+
+ The services and products of this segment are marketed directly by
+employees of the segment. Although numerous companies compete with the segment
+in this field and many customers have the resources to perform such services
+themselves, Curtiss-Wright believes that its greater technical knowledge and
+quality of workmanship provide a competitive advantage. The segment competes on
+the basis of quality, service and price.
+
+ The backlog of this segment as of January 31, 2002 was $1.1 million, as
+compared with $1.2 million as of January 31, 2001. All of such backlog is
+expected to be shipped in the first quarter of 2002. The services of this
+segment are sold with very modest lead times and accordingly, the backlog of
+this segment is not indicative of future sales. The business of this segment is
+not seasonal. Raw materials are generally available in adequate quantities from
+a number of suppliers, and the segment is not materially dependent upon any
+single source of supply. BAE Airbus UK accounted for 13% of total sales in 2001,
+however no single customer accounted for 10% or more of total sales in 2000 and
+1999. The loss of this customer would have a material adverse effect on this
+segment. The active customer base numbers are in excess of 5,000.
+
+ Page 8
+
+<PAGE>
+
+Flow Control
+------------
+ This segment consists of six operating divisions that design, manufacture,
+distribute, and service a broad range of highly engineered flow control products
+for severe service military and commercial applications.
+
+ At its facility located in East Farmingdale, New York, this segment
+designs, manufactures, refurbishes and tests highly engineered valves of various
+types and sizes, such as motor operated and solenoid operated globe, gate,
+control and safety relief valves. These valves are used to control the flow of
+liquids and gases and to provide safety relief in high-pressure applications.
+This division also supplies actuators and controllers for its own valves as well
+as for valves manufactured by its competitors. The primary customers for these
+valves are the U.S. Navy, which uses them in nuclear propulsion systems, and
+owners and operators of commercial power utilities who use them in new and
+existing nuclear and fossil fuel power plants. All new nuclear plants are
+outside the U.S. and recent sales for such plants have been in Korea and Taiwan.
+Sales are made by responding directly to requests for proposals from customers.
+The production of valves for the U.S. Navy and for new power plants is
+characterized by long lead times from order placement to delivery.
+
+ Through its Enertech operation, the segment also designs, manufactures, and
+distributes additional flow control products for sale into global commercial
+nuclear power markets from its facility in Brea, California. Enertech's product
+lines include: snubbers, advanced valves, valve actuators, test and diagnostic
+equipment, as well as related diagnostic services. In addition, the segment
+provides training, on-site services, staff augmentation and engineering programs
+relating to nuclear power plants. The segment also provides hydraulic power
+units and components primarily for the automotive and entertainment industries.
+
+ Through its Farris Engineering ("Farris") operation, the segment is one of
+the world's leading manufacturers of spring-loaded and pilot operated
+pressure-relief valves for the processing industries. Farris' primary customers
+are refineries, petrochemical/chemical plants and pharmaceutical manufacturing
+facilities. Farris products are manufactured in Brecksville, Ohio and Brantford,
+Ontario.
+
+ Sprague Products ("Sprague"), also located in Brecksville, Ohio,
+manufactures and provides specialty hydraulic and pneumatic valves, air-driven
+pumps and gas boosters under the "Sprague" and "PowerStar" trade names. Sprague
+products are used generally in various industrial applications as well as in
+directional control valves for truck transmissions and car transport carriers.
+
+ In 2001, the segment further expanded its product lines and distribution
+base through the acquisitions of Solent & Pratt Engineering Ltd. ("S&P"),
+Peerless Instrument Co. ("Peerless") and Deltavalve USA, LLC ("Deltavalve").
+From its facility in Bridport, England, S&P manufactures high performance
+butterfly valves and is a global supplier to the petroleum, petrochemical,
+chemical and process industries. From its facility in Elmhurst, New York,
+Peerless designs, develops, manufactures, tests and services specialized
+instrumentation and control equipment primarily for the U.S. Nuclear
+
+ Page 9
+
+<PAGE>
+
+Naval program. Deltavalve designs, engineers, and manufactures metal-seated
+industrial valves used in standard and advanced applications including
+high-cycle, high-pressure, extreme temperature, and corrosive plant
+environments. Deltavalve is located in Salt Lake City, Utah with an
+assembly and testing facility in Calgary, Alberta, Canada.
+
+ Strong competition in flow control products and services is encountered
+from a large number of domestic and foreign sources. Competition occurs on the
+basis of price, technical expertise, delivery, contractual terms, previous
+installation history and reputation for quality. Delivery speed and the
+proximity of service centers are important with respect to after-market
+products. Sales to commercial users are accomplished through independent sales
+representatives and by direct sales employees.
+
+ The backlog of this segment as of January 31, 2002 was $81.4 million as
+compared with $52.6 million as of January 31, 2001. Of the January 31, 2002
+backlog, approximately 70% is expected to be shipped during 2002. Approximately
+49% of this segment's backlog is comprised of orders with the U.S. Navy through
+its prime contractor, the Plant Apparatus Division of Bechtel Plant Machinery,
+Inc., ("Bechtel") a unit of Bechtel Group, Inc. Sales by this segment to Bechtel
+accounted for 22% and 19% of total segment sales in 2001 and 2000, respectively.
+The loss of this customer would have a material adverse effect on the business
+of this segment. None of the business of this segment is seasonal. Raw materials
+are generally available in adequate quantities from a number of suppliers.
+
+Other Information
+-----------------
+
+Government Sales
+----------------
+ From 1999 to 2001, the Company's direct sales to the U.S. Government and
+sales for U.S. Government and foreign government end use aggregated
+approximately 20% of consolidated sales. U.S. Government sales, both direct and
+subcontract, are generally made under standard types of government contracts,
+including fixed price and fixed price-redeterminable.
+
+ In accordance with normal practice in the case of U.S. Government business,
+contracts and orders are subject to partial or complete termination at any time,
+at the option of the customer. In the event of a termination for convenience by
+the government, there generally are provisions for recovery by the Corporation
+of its allowable incurred costs and a proportionate share of the profit or fee
+on the work completed, consistent with regulations of the U.S. Government.
+Contracts for Navy nuclear valves usually provide that Curtiss-Wright absorb
+most of any cost overrun. In the event that there is a cost underrun, the
+customer recoups a portion of the underrun based upon a formula in which the
+customer's portion increases as the underrun exceeds certain established levels.
+
+ It is the policy of the Corporation to seek customary progress payments on
+certain of its contracts. Where such payments are obtained by the Corporation
+under U.S. Government prime contracts or subcontracts, they are secured by a
+
+ Page 10
+
+<PAGE>
+
+lien in favor of the government on the materials and work in process allocable
+or chargeable to the respective contracts. (See Notes 1.C, 6 and 7 to the
+Consolidated Financial Statements, on pages 30 and 35 of the Registrant's
+Annual Report, which notes are incorporated by reference in this Annual Report
+on Form 10-K.) In the case of most valve products for U.S. Government end use,
+the contracts typically provide for the retention by the customer of stipulated
+percentages of the contract price, pending completion of contract closeout
+conditions.
+
+Research and Development
+------------------------
+ Research and development expenditures incurred by the Corporation amounted
+to $4,383,000 in 2001 as compared with $3,443,000 in 2000 and $2,801,000 in
+1999. The Corporation owns and is licensed under a number of United States and
+foreign patents and patent applications, which have been obtained or filed over
+a period of years. Curtiss-Wright does not consider that the successful conduct
+of its business is materially dependent upon the protection of any one or more
+of the patents, patent applications or patent license agreements under which it
+now operates.
+
+Environmental Protection
+------------------------
+ The effect of compliance upon the Corporation with present legal
+requirements concerning protection of the environment is described in Notes 1.I
+and 13 to the Consolidated Financial Statements which appear on pages 31 and 39,
+respectively, of the Registrant's Annual Report and is incorporated by reference
+in this Annual Report on Form 10-K.
+
+Employees
+---------
+ At the end of 2001, the Corporation had 2,625 employees, 149 of which were
+represented by labor unions and are covered by collective bargaining agreements.
+
+Certain Financial Information
+-----------------------------
+ The industry segment information is described in Note 16 to the
+Consolidated Financial Statements, which appears on pages 41 to 43 of the
+Registrant's Annual Report, and is incorporated by reference in this Annual
+Report on Form 10-K. In 2001, 2000, and 1999, foreign operations of the
+Corporation generated 17.8%, 26.4%, and 25.6%, respectively, of the
+Corporation's pre-tax earnings. The Company does not regard the risks associated
+with these foreign operations to be materially greater than those applicable to
+its business in the U.S.
+
+ Page 11
+
+<PAGE>
+
+Item 2. Properties.
+-----------------------
+ The principal physical properties of the Corporation and its subsidiaries
+are described below:
+
+<TABLE>
+<CAPTION>
+ Owned/
+Location Description(1) Leased Principal Use
+---------------------------------------------------------------------------------
+<S> <C> <C> <C>
+East Farmingdale, 215,000 sq. ft. Owned(2) Flow Control
+New York on 11 acres
+
+Chester, Wales 175,666 sq. ft. Owned Metal Treatment
+United Kingdom
+
+Shelby, 145,440 sq. ft. Owned Motion Control
+North Carolina on 29 acres
+
+Bensalem, 89,100 sq. ft. Owned Metal Treatment
+Pennsylvannia on 4.18 acres
+
+Brampton, 86,650 sq. ft. Owned Metal Treatment
+Ontario, Canada on 8 acres
+
+Columbus, Ohio 74,500 sq. ft. Owned Metal Treatment
+ on 9 acres
+
+Brecksville, Ohio 68,000 sq. ft Owned Flow Control
+ on 5.56 acres
+
+Miami, Florida 65,000 sq. ft. Leased Motion Control
+ on 2.6 acres
+
+Fort Wayne, 62,589 sq. ft. Owned Metal Treatment
+Indiana on 3.2 acres
+
+Littleton, 61,000 sq. ft. within Leased Motion Control
+Massachusetts a business complex
+
+Elmhurst, 55,000 sq. ft. within Leased Flow Control
+New York a business complex
+
+Gastonia, 52,860 sq. ft. Owned Motion Control
+North Carolina on 7.5 acres
+
+Pine Brook, 45,000 sq. ft. within Leased Motion Control
+New Jersey a business complex
+</TABLE>
+
+ Page 12
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+ Owned/
+Location Description(1) Leased Principal Use
+---------------------------------------------------------------------------------
+<S> <C> <C> <C>
+Neuhausen am, 52,000 sq. ft. within Leased Motion Control
+Rheinfall, a business complex
+Switzerland
+
+Carlstadt, New 39,632 sq. ft. Leased Metal Treatment
+Jersey
+
+Romulus, Michigan 35,840 sq. ft. Leased Metal Treatment
+
+York, 32,396 sq. ft. Owned Metal Treatment
+Pennsylvania on 3.6 acres
+
+Derby, United 32,000 sq. ft. Owned Metal Treatment
+Kingdom
+
+Dallas, Texas 31,100 sq. ft. Owned Metal Treatment
+
+Brea, California 30,550 sq. ft. Leased Flow Control
+ on 1.76 acres
+
+Lafayette, Louisiana 30,000 sq. ft. Owned Metal Treatment
+
+Wichita, Kansas 30,000 sq. ft Leased Metal Treatment
+</TABLE>
+
+(1) Sizes are approximate. Unless otherwise indicated, all properties are owned
+in fee, are not subject to any major encumbrance and are occupied primarily by
+factory and/or warehouse operations.
+
+(2) The Suffolk County Industrial Development Agency, in connection with the
+issuance of an industrial revenue bond, holds title to approximately six acres
+of land and the building located thereon.
+
+ In addition to the properties listed above, the Corporation leases an
+aggregate of approximately 318,000 square feet of space at twenty-five different
+locations in the United States, England and Germany and owns buildings
+encompassing about 305,000 square feet in sixteen different locations in the
+United States, France, Germany, Belgium and England. None of these properties
+individually is material to the Company's business.
+
+ Page 13
+
+<PAGE>
+
+ The Corporation leases approximately 14,000 square feet of space in
+Lyndhurst, New Jersey, for its corporate office.
+
+ The buildings on the properties referred to in this Item are well
+maintained, in good condition, and are suitable and adequate for the uses
+presently being made of them.
+
+ The Registrant currently owns 450,000 square feet of space situated
+on 39.8 acres of property located in Fairfield, New Jersey (the "Fairfield
+Property"). The Fairfield Property is being held for sale and the Company
+continues to review third party proposals to purchase the Fairfield Property. On
+December 20, 2001 the Corporation sold its Wood-Ridge Business Complex for $51
+million, which is located in Wood-Ridge, New Jersey. The business complex
+comprised approximately 2.3 million square feet of rental space situated on 138
+acres of land. In January 2002, the Corporation sold 21 acres of land located in
+Hardwick Township, New Jersey. The Corporation also owns approximately 7.4 acres
+of land in Lyndhurst, New Jersey, which is leased, on a long-term basis, to the
+owner of the commercial building located on the land.
+
+Item 3. Legal Proceedings.
+--------------------------
+
+ In the ordinary course of business, the Corporation and its subsidiaries
+are subject to various pending claims, lawsuits and contingent liabilities. The
+Corporation does not believe that disposition of any of these matters will have
+a material adverse effect on the Corporation's consolidated financial position
+or results of operations.
+
+Item 4. Submission of Matters to a Vote of Security Holders.
+------------------------------------------------------------
+
+ Information required in connection with this item is set forth in Item 4 of
+the Registrant's Quarterly Report on Form 10-Q for the period ending September
+30, 2001, which information is incorporated herein by reference.
+
+ PART II
+
+Item 5. Market for the Registrant's Common Stock
+ And Related Stockholder Matters.
+------------------------------------------------
+
+ See the information contained in the Registrant's Annual Report on the
+inside back cover under the captions "Stock Price Range," "Dividends,"
+and "Stock Exchange Listing" which information is incorporated herein by
+reference. The approximate total number of record holders of the Common Stock,
+$1.00 par value, and the Class B Common Stock, $1.00 par value, of the
+Registrant was 9,789 as of March 5, 2002.
+
+ Page 14
+
+<PAGE>
+
+Item 6. Selected Financial Data.
+--------------------------------
+ See the information contained in the Registrant's Annual Report on page 19
+under the caption "Consolidated Selected Financial Data," which information is
+incorporated herein by reference.
+
+Item 7. Management's Discussion and Analysis of Financial
+ Condition and Results of Operations.
+---------------------------------------------------------
+ See the information contained in the Registrant's Annual Report on pages 20
+through 24, under the caption "Management's Discussion and Analysis of Financial
+Condition and Results of Operations," which information is incorporated herein
+by reference.

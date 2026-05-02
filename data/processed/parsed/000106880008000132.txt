@@ -1,0 +1,785 @@
+AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS
+
+The following table summarizes the increase (decrease) in major categories of
+revenues and expenses for the last two years (dollar amounts in thousands).
+
+<TABLE>
+<CAPTION>
+ 2007 vs. 2006 2006 vs. 2005
+
+ Amount Percentage Amount Percentage
+<S> <C> <C> <C> <C>
+Revenue:
+ Commissions $ 194,507 12 % $ 94,787 6 %
+ Asset fees 220,850 25 160,867 22
+ Account and activity fees 62,122 16 43,800 13
+ Principal transactions 117,571 44 28,154 12
+ Interest and dividends 55,750 22 43,873 21
+ Investment banking 2,218 7 (387) (1)
+ Other (23,906) (54) (49,789) (53)
+ ----------------- -----------------
+
+ Total revenue 629,112 18 321,305 10
+
+ Interest expense 24,385 43 750 1
+ ----------------- -----------------
+
+ Net revenue 604,727 18 320,555 10
+ ----------------- -----------------
+
+Operating Expenses:
+ Compensation and benefits 405,153 19 261,232 14
+ Communications and data
+ processing 27,695 10 9,836 4
+ Occupancy and equipment 27,512 10 13,493 5
+ Payroll and other taxes 18,446 15 9,411 8
+ Legal (39,613) (78) (63,229) (56)
+ Postage and shipping 6,305 12 352 1
+ Advertising 6,102 11 6,401 13
+ Floor brokerage and
+ clearance fees (914) (5) 4,091 29
+ Other operating expenses 36,488 27 18,287 15
+ ----------------- -----------------
+
+ Total operating expenses 487,174 16 259,874 9
+ ----------------- -----------------
+
+Income before allocations to
+ partners / net income $ 117,553 30 % $ 60,681 18 %
+ ================= =================
+
+-----------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+ 24
+
+<PAGE>
+<PAGE>
+
+ PART II
+
+Item 7. Management's Discussion and Analysis of Financial Condition and
+Results of Operations, continued
+
+BASIS OF PRESENTATION
+
+For internal analysis, the Partnership broadly categorizes its revenues as
+trade revenue (revenue from customer buy or sell transactions of securities)
+and net fee revenue (sources other than trade revenue including asset fees,
+account and activity fees and net interest income). In the Partnership's
+Consolidated Statements of Income, trade revenue is composed of commissions,
+principal transactions and investment banking. Net fee revenue is composed of
+asset fees, account and activity fees, interest and dividends, net of interest
+expense, and other revenues.
+
+RESULTS OF OPERATIONS (2007 VERSUS 2006)
+
+For 2007, net revenue increased 18% ($604.7 million) to $4.066 billion, while
+income before allocations to partners increased 30% ($117.6 million) to $508.2
+million. The Partnership's profit margin based on income before allocations to
+partners increased to 12.3% in 2007, from 11.1% in 2006. Year over year, the
+Partnership's net revenue increased due primarily to increased customer
+dollars invested, growth in customer asset values, higher account and activity
+fees, and higher net interest income. Operating expenses increased in 2007 due
+primarily to growth in sales compensation related to the increase in net
+revenues and to costs associated with the continued expansion and enhancement
+of the Partnership's branch office network. The Partnership added 914
+financial advisors during the twelve months ended December 31, 2007, ending
+the year with 11,202 financial advisors, an increase of 9% from 10,288 as of
+December 31, 2006.
+
+Trade revenue of $2.278 billion comprised 56% of net revenue for 2007, down
+from 57% for 2006. Conversely, net fee revenue comprised 44% for 2007, up from
+43% in 2006. Trade revenue of $2.278 billion, increased 16% ($314.3 million)
+in 2007 due primarily to an increase in customer dollars invested (the
+principal amount of customer's buy and sell transactions generating a
+commission). Total customer dollars invested were $109.6 billion during 2007,
+a 15% ($13.9 billion) increase from 2006. The Partnership's margin earned on
+each $1,000 invested increased to $20.40 in 2007 from $20.30 in 2006.
+
+Commissions revenue increased 12% ($194.5 million) during 2007 to $1.858
+billion. Commissions revenue increased year over year due primarily to a 14%
+($8.7 billion) increase in customer dollars invested to $71.0 billion in 2007,
+compared to $62.3 billion in 2006. Underlying the increase in commissions
+revenue, mutual fund commissions increased 13% ($148.0 million) and insurance
+commissions increased 17% ($40.1 million), which together represented 97% of
+the increase in commissions revenue. The following table summarizes
+commissions revenue year over year:
+
+<TABLE>
+<CAPTION>
+ Years ended (in millions)
+ -----------------------------------------------
+ December 31, December 31, %
+ 2007 2006 Change
+ ---------------------- ----------------------- ----------
+<C> <C> <C> <C>
+Mutual funds $ 1,257.9 $ 1,109.9 13
+Equities 327.3 320.8 2
+Insurance 272.4 232.3 17
+Corporate bonds 0.6 0.7 (14)
+ ---------------------- ----------------------- ----------
+ $ 1,858.2 $ 1,663.7 12
+ ====================== ======================= ==========
+</TABLE>
+
+Principal transactions revenue increased 44% ($117.6 million) to $384.6
+million during 2007 due primarily to an increase in customer dollars invested.
+Customers invested $37.4 billion in principal transactions in 2007 compared to
+$32.2 billion in 2006, an increase of 16% ($5.2 billion). The Partnership's
+margin earned on principal transactions on each $1,000 invested increased to
+$10.30 during
+
+ 25
+
+<PAGE>
+<PAGE>
+
+ PART II
+
+Item 7. Management's Discussion and Analysis of Financial Condition and
+Results of Operations, continued
+
+2007 from $8.30 during 2006 primarily due to a shift to higher margin, longer
+maturity fixed income products from lower margin, shorter maturity
+certificates of deposit. Revenue from corporate bonds increased 61% ($55.1
+million), municipal bonds increased 62% ($52.3 million), collateralized
+mortgage obligations increased 18% ($2.4 million), unit investment trust
+increased 13% ($1.9 million), certificates of deposit increased 10% ($3.9
+million) and government bonds increased 8% ($2.0 million). Increased revenue
+from corporate bonds and municipal bonds represent 91% of the increase in
+principal transactions revenue. The increase was due to strong supply and
+higher yield spreads for investment grade municipal and corporate bonds. The
+following table summarizes principal transaction revenue year over year:
+
+<TABLE>
+<CAPTION>
+ Years ended (in millions)
+ ----------------------------------------------
+ December 31, December 31, %
+ 2007 2006 Change
+ ---------------------- ----------------------- ----------
+<C> <C> <C> <C>
+Municipal bonds $ 137.0 $ 84.7 62
+Corporate bonds 146.0 90.9 61
+Government bonds 25.9 23.9 8
+Collateralized mortgage obligations 16.0 13.6 18
+Unit investment trusts 16.2 14.3 13
+Certificates of deposit and other 43.5 39.6 10
+ ---------------------- ----------------------- ----------
+ $ 384.6 $ 267.0 44
+ ====================== ======================= ==========
+</TABLE>
+
+Investment banking revenue increased 7% ($2.2 million) during 2007 to $34.7
+million, due primarily to an increase in municipal offerings in the current
+year.
+
+Net fee revenue, which is fee revenue net of interest expense, increased 19%
+($290.4 million) to $1.789 billion during 2007. Asset fees increased 25%
+($220.8 million) to $1.099 billion due to net new money flowing into mutual
+fund and insurance products coupled with the favorable impact of market
+conditions through the fall of 2007 on customers' mutual fund and insurance
+assets generating asset fees. Average customer mutual fund, insurance, and
+money market assets increased $65.4 billion or 24% to $341.0 billion in 2007
+compared to $275.6 billion in 2006.
+
+Account and activity fees of $441.0 million increased 16% ($62.1 million) year
+over year. Revenue received from sub-transfer agent services performed for
+mutual fund companies increased 9% ($21.0 million) to $248.8 million, due to a
+16% increase in the number of customer accounts for which the Partnership
+provides mutual fund sub-transfer agent services. Offsetting the increase in
+mutual fund sub-transfer agent fees was an $8.9 million (50%) decrease in fees
+received from sub-transfer agent services related to money market accounts due
+to a reduction in the number of money market accounts for which the
+Partnership provides sub-transfer agent services. Custodial fee revenue grew
+28% ($24.5 million) to $111.4 million, due to an 11% increase in the number of
+retirement accounts for which the Partnership is custodian. In addition, the
+annual fees charged on most retirement accounts was increased beginning
+January 2007. Other revenue of $20.3 million decreased 54% ($23.9 million)
+year over year primarily due to 2006 including $21 million in gains from three
+sources ($8.1 million from the sale of banking assets by the Partnership's
+banking subsidiary; $6.8 million from the exchange of the Partnership's NYSE
+membership for shares in Archipelago in connection with the NYSE's initial
+public offering; and $6.5 million from the sale of the Partnership's interest
+in the investment advisor to the Federated Capital Income Fund).
+
+Net interest and dividend income increased 16% ($31.4 million) to $228.8
+million during 2007 due primarily to an increase in overnight and short-term
+investing activities. Interest income increased 22% ($55.8 million) to $309.4
+million in 2007 due to investing increased liquidity from customer credit
+
+ 26
+
+<PAGE>
+<PAGE>
+
+ PART II
+
+Item 7. Management's Discussion and Analysis of Financial Condition and
+Results of Operations, continued
+
+balances and investing the proceeds from an offering of limited partnership
+interests, which closed on January 2, 2007. The average rate on the overnight
+investment balances was relatively unchanged at 4.987% in 2007 and 4.976% in
+2006, while the average investment balance increased 199% ($1.466 billion) to
+$2.202 billion due to increased customer credit balances and proceeds from an
+offering of Limited Partnership (LP) interests. Interest income from
+customer loans decreased 10% ($19.7 million). Average customer margin loan
+balances were $1.913 billion in 2007, compared to $2.160 billion in 2006, a
+decrease of 11%. The average rate earned on customer loan balances increased
+to approximately 8.94% during 2007 from approximately 8.84% during 2006.
+
+Operating expenses increased 16% ($487.2 million) to $3.558 billion during
+2007. Compensation and benefits costs increased 19% ($405.2 million) to $2.494
+billion. Within compensation and benefits costs, sales compensation increased
+19% ($214.3 million) due to increased revenues. Additionally, financial
+advisor salary and subsidy increased 46% ($40.1 million) due to new financial
+advisor compensation programs as well as increased numbers of financial
+advisors participating in those programs. Variable compensation, including
+bonuses and profit sharing paid to financial advisors, branch office
+assistants, and headquarters associates, which expands and contracts in
+relation to revenues, income before allocations to partners and the
+Partnership's related profit margin, increased 36% ($98.1 million).
+Headquarters and branch payroll expense increased 9% ($55.5 million) due to
+increased salary and medical costs for existing and additional personnel
+support as the Partnership grows its sales force. This was offset by a $29.3
+million decrease due to the elimination of a special bonus program for certain
+existing personnel in connection with the closing of the Partnership's LP
+offering. On a full time equivalent basis, the Partnership had 4,894
+headquarters associates and 11,319 branch staff associates as of December 31,
+2007, compared to 4,331 headquarters associates and 10,594 branch staff
+associates as of December 31, 2006.
+
+Occupancy and equipment expense increased 10% ($27.5 million) to $301.1
+million during 2007 due primarily to the growth in the number of branch
+offices as the Partnership expands the number of financial advisors.
+Communications and data processing expense increased 10% ($27.7 million) to
+$300.6 million during 2007 due to increased costs related to the expansion and
+enhancement of the Partnership's branch office network, including the
+Partnership's conversion to a terrestrial communications network for its
+branches from a satellite network. Other operating expenses increased 27%
+($36.5 million) to $174.1 million primarily due to increased travel and
+entertainment costs, professional and consulting expense and Managed Account
+Program ("MAP") money manager expense due to increased MAP assets and related
+revenues. Legal expenses decreased 78% ($39.6 million) to $11.1 million during
+2007 due to reduced legal expense accruals associated with legal matters and
+regulatory matters. (See Mutual Fund Matters below and Item 3 - Legal
+Proceedings for more information).
+
+RESULTS OF OPERATIONS (2006 VERSUS 2005)
+
+For 2006, net revenue increased 10% ($320.6 million) to $3.462 billion, while
+income before allocations to partners increased 18% ($60.7 million) to $390.7
+million. The Partnership's profit margin based on income before allocations to
+partners increased to 11.1% in 2006, from 10.3% in 2005. Year over year, the
+Partnership's net revenue and income before allocations to partners increased
+due primarily to growth in customer asset values, higher account and activity
+fees, and higher net interest income. Operating expenses increased in 2006 due
+primarily to growth in sales compensation related to the increase in net
+revenues. The Partnership added 555 (6%) financial advisors during the twelve
+months ended December 31, 2006, ending the year with 10,288 financial
+advisors.
+
+Trade revenue of $1.963 billion, which comprised 57% of net revenue, increased
+7% ($122.6 million) in 2006 due primarily to an increase in customer dollars
+invested (the principal amount of customers' buy
+
+ 27
+
+<PAGE>
+<PAGE>
+
+ PART II
+
+Item 7. Management's Discussion and Analysis of Financial Condition and
+Results of Operations, continued
+
+and sell transactions), partially offset by a lower gross margin earned on
+customer dollars invested compared to the prior year. Total customer dollars
+invested were $95.7 billion during 2006, a 14% ($12.0 billion) increase from
+2005. The Partnership's margin earned on each $1,000 invested decreased to
+$20.30 in 2006 from $21.80 in 2005. Year over year, customer dollars invested
+shifted to shorter term fixed income products reducing the margin earned on
+each $1,000 invested.
+
+Commissions revenue increased 6% ($94.8 million) during 2006 to $1.664
+billion. Commissions revenue increased year over year due primarily to a 7%
+($4.3 billion) increase in customer dollars invested to $62.3 billion in 2006.
+Underlying the increase in commissions revenue, mutual fund commissions
+increased 7% ($74.6 million), equity commissions decreased .4% ($1.2 million)
+and insurance commissions increased 10% ($21.4 million). The following table
+summarizes commissions revenue year over year:
+
+<TABLE>
+<CAPTION>
+ Years ended (in millions)
+ -----------------------------------------------
+ December 31, December 31, %
+ 2006 2005 Change
+ ---------------------- ----------------------- ----------
+<C> <C> <C> <C>
+Mutual funds $ 1,109.9 $ 1,035.3 7
+Equities 320.8 322.0 -
+Insurance 232.3 210.9 10
+Corporate bonds 0.7 0.7 -
+ ---------------------- ----------------------- ----------
+ $ 1,663.7 $ 1,568.9 6
+ ====================== ======================= ==========
+</TABLE>
+
+Principal transactions revenue increased 12% ($28.2 million) to $267.0 million
+during 2006 due primarily to an increase in customer dollars invested offset
+by a shift in customer dollars invested from higher margin, longer maturity
+fixed income products to lower margin, shorter maturity certificates of
+deposit. Customers invested $32.2 billion in principal transactions in 2006,
+an increase of 31% ($7.6 billion). The Partnership's margin earned on each
+$1,000 invested decreased to $8.30 during 2006 from $9.70 during 2005. Revenue
+from corporate bonds increased 69% ($37.2 million), certificates of deposit
+increased 15% ($5.1 million) and government bonds increased 12% ($2.6 million)
+while collateralized mortgage obligations decreased 48% ($12.5 million) and
+unit investment trusts decreased 38% ($8.7 million). The following table
+summarizes principal transaction revenue year over year:
+
+<TABLE>
+<CAPTION>
+ Years ended (in millions)
+ ----------------------------------------------
+ December 31, December 31, %
+ 2006 2005 Change
+ ---------------------- ----------------------- ----------
+<C> <C> <C> <C>
+Municipal bonds $ 84.7 $ 80.3 5
+Corporate bonds 90.9 53.7 69
+Government bonds 23.9 21.3 12
+Collateralized mortgage obligations 13.6 26.1 (48)
+Unit investment trusts 14.3 23.0 (38)
+Certificates of deposit and other 39.6 34.5 15
+ ---------------------- ----------------------- ----------
+ $ 267.0 $ 238.9 12
+ ====================== ======================= ==========
+</TABLE>
+
+Investment banking revenue decreased 1% ($.4 million) during 2006 to $32.5
+million, due primarily to a decrease in municipal offerings in the current
+year.
+
+Net fee revenue of $1.498 billion, comprising 43% of net revenue, increased
+15% ($198.0 million) during 2006. Asset fees increased 22% ($160.9 million) to
+$877.8 million due to net new money flowing into
+
+ 28
+
+<PAGE>
+<PAGE>
+
+ PART II
+
+Item 7. Management's Discussion and Analysis of Financial Condition and
+Results of Operations, continued
+
+these products coupled with the favorable impact of market conditions on
+customers' mutual fund and insurance assets generating asset fees. Average
+customer mutual fund and insurance assets increased $45.9 billion or 21% to
+$259.9 billion for 2006 compared to $214.0 billion for 2005.
+
+Account and activity fees of $378.9 million increased 13% ($43.8 million) year
+over year due to growth in customer accounts. Revenue received from mutual
+fund and money market sub-transfer agent services increased 15% ($30.3
+million) to $227.8 million, due primarily to a 15% increase in the number of
+customer accounts for which the Partnership provides mutual fund sub-transfer
+agent services. The number of retirement accounts for which the Partnership is
+custodian increased by 11%, resulting in custodial fee revenue growth of 10%
+($7.8 million) to $86.0 million. Other revenue of $44.2 million decreased 53%
+($49.8 million) year over year. The decrease between years is primarily
+attributable to a $70 million gain in 2005 that did not recur in 2006 compared
+to $21 million in gains in 2006 that did not occur in 2005. During 2006, other
+income includes $21 million in gains from three sources ($8.1 million from the
+sale of banking assets by the Partnership's banking subsidiary; $6.8 million
+from the exchange of the Partnership's NYSE membership for shares in
+Archipelago in connection with the NYSE's initial public offering; $6.5
+million from the sale of the Partnership's interest in the investment advisor
+to the Federated Capital Income Fund). The Partnership's results for 2005
+include a $70 million gain from the sale of a profit sharing interest in a
+mutual fund company.
+
+Net interest and dividend income increased 28% ($43.1 million) to $197.4
+million during 2006 due primarily to an increase in overnight investing
+activities and an increase in interest rates. Interest income from overnight
+investing activities increased 325% ($30.5 million) to $39.9 million. The
+average rate on these balances increased to 5.0% in 2006 from 3.2% in 2005,
+and the average investment balance increased 202% ($492.2 million) to $736.2
+million due to increased customer credit balances. Interest income from
+customer loans increased 9% ($15.9 million). Average customer margin loan
+balances were $2.160 billion in 2006, compared to $2.451 billion in 2005, a
+decrease of 12%. The average rate earned on customer loan balances increased
+to approximately 8.84% during 2006 from approximately 7.09% during 2005.
+
+Operating expenses increased 9% ($259.9 million) to $3.071 billion during
+2006. Compensation and benefits costs increased 14% ($261.2 million) to $2.088
+billion. Within compensation and benefits costs, sales compensation increased
+13% ($129.6 million) due to increased revenue and financial advisor salary and
+subsidy which increased 33% ($21.5 million) due to new financial advisor
+compensation programs. Variable compensation, including bonuses and profit
+sharing paid to financial advisors, branch office assistants, and headquarters
+associates, which expands and contracts in relation to revenues, income before
+allocations to partners and the Partnership's related profit margin, increased
+26% ($58.3 million). Headquarters and branch payroll expense increased 9%
+($52.2 million) due to increased salary and medical costs for existing
+personnel and additional support at both the headquarters and in the branches
+as the Partnership increased the number of financial advisors. On a full time
+equivalent basis, the Partnership had 4,331 headquarters associates and 10,594
+branch staff associates as of December 31, 2006, compared to 4,096
+headquarters associates and 10,103 branch staff associates as of December 31,
+2005.
+
+Occupancy and equipment expense increased 5% ($13.5 million) to $273.6 million
+during 2006 due primarily to the growth in the number of branch offices as the
+Partnership expands the number of financial advisors and the accrual in the
+second quarter of 2006 of $3.6 million of additional expense related to the
+planned sublease of excess space in the Canada headquarter building.
+Communications and data processing expense increased 4% ($9.8 million) to
+$272.9 million during 2006 due to increased costs related to the continued
+expansion and enhancement of the Partnership's branch office network,
+including the Partnership's conversion to a terrestrial communications network
+for its branches from a satellite network. Other operating expenses increased
+15% ($18.3 million) to $137.6 million primarily due to increased travel and
+entertainment costs and Managed Account Program ("MAP") money manager
+
+ 29
+
+<PAGE>
+<PAGE>
+
+ PART II
+
+Item 7. Management's Discussion and Analysis of Financial Condition and
+Results of Operations, continued
+
+expense due to increased MAP assets. Legal expenses decreased 56% ($63.2
+million) to $50.7 million during 2006 due to reduced costs associated with
+legal matters and regulatory settlements. (See Mutual Fund Matters below and
+Item 3 - Legal Proceedings for more information).
+
+MUTUAL FUND MATTERS
+
+There are regulatory proposals being considered that could significantly
+impact the disclosure and potentially the amount of compensation that
+broker-dealers derive from mutual funds and annuity products. The Partnership
+believes it is likely in the future that broker-dealers will be required to
+provide more disclosure to their clients with respect to payments received by
+them from the sales of these products. It is also possible that such payments
+may be restricted by law or regulation. For additional discussion, refer to
+"Item 1A-Risk Factors, Regulatory Initiatives" in this Form 10-K.
+
+The Partnership's percent of its total revenue from sales and services related
+to mutual fund and annuity products remained consistent at 65% for 2007 and
+2006. The Partnership derived 25% of its total revenue in 2007 and 30% of its
+total revenue in 2006 from one mutual fund vendor. Significant reductions in
+the revenues from these mutual fund sources could have a material impact on
+the Partnership's results of operations.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+The Partnership's capital subject to mandatory redemption excluding the
+reserve for anticipated withdrawals, at December 31, 2007, was $1,328.3
+million, compared to partnership capital, of $907.4 million at December 31,
+2006. The increase is primarily due to the retention of general partner
+earnings ($105.2 million) and the issuance of limited partner, subordinated
+limited partner and general partner interests ($293.6 million, $22.4 million
+and $8.0 million, respectively), offset by redemption of limited partner and
+subordinated limited partner interests ($7.4 million and $0.9 million,
+respectively). It has been the Partnership's practice to retain approximately
+28% of income allocated to general partners. For 2007, 2006 and 2005, the
+Partnership retained 27.6%, 29.5% and 23.6%, respectively, of income allocated
+to general partners.
+
+At December 31, 2007, the Partnership had $378.1 million in cash and cash
+equivalents and $1.6 billion in cash segregated under federal regulations.
+Lines of credit were in place at such date aggregating to $1.240 billion
+($1.140 billion of which is through uncommitted lines of credit) where actual
+borrowing availability is primarily based on securities owned and customers'
+margin securities which serve as collateral for the loans. No amounts were
+outstanding under these lines at December 31, 2007.
+
+The Partnership believes that the liquidity provided by existing cash
+balances, other highly liquid assets and borrowing arrangements will be
+sufficient to meet the Partnership's capital and liquidity requirements.
+Depending on conditions in the capital markets and other factors, the
+Partnership will, from time to time, consider the issuance of debt, the
+proceeds of which could be used to meet growth needs or for other purposes.
+
+The Partnership's growth has been financed through sales of limited
+partnership interests to its employees, retention of earnings, private
+placements of subordinated debt, long-term secured debt and operating leases
+under which the Partnership rents facilities.
+
+On January 2, 2007, $293.6 million of limited partner interests were issued to
+employees of the Partnership. The funds will be used for general Partnership
+purposes.
+
+ 30
+
+<PAGE>
+<PAGE>
+
+ PART II
+
+Item 7. Management's Discussion and Analysis of Financial Condition and
+Results of Operations, continued
+
+There were no significant changes in the Partnership's financial commitments
+and obligations for the year ended December 31, 2007, except for construction
+commitments related to the construction of the new office and garage
+facilities. For further disclosure regarding these construction commitments,
+see Note 15 of the Notes to the Financial Statements. In addition, the
+Partnership plans to finance approximately 75% of the office and garage
+facilities with loans secured by the facilities with the remaining 25%
+financed from the Partnership's existing capital resources. The Partnership
+has not yet obtained commitments for such financing.
+
+The following table summarizes the Partnership's financing commitments and
+obligations, as of December 31, 2007, excluding customer accounts due on
+demand. Subsequent to December 31, 2007, these commitments and obligations
+could fluctuate based on the changing business environment. The Interest on
+Financing Commitments is based upon the stated rates of the underlying
+instruments, which range from 4.31% to 8.23%. For further disclosure regarding
+long term debt and liabilities subordinated to claims of general creditors,
+see Notes 9 and 10, respectively, of the Notes to the Financial Statements.
+
+<TABLE>
+<CAPTION>
+ Payments Due by Period
+ ----------------------
+
+ 2008 2009 2010 2011 2012 Thereafter Total
+ ----------------------------------------------------------------------------------
+
+<S> <C> <C> <C> <C> <C> <C> <C>
+Long-term debt $ 1,742 $ 802 $ 863 $ 927 $ 997 $ 5,503 $ 10,834
+Liabilities subordinated to
+ claims of general creditors 14,200 3,700 53,700 53,700 50,000 100,000 275,300
+Rental commitments 109,053 37,629 25,722 18,215 14,208 92,270 297,097
+ ----------------------------------------------------------------------------------
+Financing commitments and
+ obligations 124,995 42,131 80,285 72,842 65,205 197,773 583,231
+
+Interest on financing commitments 21,042 19,825 17,644 13,626 9,603 8,297 90,037
+ ----------------------------------------------------------------------------------
+Total financing commitments
+ and obligations $ 146,037 $ 61,956 $ 97,929 $ 86,468 $ 74,808 $ 206,070 $ 673,268
+ ==================================================================================
+</TABLE>
+
+For the year ended December 31, 2007, cash and cash equivalents increased
+$66.1 million. Cash provided by operating activities was $265.9 million. The
+primary sources of cash from operating activities include income before
+allocations to partners adjusted for depreciation, an increase in net payable
+to customers, a decrease in securities owned and an increase in accrued
+compensation and employee benefits. These increases to cash and cash
+equivalents were partially offset primarily by increases in securities
+purchased under agreements to resell, net receivable from brokers, dealers and
+clearing organizations and segregated cash. Cash used in investing activities
+was $112.1 million consisting primarily of capital expenditures supporting the
+Partnership's operations and for construction of new office space. (See Item 2
+- Properties for more information). Cash used in financing activities was
+$87.6 million, consisting primarily of partnership withdrawals and
+distributions ($376.6 million), redemption of partnership interests ($8.3
+million) and repayment of subordinated debt ($23.2 million), offset by
+issuance of general partner, limited partner and subordinated limited partner
+interests ($324.0 million).
+
+For the year ended December 31, 2006, cash and cash equivalents increased
+$51.2 million. Cash provided by operating activities was $533.1 million. The
+primary sources of cash from operating activities include income before
+allocations to partners adjusted for depreciation, a decrease in net
+receivables from customers, a decrease in receivable from mortgages and loans
+and an increase in accrued compensation and employee benefits. These increases
+to cash and cash equivalents were partially offset by a decrease in payable to
+depositors and an increase in segregated cash. Cash used in investing
+activities was $84.2 million consisting primarily of capital expenditures
+supporting the Partnership's operations. Cash used in financing activities was
+$397.7 million, consisting primarily of partnership withdrawals and
+distributions ($314.4 million), redemption of partnership interests ($27.8
+million),
+
+ 31
+
+<PAGE>
+<PAGE>
+
+ PART II
+
+Item 7. Management's Discussion and Analysis of Financial Condition and
+Results of Operations, continued
+
+repayment of subordinated debt ($45.7 million) and repayment of Federal Home
+Loan Bank advances ($30.5 million), offset by issuance of general partner and
+subordinated limited partner interests ($38.5 million).
+
+As a result of its activities as a broker-dealer, Edward Jones, the
+Partnership's principal subsidiary, is subject to the Net Capital provisions
+of Rule 15c3-1 of the Securities Exchange Act of 1934 and the capital rules of
+the NYSE. Under the alternative method permitted by the rules, Edward Jones
+must maintain minimum Net Capital, as defined, equal to the greater of $0.250
+million or 2% of aggregate debit items arising from customer transactions. The
+Net Capital rule also provides that partnership capital may not be withdrawn
+if resulting Net Capital would be less than 5% of aggregate debit items.
+Additionally, certain withdrawals require the consent of the SEC to the extent
+they exceed defined levels, even though such withdrawals would not cause Net
+Capital to be less than 5% of aggregate debit items. At December 31, 2007,
+Edward Jones' Net Capital of $798.1 million was 42.9% of aggregate debit items
+and its Net Capital in excess of the minimum required was $761.0 million. Net
+Capital after anticipated withdrawals, which are scheduled subordinated debt
+principal payments through June 30, 2008, as a percentage of aggregate debit
+items was 42.9%. Net capital and the related capital percentages may fluctuate
+on a daily basis.
+
+CRITICAL ACCOUNTING POLICIES
+
+The Partnership's financial statements are prepared in accordance with
+accounting principles generally accepted in the United States of America,
+which may require judgment and involve estimation processes to determine its
+assets, liabilities, revenues and expenses which affect its results of
+operations.
+
+The Partnership believes that of its significant accounting policies, the
+following critical policies may involve a higher degree of judgment and
+complexity.
+
+Customers' transactions are recorded on a settlement date basis with the
+related revenue and expenses recorded on a trade date basis. The Partnership
+may be exposed to risk of loss in the event customers, other brokers and
+dealers, banks, depositories or clearing organizations are unable to fulfill
+contractual obligations. For transactions in which it extends credit to
+customers, the Partnership seeks to control the risks associated with these
+activities by requiring customers to maintain margin collateral in compliance
+with various regulatory and internal guidelines.
+
+Securities owned and sold, not yet purchased, including inventory securities
+and investment securities, are recorded at fair value which is determined by
+using quoted market or dealer prices.
+
+The following significant accounting policies require estimates that involve a
+higher degree of judgment and complexity.
+
+The Partnership provides for potential losses that may arise out of
+litigation, regulatory proceedings and other contingencies to the extent that
+such losses can be estimated, in accordance with SFAS No. 5, "Accounting for
+Contingencies." See Item 3 - Legal Proceedings, Item 7 - Management's
+Discussion and Analysis of Financial Condition and Results of Operations -
+Mutual Fund Matters and Note 16 to the consolidated financial statements for
+further discussion of these items. The Partnership regularly monitors its
+exposures for potential losses. The Partnership's total liability with respect
+to litigation represents the best estimate of probable losses after
+considering, among other factors, the progress of each case, the Partnership's
+experience and discussions with legal counsel.
+
+The Partnership's periodic evaluation of the estimated useful lives of
+equipment, property and improvements is based on the original life determined
+at the time of purchase and any events or changes
+
+ 32
+
+<PAGE>
+<PAGE>
+
+ PART II
+
+Item 7. Management's Discussion and Analysis of Financial Condition and
+Results of Operations, continued
+
+in circumstances that would result in a change in the useful life.
+
+Included in management's discussion and analysis of financial condition and
+results of operations, and in the quantitative and qualitative disclosures
+about market risk, and in the notes to the financial statements (See Note 1 to
+the consolidated financial statements), are additional discussions of the
+Partnership's accounting policies.
+
+THE EFFECTS OF INFLATION
+
+The Partnership's net assets are primarily monetary, consisting of cash,
+securities inventories and receivables less liabilities. Monetary net assets
+are primarily liquid in nature and would not be significantly affected by
+inflation. Inflation and future expectations of inflation influence securities
+prices, as well as activity levels in the securities markets. As a result,
+profitability and capital may be impacted by inflation and inflationary
+expectations. Additionally, inflation's impact on the Partnership's operating
+expenses may affect profitability to the extent that additional costs are not
+recoverable through increased prices of services offered by the Partnership.
+
+NEW ACCOUNTING STANDARDS
+
+On September 15, 2006, the Financial Accounting Standards Board ("FASB")
+issued SFAS No. 157, "Fair Value Measurements" ("SFAS 157"). SFAS 157 defines
+fair value, establishes a framework for measuring fair value under GAAP, and
+enhances disclosures about fair value measurements. SFAS 157 retains the
+exchange price notion and clarifies that the exchange price is the price that
+would be received for an asset or paid to transfer a liability (an exit price)
+in an orderly transaction between market participants on the measurement date.
+SFAS 157 is effective for the Partnership's financial statements for the year
+beginning on January 1, 2008, with earlier adoption permitted. The Partnership
+will adopt SFAS 157 for the fiscal year beginning January 1, 2008. The
+Partnership has completed an assessment of the implications of SFAS 157 and
+has concluded that it will not have a material impact on its consolidated
+financial condition, results of operations, or cash flows.
+
+In February 2007, the Financial Accounting Standards Board ("FASB") issued
+SFAS No. 159, "The Fair Value Option for Financial Assets and Liabilities,
+including an amendment of FASB Statement No. 115" ("SFAS No. 159"). SFAS No.
+159 permits entities to choose, at specified election dates, to measure many
+financial instruments and certain other items at fair value that are not
+currently required to be measured at fair value. Unrealized gains and losses
+must be reported on items for which the fair value option has been elected in
+earnings at each subsequent reporting date. SFAS No. 159 is effective for
+fiscal years beginning after November 15, 2007. The Partnership has elected
+not to measure at fair value financial instruments not otherwise required to
+be measured at fair value.
+
+FORWARD-LOOKING STATEMENTS
+
+This report on Form 10-K, and in particular Management's Discussion and
+Analysis of Financial Condition and Results of Operations, contains
+forward-looking statements within the meaning of the federal securities laws.
+You can identify forward-looking statements by the use of the words "believe,"
+"expect," "anticipate," "intend," "estimate," "project," "will," "should," and
+other expressions which predict or indicate future events and trends and which
+do not relate to historical matters. You should not rely on forward-looking
+statements, because they involve known and unknown risks, uncertainties and
+other factors, some of which are beyond the control of the Partnership. These
+risks, uncertainties and other factors may cause the actual results,
+performance or achievements of the Partnership to be materially different from
+the anticipated future results, performance or achievements expressed or
+implied by the forward-looking statements.
+
+ 33
+
+<PAGE>
+<PAGE>
+
+ PART II
+
+Item 7. Management's Discussion and Analysis of Financial Condition and
+Results of Operations, continued
+
+Some of the factors that might cause differences include, but are not limited
+to, the following: (1) regulatory actions; (2) litigation, including that
+involving mutual fund matters; (3) changes in legislation; (4) actions of
+competitors; (5) changes in technology; (6) a fluctuation or decline in the
+market value of securities; (7) rising interest rates; (8) securities theft;
+(9) the ability of customers, other broker-dealers, banks, depositories and
+clearing organizations to fulfill contractual obligations; and (10) general
+economic conditions. These forward-looking statements were based on
+information, plans, and estimates at the date of this report, and we do not
+undertake to update any forward-looking statements to reflect changes in
+underlying assumptions or factors, new information, future events or other
+changes.
+
+ 34
+
+<PAGE>
+<PAGE>
+
+ PART II

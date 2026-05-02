@@ -1,0 +1,604 @@
+AND ANALYSIS OF CONSOLIDATED RESULTS OF
+ OPERATIONS AND FINANCIAL CONDITION (IN THOUSANDS, EXCEPT PER SHARE
+ DATA).
+
+ Introduction
+
+ This discussion summarizes the significant factors affecting the results of
+operations and financial condition of the Company during the years ended
+December 31, 2000, 1999 and 1998. This discussion is provided to increase the
+understanding of, and should be read in conjunction with, the audited
+consolidated financial statements, accompanying notes and tables included in
+this annual report.
+
+ Forward Looking and Cautionary Statements and Factors That May Affect Future
+Results
+
+ The SEC encourages companies to disclose forward-looking information so
+that investors can better understand a company's future prospects and make
+informed investment decisions. Except for the historical information and
+discussions contained herein, statements contained in this Form 10-K may
+constitute "forward looking statements" within the meaning of the Private
+Securities Litigation Reform Act of 1995. The Company has attempted, wherever
+possible, to identify such statements by using words such as "anticipate,"
+"believes," "expects" and words and terms of similar substance in connection
+with any discussion of future operating or financial performance. These
+statements involve a number of risks, uncertainties and other factors that may
+cause actual results to differ materially, including; the Company's ability to
+continue to develop and market new innovative products and services and to keep
+pace with technological change; failure to continue to develop and market a new
+electronic trading system; failure to obtain or protect intellectual property
+rights; competitive pressures; financial condition or results of operations;
+quarterly fluctuations in revenues and volatility of commodity prices; changes
+in financial or business conditions; ability to attract and retain key
+personnel; ability to successfully manage acquisitions and alliances; and legal
+and economic changes and other risks, uncertainties and factors discussed
+elsewhere in this Form 10-K, in the Company's other filings with the SEC, or in
+materials incorporated therein by reference.
+
+ 19
+<PAGE> 21
+
+FOR THE YEARS ENDED DECEMBER 31, 2000 AND DECEMBER 31, 1999
+
+ Results of Operations
+
+ The Company reported a net loss of $2,781, which was a loss of $3,408 per
+share, a decrease of $14,971 compared to the prior year. This decrease was
+primarily the result of the following factors:
+
+ - a decrease in realized rates on cleared contracts on the NYMEX Division;
+
+ - a significant decrease in trading volume on the COMEX Division,
+ particularly in the gold contract. Overall trading volume decreased by
+ 25% for this division when compared with the previous year;
+
+ - costs associated with professional services rendered in connection with
+ the demutualization plan, the new NYMEX ACCESS(R) system, and the
+ development of an e-commerce business;
+
+ - payroll costs associated with the special compensation awarded to the
+ heirs of the Company's late president, and the Company's implementation
+ of the reduction-in-workforce program.
+
+ The following discussion provides additional information about the
+components of the Company's operating results for the year ended 2000:
+
+ Revenues
+
+ Total operating revenues were $130,869 during 2000, down $13,566, or 9%,
+from the same period in 1999.
+
+ Clearing and transaction fees represent the core business of the Exchange
+and are directly affected by volume. Changes in volume are affected by various
+external factors such as:
+
+ - shifts in supply and demand of the underlying commodities;
+
+ - market perception of price volatility in the commodities and financial
+ markets;
+
+ - weather conditions affecting certain energy commodities;
+
+ - national and international economic and political conditions.
+
+ During 2000, clearing and transaction fees, net of member fee rebates, were
+$92,500 compared to $105,206 earned during the previous year. This 12% decrease
+was the result of the following two conditions: a lower average rate realized
+per contract cleared on the NYMEX Division as more trades were billed at the
+lower member rate, and a substantial decline in trading volume on the COMEX
+Division. Member fee rebates, which apply only to NYMEX Division members,
+amounted to $13,727 and $13,065 for the years ended December 31, 2000 and 1999,
+respectively. In December 2000 the Company's board of directors approved a 50%
+reduction in the rebate rate for the first half of 2001. As a result, these fee
+rebates are expected to decrease during the next year.
+
+ The NYMEX Division's clearing and transaction fees, net of member fee
+rebates, were $73,609 in 2000, a 7% decrease over the previous year.
+
+ Overall trading activity at the Exchange continued at near record levels
+last year. For the period 1995 through 2000, overall options and futures volume
+has risen at a compound rate of 7.5% a year for the combined COMEX and NYMEX
+Divisions, although it was down 5% overall from 1999's record level. This small
+decrease, however, masks highly divergent trends within the Exchange's metals
+and energy complex.
+
+Energy Markets
+
+ In the energy markets, competitive pressures from new trading platforms and
+industry consolidation left overall futures and options volume flat compared to
+the prior record year. Crude oil, the Exchange's single most heavily traded
+contract, traded about 37 million futures contracts, down about 3% from 1999.
+Still, this represents 9.3% compound annual growth since 1995. Increased
+volatility and uncertainty has maintained that contract as the single most
+heavily traded physical commodity futures contract in the world. Crude Oil
+Option volume fell 9% from 1999. The years 1999 and 2000 were characterized by
+rising crude oil prices. The relative
+
+ 20
+<PAGE> 22
+
+scarcity in energy supplies increased volatility and uncertainty in the oil
+industry. The annualized daily volatility of the month closest to delivery crude
+oil contract increased to 45% last year compared to 1999's 35% and 1998's 32%.
+In addition, uncertainty can be measured by the term structure of the crude oil
+futures market. On average the difference between the first and second month
+contract prices in crude oil was $0.83 in 2000. This compares with the average
+difference in the previous four years of only $0.13. The growth rates over the
+past five years can be mostly attributed to the increased hedging needs of the
+industry.
+
+ Growth in volume during 2000 may have been dampened by consolidation within
+the energy industry. Mergers among major oil companies may have lessened their
+need to hedge outside the company. Moreover, the increased presence of
+alternative crude oil derivatives trading platforms may also have contributed to
+the limited growth.
+
+ While down nearly 7% since 1999, Natural Gas futures volume has risen at a
+17.2% compound annual rate since 1995. Natural Gas options have experienced even
+greater growth. Since 1995, volume has grown at a compound annual rate of 42.1%,
+including 39% over 1999. Extraordinary volatility and sharply higher prices in
+the latter part of 2000 accounted for most of the decline in 2000's futures
+contract trading. The average nominal value of the front month Natural Gas
+Contract in 2000 was $43,000 compared to the average from 1996 to 1999 of
+$23,100. The near doubling in contract value, along with the related rise in
+performance bond requirements, necessitated a substantial increase in the
+capital requirements needed to hedge physical natural gas production and
+consumption. The capital required to trade Natural Gas can also be measured by
+the rise in uncertainty. The annualized volatility of the daily changes in the
+front month contract was 75.5% in 2000. This compares to 48.9% in 1999 and the
+average of 59.1% since 1996. The wide daily swings in contract value during
+November and December led trading interests to curtail somewhat their futures
+trading activity due to the higher potential for losses. The average difference
+between the first and second month contracts was $0.011. This compares to an
+average of $0.006 in 1999. The higher this number, the greater the perception of
+supply shortage. This perception induced a great deal of the volatility in the
+market. This increased volatility has perhaps in turn led to a significant shift
+from futures trading to more options trading because of an option's limited loss
+potential.
+
+ The Heating Oil market was also characterized by highly volatile markets in
+2000. As a result the Exchange saw trading activity increase, particularly in
+its options markets. Futures trading was up 4.6% last year. Over the five year
+period since 1996, futures trading has grown on average 3.1% per year. Options
+trading increased by nearly 100% from 1999 and at a rate of 14.5% on average
+from 1996. Stimulating trading activity was the sharp increase in the price
+differential between Heating Oil and Crude Oil based on the front month
+settlement prices. In 2000, this differential averaged $5.11, sharply higher
+than the $1.44 average for 1999 and the $3.00 average of the past five years.
+The widening of this spread attracted more hedging activity into the market.
+
+ Growth in Unleaded Gasoline activity has also shifted from futures to
+options. In 2000, futures volume was unchanged from 1999, while options volume
+grew 68%. Since 1995, options volume has grown at a compound rate of 5.7% per
+year, compared to futures growth of 4.1% over the same period. As with the other
+energy commodities, Unleaded Gasoline experienced higher volatility in 2000. The
+front month contract had an annualized standard deviation of nearly 40% in 2000
+compared to only 35% in 1999 and a recent low of 27% in 1997. Like Heating Oil,
+hedging activity was stimulated by the widening spread with Crude Oil. In 2000,
+the average differential was $7.40. This compares to $4.35 in 1999 and an
+average of $5.30 since 1995.
+
+Metals Markets
+
+ The COMEX Division's clearing and transaction fees were $18,891 during
+2000, down 25% from the previous year. The overall trading volume for this
+division experienced its weakest trading in eight years, and its third weakest
+annual volume since 1985. Volume on this division decreased by 25% in 2000 when
+compared with the previous year.
+
+ In the metals markets, trading volume fell from the year earlier period
+primarily due to the drop-off in volatility in the underlying commodity markets.
+In the gold market, prices, as well as the volatility of prices, drifted lower.
+The annualized standard deviation of the first active month in Gold fell to
+16.2% in 2000 from
+ 21
+<PAGE> 23
+
+17.6% in 1999. There was a sharp drop-off in trading activity. Futures volume
+fell 26% while options volume fell 51%. In the silver market, futures volume
+fell about 25% while options trading was off 20%. Correspondingly, volatility as
+measured by the first active month contract fell to 16% last year from 23% the
+previous year. Under these market conditions, some producers have decided they
+would no longer hedge all of their output. In the copper market, a trendless
+market, combined with low volatility contributed to the decline in volume. The
+first active month experienced a standard deviation of price returns of only 18%
+in 2000, as the market hovered in the mid $.80 range. This is substantially less
+than the 25% volatility recorded in 1999. Accordingly, futures volume fell by 3%
+while options volume was down approximately 60%. While annualized volatility
+rose for the palladium and platinum markets, persistent fears of delivery
+problems kept volume low. Platinum and palladium futures volume fell 68% and 23%
+respectively.
+
+ Market data fees, which represent 26% of the Company's total operating
+revenues for the 2000 year, decreased by 3% due primarily to additional
+allowances for amounts determined to be potentially uncollectible as a result of
+the voluntary bankruptcy filing of a major market data vendor.
+
+ Other income increased by 5% during 2000 when compared to 1999 and was
+primarily the result of the additional rental income received from new tenants.
+
+ Operating Expenses
+
+ Total operating expenses were $138,427 during the fiscal year 2000, up 16%
+from the previous year. A significant portion of the $18,864 increase from the
+previous year reflected the Company's considerable expenditures for e-commerce
+initiatives, costs associated with the demutualization transaction, special
+compensation awarded to the heirs of the Company's late president, and the
+implementation of the Reduction-In-Workforce plan.
+
+ Salaries and employee benefits, which constituted 35% of total operating
+expenses for 2000, rose 6% from the previous year. This increase is the result
+of the following:
+
+ - a $1.8 million special compensation award to the heirs of the Company's
+ late president R. Patrick Thompson, to be paid out over a three-year
+ period. During his tenure as president of the Exchange, Mr. Thompson
+ helped to transform the Exchange into a recognized global leader in the
+ commodities markets. He was instrumental in the successful launch of the
+ Natural Gas futures contract in 1990, one of the largest energy contracts
+ presently traded. The Exchange had become the sixth largest futures
+ exchange in the world at the time of his death.
+
+ - a Reduction-In-Workforce program resulting in the elimination of 10% of
+ the Company's staff. These employees were notified and terminated by the
+ end of the year. These staff reductions encompassed various professional
+ and clerical positions throughout the Company. The total cost of this
+ program was $1.9 million, of which $1.8 million was for severance
+ payments to affected employees and were made by December 31, 2000. The
+ remaining $100,000 of the program's cost represents benefit payments to
+ be made on the affected employee's behalf through the rest of 2001. This
+ $100,000 is reflected in accrued salaries and related liabilities on the
+ Consolidated Balance Sheet as of December 31, 2000. This program is
+ expected to save approximately $3.6 million annually in salaries and
+ related payroll taxes and benefits.
+
+ Professional services, exclusive of demutualization, increased by $7,201,
+or 86%, during 2000 when compared with the previous year. Consulting services
+related to the post-implementation phase of the new NYMEX ACCESS(R) system as
+well as professional services in connection with the Company's e-commerce
+initiatives substantially contributed to this increase in 2000.
+
+ General and administrative expenses increased by $1,051, or 8%, during 2000
+when compared with the previous year. The primary reasons for the increase were
+litigation and impaired investment allowances incurred during the year. A 10%
+increase in software licensing and maintenance fees due to new acquisitions of
+software also contributed to this increase.
+
+ 22
+<PAGE> 24
+
+ Telecommunications, equipment rentals and maintenance decreased by $965, or
+6%, during 2000 when compared to the previous year. In 1999, significant costs
+were incurred due to the fact that prior to its November 1999 launch, the
+updated version of NYMEX ACCESS(R) was being tested at the same time that the
+previous version was operational. After its launch, the previous version of
+NYMEX ACCESS(R) was maintained as a backup capacity through the end of 1999.
+
+ Rent and facility expenses increased by $2,859, or 22%, during 2000 when
+compared to the previous year. A significant increase in real estate taxes due
+to reduced abatements was the primary reason for this increase. Light, heat, and
+power costs also rose, increasing 42% during 2000 as a result of rising rates
+charged for electricity.
+
+ Depreciation and amortization of property and equipment, net of deferred
+credit amortization, increased by $2,896, or 26%, during 2000 when compared to
+the previous year. This increase is primarily the result of amortization expense
+on internally developed software costs. These costs were incurred on software
+development projects that were placed into service during the 4th quarter of
+1999 and, therefore, no amortization expense was incurred on these projects
+prior to the last quarter of 1999.
+
+ Demutualization fees incurred during 2000 totaled $4,281, or 3% of the
+total operating expenses. These fees consisted of accounting, investment
+banking, legal, printing and SEC filing fees incurred during the for-profit
+conversion, or demutualization, of the Company.
+
+ Losses from the disposition of property and equipment were $857 during 2000
+and consisted primarily of computer equipment taken out of service during the
+year as the Exchange continued to update its technology on the trading floor as
+well as in the back office support areas.
+
+ Other Income
+
+ Investment income, net of investment advisory fees, increased by $5,413, or
+137%, during 2000 when compared with the previous year. Unrealized gains on its
+fixed income portfolio represented more than half of this increase. The Company
+primarily held investments in municipal bonds at the end of the 2000 year. The
+high demand for municipal bonds during the fourth quarter caused yields to fall
+and market values to increase. Interest income from the Company's investments
+accounted for $2.5 million of the increase.
+
+FOR THE YEARS ENDED DECEMBER 31, 1999 AND DECEMBER 31, 1998
+
+ The Company reported net income of $12,190, which represented earnings of
+$14,939 per NYMEX Division membership, an increase of $6,112 compared to the
+prior year. This increase was primarily the result of the following factors:
+
+ - a substantial increase in trading volume on the NYMEX Division,
+ predominantly in the crude oil and natural gas contracts. Overall trading
+ volume increased by 17% for this division when compared with the previous
+ year.
+
+ - a significant increase in trading volume on the COMEX Division,
+ particularly in the gold and copper contracts. Overall trading volume
+ increased by 10% for this division when compared with the previous year.
+
+ - a considerable decline in investment income from the Company's fixed
+ income portfolio during 1999 when compared with the previous year.
+
+ The following discussion provides additional information about the
+components of the Company's operating results for the year ended 1999:
+
+ Revenues
+
+ Total 1999 operating revenues were $144,435, up $13,852, or 11%, from the
+same period in 1998. During 1999, clearing and transaction fees, net of member
+fee rebates, were $105,206 compared to $90,764 earned during the previous year.
+This 16% increase was the result of the substantial increases in trading volume
+on
+
+ 23
+<PAGE> 25
+
+both the NYMEX and COMEX Divisions. Member fee rebates, which apply only to
+NYMEX Division members, amounted to $13,065 and $11,272 for the years ended
+December 31, 1999 and 1998, respectively.
+
+ The NYMEX Division's clearing and transaction fees, net of member fee
+rebates, were $79,867 in 1999, an 18% increase over the previous year. The
+overall trading volume for the NYMEX Division experienced a significant increase
+when compared with the same period a year ago.
+
+ - Crude oil futures and options commodity trading volume increased 21% in
+ 1999 compared with the previous year, primarily due to several OPEC cuts
+ in oil production, which lowered world oil inventory supplies.
+
+ - Natural gas futures and options, the NYMEX Division's second largest
+ contract traded, experienced a 21% increase in trading volume during 1999
+ when compared with the previous year. Higher demand for this commodity
+ during 1999 due to warmer weather conditions than the previous year was
+ the prime reason for this increase.
+
+ - Unleaded gasoline futures and options commodity trading volume moderately
+ increased by 7% during 1999 when compared with the previous year. The
+ price of the underlying unleaded gasoline commodity increased, which led
+ to higher options on futures contracts trading during 1999, particularly
+ in the fourth quarter, when compared with the previous year. Price
+ volatility, primarily during the second half of 1999, led to this volume
+ increase.
+
+ The COMEX Division's clearing and transaction fees were $25,339 during
+1999, up 9% from the previous year. The overall trading volume for this division
+experienced strong growth when compared with the previous year.
+
+ - Commodity trading volume for gold futures and options, the COMEX
+ Division's most active contract, experienced a 13% increase during 1999
+ when compared with the previous year. The COMEX gold contract has been
+ used as a hedge against inflation. The existence of inflationary
+ pressures in the U.S. as well as abroad led to strong commodity trading
+ in gold during 1999. Inflation was a major concern for the Federal
+ Reserve during 1999 as they raised interest rates on several occasions
+ during the year.
+
+ - Copper futures and options commodity trading volume increased by 14%
+ during 1999 when compared with the previous year. A shortage in copper
+ supplies, particularly during the third quarter of 1999, was the primary
+ reason for this volume increase.
+
+ Other income decreased by 8% during 1999 when compared with the previous
+year primarily the result of the introduction of new incentive rebate programs.
+These programs reduced various other revenue sources such as office rentals and
+booth license fees.
+
+ Operating Expenses
+
+ Total operating expenses were $119,563 during 1999, up only 2% from the
+previous year. This $2,540 increase from the previous year primarily reflected
+the Exchange's expenses incurred for legal services related to demutualization
+efforts during the fourth quarter of 1999 as well as the costs associated with
+the parallel operations in connection with the upgrade of the on-line trading
+systems.
+
+ Salaries and employee benefits, which constituted 38% of total operating
+expenses for 1999, rose 3% from the previous year and for the most part
+reflected the effect of employee merit increases.
+
+ Professional services increased by $938, or 13%, during 1999 when compared
+with the previous year and was largely the result of legal services in
+connection with a patent infringement case.
+
+ Telecommunications, equipment rentals and maintenance increased by $1,290,
+or 8%, during 1999 when compared to the previous year. In 1999, significant
+costs were incurred due to the fact that prior to its November 1999 launch, the
+updated version of NYMEX ACCESS(R) was being tested at the same time that the
+previous version was operational. After its launch, the previous version of
+NYMEX ACCESS(R) was maintained as a backup capacity through to the end of 1999.
+
+ 24
+<PAGE> 26
+
+ Depreciation and amortization of property and equipment, net of deferred
+credit amortization, increased by $1,065, or 11%, during 1999 when compared to
+the previous year. 70% of this increase was due to depreciation expense on new
+computer and trading floor equipment acquired during 1999. The remaining 30% of
+the increase was for the amortization of internally developed software costs for
+projects placed in service during the fourth quarter of 1999.
+
+ General and administrative expenses decreased by $971, or 6%, during 1999
+when compared with the previous year. 60% of this decrease was the result of
+costs incurred by the Company during 1998 to settle a business dispute
+concerning the NYMEX ACCESS(R) trading system, which was successfully resolved.
+The balance of this decrease was primarily the result of higher travel costs
+incurred during the fourth quarter of 1998 as a result of the Company's pursuit
+of several international business ventures. International business ventures were
+not as actively pursued during 1999 as the Company concentrated its efforts on
+demutualization.
+
+ Other Income
+
+ Investment income, net of investment advisory fees, decreased by $2,797, or
+42%, during 1999 when compared with the previous year. A significant portion of
+the Company's investment portfolio was held in fixed income instruments. During
+1999, the Federal Reserve raised interest rates on three occasions. This
+resulted in a significant decline in market value for the Company's investment
+portfolio.
+
+FINANCIAL CONDITION AND CASH FLOWS
+
+ Liquidity and Capital Resources
+
+ The Company has made, and expects to continue to make, significant
+investments in technology to fund its future growth and increase shareholder
+value. A total of $12,797 was invested in capital expenditures during 2000 as
+the Company continued to update and enhance its computer software applications.
+The Company had $110,607 in cash, cash equivalents, and marketable securities at
+December 31, 2000.
+
+ Cash Flow
+
+<TABLE>
+<CAPTION>
+ (IN THOUSANDS)
+ YEAR ENDED DECEMBER 31,
+ ---------------------------------
+ 2000 1999
+ --------------- ---------------
+<S> <C> <C>
+Net cash (used in) provided by:
+ Operating activities.............................. $ 11,501 $ 44,310
+ Investing activities.............................. (13,801) (20,965)
+ Financing activities.............................. (1,313) (1,106)
+ -------- --------
+Net (decrease) increase in cash and cash
+ equivalents....................................... $ (3,613) $ 22,239
+ ======== ========
+</TABLE>
+
+ Working Capital
+
+<TABLE>
+<CAPTION>
+ (IN THOUSANDS)
+ AT DECEMBER 31, AT DECEMBER 31,
+ 2000 1999
+ --------------- ---------------
+<S> <C> <C>
+Current assets...................................... $131,166 $131,307
+Current liabilities................................. 56,274 20,007
+ -------- --------
+ Working capital................................... $ 74,892 $111,300
+ ======== ========
+Current ratio....................................... 2.33:1 6.56:1
+</TABLE>
+
+ Current assets at December 31, 2000 decreased by $141 from year-end 1999
+primarily as a result of cash flows from net income before depreciation and
+amortization, offset by payments for capital expenditures. The primary changes
+in current assets consisted of an increase of $10,838 in marketable securities,
+offset by declines of $6,846 in clearing and transaction fees receivable, and
+$3,613 in cash and cash equivalents. The decline in receivables was attributable
+to collection of higher year-end balances. The decrease in cash and cash
+
+ 25
+<PAGE> 27
+
+equivalents was due to repurchase agreements maturing prior to year-end; these
+proceeds were reinvested in marketable securities.
+
+ Current liabilities at December 31, 2000 increased by $36,267, or 181% from
+year-end 1999, and is primarily the result of the termination of the NYMEX
+members' retention program which was paid out in January 2001. At December 31,
+2000 $33.2 million, or 92% of the increase, was payable to participants in this
+plan and was reported as a current liability on the Consolidated Balance Sheet.
+
+ Future Cash Requirements
+
+ As of December 31, 2000, the Company had debt of $100,000, including $2.8
+million of short term debt. This debt consisted of the following:
+
+ - $31,000 of 7.48% notes with an eleven-year principal payout beginning in
+ 2001,
+
+ - $54,000 of 7.75% notes with an eleven-year principal payout beginning in
+ 2011, and
+
+ - $15,000 of 7.84% notes with a five-year principal payout beginning in
+ 2022.
+
+ The Company would incur a redemption premium should it choose to pay off
+any series of notes prior to its maturity. These notes contain certain
+limitations on the Company's ability to incur additional indebtedness.
+
+ enymex(SM), the Company's e-commerce initiative, is currently in the
+detailed design phase of development. A leading consulting firm has been
+retained as system integrator and will be responsible for ensuring that the
+complex systems, including trade matching software, are integrated into NYMEX
+Exchange's back-office systems, including its state-of-the-art clearing system,
+Clearing 21(R). It is anticipated that enymex(SM) will be introduced during the
+second quarter of 2001. Given the technical complexity of the system, it is
+anticipated that there will be significant capital and operating expenditures
+associated with the development and launch of enymex(SM).
+
+ The Company believes that its cash flows from operations will be sufficient
+to meet its needs for the foreseeable future. In addition, following its
+demutualization, the Company will have the ability, and may seek, to raise
+capital through issuances of stock in the private and public capital markets.
+
+ Recent Accounting Pronouncements
+
+ In June 1998, the Financial Accounting Standards Board ("FASB") issued SFAS
+No. 133, Accounting for Derivative Instruments and Hedging Activities, which was
+later amended by SFAS No. 138. Among other provisions, it requires that entities
+recognize all derivatives as either assets or liabilities in the balance sheet
+and measure those instruments at fair value. Gains and losses resulting from
+changes in the fair values of those derivatives would be accounted for depending
+on the use of the derivative and whether it qualifies for hedge accounting
+treatment. The effective date of this standard was delayed via the issuance of
+SFAS No. 137. The effective date of SFAS No. 133 is now for fiscal years
+beginning after June 15, 2000, though earlier adoption is encouraged and
+retroactive application is prohibited. Effective January 1, 2001, the Company
+adopted this statement. Upon adoption, SFAS No. 133 had no impact on the
+Company's financial position or results of operations.
+
+ In September 2000, the FASB issued SFAS No. 140, Accounting for Transfers
+and Servicing of Financial Assets and Extinguishments of Liabilities -- a
+Replacement of FASB Statement No. 125, which revises the standards of accounting
+for securitizations and other transfers of financial assets and collateral. The
+provisions of SFAS No. 140 carry over most of the guidance outlined in SFAS No.
+125 and further establish accounting and reporting standards with a
+financial-components approach that focuses on control. Under this approach,
+financial assets or liabilities are recognized when control is established and
+derecognized when control has been surrendered or the liability has been
+extinguished. In addition, specific implementation guidelines have been
+established to further distinguish transfers of financial assets that are sales
+from transfers that are secured borrowings. SFAS No. 140 is effective
+prospectively, for transfers occurring after March 31, 2001 and for disclosures
+relating to securitization transactions and collateral for fiscal years ended
+after
+
+ 26
+<PAGE> 28
+
+December 15, 2000. The Company has adopted the provisions of SFAS No. 140 that
+relate to disclosures of securitization transactions and collateral in the
+preparation of its consolidated financial statements for the year ended December
+31, 2000. The Company will adopt the remaining provisions of SFAS No. 140 as
+required in 2001 and is currently assessing their impact.
+
+ Recent Developments
+
+ For a discussion of the Company's recent business developments see Item 1.
+Business. Recent Business Developments beginning on page 10.
+
+ Responsibility for Financial Reporting
+
+ Management is responsible for the preparation, integrity and objectivity of
+the audited consolidated financial statements and related notes, and the other
+financial information contained in this Form 10-K. Such financial statements
+have been prepared in accordance with accounting principles generally accepted
+in the United States of America and are considered by management to present
+fairly the Company's consolidated financial position, results of operations and
+cash flows. These audited consolidated financial statements include some amounts
+that are based on management's best estimates and judgements, giving due
+consideration to materiality.

@@ -1,0 +1,985 @@
+AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS
+
+ The following review of the results of operations and
+financial condition of Enron Corp. and its subsidiaries and
+affiliates (Enron) should be read in conjunction with the
+Consolidated Financial Statements.
+
+RESULTS OF OPERATIONS
+
+Consolidated Net Income
+ Enron's net income for 2000 was $979 million compared to $893
+million in 1999 and $703 million in 1998. Items impacting
+comparability are discussed in the respective segment results.
+Net income before items impacting comparability was $1,266
+million, $957 million and $698 million, respectively, in 2000,
+1999 and 1998. Enron's business is divided into five segments
+and Exploration and Production (Enron Oil & Gas Company) through
+August 16, 1999 (see Note 2 to the Consolidated Financial
+Statements). Enron's operating segments include:
+
+ Transportation and Distribution. Transportation and
+Distribution consists of Enron Transportation Services and
+Portland General. Transportation Services includes Enron's
+interstate natural gas pipelines, primarily Northern Natural Gas
+Company (Northern), Transwestern Pipeline Company (Transwestern),
+Enron's 50% interest in Florida Gas Transmission Company (Florida
+Gas) and Enron's interests in Northern Border Partners, L.P. and
+EOTT Energy Partners, L.P. (EOTT).
+
+ Wholesale Services. Wholesale Services includes Enron's
+wholesale businesses around the world. Wholesale Services
+operates in developed markets such as North America and Europe,
+as well as developing or newly deregulating markets including
+South America, India and Japan.
+
+ Retail Energy Services. Enron, through its subsidiary Enron
+Energy Services, LLC (Energy Services), is extending its energy
+expertise and capabilities to end-use retail customers in the
+industrial and commercial business sectors to manage their energy
+requirements and reduce their total energy costs.
+
+ Broadband Services. Enron's broadband services business
+(Broadband Services) provides customers with a single source for
+broadband services, including bandwidth intermediation and the
+delivery of premium content.
+
+ Corporate and Other. Corporate and Other includes Enron's
+investment in Azurix Corp. (Azurix), which provides water and wastewater
+services, results of Enron Renewable Energy Corp. (EREC), which
+develops and constructs wind-generated power projects, and the
+operations of Enron's methanol and MTBE plants as well as overall
+corporate activities of Enron.
+
+Net income includes the following:
+
+<TABLE>
+<CAPTION>
+(In millions) 2000 1999 1998
+<S> <C> <C> <C>
+After-tax results before items impacting
+ comparability $1,266 $ 957 $ 698
+
+Items impacting comparability:(a)
+ Charge to reflect impairment by Azurix (326) - -
+ Gain on TNPC, Inc. (The New Power
+ Company), net 39 - -
+ Gains on sales of subsidiary stock - 345 45
+ MTBE-related charges - (278) (40)
+ Cumulative effect of accounting
+ changes - (131) -
+Net income $ 979 $ 893 $ 703
+
+<FN>
+(a) Tax affected at 35%, except where a specific tax rate
+ applied.
+</TABLE>
+
+ Diluted earnings per share of common stock were as follows:
+<TABLE>
+<CAPTION>
+ 2000 1999 1998
+
+<S> <C> <C> <C>
+Diluted earnings per share(a):
+ After-tax results before items
+ impacting comparability $1.47 $1.18 $1.00
+
+ Items impacting comparability:
+ Charge to reflect impairment by Azurix (0.40) - -
+ Gain on The New Power Company, net 0.05 - -
+ Gains on sales of subsidiary stock - 0.45 0.07
+ MTBE-related charges - (0.36) (0.06)
+ Cumulative effect of accounting changes - (0.17) -
+Diluted earnings per share $1.12 $1.10 $1.01
+
+<FN>
+(a) Restated to reflect the two-for-one stock split effective
+ August 13, 1999.
+</TABLE>
+
+Income Before Interest, Minority Interests and Income Taxes
+ The following table presents income before interest, minority
+interests and income taxes (IBIT) for each of Enron's operating
+segments (see Note 20 to the Consolidated Financial Statements):
+
+<TABLE>
+<CAPTION>
+(In millions) 2000 1999 1998
+
+<S> <C> <C> <C>
+Transportation and Distribution:
+ Transportation Services $ 391 $ 380 $ 351
+ Portland General 341 305 286
+Wholesale Services 2,260 1,317 968
+Retail Energy Services 165 (68) (119)
+Broadband Services (60) - -
+Exploration and Production - 65 128
+Corporate and Other (615) (4) (32)
+ Income before interest,
+ minority interests and taxes $2,482 $1,995 $1,582
+</TABLE>
+
+Transportation and Distribution
+ Transportation Services. The following table summarizes total
+volumes transported by each of Enron's interstate natural gas
+pipelines.
+
+<TABLE>
+<CAPTION>
+ 2000 1999 1998
+
+<S> <C> <C> <C>
+Total volumes transported (BBtu/d)(a)
+ Northern Natural Gas 3,529 3,820 4,098
+ Transwestern Pipeline 1,657 1,462 1,608
+ Florida Gas Transmission 1,501 1,495 1,324
+ Northern Border Pipeline 2,443 2,405 1,770
+
+<FN>
+(a) Billion British thermal units per day. Amounts reflect
+ 100% of each entity's throughput volumes. Florida Gas and
+ Northern Border Pipeline are unconsolidated equity affiliates.
+</TABLE>
+
+ Significant components of IBIT are as follows:
+
+<TABLE>
+<CAPTION>
+(In millions) 2000 1999 1998
+
+<S> <C> <C> <C>
+Net revenues $650 $626 $640
+Operating expenses 280 264 276
+Depreciation and amortization 67 66 70
+Equity earnings 63 38 32
+Other, net 25 46 25
+ Income before interest and taxes $391 $380 $351
+</TABLE>
+
+Net Revenues
+ Revenues, net of cost of sales, of Transportation Services
+increased $24 million (4%) during 2000 and declined $14 million
+(2%) during 1999 as compared to 1998. In 2000, Transportation
+Services' interstate pipelines produced strong financial results.
+The volumes transported by Transwestern increased 13 percent in
+2000 as compared to 1999. Northern's 2000 gross margin was
+comparable to 1999 despite an 8 percent decline in volumes
+transported. Net revenues in 2000 were favorably impacted by
+transportation revenues from Transwestern's Gallup, New Mexico
+expansion and by sales from Northern's gas storage inventory. The
+decrease in net revenue in 1999 compared to 1998 was primarily
+due to the expiration, in October 1998, of certain transition
+cost recovery surcharges, partially offset by a Northern sale of
+gas storage inventory in 1999.
+
+Operating Expenses
+ Operating expenses, including depreciation and amortization,
+of Transportation Services increased $17 million (5%) during 2000
+primarily as a result of higher overhead costs related to
+information technology and employee benefits. Operating expenses
+decreased $16 million (5%) during 1999 primarily as a result of
+the expiration of certain transition cost recovery surcharges
+which had been recovered through revenues.
+
+Equity Earnings
+ Equity in earnings of unconsolidated equity affiliates
+increased $25 million and $6 million in 2000 and 1999,
+respectively. The increase in equity earnings in 2000 as
+compared to 1999 primarily relates to Enron's investment in
+Florida Gas. The increase in earnings in 1999 as compared to
+1998 was primarily a result of higher earnings from Northern
+Border Pipeline and EOTT.
+
+Other, Net
+ Other, net decreased $21 million in 2000 as compared to
+1999 after increasing $21 million in 1999 as compared to 1998.
+Included in 2000 were gains related to an energy commodity
+contract and the sale of compressor-related equipment, while the
+1999 amount included interest income earned in connection with
+the financing of an acquisition by EOTT. The 1998 amount
+included gains from the sale of an interest in an equity
+investment, substantially offset by charges related to litigation.
+
+ Portland General. Portland General realized IBIT as follows:
+
+<TABLE>
+<CAPTION>
+(In millions) 2000 1999 1998
+
+<S> <C> <C> <C>
+Revenues $2,256 $1,379 $1,196
+Purchased power and fuel 1,461 639 451
+Operating expenses 321 304 295
+Depreciation and amortization 211 181 183
+Other, net 78 50 19
+ Income before interest and taxes $ 341 $ 305 $ 286
+</TABLE>
+
+ Revenues, net of purchased power and fuel costs, increased $55
+million in 2000 as compared to 1999. The increase is primarily
+the result of a significant increase in the price of power sold
+and an increase in wholesale sales, partially offset by higher
+purchased power and fuel costs. Operating expenses increased
+primarily due to increased plant maintenance costs related to
+periodic overhauls. Depreciation and amortization increased in
+2000 primarily as a result of increased regulatory amortization.
+Other, net in 2000 included the impact of an Oregon Public
+Utility Commission (OPUC) order allowing certain deregulation costs
+to be deferred and recovered through rate cases, the settlement of
+litigation related to the Trojan nuclear power generating facility
+and gains on the sale of certain generation-related assets.
+
+ Revenues, net of purchased power and fuel costs, decreased $5
+million in 1999 as compared to 1998. Revenues increased
+primarily as a result of an increase in the number of customers
+served by Portland General. Higher purchased power and fuel
+costs, which increased 42 percent in 1999, offset the increase in
+revenues. Other income, net increased $31 million in 1999 as
+compared to 1998 primarily as a result of a gain recognized on
+the sale of certain assets.
+
+ In 1999, Enron entered into an agreement to sell Portland
+General Electric Company to Sierra Pacific Resources. See Note 2
+to the Consolidated Financial Statements.
+
+ Statistics for Portland General are as follows:
+
+<TABLE>
+<CAPTION>
+ 2000 1999 1998
+
+<S> <C> <C> <C>
+Electricity sales (thousand MWh)(a)
+ Residential 7,433 7,404 7,101
+ Commercial 7,527 7,392 6,781
+ Industrial 4,912 4,463 3,562
+ Total retail 19,872 19,259 17,444
+ Wholesale 18,548 12,612 10,869
+ Total electricity sales 38,420 31,871 28,313
+
+Resource mix
+ Coal 11% 15% 16%
+ Combustion turbine 12 8 12
+ Hydro 6 9 9
+ Total generation 29 32 37
+ Firm purchases 63 57 56
+ Secondary purchases 8 11 7
+ Total resources 100% 100% 100%
+
+Average variable power cost (Mills/KWh)(b)
+ Generation 14.5 11.3 8.6
+ Firm purchases 34.9 23.2 17.3
+ Secondary purchases 123.6 19.7 23.6
+ Total average variable power cost 37.2 20.0 15.6
+
+Retail customers (end of period, thousands) 725 719 704
+
+<FN>
+(a) Thousand megawatt-hours.
+(b) Mills (1/10 cent) per kilowatt-hour.
+</TABLE>
+
+Outlook
+ Enron Transportation Services is expected to provide stable
+earnings and cash flows during 2001. The four major natural gas
+pipelines have strong competitive positions in their respective
+markets as a result of efficient operating practices, competitive
+rates and favorable market conditions. Enron Transportation
+Services expects to continue to pursue demand-driven expansion
+opportunities. Florida Gas expects to complete an expansion that
+will increase throughput by 198 million cubic feet per day (MMcf/d)
+by mid-2001. Florida Gas has received preliminary approval from the
+Federal Energy Regulatory Commission for an expansion of 428 MMcf/d,
+expected to be completed by early 2003, and is also pursuing an
+expansion of 150 MMcf/d that is expected to be completed in mid-2003.
+Transwestern completed an expansion of 140 MMcf/d in May 2000 and
+is pursuing an expansion of 50 MMcf/d that is expected to be
+completed in 2001 and an additional expansion of up to 150 MMcf/d
+that is expected to be completed in 2002. Northern Border
+Partners is evaluating the development of a 325 mile pipeline
+with a range of capacity from 375 MMcf/d to 500 MMcf/d to connect
+natural gas production in Wyoming to the Northern Border Pipeline
+in Montana.
+
+ In 2001, Portland General anticipates purchased power and
+fuel costs to remain at historically high levels. Portland
+General has submitted a request with the OPUC to recover the
+anticipated cost increase through a rate adjustment.
+
+Wholesale Services
+ Enron builds its wholesale businesses through the creation of
+networks involving selective asset ownership, contractual access
+to third-party assets and market-making activities. Each market
+in which Wholesale Services operates utilizes these components in
+a slightly different manner and is at a different stage of
+development. This network strategy has enabled Wholesale
+Services to establish a leading position in its markets.
+Wholesale Services' activities are categorized into two business
+lines: (a) Commodity Sales and Services and (b) Assets and
+Investments. Activities may be integrated into a bundled product
+offering for Enron's customers.
+
+ Wholesale Services manages its portfolio of contracts and
+assets in order to maximize value, minimize the associated risks
+and provide overall liquidity. In doing so, Wholesale Services
+uses portfolio and risk management disciplines, including
+offsetting or hedging transactions, to manage exposures to market
+price movements (commodities, interest rates, foreign currencies
+and equities). Additionally, Wholesale Services manages its
+liquidity and exposure to third-party credit risk through
+monetization of its contract portfolio or third-party insurance
+contracts. Wholesale Services also sells interests in certain
+investments and other assets to improve liquidity and overall
+return, the timing of which is dependent on market conditions and
+management's expectations of the investment's value.
+
+ The following table reflects IBIT for each business line:
+
+<TABLE>
+<CAPTION>
+(In millions) 2000 1999 1998
+
+<S> <C> <C> <C>
+Commodity sales and services $1,630 $ 628 $ 411
+Assets and investments 889 850 709
+Unallocated expenses (259) (161) (152)
+ Income before interest,
+ minority interests and taxes $2,260 $1,317 $ 968
+</TABLE>
+
+ The following discussion analyzes the contributions to IBIT
+for each business line.
+
+ Commodity Sales and Services. Wholesale Services provides
+reliable commodity delivery and predictable pricing to its
+customers through forwards and other contracts. This market-
+making activity includes the purchase, sale, marketing and
+delivery of natural gas, electricity, liquids and other
+commodities, as well as the management of Wholesale Services' own
+portfolio of contracts. Contracts associated with this activity
+are accounted for using the mark-to-market method of accounting.
+See Note 1 to the Consolidated Financial Statements. Wholesale
+Services' market-making activity is facilitated through a network
+of capabilities including selective asset ownership. Accordingly,
+certain assets involved in the delivery of these services are
+included in this business (such as intrastate natural gas pipelines,
+gas storage facilities and certain electric generation assets).
+
+ Wholesale Services markets, transports and provides energy
+commodities as reflected in the following table (including
+intercompany amounts):
+
+<TABLE>
+<CAPTION>
+ 2000 1999 1998
+
+<S> <C> <C> <C>
+Physical volumes (BBtue/d)(a)(b)
+Gas:
+ United States 17,674 8,982 7,418
+ Canada 6,359 4,398 3,486
+ Europe and Other 3,637 1,572 1,251
+ 27,670 14,952 12,155
+Transportation volumes 649 575 559
+ Total gas volumes 28,319 15,527 12,714
+Crude oil and Liquids 6,088 6,160 3,570
+Electricity(c) 17,308 10,742 11,024
+ Total physical volumes (BBtue/d) 51,715 32,429 27,308
+Electricity volumes (thousand MWh)
+ United States 578,787 380,518 401,843
+ Europe and Other 54,670 11,576 529
+ Total 633,457 392,094 402,372
+
+Financial settlements (notional, BBtue/d) 196,148 99,337 75,266
+
+<FN>
+(a) Billion British thermal units equivalent per day.
+(b) Includes third-party transactions by Enron Energy Services.
+(c) Represents electricity volumes, converted to BBtue/d.
+</TABLE>
+
+ Earnings from commodity sales and services increased $1.0
+billion (160%) in 2000 as compared to 1999. Increased profits
+from North American gas and power marketing operations, European
+power marketing operations as well as the value of new
+businesses, such as pulp and paper, contributed to the earnings
+growth of Enron's commodity sales and services business.
+Continued market leadership in terms of volumes transacted,
+significant increases in natural gas prices and price volatility
+in both the gas and power markets were the key contributors to
+increased profits in the gas and power intermediation businesses.
+In late 1999, Wholesale Services launched an Internet-based
+Ecommerce system, EnronOnline, which allows wholesale customers
+to view Enron's real time pricing and to complete commodity
+transactions with Enron as principal, with no direct interaction.
+In its first full year of operation, EnronOnline positively
+impacted wholesale volumes, which increased 59 percent over 1999
+levels.
+
+ Earnings from commodity sales and services increased $217
+million (53%) in 1999 as compared to 1998, reflecting strong
+results from the intermediation businesses in both North America
+and Europe, which include delivery of energy commodities and
+associated risk management products. Wholesale Services also
+successfully managed its overall portfolio of contracts,
+particularly in minimizing credit exposures utilizing third-party
+contracts. New product offerings in coal and pulp and paper
+markets also added favorably to the results.
+
+ Assets and Investments. Enron's Wholesale businesses make
+investments in various energy and certain related assets as a
+part of its network strategy. Wholesale Services either
+purchases the asset from a third party or develops and constructs
+the asset. In most cases, Wholesale Services operates and
+manages such assets. Earnings from these investments principally
+result from operations of the assets or sales of ownership
+interests.
+
+ Additionally, Wholesale Services invests in debt and equity
+securities of energy and technology-related businesses, which may
+also utilize Wholesale Services' products and services. With
+these merchant investments, Enron's influence is much more
+limited relative to assets Enron develops or constructs.
+Earnings from these activities, which are accounted for on a
+fair value basis and are included in revenues, result from
+changes in the market value of the securities. Wholesale Services
+uses risk management disciplines, including hedging transactions,
+to manage the impact of market price movements on its merchant
+investments. See Note 4 to the Consolidated Financial Statements
+for a summary of these investments.
+
+ Earnings from assets and investments increased $39 million
+(5%) in 2000 as compared to 1999 as a result of an increase in
+the value of Wholesale Services' merchant investments, partially
+offset by lower gains from sales of energy assets. Earnings from
+asset operations were comparable to 1999 levels. Earnings from
+merchant investments were positively impacted by power-related
+and energy investments, partially offset by the decline in value
+of technology-related and certain energy-intensive industry
+investments. Gains on sales of energy assets in 2000 included
+the monetization of certain European energy operations.
+
+ Earnings from assets and investments increased $141 million
+(20%) in 1999 as compared to 1998. During 1999, earnings from
+Wholesale Services' energy-related assets increased, reflecting
+the operation of the Dabhol Power Plant in India, ownership in
+Elektro Eletricidade e Servicos S.A. (Elektro), a Brazilian
+electric utility, and assets in various other developing markets.
+Wholesale Services' merchant investments increased in value
+during the year due to the expansion into certain technology-
+related investments, partially offset by a decline in the value
+of certain energy investments. In addition, Wholesale Services'
+1999 earnings increased due to development and construction
+activities, while gains on sales of energy assets declined.
+
+ Unallocated Expenses. Net unallocated expenses such as
+systems expenses and performance-related costs increased in 2000
+due to growth of Wholesale Services' existing businesses and
+continued expansion into new markets.
+
+Outlook
+ In 2000, Wholesale Services reinforced its leading positions
+in the natural gas and power markets in both North America and
+Europe. In the coming year, Wholesale Services plans to continue
+to expand and refine its existing energy networks and to extend
+its proven business model to new markets and industries.
+
+ In 2001, Wholesale Services plans to continue to fine-tune its
+already successful existing energy networks. In North America,
+Enron expects to complete the sale of five of its peaking power
+plants located in the Midwest and its intrastate natural gas
+pipeline. In each case, market conditions, such as increased
+liquidity, have diminished the need to own physical assets. For
+energy networks in other geographical areas where liquidity may
+be an issue, Enron will evaluate whether its existing network
+will benefit from additional physical assets. The existing networks
+in North America and Europe should continue to provide opportunities
+for sustained volume growth and increased profits.
+
+ The combination of knowledge gained in building networks in
+key energy markets and the application of new technology, such as
+EnronOnline, is expected to provide the basis to extend Wholesale
+Services' business model to new markets and industries. In key
+international markets, where deregulation is underway, Enron
+plans to build energy networks by using the optimum combination
+of acquiring or constructing physical assets and securing
+contractual access to third party assets. Enron also plans to
+replicate its business model to new industrial markets such as
+metals, pulp, paper and lumber, coal and steel. Enron expects to
+use its Ecommerce platform, EnronOnline, to accelerate the
+penetration into these industries.
+
+ Earnings from Wholesale Services are dependent on the
+origination and completion of transactions, some of which are
+individually significant and which are impacted by market
+conditions, the regulatory environment and customer
+relationships. Wholesale Services' transactions have
+historically been based on a diverse product portfolio, providing
+a solid base of earnings. Enron's strengths, including its
+ability to identify and respond to customer needs, access to
+extensive physical assets and its integrated product offerings,
+are important drivers of the expected continued earnings growth.
+In addition, significant earnings are expected from Wholesale
+Services' commodity portfolio and investments, which are subject
+to market fluctuations. External factors, such as the amount of
+volatility in market prices, impact the earnings opportunity
+associated with Wholesale Services' business. Risk related to
+these activities is managed using naturally offsetting
+transactions and hedge transactions. The effectiveness of
+Enron's risk management activities can have a material impact on
+future earnings. See "Financial Risk Management" for a
+discussion of market risk related to Wholesale Services.
+
+Retail Energy Services
+ Energy Services sells or manages the delivery of natural gas,
+electricity, liquids and other commodities to industrial and
+commercial customers located in North America and Europe. Energy
+Services also provides outsourcing solutions to customers for
+full energy management. This integrated product includes the
+management of commodity delivery, energy information and energy
+assets, and price risk management activities. The commodity portion
+of the contracts associated with this business are accounted for
+using the mark-to-market method of accounting. See Note 1 to
+the Consolidated Financial Statements.
+
+<TABLE>
+<CAPTION>
+(In millions) 2000 1999 1998
+
+<S> <C> <C> <C>
+Revenues $4,615 $1,807 $1,072
+Cost of sales 4,028 1,551 955
+Operating expenses 449 308 210
+Depreciation and amortization 38 29 31
+Equity losses (60) - (2)
+Other, net 63 13 7
+ IBIT before items impacting
+ comparability 103 (68) (119)
+Items impacting comparability:
+ Gain on The New Power Company
+ stock issuance 121 - -
+ Retail Energy Services charges (59) - -
+Income (loss) before interest, minority
+ interests and taxes $ 165 $ (68) $ (119)
+</TABLE>
+
+Operating Results
+ Revenues and gross margin increased $2,808 million and $331
+million, respectively, in 2000 compared to 1999, primarily
+resulting from execution of commitments on its existing customer
+base, long-term energy contracts originated in 2000 and the
+increase in the value of Energy Services' contract portfolio.
+Operating expenses increased as a result of costs incurred in
+building the capabilities to deliver services on existing
+customer contracts and in building Energy Services' outsourcing
+business in Europe. Other, net in 2000 consisted primarily of
+gains associated with the securitization of non-merchant equity
+instruments. Equity losses reflect Energy Services' portion of
+losses of The New Power Company.
+
+ Items impacting comparability in 2000 included a pre-tax gain
+of $121 million related to the issuance of common stock by The
+New Power Company and a charge of $59 million related to the
+write-off of certain information technology and other costs.
+The New Power Company, which is approximately 45 percent owned
+by Enron, was formed to provide electricity and natural gas to
+residential and small commercial customers in deregulated
+energy markets in the United States.
+
+Outlook
+ During 2001, Energy Services anticipates continued growth in
+the demand for retail energy outsourcing solutions. Energy
+Services will deliver these services to its existing customers,
+while continuing to expand its commercial and industrial customer
+base for total energy outsourcing. Energy Services also plans to
+continue integrating its service delivery capabilities,
+extend its business model to related markets and offer new
+products.
+
+Broadband Services
+ In implementing Enron's network strategy, Broadband Services
+is constructing the Enron Intelligent Network, a nationwide
+fiber optic network that consists of both fiber deployed by Enron
+and acquired capacity on non-Enron networks and is managed by
+Enron's Broadband Operating System software. Enron is extending
+its market-making and risk management skills from its energy
+business to develop the bandwidth intermediation business to help
+customers manage unexpected fluctuation in the price, supply and
+demand of bandwidth. Enron's bandwidth-on-demand platform allows
+delivery of high-bandwidth media-rich content such as video
+streaming, high capacity data transport and video conferencing.
+Broadband Services also makes investments in companies with
+related technologies and with the potential for capital
+appreciation. Earnings from these merchant investments, which
+are accounted for on a fair value basis and are included in
+revenues, result from changes in the market value of the
+securities. Broadband Services uses risk management disciplines,
+including hedging transactions, to manage the impact of market
+price movements on its merchant investments. Broadband Services
+also sells interests in certain investments and other assets to
+improve liquidity and overall return, the timing of which is
+dependent on market conditions and management's expectations of
+the investment's value.
+
+ The components of Broadband Services' businesses include the
+development and construction of the Enron Intelligent Network,
+sales of excess fiber and software, bandwidth intermediation
+and the delivery of content. Significant components of Broadband
+Services' results are as follows:
+
+<TABLE>
+<CAPTION>
+(In millions) 2000
+
+<S> <C>
+Gross margin $318
+Operating expenses 305
+Depreciation and amortization 77
+Other, net 4
+ Loss before interest, minority
+ interests and taxes $(60)
+</TABLE>
+
+ Broadband Services recognized a loss before interest, minority
+interests and taxes of $60 million in 2000. Gross margin
+included earnings from sales of excess fiber capacity, a
+significant increase in the market value of Broadband Services'
+merchant investments and the monetization of a portion of Enron's
+broadband content delivery platform. Expenses incurred during
+the period include expenses related to building the business and
+depreciation and amortization.
+
+Outlook
+ Broadband Services is extending Enron's proven business model
+to the communications industry. In 2001, Enron expects to
+further develop the Enron Intelligent Network, a global broadband
+network with broad connectivity potential to both buyers and
+sellers of bandwidth through Enron's pooling points. In
+addition, Enron expects to further deploy its proprietary
+Broadband Operating System across the Enron Intelligent Network,
+enabling Enron to manage bandwidth capacity independent of owning
+the underlying fiber. Broadband Services expects its
+intermediation transaction level to increase significantly in
+2001 as more market participants connect to the pooling points
+and transact with Enron to manage their bandwidth needs. The
+availability of Enron's bandwidth intermediation products and
+prices on EnronOnline are expected to favorably impact the volume
+of transactions. In 2001, Broadband Services expects to continue
+to expand the commercial roll-out of its content service
+offerings including video-on-demand. Enron expects the volume of
+content delivered over its network to increase as more content
+delivery contracts are signed and as more distribution partner
+locations are connected.
+
+Corporate and Other
+ Significant components of Corporate and Other's IBIT are as
+follows:
+
+<TABLE>
+<CAPTION>
+(In millions) 2000 1999 1998
+
+<S> <C> <C> <C>
+IBIT before items impacting comparability $(289) $(17) $ 7
+
+Items impacting comparability:
+ Charge to reflect impairment by Azurix (326) - -
+ Gains on exchange and sales of Enron Oil
+ & Gas Company (EOG) stock - 454 22
+ Charge to reflect impairment of MTBE assets
+ and losses on contracted MTBE production - (441) (61)
+Loss before interest, minority interests
+ and taxes $(615) $ (4) $(32)
+</TABLE>
+
+ Results for Corporate and Other in 2000 reflect operating
+losses from Enron's investment in Azurix (excluding the
+impairments discussed below) and increased information technology,
+employee compensation and corporate-wide expenses.
+
+ Results for Corporate and Other in 1999 were impacted by
+higher corporate expenses, partially offset by increased earnings
+from EREC resulting from increased sales volumes from its German
+manufacturing subsidiary and from the completion and sale of
+certain domestic wind projects. Enron also recognized higher
+earnings related to Azurix. Results in 1998 were favorably
+impacted by increases in the market value of certain corporate-
+managed financial instruments, partially offset by higher
+corporate expenses.
+
+ Items impacting comparability in 2000 included a $326 million
+charge reflecting Enron's portion of impairments recorded by
+Azurix related to assets in Argentina. Items impacting comparability
+in 1999 included a pre-tax gain of $454 million on the exchange and
+sale of Enron's interest in EOG (see Note 2 to the Consolidated
+Financial Statements) and a $441 million pre-tax charge for the
+impairment of its MTBE assets (see Note 17 to the Consolidated
+Financial Statements).
+
+ During 1998, Enron recognized a pre-tax gain of $22 million on
+the delivery of 10.5 million shares of EOG stock held by Enron as
+repayment of mandatorily exchangeable debt. Enron also recorded
+a $61 million charge to reflect losses on contracted MTBE
+production.
+
+Interest and Related Charges, Net
+ Interest and related charges, net of interest capitalized
+which totaled $38 million, $54 million and $66 million for 2000,
+1999 and 1998, respectively, increased to $838 million in 2000
+from $656 million in 1999 and $550 million in 1998. The increase
+in 2000 as compared to 1999 was primarily a result of increased
+long-term debt levels, increased average short-term borrowings,
+short-term debt assumed as a result of the acquisition of MG plc
+and higher interest rates in the U.S. The increase was partially
+offset by the replacement of debt related to a Brazilian subsidiary
+with lower interest rate debt.
+
+ The increase in 1999 as compared to 1998 was primarily due to
+debt issuances and debt related to a Brazilian subsidiary, partially
+offset by a decrease in debt related to EOG following the sale and
+exchange of Enron's interests in August 1999. See Note 2 to the
+Consolidated Financial Statements.
+
+Minority Interests
+ Minority interests include the following:
+
+<TABLE>
+<CAPTION>
+(In millions) 2000 1999 1998
+
+<S> <C> <C> <C>
+Elektro(a) $ 33 $ 39 $ -
+Majority-owned limited liability
+ company and limited partnerships 105 71 -
+Enron Oil & Gas Company - 2 24
+Other 16 23 53
+ Total $154 $135 $ 77
+
+<FN>
+(a) Relates to the respective parents of Elektro, which had
+ minority shareholders in 2000 and 1999. See Note 8 to
+ the Consolidated Financial Statements.
+</TABLE>
+
+ Minority interests include Elektro beginning January 1, 1999,
+a majority-owned limited liability company and majority-owned
+limited partnerships since their formation during 1998 through
+2000 and EOG until the exchange and sale of Enron's interests
+in August 1999 (see Note 2 to the Consolidated Financial Statements).
+
+Income Tax Expense
+ Income tax expense increased in 2000 as compared to 1999
+primarily as a result of increased earnings, decreased equity
+earnings and decreased tax benefits related to the foreign tax
+rate differential, partially offset by an increase in the
+differences between the book and tax basis of certain assets and
+stock sales.
+
+ Income tax expense decreased in 1999 compared to 1998
+primarily as a result of increased equity earnings, tax benefits
+related to the foreign tax rate differential and the audit
+settlement related to Monthly Income Preferred Shares, partially
+offset by increased earnings.
+
+Cumulative Effect of Accounting Changes
+ In 1999, Enron recorded an after-tax charge of $131 million to
+reflect the initial adoption (as of January 1, 1999) of two new
+accounting pronouncements, the AICPA Statement of Position 98-5
+(SOP 98-5), "Reporting on the Costs of Start-Up Activities," and
+the Emerging Issues Task Force Issue No. 98-10, "Accounting for
+Contracts Involved in Energy Trading and Risk Management
+Activities." The 1999 charge was primarily related to the
+adoption of SOP 98-5.
+
+NEW ACCOUNTING PRONOUNCEMENTS
+
+ In 1998, the Financial Accounting Standards Board (FASB)
+issued Statement of Financial Accounting Standards (SFAS) No.
+133, "Accounting for Derivative Instruments and Hedging
+Activities," which was subsequently amended by SFAS No. 137 and
+SFAS No. 138. SFAS No. 133 must be applied to all
+derivative instruments and certain derivative instruments
+embedded in hybrid instruments and requires that such instruments
+be recorded in the balance sheet either as an asset or liability
+measured at its fair value through earnings, with special
+accounting allowed for certain qualifying hedges. Enron will
+adopt SFAS No. 133 as of January 1, 2001. Due to
+the adoption of SFAS No. 133, Enron will recognize
+an after-tax non-cash loss of approximately $5 million in
+earnings and an after-tax non-cash gain in "Other Comprehensive
+Income," a component of shareholders' equity, of approximately
+$22 million from the cumulative effect of a change in accounting
+principle. Enron will also reclassify $532 million from "Long-
+Term Debt" to "Other Liabilities" due to the adoption.
+
+ The total impact of Enron's adoption of SFAS No. 133
+on earnings and on "Other Comprehensive Income" is
+dependent upon certain pending interpretations, which are
+currently under consideration, including those related to
+"normal purchases and normal sales" and inflation escalators
+included in certain contract payment provisions. The
+interpretations of these issues, and others, are currently under
+consideration by the FASB. While the ultimate conclusions
+reached on interpretations being considered by the FASB could
+impact the effects of Enron's adoption of SFAS No. 133,
+Enron does not believe that such conclusions would have a material
+effect on its current estimate of the impact of adoption.
+
+FINANCIAL CONDITION
+
+Cash Flows
+
+<TABLE>
+<CAPTION>
+(In millions) 2000 1999 1998
+
+<S> <C> <C> <C>
+Cash provided by (used in):
+ Operating activities $ 4,779 $ 1,228 $ 1,640
+ Investing activities (4,264) (3,507) (3,965)
+ Financing activities 571 2,456 2,266
+</TABLE>
+
+ Net cash provided by operating activities increased $3,551
+million in 2000, primarily reflecting decreases in working
+capital, positive operating results and a receipt of cash
+associated with the assumption of a contractual obligation.
+Net cash provided by operating activities decreased $412
+million in 1999, primarily reflecting increases in working
+capital and net assets from price risk management activities,
+partially offset by increased earnings and higher proceeds from
+sales of merchant assets and investments. The 1998 amount
+reflects positive operating cash flow from Enron's major
+business segments, proceeds from sales of interests in energy-
+related merchant assets and cash from timing and other changes
+related to Enron's commodity portfolio, partially offset by new
+investments in merchant assets and investments.
+
+ Net cash used in investing activities primarily reflects
+capital expenditures and equity investments, which total $3,314
+million in 2000, $3,085 million in 1999 and $3,564 million in
+1998, and cash used for business acquisitions. See "Capital
+Expenditures and Equity Investments" below and see Note 2 to
+the Consolidated Financial Statements for cash used for business
+acquisitions. Partially offsetting these uses of cash were proceeds
+from sales of non-merchant assets, including certain equity instruments
+by Energy Services and an international power project, which totaled
+$494 million in 2000. Proceeds from non-merchant asset sales were
+$294 million in 1999 and $239 million in 1998.
+
+ Cash provided by financing activities in 2000 included
+proceeds from the issuance of subsidiary equity and the issuance
+of common stock related to employee benefit plans, partially
+offset by payments of dividends. Cash provided by financing
+activities in 1999 included proceeds from the net issuance of
+short- and long-term debt, the issuance of common stock and
+the issuance of subsidiary equity, partially offset by payments
+of dividends. Cash provided by financing activities in 1998
+included proceeds from the net issuance of short- and long-term
+debt, the issuance of common stock and the sale of a minority
+interest in a subsidiary, partially offset by payments of dividends.
+
+Capital Expenditures and Equity Investments
+ Capital expenditures by operating segment are as follows:
+
+<TABLE>
+<CAPTION>
+ 2001
+(In millions) Estimate 2000 1999 1998
+
+<S> <C> <C> <C> <C>
+Transportation and Distribution $ 140 $ 270 $ 316 $ 310
+Wholesale Services 570 1,280 1,216 706
+Retail Energy Services 50 70 64 75
+Broadband Services 700 436 - -
+Exploration and Production - - 226 690
+Corporate and Other 40 325 541 124
+ Total $1,500 $2,381 $2,363 $1,905
+</TABLE>
+
+ Capital expenditures increased $18 million in 2000 and
+$458 million in 1999 as compared to the previous year.
+Capital expenditures in 2000 primarily relate to construction of
+power plants to extend Wholesale Services' network and fiber
+optic network infrastructure for Broadband Services. During
+1999, Wholesale Services expenditures increased due primarily to
+construction of domestic and international power plants. The
+1999 increase in Corporate and Other reflects the purchase of
+certain previously leased MTBE-related assets.
+
+ Cash used for investments in equity affiliates by the
+operating segments is as follows:
+
+<TABLE>
+<CAPTION>
+(In millions) 2000 1999 1998
+
+<S> <C> <C> <C>
+Transportation and Distribution $ 1 $ - $ 27
+Wholesale Services 911 712 703
+Corporate and Other 21 10 929
+ Total $933 $722 $1,659
+</TABLE>
+
+ Equity investments in 2000 relate primarily to capital
+invested for the ongoing construction, by a joint venture, of a
+power plant in India as well as other international investments.
+Equity investments in 1999 relate primarily to an investment in a
+joint venture that holds gas distribution and related
+businesses in South Korea and the power plant project in India.
+
+ The level of spending for capital expenditures and equity
+investments will vary depending upon conditions in the energy and
+broadband markets, related economic conditions and identified
+opportunities. Management expects that the capital spending
+program will be funded by a combination of internally generated
+funds, proceeds from dispositions of selected assets and short-
+and long-term borrowings.
+
+Working Capital
+ At December 31, 2000, Enron had working capital of $2.0
+billion. If a working capital deficit should occur, Enron has
+credit facilities in place to fund working capital requirements.
+At December 31, 2000, those credit lines provided for up to $4.2
+billion of committed and uncommitted credit, of which $290
+million was outstanding. Certain of the credit agreements
+contain prefunding covenants. However, such covenants are not
+expected to restrict Enron's access to funds under these
+agreements. In addition, Enron sells commercial paper and has
+agreements to sell trade accounts receivable, thus providing
+financing to meet seasonal working capital needs. Management
+believes that the sources of funding described above are
+sufficient to meet short- and long-term liquidity needs not met
+by cash flows from operations.
+
+CAPITALIZATION
+
+ Total capitalization at December 31, 2000 was $25.0 billion.
+Debt as a percentage of total capitalization increased to 40.9%
+at December 31, 2000 as compared to 38.5% at December 31, 1999.
+The increase in the ratio primarily reflects increased debt
+levels and the impact on total equity of the decline in the value
+of the British pound sterling. This was partially offset by the
+issuances, in 2000, of Enron common stock and the contribution of
+common shares (see Note 16 to the Consolidated Financial
+Statements). The issuances of Enron common stock primarily related
+to the acquisition of a minority shareholder's interest in Enron Energy
+Services, LLC and the exercise of employee stock options.
+
+ Enron is a party to certain financial contracts which contain
+provisions for early settlement in the event of a significant
+market price decline in which Enron's common stock falls below
+certain levels (prices ranging from $28.20 to $55.00 per share)
+or if the credit ratings for Enron's unsecured, senior long-term
+debt obligations fall below investment grade. The impact of this
+early settlement could include the issuance of additional shares
+of Enron common stock.
+
+ Enron's senior unsecured long-term debt is currently rated
+BBB+ by Standard & Poor's Corporation and Fitch IBCA and Baa1 by Moody's
+Investor Service. Enron's continued investment grade status is
+critical to the success of its wholesale businesses as well as
+its ability to maintain adequate liquidity. Enron's management
+believes it will be able to maintain its credit rating.

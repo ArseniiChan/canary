@@ -1,0 +1,656 @@
+and Analysis of Results of Operations
+ (Abbreviated pursuant to General Instruction I(2).)
+
+ This discussion should be read in conjunction with the Financial
+Statements and Notes to Financial Statements listed in the index set forth on
+page F-1.
+
+OVERVIEW
+--------
+
+Description of Business
+
+ Verizon North Inc. is a wholly owned subsidiary of GTE Corporation (GTE),
+which is a wholly owned subsidiary of Verizon Communications Inc. (Verizon
+Communications). We presently serve a territory consisting of Local Access and
+transport Areas (LATAs) located in Illinois, Indiana, Michigan, Ohio,
+Pennsylvania and Wisconsin. We have one reportable segment which provides
+domestic wireline telecommunications services. We currently provide two basic
+types of telecommunications services:
+
+ . Exchange telecommunication service is the transmission of
+ telecommunications among customers located within a local calling area
+ within a LATA. Examples of exchange telecommunications services include
+ switched local residential and business services, local private line voice
+ and data services and Centrex services. We also provide toll services
+ within a LATA (intraLATA long distance).
+
+ . Exchange access service links a customer's premises and the transmission
+ facilities of other telecommunications carriers, generally interLATA
+ carriers. Examples of exchange access services include switched access and
+ special access services.
+
+ The communications services we provide are subject to regulation by the
+state regulatory commissions of Illinois, Indiana, Michigan, Ohio, Pennsylvania
+and Wisconsin with respect to intrastate rates and services and other
+matters. The Federal Communications Commission (FCC) regulates rates that we
+charge long distance carriers and end-user subscribers for interstate access
+rates. For a further discussion of the Company and our regulatory plans, see
+Item 1 - "Description of Business."
+
+Critical Accounting Policies
+
+ Significant accounting policies are highlighted in the applicable
+sections of this discussion and analysis of results of operations. See sections
+on "Transactions with Affiliates," "Employee Severance Costs and Settlement
+Gains/Losses," "Operating Revenues," and "Depreciation and Amortization." In
+addition, all of our significant accounting policies are described in Note 1 to
+the financial statements.
+
+Transactions with Affiliates
+
+ Our financial statements include transactions with Verizon Services
+Corp., Verizon Services Group and Verizon Corporate Services Group Inc.
+(collectively known as Verizon Services), Verizon Information Services Inc.,
+Verizon Data Services Inc., GTE Communication Systems Corporation (GTE
+Communication Systems), GTE Funding, GTE Corporation (GTE) and other affiliates.
+
+ We have contractual arrangements with Verizon Services for the provision
+of various centralized services. Costs may be either directly assigned to one
+subsidiary or allocated to more than one subsidiary based on functional reviews
+of the work performed. We are also allocated a portion of Verizon Services
+employee benefit costs.
+
+ We have an agreement to provide subscriber lists, billing and collection
+and other services to Verizon Information Services Inc. (Directories) in
+Indiana, Michigan, Ohio, Pennsylvania and Wisconsin. Directories bills us for
+printing and other costs associated with regulatory requirements included in the
+telephone directories, including the cost of any Extended Area Service sections
+in the directories. Directories also bills us for any advertising we place in
+the telephone directories. In Illinois, we continue to recognize directory
+publishing revenues under our previous accounting method.
+
+ We use the equity method of accounting for our investment in Verizon
+Ventures III Inc. (Ventures III). Ventures III is a wholly owned subsidiary of
+Verizon Communications that provides new exchange access services through a
+separate subsidiary. At December 31, 2001, our ownership interest in Ventures
+III was 2.71% (see Note 13).
+
+ Verizon Data Services Inc. provides data processing services, software
+application development and maintenance, which generally benefit Verizon
+Communications' operating telephone subsidiaries, including us.
+
+ GTE Communication Systems provides construction and maintenance
+equipment, supplies and electronic repair service to us.
+
+ 8
+<PAGE>
+
+ Verizon North Inc.
+
+ We have contractual arrangements with GTE Funding to provide short-term
+financing, investing and cash management services to us. In 2000, we also had
+contractual arrangements with GTE to provide short-term financing services to
+us.
+
+ We also include miscellaneous items of income and expense resulting from
+transactions with other affiliates, including Verizon Advanced Data Inc.,
+Verizon Long Distance, Verizon Select Services Inc. and Verizon Wireless. These
+transactions include the provision of local and network access services, billing
+and collection services, rental of facilities and equipment, and sales and
+purchases of material and supplies.
+
+ See also Note 13 to the financial statements for additional information on
+affiliate transactions.
+
+RESULTS OF OPERATIONS
+---------------------
+
+ We reported net income of $537.4 million in 2001, compared to net income
+of $949.1 million in 2000.
+
+ Our results for 2001 and 2000 were affected by special items. The special
+items in both periods include our allocated share of charges from Verizon
+Services.
+
+ What follows is a further explanation of the nature of these special
+items.
+
+Employee Severance Costs and Settlement Gains/Losses
+
+ During the fourth quarter of 2001, we recorded a charge of $8.6 million
+(additionally $2.9 million was allocated from Verizon Services) for severance
+and related benefits, in accordance with Statement of Financial Accounting
+Standards (SFAS) No. 112, "Employers' Accounting for Postemployment Benefits,"
+for the voluntary and involuntary separation of employees.
+
+ We recorded pension settlement losses/(gains) of $4.4 million in 2001 and
+$(223.7) million in 2000 as a result of pension plan distributions which
+surpassed the sum of service cost and interest cost in each year. Settlements of
+pension obligations are recorded in accordance with SFAS No. 88, "Employers'
+Accounting for Settlements and Curtailments of Defined Pension Plans and for
+Termination Benefits."
+
+Completion of Merger
+
+ On June 30, 2000, Bell Atlantic and GTE completed a merger under a
+definitive merger agreement dated as of July 27, 1998 and began doing business
+as Verizon Communications. The merger qualified as a tax-free reorganization and
+has been accounted for as a pooling-of-interests business combination.
+
+ The following table summarizes the charges incurred for the Bell
+Atlantic-GTE Merger.
+
+<TABLE>
+<CAPTION>
+ (Dollars in Millions)
+Years Ended December 31 2001 2000
+------------------------------------------------------------------------------------------------------
+<S> <C> <C>
+Operations and Support Expenses
+ Direct incremental costs $ --- $30.6
+ Severance costs --- 48.9
+ Transition costs 46.7 10.8
+ Other costs --- 5.1
+ -----------------------------------
+ 46.7 95.4
+ -----------------------------------
+Depreciation and Amortization Expense
+ Accounting conformity adjustments --- (8.6)
+ -----------------------------------
+
+Total costs $46.7 $86.8
+ ===================================
+</TABLE>
+
+Direct Incremental Costs
+
+ Direct incremental costs related to the Bell Atlantic-GTE merger of $30.6
+million (all of which was allocated from Verizon Services) include compensation,
+professional services and other costs. Compensation includes retention payments
+to employees that were contingent on the close of the merger. Professional
+services include investment banking, legal, accounting, consulting and other
+advisory fees incurred to obtain federal and state regulatory approvals and take
+other actions necessary to complete the merger. Other includes costs incurred to
+obtain shareholder approval of the merger, register securities and communicate
+with shareholders, employees and regulatory authorities regarding merger issues.
+
+ 9
+<PAGE>
+
+ Verizon North Inc.
+
+Employee Severance Costs
+
+ Employee severance costs related to the Bell Atlantic-GTE merger of $48.9
+million (all of which was allocated from Verizon Services), as recorded under
+SFAS No. 112, represent the benefit costs for the separation of management
+employees who are entitled to benefits under pre-existing separation plans, as
+well as an accrual for ongoing SFAS No. 112 obligations for former GTE
+employees. The separations either have or are expected to occur as a result of
+consolidations and process enhancements within our company. Accrued
+postemployment benefit liabilities for those employees are included in our
+balance sheets as a component of Accounts Payable and Accrued Liabilities -
+Other. The remaining severance liability under this program as of December 31,
+2001 is $33.5 million.
+
+Transition Costs
+
+ In addition to the direct merger-related and severance costs discussed
+above, from the date of the Bell Atlantic-GTE merger, we incurred transition
+costs related to the Bell Atlantic-GTE merger. These costs were incurred to
+integrate systems, consolidate real estate, relocate employees and meet certain
+regulatory conditions of the merger. They also include costs for advertising and
+other costs to establish the Verizon brand. Transition costs related to the Bell
+Atlantic-GTE merger were $46.7 million in 2001 and $10.8 million in 2000
+(including $2.3 million in 2001 and $4.8 million in 2000 allocated from Verizon
+Services).
+
+Other Costs
+
+ During the second quarter of 2000, we also recorded a $5.1 million charge
+to operations and support expenses for other actions in relation to the Bell
+Atlantic-GTE merger.
+
+Accounting Conformity Adjustments
+
+ Results of operations also included adjustments that were required to
+conform our accounting methods and presentation to that of Verizon
+Communications. These conforming adjustments are differences in capitalization
+policies. As a result of these adjustments, depreciation expense decreased $8.6
+million in 2000.
+
+Other Charges and Special Items
+
+Regulatory Contingency
+
+ In the second quarter of 2000, we recognized a charge for a regulatory
+matter totaling $2.0 million. We recorded a reduction to operating revenue of
+$1.6 million and a charge to interest expense of $.4 million. This matter
+relates to a specific issue currently under investigation by the FCC. We believe
+that it is probable that the ultimate resolution of this matter will result in
+refunds to our customers, including interest.
+
+Other Items
+
+ In the second quarter of 2000, we recorded other charges and special items
+totaling $4.4 million pre-tax, which reduced operating revenue by $3.6 million
+and increased operations and support expenses by $.8 million.
+
+Sales of Non-strategic Access Lines
+
+ During 2000, we sold selected switched access lines in Illinois and
+Wisconsin. The associated net assets, which approximated $211.8 million at
+December 31, 1999, consisted of property, plant and equipment. We continued to
+operate all of these assets until sold. Given the decision to sell, no
+depreciation expense was recorded for these assets in 2000 in accordance with
+SFAS No. 121, "Accounting for the Impairment of Long-Lived Assets and for
+Long-Lived Assets to Be Disposed Of." Total operating revenues and net income
+contributed by the sold properties were $109.0 million and $44.7 million,
+respectively, for the year ended December 31, 2000. Cash proceeds from the sales
+totaled $648.2 million at December 31, 2000. As a result of these sales, we
+recorded a pre-tax gain of $418.4 million ($253.8 million after-tax) in 2000.
+See Note 3 to the financial statements for additional information.
+
+Extraordinary Item
+
+ In December 2001, we recorded an extraordinary charge associated with the
+early extinguishment of $250.0 million of first mortgage bonds due on December
+15, 2031, which reduced net income by $9.5 million (net of an income tax benefit
+of $5.2 million).
+
+ These and other items affecting the comparison of our results of
+operations for the years ended December 31, 2001 and 2000 are discussed in the
+following sections.
+
+ 10
+<PAGE>
+
+ Verizon North Inc.
+
+OPERATING REVENUES
+------------------
+(Dollars in Millions)
+
+<TABLE>
+<CAPTION>
+
+Years Ended December 31, 2001 2000
+------------------------------------------------------------------------------------------------------------
+<S> <C> <C>
+Local services $ 1,502.3 $ 1,511.4
+Network access services 1,131.7 1,202.1
+Long distance services 117.9 137.4
+Other services 237.1 272.0
+ --------------------------------------
+Total $ 2,989.0 $ 3,122.9
+ ======================================
+</TABLE>
+
+ We recognize service revenues based upon usage of our local exchange
+network and facilities and contract fees. We recognize product and other service
+revenues when the products are delivered and accepted by the customers and when
+services are provided in accordance with contract terms.
+
+LOCAL SERVICES
+
+ (Decrease)
+--------------------------------------------------------------------------------
+ 2001 - 2000 $(9.1) (.6)%
+--------------------------------------------------------------------------------
+
+ Local service revenues are earned from the provision of local exchange,
+local private line, wire maintenance, voice messaging and value-added services.
+Value-added services are a family of services that expand the utilization of the
+network, including products such as Caller ID, Call Waiting and Return Call. The
+provision of local exchange services not only includes retail revenues, but also
+includes local wholesale revenues from unbundled network elements (UNEs),
+interconnection revenues from competitive local exchange carriers, certain data
+transport revenues and wireless interconnection revenues.
+
+ Local service revenues declined in 2001 primarily due to the effect of
+non-strategic access lines sold during 2000, as described in Results of
+Operations. Local service revenues were also impacted by the effect of an
+economic slowdown and competition, as reflected by a decline in our switched
+access lines in service of .04% from December 31, 2000. In addition, the effect
+of technology substitution is increasing as more customers are choosing wireless
+and Internet services in place of some basic wireline services.
+
+ These decreases were substantially offset by higher customer demand and
+usage of our value-added services as a result of new packaging of services and
+by higher payments received from competitive local exchange carriers for
+interconnection of their network with our network.
+
+NETWORK ACCESS SERVICES
+
+ (Decrease)
+--------------------------------------------------------------------------------
+ 2001 - 2000 $(70.4) (5.9)%
+--------------------------------------------------------------------------------
+
+ Network access revenues are earned from end-user subscribers and from
+long distance and other competing carriers who use our local exchange facilities
+to provide usage services to their customers. Switched access revenues are
+derived from fixed and usage-based charges paid by carriers for access to our
+local network. Special access revenues originate from carriers and end-users
+that buy dedicated local exchange capacity to support their private networks.
+End-user access revenues are earned from our customers and from resellers who
+purchase dial-tone services.
+
+ Network access revenues declined in 2001 primarily due to mandated price
+reductions on intrastate and interstate access services and the effect of the
+aforementioned sales of non-strategic access lines. State public utility
+commissions regulate us with respect to intrastate rates and services and other
+matters. The FCC regulates rates that we charge long distance carriers and end-
+user subscribers for interstate access services. We are required to file new
+access rates with the FCC each year. In July 2000, we implemented the Coalition
+for Affordable Local and Long Distance Service (CALLS) plan. Rates included in
+the July 2000 CALLS plan were in effect through June 2001. Effective July 3,
+2001, we implemented further rate reductions in accordance with the plan. The
+impact of the slowing economy also affected network access revenues in 2001.
+
+ These decreases were partially offset by higher customer demand for
+special access services, particularly for high-capacity, high-speed digital
+services.
+
+ 11
+<PAGE>
+
+ Verizon North Inc.
+
+LONG DISTANCE SERVICES
+
+ (Decrease)
+--------------------------------------------------------------------------------
+ 2001 - 2000 $(19.5) (14.2)%
+--------------------------------------------------------------------------------
+
+ Long distance revenues are earned primarily from calls made to points
+outside a customer's local calling area, but within our service area (intraLATA
+toll). IntraLATA toll calls originate and terminate within the same LATA, but
+generally cover a greater distance than a local call. These services are
+regulated by state regulatory commissions except where they cross state lines.
+Other long distance services that we provide include 800 services and Wide Area
+Telephone Service (WATS). We also earn revenue from private line and operator
+services associated with long distance calls.
+
+ Long distance service revenues declined in 2001 primarily due to the
+effects of competition and technology substitution. Long distance revenues also
+reflect the effect of the aforementioned sales of non-strategic access lines in
+2000.
+
+OTHER SERVICES
+
+ (Decrease)
+--------------------------------------------------------------------------------
+ 2001 - 2000 $(34.9) (12.8)%
+--------------------------------------------------------------------------------
+
+ Our other services include such services as billing and collections for
+long distance carriers and affiliates, facilities rentals to affiliates and
+nonaffiliates, public (pay) telephone and customer premises equipment (CPE).
+Other service revenues also include fees paid by customers for non-publication
+of telephone numbers and multiple white page listings, fees paid by an affiliate
+for usage of our directory listings and fees paid by an affiliate for the
+provision of sales agent services.
+
+ Other service revenues decreased in 2001 primarily due to lower revenue
+from CPE sales and the effect of the aforementioned sales of non-strategic
+access lines. A reduction in directory revenues from an affiliate also
+contributed to the decrease in other service revenues.
+
+OPERATING EXPENSES
+------------------
+(Dollars in Millions)
+
+OPERATIONS AND SUPPORT
+
+ Increase
+--------------------------------------------------------------------------------
+ 2001 - 2000 $66.7 5.1%
+--------------------------------------------------------------------------------
+
+ Operations and support expenses consist of employee costs and other
+operating expenses. Employee costs consist of salaries, wages and other employee
+compensation, employee benefits and payroll taxes. Other operating expenses
+consist of contract services including centralized services expenses allocated
+from affiliates, rent, network software costs, operating taxes other than
+income, the provision for uncollectible accounts receivable, reciprocal
+compensation, and other costs.
+
+ The increase in operations and support expenses was primarily attributable
+to the effect of pre-tax gains recorded in 2000 associated with lump-sum
+settlements of pension obligations for certain active and former employees.
+Employee severance costs recorded in 2001 also contributed to the increase in
+expense, but to a lesser extent. These increases were partially offset by the
+effect of merger-related costs and other special items recorded in 2000 and
+lower operating taxes other than income. Declining work force levels and
+effective cost control measures further offset increases in operating expense.
+
+ For additional information on pension settlement gains, employee severance
+costs and merger-related costs and other special items, see Results of
+Operations.
+
+ We continue to incur expenditures related to reciprocal compensation
+arrangements with competitive local exchange carriers and other carriers to
+terminate calls on their network. In March 2000, the United States Court of
+Appeals for the
+
+ 12
+<PAGE>
+
+ Verizon North Inc.
+
+District of Columbia Circuit reversed and remanded the FCC's February 1999 order
+that concluded that calls to the Internet through Internet service providers
+(ISP) do not terminate at the ISP but are single interstate calls. The FCC had
+concluded that calls to the Internet are not therefore subject to reciprocal
+compensation under section 251(b)(5) of the Telecommunications Act, but left it
+to state regulatory commissions to determine whether local interconnection
+agreements entered into with competing carriers required the payment of
+compensation on such calls.
+
+ On April 27, 2001, the FCC released an order addressing intercarrier
+compensation for dial-up connections for Internet-bound traffic. The FCC found
+that Internet-bound traffic is interstate and subject to the FCC's jurisdiction.
+Moreover, the FCC again found that Internet-bound traffic is not subject to
+reciprocal compensation under Section 251(b)(5) of the 1996 Act. Instead, the
+FCC established federal rates for this traffic that decline from $0.0015 to
+$0.0007 over a three-year period. The FCC order also sets caps on the total
+minutes of this traffic that may be subject to any intercarrier compensation and
+requires that incumbent local exchange carriers must offer to pay reciprocal
+compensation for local traffic at the same rate as they are required to pay on
+Internet-bound traffic. Several competing carriers and state regulators appealed
+this order to the U.S. Court of Appeals for the D.C. Circuit. The court denied a
+motion to stay the FCC order, and the order went into effect. The appeal remains
+pending.
+
+DEPRECIATION AND AMORTIZATION
+
+ Increase
+--------------------------------------------------------------------------------
+ 2001 - 2000 $11.4 2.0%
+--------------------------------------------------------------------------------
+
+ Depreciation expense is principally based on the composite group remaining
+life method and straight-line composite rates. This method provides for the
+recognition of the cost of the remaining net investment in telephone plant, less
+anticipated net salvage value, over the remaining asset lives. This method
+requires the periodic revision of depreciation rates.
+
+ Depreciation and amortization expense increased in 2001 principally due to
+growth in depreciable telephone plant and increased software amortization costs.
+These factors were partially offset by the effect of lower rates of
+depreciation. Partially affecting the change in depreciation and amortization
+expense were adjustments made to conform the accounting policies of Bell
+Atlantic and GTE as a result of the merger, as described in Results of
+Operations.
+
+GAIN ON SALES OF ASSETS
+
+ Increase
+--------------------------------------------------------------------------------
+ 2001 - 2000 $418.4 100.0%
+--------------------------------------------------------------------------------
+
+ We recognized a gain on the sale of non-strategic access lines in 2000, as
+described in Results of Operations.
+
+OTHER RESULTS
+-------------
+(Dollars in Millions)
+
+OTHER INCOME AND (EXPENSE), NET
+
+ (Decrease)
+--------------------------------------------------------------------------------
+ 2001 - 2000 $(19.0) (730.8)%
+--------------------------------------------------------------------------------
+
+ Other income and (expense), net includes equity income (losses), interest
+income and other nonoperating income and expense items.
+
+ The change in other income and (expense), net, was primarily attributable
+to higher equity losses recognized from our investment in Ventures III.
+
+ 13
+<PAGE>
+
+ Verizon North Inc.
+
+INTEREST EXPENSE
+
+ (Decrease)
+--------------------------------------------------------------------------------
+ 2001 - 2000 $(2.8) (2.2)%
+--------------------------------------------------------------------------------
+
+ Interest expense includes costs associated with borrowing and capital
+leases, net of capitalized interest costs. We capitalize interest associated
+with the acquisition or construction of plant assets. Capitalized interest is
+reported as a cost of plant and a reduction in interest expense.
+
+ Interest expense decreased in 2001 primarily due to the effect of lower
+rates of interest. This decrease was partially offset by the effect of higher
+levels of average borrowings with an affiliate.
+
+ See Note 6 to the financial statements for additional information about
+our debt.
+
+EFFECTIVE INCOME TAX RATES
+
+ Years Ended December 31,
+--------------------------------------------------------------------------------
+ 2001 38.7%
+--------------------------------------------------------------------------------
+ 2000 38.3%
+--------------------------------------------------------------------------------
+
+ The effective income tax rate is the provision for income taxes as a
+percentage of income before provision for income taxes. Our effective income tax
+rate was higher in 2001 principally due to higher equity losses associated with
+our investment in Ventures III, for which we do not recognize income tax
+benefits. This factor was partially offset by reductions in non-recurring income
+tax
+expense.
+
+ You can find a reconciliation of the statutory federal income tax rate to
+the effective income tax rate for each period in Note 11 to the financial
+statements.
+
+OTHER MATTERS
+-------------
+
+Recent Accounting Pronouncements
+
+ Business Combinations
+
+ In June 2001, the Financial Accounting Standards Board (FASB) issued SFAS
+No. 141, "Business Combinations," which applies to business combinations
+occurring after June 30, 2001. SFAS No. 141 requires that the purchase method of
+accounting be used and includes guidance on the initial recognition and
+measurement of goodwill and other intangible assets acquired in the combination.
+
+ Goodwill and Other Intangible Assets
+
+ In June 2001, the FASB also issued SFAS No. 142, "Goodwill and Other
+Intangible Assets." SFAS No. 142 no longer permits the amortization of goodwill
+and indefinite-lived intangible assets. Instead, these assets must be reviewed
+annually (or more frequently under prescribed conditions) for impairment in
+accordance with this statement. This impairment test uses a fair value approach
+rather than the undiscounted cash flows approach previously required by SFAS No.
+121, "Accounting for the Impairment of Long-Lived Assets and for Long-Lived
+Assets to Be Disposed Of." The goodwill impairment test under SFAS No. 142
+requires a two-step approach, which is performed at the reporting unit level, as
+defined in SFAS No. 142. Step one identifies potential impairments by comparing
+the fair value of the reporting unit to its carrying amount. Step two, which is
+only performed if there is a potential impairment, compares the carrying amount
+of the reporting unit's goodwill to its implied value, as defined in SFAS No.
+142. If the carrying amount of the reporting unit's goodwill exceeds the implied
+fair value of that goodwill, an impairment loss is recognized for an amount
+equal to that excess. Intangible assets that do not have indefinite lives will
+continue to be amortized over their useful lives and reviewed for impairment in
+accordance with SFAS No. 144, "Accounting for the Impairment or Disposal of
+Long-Lived Assets."
+
+ We are required to adopt SFAS No. 142 effective January 1, 2002. The
+adoption of SFAS No. 142 will not have a material effect on our results of
+operations or financial position.
+
+ 14
+<PAGE>
+
+ Verizon North Inc.
+
+ Asset Retirement Obligations
+
+ In June 2001, the FASB issued SFAS No. 143, "Accounting for Asset
+Retirement Obligations." This standard provides the accounting for the cost of
+legal obligations associated with the retirement of long-lived assets. SFAS No.
+143 requires that companies recognize the fair value of a liability for asset
+retirement obligations in the period in which the obligations are incurred and
+capitalize that amount as a part of the book value of the long-lived asset. That
+cost is then depreciated over the remaining life of the underlying long-lived
+asset. We are required to adopt SFAS No. 143 effective January 1, 2003. We are
+currently evaluating the impact this new standard will have on our future
+results of operations or financial position.
+
+ Impairment or Disposal of Long-Lived Assets
+
+ In August 2001, the FASB issued SFAS No. 144. This standard supersedes
+SFAS No. 121 and the provisions of Accounting Principles Board (APB) Opinion No.
+30, "Reporting the Results of Operations-Reporting the Effects of Disposal of a
+Segment of a Business, and Extraordinary, Unusual and Infrequently Occurring
+Events and Transactions," with regard to reporting the effects of a disposal of
+a segment of a business. SFAS No. 144 establishes a single accounting model for
+assets to be disposed of by sale and addresses several SFAS No. 121
+implementation issues. We are required to adopt SFAS No. 144 effective January
+1, 2002. We do not expect the impact of the adoption of SFAS No. 144 to have a
+material effect on our results of operations or financial position.
+
+Contractual Obligations
+
+ The following table provides a summary of our contractual obligations.
+Additional detail about these items is included in the notes to the financial
+statements.
+
+<TABLE>
+<CAPTION>
+ Payments Due by Period (Dollars in Millions)
+ ----------------------------------------------------------------------------------------
+Contractual Obligation Total Less than 1 year 1-3 years 4-5 years After 5 years
+------------------------------------------------------------------------------------------------------------------------------
+<S> <C> <C> <C> <C> <C>
+Long-term debt $1,500.0 $ --- $250.0 $150.0 $1,100.0
+Capital lease obligations .4 .2 .2 --- ---
+Operating leases 545.1 34.9 59.0 57.1 394.1
+ ----------------------------------------------------------------------------------------
+Total contractual cash obligations $2,045.5 $35.1 $309.2 $207.1 $1,494.1
+ ========================================================================================
+</TABLE>
+
+ 15
+
+<PAGE>
+
+ Verizon North Inc.

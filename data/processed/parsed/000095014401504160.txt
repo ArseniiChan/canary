@@ -1,0 +1,388 @@
+AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+ OF OPERATIONS (ALL AMOUNTS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+CERTAIN CAUTIONARY STATEMENTS
+
+ In addition to historical information, Item 7 of this Report contains
+certain forward-looking statements within the meaning of the Private Securities
+Litigation Reform Act of 1995 including, without limitation, statements
+regarding the Corporation's business strategy and management's outlook for each
+of its businesses and the sufficiency of the Corporation's liquidity and sources
+of capital. These forward-looking statements are subject to certain risks,
+uncertainties and other factors which could cause actual results, performance
+and achievements to differ materially from those anticipated, including, without
+limitation, general economic and business conditions in the U.S. and abroad,
+restrictions imposed by debt agreements, competition in the community health and
+child safety businesses, governmental budgetary constraints, the regulatory
+environment for the Corporation's businesses, consolidation and acquisition
+trends in the Corporation's businesses, competition in the acquisition market
+including for the acquisition of hospital and healthcare facilities, changes in
+exchange rates (including in Europe the effects of the European currency, the
+Euro), increases in prices of raw materials and services, the purchasing
+practices of significant customers, the availability of qualified management and
+staff personnel in each subsidiary, the functionality of the Corporation's
+computer systems and claims for product liability from continuing and
+discontinued operations.
+
+CORPORATE BUSINESS STRATEGY
+
+ The Corporation has redirected its business strategy toward acquisitions of
+community hospitals in the U.S. and in February 2001, its subsidiary, SunLink,
+completed the purchase of corporations owning six community hospitals and
+related businesses for approximately $26,500. In addition, the Corporation
+currently owns subsidiaries in the U.K. which manufacture and distribute
+housewares products. The Corporation disposed of its European Child Safety
+subsidiary, Klippan Limited ("Klippan") on January 29, 2001 for net proceeds of
+approximately $3,000 after repayment of Klippan's debt. During fiscal 1999, the
+Corporation disposed of subsidiaries in the LS&E and Leisure Marine business
+segments.
+
+DISPOSAL OF BUSINESS SEGMENTS
+
+ In November 1999, the Corporation sold its Wyle Laboratories, Inc. ("Wyle")
+Series A Preferred Stock for $4,100 in cash. The Series A Preferred Stock had
+voting rights and was convertible into approximately 38% of Wyle's common
+shares. In connection with the sale, which was part of a leveraged management
+buy-out of Wyle, the Corporation also exchanged its non-dividend paying and
+non-voting Series B Preferred Stock in Wyle for Senior Preferred Stock of LTS
+Holdings, Inc., Wyle's new parent company, and canceled its existing options to
+acquire Wyle shares. The Corporation acquired the Wyle Series A and Series B
+Preferred Stock and options in connection with the disposal of its LS&E business
+segment. The new Senior Preferred Stock is redeemable on March 31, 2003 for $954
+plus accrued and unpaid dividends at 8% per annum. In April 1998, the
+Corporation sold its Leisure Marine subsidiary to a company formed by the
+management of the subsidiary. The selling price was approximately $15,000
+comprised of approximately $8,900 in cash and the assumption of approximately
+$6,100 of debt.
+
+ 26
+<PAGE> 27
+<TABLE>
+<CAPTION>
+ REVENUES
+ ----------------------------------------
+ YEAR ENDED MARCH 31,
+ ----------------------------------------
+ 2001 2000 1999
+ -------- -------- --------
+<S> <C> <C> <C>
+Community Hospital $ 13,639
+Housewares 28,035 $ 32,011 $ 34,832
+ ----------------------------------------
+ $ 41,674 $ 32,011 $ 34,832
+ ========================================
+<CAPTION>
+ GROSS PROFIT
+ ----------------------------------------
+ YEAR ENDED MARCH 31,
+ ----------------------------------------
+ 2001 2000 1999
+ -------- -------- --------
+<S> <C> <C> <C>
+Housewares $ 2,098 $ 3,497 $ 1,606
+ ========================================
+<CAPTION>
+ LOSS FROM CONTINUING OPERATIONS BEFORE
+ INCOME TAXES
+ ----------------------------------------
+ YEAR ENDED MARCH 31,
+ ----------------------------------------
+ 2001 2000 1999
+ -------- -------- --------
+<S> <C> <C> <C>
+Community Hospital EBITDA (1) $ 912
+Housewares EBITDA (1) 479 $ 1,397 $ (1,267)
+Corporate (U.S. and U.K.) EBITDA (1) (1,547) (1,849) (2,355)
+Depreciation expense (849) (813) (881)
+ ----------------------------------------
+Operating profit (1,005) (1,265) (4,503)
+Interest expense (670) (208) (424)
+Interest income 359 328 532
+Other income - net 22 175
+ ----------------------------------------
+Loss from continuing operations before income taxes $ (1,316) $ (1,123) $ (4,220)
+ ========================================
+<CAPTION>
+ NET CASH PROVIDED BY (USED IN)
+ ----------------------------------------
+ YEAR ENDED MARCH 31,
+ ----------------------------------------
+ 2001 2000 1999
+ -------- -------- --------
+<S> <C> <C> <C>
+Operating activities $ (1,304) $ (3,751) $ (580)
+ ========================================
+Investing activities $ (3,034) $ 3,917 $ 8,278
+ ========================================
+Financing activities $ (15) $ 4,774 $ (9,168)
+ ========================================
+</TABLE>
+
+(1) EBITDA represents the sum of income before income taxes, interest,
+ depreciation and amortization. We understand that industry analysts
+ generally consider EBITDA to be one measure of the financial
+ performance of a corporation that is presented to assist investors in
+ analyzing the operating performance of a corporation and its ability to
+ service debt. We believe an increase in EBITDA level is an indicator of
+ improved ability to service existing debt, to sustain potential future
+ increases in debt and to satisfy capital requirements. EBITDA, however,
+ is not a measure of financial performance under accounting principles
+ generally accepted in the United States of America and should not be
+ considered an alternative to net income as a measure of operating
+ performance or to cash liquidity. Given that EBITDA is not a
+ measurement determined in accordance with accounting principles
+ generally accepted in the United States of America and is thus
+ susceptible to varying calculations, EBITDA, as presented, may not be
+ comparable to other similarly titled measures of other corporations.
+
+ 27
+<PAGE> 28
+
+RESULTS OF OPERATIONS - CONTINUING OPERATIONS
+
+ The Corporation's fiscal 2001 revenue of $41,674 increased $9,663 from
+$32,011 in fiscal 2000 as a result of $13,639 of revenue from the six community
+hospitals and related businesses of the U.S. community hospital segment acquired
+February 1, 2001. Fiscal 2000 revenue decreased $2,821 from fiscal 1999 due to
+lower sales of the U.K. housewares segment.
+
+ The fiscal 2001 revenue for the U.S. community hospital segment
+consists of $13,639 net patient revenue. The occupancy rate of hospital beds in
+service for the two months SunLink operated the six hospitals was 28.5% and net
+outpatient revenue was 47.4% of net patient revenue.
+
+ The revenue of the U.K. housewares segment decreased $3,976 in fiscal
+2001 from decreased sales volume, primarily in laundry products, child safety
+gates and fireguards which was offset somewhat by increased ladder revenue
+($1,460 in aggregate), and the unfavorable effect of currency translation
+($2,516). Fiscal 2000 revenue of the housewares segment decreased by $2,821 to
+$32,011 from $34,832 for 1999. The decreased revenue in fiscal 2000 resulted
+primarily from lower sales volume, primarily in ladders, child safety gates and
+fireguards ($831 in aggregate), and the unfavorable effect of currency
+translation ($1,990). Order backlog is not meaningful for the housewares segment
+due to the short time between order placement and shipment.
+
+ Gross profit margins (revenue less cost of goods sold) for the U.K.
+housewares segment were 7.5%, 10.9% and 4.6% in fiscal 2001, 2000 and 1999,
+respectively. The decrease in gross profit margin in fiscal 2001 was primarily
+due to lower manufacturing volume as manufacturing overhead costs did not
+decrease at the same percentage that sales decreased. The increased sales of
+ladders in fiscal 2001 also decreased the gross profit margin due to the higher
+material cost of ladders compared to other product lines. The increase in gross
+profit margin in fiscal 2000 was the result of increased operational
+efficiencies, primarily lower raw material costs and manufacturing labor
+overhead.
+
+ The community hospital earnings before interest, taxes, depreciation
+and amortization ("EBITDA") of $912 was 6.7% of net patient revenue. This EBITDA
+to net patient revenue percentage is lower than most other publicly traded
+community hospitals and has been targeted for improvement by SunLink management.
+Other areas targeted for improvement by SunLink management are increased net
+patient revenue, bad debts, and supplies cost. Operating costs and expenses of
+the U.S. community hospital segment were $12,726 for the two months ended March
+31, 2001. Salaries, wages and benefits comprised 49.0% of these expenses and bad
+debt expense was $1,637 or 12.9% of net patient revenue.
+
+ Housewares EBITDA decreased $918 in fiscal 2001 to $479 from $1,397 in
+fiscal 2000 due to decreased sales volume and lower gross profit margin
+discussed earlier. Fiscal 2000 Housewares EBITDA of $1,397 compares to a loss of
+$1,267 in fiscal 1999. The fiscal 2000 increase resulted from increased gross
+profit margin and decreased selling and administrative expenses.
+
+ Selling and administrative expenses were $15,893, $3,949 and $4,816 in
+fiscal 2001, 2000 and 1999, respectively. The 2001 amounts include $12,726 of
+operating costs and expenses of the U.S. community hospital segment which was
+purchased February 1, 2001. Excluding these expenses, selling and administrative
+expenses decreased $782 in fiscal 2001 compared to the prior year. The decreased
+expense in fiscal 2001 resulted from overhead reductions of the housewares
+segment and lower corporate overhead expense. Overhead reductions of the
+housewares segment were in response to the lower sales levels. Corporate
+overhead expense declined due to lower legal expense. The decreased expense in
+fiscal 2000 resulted from overhead reductions of the housewares segment and
+lower corporate overhead expense, which declined due to reduced labor costs.
+
+ 28
+<PAGE> 29
+
+ The Corporation recorded restructuring charges of $412 in fiscal 1999
+for additional expenses related to the final settlement with the landlord of a
+vacated manufacturing facility in Bognor Regis, England. In fiscal 1998, the
+Corporation closed the manufacturing facility and moved the operations to its
+facility in Bilston, England.
+
+ Interest expense increased $462 in fiscal 2001 as a result of $447 of
+interest expense on the debt incurred in connection with the purchase of the six
+hospitals and related businesses on February 1, 2001. Interest expense decreased
+$216 in fiscal 2000 as a result of lower U.K. debt. The U.K. Variable Rate Loan
+of approximately $2,900 was repaid in September 1999. Interest income increased
+slightly in fiscal 2001 due to higher average cash balances during the year.
+Interest income decreased in fiscal 2000 due to lower levels of invested cash
+resulting from the use of cash to repay the U.K. Variable Rate Loan and to
+provide working capital for the European operations.
+
+ Gain on sale of assets of $175 in fiscal 1999 resulted primarily from
+the sale of excess land in Dayton, Ohio.
+
+ The Corporation recorded income tax expense of $50 in fiscal 2001,
+income tax benefit of $252 in fiscal 2000 and income tax expense of $1,845
+fiscal 1999. The income tax expense in fiscal 2001 results from state income
+expense. No U.S. Federal nor foreign income taxes are payable for fiscal 2001
+due to tax operating losses for the U.S. and U.K. No deferred income tax expense
+was recorded because the Corporation provided 100% valuation allowances for U.S.
+and foreign deferred tax assets. The Corporation decided to provide such
+valuation allowances to adjust the net deferred tax assets to zero based upon
+management's assessment that it is more likely than not that the net operating
+loss carryforwards and other deferred tax assets items will not be realized
+through future taxable earnings or implementation of tax planning strategies
+considered likely to be available in the future. The income tax benefit in
+fiscal 2000 resulted primarily because U.S. tax losses generated from continuing
+operations were used to reduce the taxable income generated from the sale of the
+Wyle Series A Preferred Stock, offset partially by a $116 increase in the
+foreign tax valuation allowances. In fiscal 1999, the Corporation provided
+current domestic tax expense of $268 (primarily U.S. alternative minimum tax)
+and $1,445 for deferred tax expense related to increased valuation allowances.
+Such valuation allowances adjusted the net domestic tax assets to zero based
+upon management's assessment that it was more likely than not that none of the
+domestic deferred tax assets would be realized through future taxable earnings
+or implementation of tax planning strategies then available. Foreign tax expense
+of $132 was provided in fiscal 1999.
+
+ The loss from continuing operations was $1,366 ($0.27 per share) in
+fiscal 2001, $871 ($0.17 per share) in fiscal 2000 and $6,065 ($1.20 per
+share) in fiscal 1999. The increased loss in fiscal 2001 was due to lower EBITDA
+of the housewares segment as a result of their decreased revenue and lower gross
+profit margin and increased interest expense which resulted from the debt
+incurred in the acquisition of the six hospitals and related businesses on
+February 1, 2001. The decreased loss in fiscal 2000 as compared to fiscal 1999
+was due to improved results of the housewares segment which increased its gross
+profit margin and decreased its overhead expenses resulting in an increase in
+their EBITDA of $2,664. Corporate EBITDA also increased $506 as a result of
+reduced payroll and travel costs.
+
+RESULTS OF OPERATIONS - DISCONTINUED OPERATIONS
+
+ The fiscal 2001 earnings from discontinued operations of $1,844
+resulted from the $2,457 pre-tax gain on the sale of the child safety segment,
+partially offset by a $474 after tax loss from operations
+
+ 29
+<PAGE> 30
+
+(prior to the sale) of the child safety segment and a $139 after tax loss from
+the LS&E segment which resulted from domestic pension curtailment expenses.
+Earnings from discontinued operations in fiscal 2000 of $2,454 resulted from
+$2,649 of earnings from the LS&E segment, partially offset by a $195 operating
+loss from the child safety segment. The LS&E segment earnings were composed of
+the pre-tax gain on the sale of Wyle Series A Preferred Stock of $4,153 offset
+by $680 of domestic pension curtailment expenses and $824 of domestic income tax
+expense. The fiscal 1999 loss from discontinued operations of $2,568 resulted
+from an after-tax loss of $2,741 from the child safety segment (which included a
+$1,315 asset impairment charge to reduce to zero the goodwill recorded in
+connection with the purchase of the segment), a $194 loss from the LS&E segment,
+an additional provision of $220 for losses of the industrial segment, and a $587
+after-tax gain on the sale of the leisure marine segment.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+ At March 31, 2001, the Corporation had outstanding U.S. debt of
+$19,913, all of which was incurred in connection with the February 1, 2001
+purchase of the six community hospitals and related businesses.
+
+ The U.S. debt includes a short term loan of $4,000, a seller financed
+balloon note of $14,476 and a seller financed zero coupon note of $1,437. The
+short-term loan was made to SunLink by a group of three private equity funds and
+matures February 1, 2002. The short-term loan initially bears interest at the
+prime rate plus 5.5% (13.5% at March 31, 2001) and the rate escalates beginning
+August 2, 2001 to prime plus 10.5% and monthly thereafter in increments to a
+rate of prime plus 20.5% beginning January 2, 2002. It is management's intention
+to refinance the bridge loan prior to maturity.
+
+ The balloon note, due January 31, 2006, has a face amount of $17,000
+and a stated interest rate of 8.5% which, because it is considered a below
+market interest rate, has been discounted for financial reporting purposes to a
+market interest rate of 12.3%. The balloon note has a payment-in-kind (PIK)
+feature for interest accrued through January 31, 2003. Interest due and payable
+through that date can be paid in additional balloon notes due 2002 and the
+Corporation presently intends to issue PIK notes for interest due through
+January 31, 2003. The interest accrued through March 31 2001 of $237 has been
+included in the principal amount of the balloon note at March 31, 2001. The
+purchase agreement for the six hospitals provides for an adjustment to the
+balloon note to the extent working capital at the purchase date was greater or
+less than an agreed upon amount. The Corporation has submitted to the seller a
+working capital adjustment to reduce the balloon note by $1,053. The seller has
+objected to the adjustment and the Corporation and seller currently are seeking
+to conclude the working capital adjustment settlement under the dispute
+provisions of the sale agreement. No adjustment for any working capital
+settlement has been made to the balloon note at March 31, 2001.
+
+ The zero coupon note is due January 31, 2004 has a face amount of
+$2,000, and has been discounted to a market interest rate of 11.3%. The
+principal amount of the zero coupon note is subject to reduction for certain
+indemnified items pursuant to the purchase agreement. The Corporation has not
+made any claims for reduction of the zero coupon note.
+
+ The Corporation had outstanding U.K. debt of $3,754 at March 31, 2001,
+including a term loan of $1,345 relating to the Beldray manufacturing facility
+which has monthly principal payments and matures in fiscal 2010, $451 of debt
+under capital leases at Beldray and a working capital line with a U.K. bank of
+$1,958. Availability under the working capital line fluctuates with increases or
+decreases of eligible accounts receivable.
+
+ 30
+<PAGE> 31
+
+ At March 31, 2001, the Corporation had a cash balance of $3,263 and
+$581 in an escrow account relating to the sale of Klippan. The escrow is
+scheduled to be paid at various dates between June 2001 and October 2002.
+Substantially all cash is in the U.S. The Corporation believes it has adequate
+financing in both the U.S. and U.K. to support its current level of operations
+during fiscal 2002, but will require refinancing of the bridge loan during
+fiscal 2002.
+
+ The Corporation used cash of approximately $1,304, $3,751 and $580 in
+operating activities in fiscal 2001, 2000 and 1999, respectively. In fiscal
+2001, the use of cash resulted from cash used to fund U.S. and U.K. corporate
+overhead expenses and to pay U.S. income taxes of $356, offset somewhat by cash
+generated from reduced working capital in the housewares segment. The use of
+cash in fiscal 2000 resulted from cash used to provide working capital for the
+European operations (primarily to reduce accounts payable balances and pay
+restructuring expenses), fund corporate expenses and to pay U.S. income taxes.
+In fiscal 1999, the use of cash resulted from the fiscal 1999 net loss, net of
+non-cash depreciation of $881 and deferred income taxes of $1,722, offset
+partially by cash generated from reduced working capital in the housewares
+segment.
+
+ The Corporation used $3,034 in cash for investing activities in fiscal
+2001 while generating $3,917 and $8,278 in cash from investing activities in
+fiscal 2000 and 1999 respectively. Cash of $4,759 used for the SunLink
+Acquisition and $994 for capital expenditures which were somewhat offset by cash
+generated from the sale of Klippan of $2,487 in fiscal 2001. Fiscal 2001 capital
+expenditures included $753 for the hospital segment and $239 for new equipment
+for the housewares segment. Fiscal 2000 cash generated from investing activities
+included $4,215 proceeds from the sale of the Wyle Series A Preferred Stock
+offset by $215 used for capital expenditures, primarily for new equipment at the
+housewares segment. Fiscal 1999 cash generated from investing activities
+included $8,178 from the sale of the leisure marine business and $220 from the
+sale of excess assets, offset by $120 used for capital expenditures, primarily
+for new equipment at the housewares segment. The Corporation repurchased a total
+of 278,700 shares for cash of $1,363 in fiscal 1999 and repurchased 1,245 shares
+for cash of $2 in fiscal 2000. All repurchased shares were retired by the
+Corporation. At March 31, 2001, there were no material commitments for capital
+expenditures.
+
+INFLATION
+
+ During periods of inflation and labor shortages, employee wages
+increase and suppliers pass along rising costs to the Corporation in the form of
+higher prices for their raw materials and services. The Corporation has not
+always been able to offset increases in operating costs by increasing prices for
+its services and products, increasing its manufacturing efficiency or
+implementing cost control measures. The Corporation is unable to predict its
+ability to control future cost increases or offset future cost increases by
+passing along the increased cost to customers.
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+ Recent Accounting Pronouncements and their expected impact are
+discussed at Note 1 of the Notes to Consolidated Financial Statements at Item 8
+of this Annual Report on Form 10-K.

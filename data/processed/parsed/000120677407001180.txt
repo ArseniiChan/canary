@@ -1,0 +1,772 @@
+AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+
+(Year references, including those in charts, are to fiscal years ended February 28 unless otherwise specified)
+
+Introduction
+
+Headquartered in St. Louis, Missouri, A.G. Edwards, Inc. is a financial services holding company whose principal operating subsidiary is the national investment firm of A.G. Edwards & Sons, Inc. (“Edwards”), which is a successor to a partnership formed in 1887. A.G. Edwards, Inc. and its operating subsidiaries (collectively, the “Company”), provide securities and commodities brokerage, investment banking, trust services, asset management, retirement and financial planning, insurance products, and other related financial services.
+
+The Company’s client base is comprised mostly of individual investors and includes corporations, governments, municipalities and financial institutions. Total client assets at the end of 2007 were $374 billion, an increase of $31 billion (9 percent) when compared to the end of 2006.
+
+The Company serves its clients through one of the securities industry’s largest branch-office networks with locations in all 50 states, the District of Columbia, London, England and Geneva, Switzerland. The Company added six locations during 2007, increasing its total to 744. The total number of full-time employees decreased by 142 (1 percent) to end the year at 15,338. The number of the Company’s financial consultants declined 206 (3 percent) to end the year at 6,618. Average client assets per financial consultant at the end of 2007 were $56.5 million, an increase of $6.2 million (12 percent).
+
+Executive Summary
+
+Economic/Market Conditions
+
+As the fiscal year progressed and the economic data turned more positive, the actions of investors suggested they were becoming more comfortable with the economic and market environments. While the first four months of the fiscal year were largely dominated by rising interest rates and rising oil prices, along with economic data that provided no clear indication of the economy’s direction, the last eight months displayed much of the opposite.
+
+17
+
+After raising the Federal Funds rate from 4.75 percent to 5.25 percent from March to June, the Federal Reserve held the rate steady from June through the end of February. Crude oil prices, which peaked at more than $77 per barrel in July, hovered in the $58-$63 range for much of the fiscal third quarter, fell as low as $50 per barrel in the fourth quarter, and closed the year at $62 per barrel. Consumer price inflation increased at its smallest monthly rates during the last six months of the year, and Gross Domestic Product growth maintained slower, steadier progress from April to December, further relaxing concerns of additional Federal Funds rate increases.
+
+The positive economic news later in the year was reflected in the equity markets. While the major stock market indexes posted modest gains through the first six months, their fiscal-year highs and the bulk of the overall gains came within the last six months. It should be noted that the fiscal-year results for these indexes were adversely affected by heavy stock-selling in the last week of the fiscal year. The Standard & Poor’s 500 Index increased 126 points (10 percent), gaining 103 of those points (8 percent) in the last six months, to finish the year at 1,407. Similarly, the Dow Jones Industrial Average increased 1,275 points (12 percent), gaining 888 points (8 percent) in the last six months, to finish at 12,269. The Nasdaq Composite Index, meanwhile, was at a 4 percent loss through the first six months before ending the year with a 135-point (6 percent) increase to finish at 2,416.
+
+Regulatory Environment
+
+The enactment of new or changes in existing laws or regulations, new or changed interpretations or enforcement of such laws or regulations, or court decisions concerning them in the U.S. or in other jurisdictions could materially affect the Company’s business, financial condition or results of operations in one or more periods. Recent changes include the New York Stock Exchange (“NYSE”) and the National Association of Securities Dealers, Inc. (“NASD”), which have regulatory authority over the business of Edwards as a broker-dealer, announcing that they intend to merge their regulatory operations into a single regulatory body that is expected to begin operations in the second quarter of calendar 2007. Recent regulatory changes concerning the trading of securities under Regulation NMS issued by the SEC and related actions are affecting how Edwards and other broker-dealers handle transactions. The Chairman and
+the Director of the Division of Investment Management of the SEC have stated that the SEC will be reviewing the fees paid by mutual fund companies to broker dealers and other entities under rule 12b-1 of the Securities and Exchange Act of 1934. Edwards receives significant payments of 12b-1 fees and changes in the rule governing such fees could have a material adverse affect on the receipt of such payments by Edwards. The United States Court of Appeals for the District of Columbia Circuit in March 2007 invalidated a final rule adopted by the SEC that exempted broker-dealers including Edwards from the requirements of the Investment Advisers Act in connection with certain activities and accounts. As a result of this ruling Edwards has stopped opening new fee-based brokerage accounts known as Client Choice and is reviewing the status of existing accounts and other business activities. The impact of this court ruling cannot be determined with certainty but, unless changed, will affect how brokerage
+activities are performed by Edwards and other broker-dealers.
+
+As with most other publicly held companies, the Company was subject to the ongoing implementation of the Sarbanes-Oxley Act of 2002, particularly as it pertained to internal control over financial reporting. (See the “Controls and Procedures” section, Part II, Item 9A, for a detailed discussion of the Company’s report on internal control over financial reporting).
+
+Company Performance Summary
+
+Overall for 2007, the Company set a record for annual net revenues at $3.1 billion and experienced its fourth consecutive year of increased net revenues. The Company also posted its fifth consecutive year of increased net earnings, earnings per diluted share, pre-tax profit margin and return on average equity:
+
+18
+
+Additionally, results for 2006 have been adjusted to reflect a change in accounting method related to stock options and restricted stock (collectively referred to as “Stock Awards”) granted to retirement-eligible employees under Statement of Financial Accounting Standards No. 123 (Revised 2004) “Share Based Payment” (“SFAS No. 123R”).
+
+In reviewing its results for 2007, the Company’s asset-management and service-fee revenues for the second consecutive year accounted for the largest percentage of net revenues, at 41 percent in 2007 and 39 percent last year. Higher client-asset levels in fee-based programs, mutual funds and other individual investments helped this revenue line grow to $1.3 billion, a 19 percent increase for the year. The Company continues to believe this trend reflects a natural migration by clients toward fee-based programs and services to diversify their portfolios. In response to this client demand, the Company continues to expand its lineup of fee-based programs and services, including additional portfolio choices in its fund advisory programs and the introduction of its Unified Managed Portfolios, a program that allows investments in mutual funds and exchange traded funds and by professional money managers.
+
+Helped by asset-management and service-fee revenue, net revenues for 2007 increased $370 million (14 percent) as the Company posted increases in every major revenue category. Of note, the $55 million (24 percent) increase in investment banking revenues largely reflected a significant increase in underwriting volume of closed-end funds and equity offerings. Additionally, the $45 million (26 percent) increase in net interest revenues reflected an increased prime rate resulting in higher interest rates charged on margin balances, higher interest rates earned on the fixed-income inventory held for sale to clients and higher balances and rates earned on short-term investments partially offset by decreased margin loan balances.
+
+During 2007, total client assets grew more than $31 billion (9 percent), while client assets in fee-based accounts grew $7 billion (18 percent).
+
+The Company’s results for 2007 included $23 million in revenue for gains related to the merger of the NYSE and Archipelago Holdings, Inc. to form NYSE Group, Inc. (“NYSE Group”), including the mark-to-market on NYSE Group shares the Company currently holds. The results also included $18 million in revenue for gains on the sales of shares in the Intercontinental Exchange (“ICE”) and Chicago Mercantile Exchange (“CME”) and the mark-to-market on the ICE, CME and New York Mercantile Exchange (“NYMEX”) shares the Company currently holds.
+
+Non-interest expenses for 2007 increased, albeit at a slower pace than revenue growth. Expenses for compensation and benefits in 2007 increased mainly due to greater revenue produced by the Company’s financial consultants, earnings allocated to the Company’s incentive compensation and a change in the expense recognition for employee awards of restricted stock and stock options. Communication and technology expenses also increased, largely because of higher depreciation expenses, higher technology-consulting expenses and higher securities-processing costs, which are consistent with greater client activity. The securities-processing costs became more variable in nature after the Company moved its securities-processing operations to an application service provider last year. As a partial offset, other expenses declined during the period as a result of lower expenses for addressing various regulatory changes and legal
+matters.
+
+When comparing the Company’s results for 2007 to those for 2006:
+
+Net earnings
+ – Increased $105 million (47 percent) to $331 million.
+
+Diluted earnings per share
+ – Increased $1.41 (48 percent) to $4.34.
+
+Net revenues
+ – Increased $370 million (14 percent) to $3.1 billion.
+
+Pre-tax profit margin
+ – Increased from 12.4 percent to 16.7 percent.
+
+19
+
+When comparing the Company’s results for 2006* to those for 2005:
+
+Net earnings
+ – Increased $40 million (21 percent) to $226 million.
+
+Diluted earnings per share
+ – Increased $0.56 (24 percent) to $2.93.
+
+Net revenues
+ – Increased $132 million (5 percent) to $2.7 billion.
+
+Pre-tax profit margin
+ – Increased from 11.3 percent to 12.4 percent.
+
+*Fiscal 2006 amounts have been adjusted due to a change in accounting method. See Note 2 (Employee Stock Plans) of the Notes to the Consolidated Financial Statements for a detailed discussion of the Company’s Stock-Based Compensation plan.
+
+The results for 2006 included $5 million in revenue for gains on the sale of shares in the Chicago Board of Trade (“CBOT”), $8 million in gains on CME shares, and a $3 million gain on the sale of real estate. The 2006 results also reflected $6 million in tax benefits resulting from the resolution of certain tax matters, including $3 million in tax benefits from the resolution of tax matters related to technology research and development tax credits.
+
+As a result of the Company’s March 1, 2005 early adoption of SFAS No. 123R, the Company recognized in the first quarter of 2006 a one-time, $3 million after-tax benefit, as the cumulative effect of a change in accounting method, resulting from the requirement to estimate forfeitures of restricted stock awards at the date of grant instead of recognizing them as incurred. Based on interpretive guidance related to SFAS No. 123R, the Company changed its accounting method such that compensation expense only for Stock Awards to retirement-eligible employees was retroactively recorded in 2006, in accordance with Statement of Financial Accounting Standards No. 154 “Accounting Changes and Error Corrections a replacement of APB Opinion No. 20 and FASB Statement No. 3” (“SFAS No. 154”). Stock Awards to non-retirement eligible employees for 2006 granted in the first quarter of 2007 are being expensed over their service
+period, generally three years.
+
+In both the 2007 versus 2006 and the 2006 versus 2005 comparisons, the Company experienced a general increase in net revenues paced by record results in asset-management and service-fee revenues, combined with higher compensation expenses based on higher commissionable revenue and the Company’s increased profitability. A detailed discussion of the Company’s results of operations follows.
+
+Results of Operations
+
+The Company generates revenues primarily through Edwards. These revenues can be categorized into six main components: asset-management and service fees, commissions, principal transactions, investment banking, net interest revenue and other.
+
+Many factors affect the Company’s net revenues and profitability, including economic and market conditions, the level and volatility of interest rates, inflation, political events, investor sentiment, legislative and regulatory developments, and competition. Because many of these factors are unpredictable and beyond the Company’s control, earnings may fluctuate significantly from year to year.
+
+The following table illustrates the composition of the Company’s net revenues for 2007, 2006 and 2005:
+
+2007
+
+2006
+
+2005
+
+Asset management and service fees
+
+41%
+
+39%
+
+35%
+
+Commissions
+
+33%
+
+37%
+
+40%
+
+Principal transactions
+
+7%
+
+8%
+
+10%
+
+Investment banking
+
+9%
+
+9%
+
+9%
+
+Net interest
+
+7%
+
+6%
+
+5%
+
+Other
+
+3%
+
+1%
+
+1%
+
+Following are descriptions of the Company’s revenue and expense components and its operational results in each:
+
+Asset Management and Service Fees
+
+Revenues from asset-management services are based principally on the amount of certain client assets held through the Company. These assets may be managed by the Company, by Gallatin Asset Management, Inc. (“Gallatin”) or by third-party investment managers, including third-party portfolio managers, mutual funds, managed futures funds, money market funds, annuities and insurance companies. The Company manages certain client assets through the A.G. Edwards Trust Company FSB (“Trust Company”), a wholly owned subsidiary and
+
+20
+
+federally chartered savings bank that provides portfolio management and trust services. In addition, the Company offers a non-discretionary advisory program known as Portfolio Advisor and a discretionary advisory program known as FC Advisor.
+
+The Company also offers fee-based fund advisory programs that allow clients to select from recommended, established asset allocation models or customize their own models in certain programs. The fund advisory programs are known individually as AGE Allocation Advisors, AGE Pathways and AGE Professional Fund Advisor.
+
+Gallatin provides separately managed accounts and other services to Edwards and markets its investment-management services to unaffiliated mutual-fund firms, pension-fund providers, insurance companies and other financial institutions, including banks and brokerage firms. Gallatin receives management fees for its services.
+
+Asset-management and service-fee revenues for 2007 increased $203 million (19 percent) to post an annual record of $1.3 billion. Growth in this revenue category was helped by the Company’s fee-based programs, which increased $88 million (23 percent) due in part to an 18 percent increase in the number of client accounts in these programs under third-party management or through the Company’s fee-based transaction accounts and trust services.
+
+Fees received from third-party mutual funds, managed futures and insurance providers increased $113 million (20 percent) mainly as a result of increased asset values in these investment products. Service-fee revenues increased $3 million (2 percent) due in part to an increase by Edwards in the postage and handling fee on certain transactions.
+
+Asset-management and service-fee revenues displayed modest volatility throughout the year but generally maintained an upward bias as it established a new annual record. The Company’s fund advisory programs again displayed the greatest strength among the Company’s fee-based programs, both in terms of client-asset growth (45 percent) and client-account growth (38 percent).
+
+Client assets in fee-based accounts increased $7 billion (18 percent) from February 28, 2006 to February 28, 2007 and increased $7 billion (22 percent) from February 28, 2005 to February 28, 2006. An analysis of changes in assets in fee-based accounts from these time periods is detailed below (dollars in millions):
+
+February 28,
+
+February 28,
+
+February 28,
+
+Assets in fee-based accounts
+
+2007
+
+2006
+
+2007 vs. 2006
+
+2005
+
+2006 vs. 2005
+
+Fund advisory programs
+
+$20,393
+
+$14,059
+
+45
+
+%
+
+$ 9,871
+
+42
+
+%
+
+Separately managed accounts
+
+12,853
+
+12,030
+
+7
+
+%
+
+11,438
+
+5
+
+%
+
+Company-managed and
+
+other fee-based accounts
+
+10,922
+
+11,357
+
+(4)
+
+%
+
+9,443
+
+20
+
+%
+
+Total assets in fee-based accounts
+
+$44,168
+
+$37,446
+
+18
+
+%
+
+$30,752
+
+22
+
+%
+
+In mid-February 2007, the Company introduced its bank deposit program (“AGE Bank Deposit Program”) to certain clients as part of a multi-stage rollout to all eligible clients. The AGE Bank Deposit Program offers up to $1 million in FDIC insurance, competitive interest rates and the opportunity to earn higher interest rates based on household asset values and account type. Also in 2007, the Trust Company received approval from the Office of Thrift Supervision (“OTS”) to expand its powers to be able to accept time and demand deposits so it can participate, along with several other FDIC-insured banks, in the AGE Bank Deposit Program. The Company expects the Trust Company to begin accepting client deposits in the second quarter of 2008.
+
+The revenue contribution of the AGE Bank Deposit Program was not material to the Company’s 2007 results of operations. The revenue impact of this program in 2008 cannot be determined with certainty and will depend, among other things, on the amount of assets that clients move into the AGE Bank Deposit Program, when the Trust Company begins accepting deposits, the amount of deposits placed with the Trust Company, the amount of new assets brought to the Company as a result of this program, and competitive and economic factors. As of April 25, 2007, the Company had average money fund balances of $20 billion that are eligible for conversion to this program.
+
+21
+
+Revenue and expenses derived from deposits placed with the Trust Company through the AGE Bank Deposit Program will be reflected in net interest revenue in future periods. Revenue and expenses derived from assets deposited in other FDIC-insured banks through this program will be reflected in asset-management and service fees in future periods.
+
+In 2006 asset-management and service-fee revenues increased $144 million (16 percent). The growth was driven by a $63 million (19 percent) increase in revenue from the Company’s fee-based programs, generated in part by a 22 percent increase in the number of client accounts in these programs under third-party management or through the Company’s fee-based transaction accounts and trust services.
+
+Fees received from third-party mutual funds, managed futures and insurance providers increased $78 million (21 percent) mainly as a result of increased asset values in these investment products. Service-fee revenues increased $7 million (8 percent) due to greater revenue from the Company’s asset accounts and investment-research services. These results were partially offset by a $4 million (3 percent) decline in fees received from the distribution of certain money funds, due mainly to a decrease in client assets in those money funds.
+
+Commissions
+
+The Company generates commission revenues when acting as an agent for client activities in transaction-based accounts in listed and over-the-counter securities, mutual funds, insurance products, futures and options. These revenues can be affected by trading volumes, by the dollar value of individual transactions, by market and economic conditions, and by investor sentiment because the Company’s clients are primarily retail-oriented.
+
+Commission revenues increased $14 million (1 percent) in 2007 compared to 2006. Commissions from equity transactions increased $9 million (2 percent), revenues from transactions in insurance products increased $5 million (3 percent) and commissions from individual mutual-fund transactions were essentially flat. As a partial offset to these increases, commission revenues from commodities and financial futures decreased $1 million (5 percent) and commission revenues from options transactions decreased $1 million (2 percent).
+
+Commission revenues from equity transactions were at or near their best performance in May, while they displayed their weakest performance in July, consistent with market declines and seasonally slower activity. The Company benefited modestly from a change in its commission schedule for equity and options transactions, which went into effect March 15, 2006. Commission revenues from individual mutual-fund and insurance-product transactions were strongest in the first and fourth quarters of 2007. The Company believes the essentially flat revenue contribution from individual mutual-fund transactions was partly attributable to the continued client migration toward fee-based fund advisory programs.
+
+Commission revenues for 2006 declined $16 million (2 percent) from 2005. While commissions from listed-stock transactions increased $9 million (2 percent), commissions in over-the-counter equities declined $13 million (14 percent). Meanwhile, commissions from transactions in mutual funds declined $16 million (6 percent) and commissions from commodities and financial futures decreased $1 million (4 percent). These declines were partially offset by a $2 million (7 percent) increase in revenues from options transactions and a $3 million (2 percent) increase in transaction revenues from insurance products.
+
+The 2006 commission revenues generally reflected increased client activity in equities and mutual funds when major market indexes reached various peaks. Revenues from insurance products were generally steady throughout 2006 as clients sought these products to help diversify their portfolios. Additionally, the strong pace of asset growth in fee-based programs suggested greater client interest in these programs versus individual transactions.
+
+Principal Transactions
+
+The Company maintains inventories of fixed-income and equity securities to satisfy client demand and, therefore, effects certain transactions with its clients by acting as a principal. Realized and unrealized gains and losses result from the sale and holding of securities positions for resale to clients and are included in principal-transaction revenues.
+
+22
+
+In 2007 principal-transaction revenues increased $5 million (2 percent) versus 2006. A $9 million (11 percent) revenue increase from transactions in equity securities held in the Company’s inventory overcame decreases of $2 million (6 percent) in revenues from corporate-debt transactions and $2 million (3 percent) in revenues from municipal-debt transactions. Revenue from government-debt transactions was essentially flat.
+
+Client activity in over-the-counter equity securities was generally consistent with equity activity noted above in Commission revenues. Conversely, client activity in municipal- and government-debt securities was strongest in the periods of weakness for the equity markets as clients took more defensive positions in their portfolios.
+
+In 2006 principal-transaction revenues decreased $44 million (17 percent) versus 2005. The overall decline in this revenue category was driven almost entirely by a slowdown in client activity in the fixed-income markets, as evidenced by a $17 million (19 percent) decrease in revenue from municipal-bond transactions, a $17 million (39 percent) decrease in corporate-debt transactions and a $13 million (29 percent) decrease in revenue from government-debt transactions. These decreases were partially offset by $3 million (4 percent) increase in revenues from transactions in equity securities held in the Company’s inventory. Investor concerns about interest rates and improving equity markets were the main factors affecting activity in this revenue category during 2006.
+
+Investment Banking
+
+Investment banking revenues result primarily from bringing new issues of securities, both equity-based and fixed income-based, to the market for issuers. The issuers are generally corporate or municipal clients but may be institutional clients of Edwards in the case of exchange-traded funds and related products. Investment banking revenues vary depending on the number and size of transactions successfully completed and generally are received in the form of underwriting fees or selling concessions. Additionally, the Company receives fees for financial advisory services, including advice on mergers and acquisitions, restructurings, and other strategic advisory needs.
+
+Investment banking revenues in 2007 increased $55 million (24 percent), posting their second-best annual performance and their best-ever quarterly performance in the fourth quarter. Underwriting fees and selling concessions from equity products increased $26 million (21 percent). Underwriting fees and selling concessions from corporate-debt products increased $4 million (18 percent). These increases were partially offset by a $3 million (12 percent) decrease in underwriting fees and selling concessions from municipal- and government-debt products.
+
+The Company participated in a significantly greater volume of equity underwritings during 2007, particularly in the area of closed-end funds as several large issues came to market. Related management fees from these underwritings accounted for much of the overall increase in management fees. The Company also had a greater volume of underwritings in its core focus areas of energy, financial and real estate. The increase in corporate-debt activity was primarily due to increased client demand for preferred-debt issues. The revenue decrease from municipal underwritings was mainly due to greatly reduced volume from municipalities issuing new debt or refinancing existing debt.
+
+In 2006 investment banking revenues decreased $11 million (5 percent). While underwriting fees and selling concessions from corporate-equity products were essentially flat for the year, underwriting fees and selling concessions from corporate-debt products decreased $7 million (23 percent) and government-debt products decreased $4 million (66 percent). Management fees in 2006 decreased $6 million (8 percent). These results were partially offset by a $5 million (28 percent) increase in underwriting fees and selling concessions from municipal-debt products. The underwriting environment in 2006 was largely the opposite experienced in 2007, as the Company had a significantly lower volume of closed-end-fund underwriting partially offset by a greater volume of municipal underwritings as municipalities took advantage of the interest-rate environment.
+
+Net Interest Revenue
+
+Interest revenue is derived primarily from financing clients’ margin transactions. These revenues are based largely on the amount of client margin balances and the rate of interest charged on these balances. The Company also earns revenue from interest and dividend payments on inventory held for sale to clients and from short-term investments.
+
+23
+
+Interest revenue net of interest expense increased $45 million (26 percent) in 2007. A 2 percent increase in the prime rate – the base rate the Company uses for charging interest on average margin balances – was primarily responsible for the $8 million (6 percent) increase in revenue from margin balances. During the year, average client margin balances declined from $1.9 billion to $1.6 billion. The decline in these balances is believed to be, in part, the by-product of more client assets moving to fee-based programs, most of which do not allow clients to have margin accounts. Higher interest rates also were the primary driver behind a $25 million (153 percent) increase in revenue from the Company’s short-term investments. Higher interest rates from fixed-income securities and dividend payments from equity securities held in inventory contributed to a $17 million (65 percent) revenue increase from this
+inventory.
+
+As noted earlier, net interest revenue in future periods will reflect the impact of client assets deposited in the Trust Company through the AGE Bank Deposit Program.
+
+The following chart details the average client margin balances as of February 28(29) 2004, 2005, 2006 and 2007 and the average rate charged on those balances:
+
+Interest revenue net of interest expense increased $46 million (37 percent) in 2006 for mainly the same reasons as those noted above for the 2007 results. Average client margin balances during 2006 declined from $2.1 billion to $1.9 billion.
+
+Other Revenue
+
+Other revenue is derived primarily from the Company’s investment activities in equity and equity-related securities along with four Company-sponsored private equity partnerships.
+
+Other revenue increased $47 million (107 percent) in 2007. These results included $23 million in revenue for gains related to the merger of the NYSE and Archipelago Holdings, Inc. to form NYSE Group, including the mark-to-market on NYSE Group shares the Company currently holds. The results also included $14 million in revenue for gains on the sale of shares in ICE and the mark-to-market on the ICE and NYMEX shares the Company currently holds. Additionally, the results in other revenue reflected a $21 million increase in gains in 2007 versus 2006 on the Company’s private-equity investment valuations and dividend payments. The increase was partially offset by a $3 million decrease in gains the Company recorded in 2007 versus 2006 for the sale of shares in the CME and the mark-to-market on other CME shares the Company currently holds. The 2006 and 2007 sales of CME shares occurred after shareholding requirements for CME
+membership were lowered. The 2007 sale of ICE shares occurred after the merger of ICE and New York Board of Trade (“NYBOT”) in January 2007.
+
+In 2006 other revenue increased $14 million (46 percent). The 2006 results included a $5 million gain on the sale of shares in the CBOT that the Company was not required to own for CBOT membership. The increase also included a $3 million gain on the sale of real estate and a $13 million increase in revenue from the Company’s private-equity investment valuations and dividend payments. The increase was partially offset by a $2 million decrease in gains the Company recorded in 2006 versus 2005 for the sale of shares in the CME and the mark-to-market on other CME shares the Company currently holds. Both the 2005 and 2006 sales of CME shares occurred after the CME lowered shareholding requirements for CME membership.
+
+24
+
+Expenses
+
+The Company’s expenses are categorized into six components: compensation and benefits, communication and technology, occupancy and equipment, marketing and business development, floor brokerage, and other expenses.
+
+Compensation and Benefits
+
+Compensation and benefits expenses comprise the largest components of the Company’s overall expenses. Most of these expenses are variable in nature and relate to commissions paid to the Company’s financial consultants for transaction-based or asset-management services and to incentive compensation, which is largely based on the profitability of the Company. This expense category also includes employee healthcare insurance costs.
+
+For 2007, compensation and benefits increased $171 million (10 percent). Commission expense increased $55 million (7 percent). Incentive compensation increased $103 million (32 percent), which included $13 million in amortization expense related to stock awards for non-retirement eligible employees and $7 million in accrued expense for Stock Awards to be granted to retirement-eligible employees. Retirement-eligible employees generally are those age 55 and older. See Note 2 (Employee Stock Plans) of the Notes to Consolidated Financial Statements for further discussion of the recent change of accounting method for retirement-eligible employees. Administrative salaries increased $5 million (1 percent), and costs related to healthcare insurance and other benefits increased $13 million (8 percent).
+
+The increase in commission expense was primarily the result of higher commissionable revenue from fee-based programs and individual transactions, partially offset by adjustments Edwards made to the compensation of its financial consultants effective April 3, 2006, lowering the commission payout schedule to its financial consultants on certain transactions. The increase in incentive compensation was due mainly to the Company’s 47 percent increase in net earnings during 2007 and an increase in the number of financial consultants qualifying for sales bonuses. The increase in administrative salaries largely reflected general salary increases. The increase in healthcare insurance costs was mainly a reflection of generally higher individual claims during the year.
+
+For 2006, compensation and benefits expenses increased $62 million (4 percent). Commission expense increased $11 million (1 percent) and incentive compensation increased $4 million (1 percent), both due to increased sales and earnings. Administrative salaries increased $6 million (2 percent) as a result of general salary increases and a net increase in salaried employees. Healthcare insurance costs increased $5 million (9 percent) due to higher individual claims.
+
+As a partial offset to other incentive-compensation expenses, the Company’s early adoption of SFAS No. 123R additionally resulted in an expense for Stock Awards only for non-retirement eligible employees being recognized in 2006. Stock awards granted at the end of 2006 for non-retirement eligible employees are being expensed over their service period, generally three years, which began in 2007. See Note 2 (Employee Stock Plans) of the Notes to Consolidated Financial Statements for further discussion of the impact of the Company’s change in accounting method for Stock Awards to retirement-eligible employees.
+
+Upon the adoption of SFAS No. 123R, the Company recognized the compensation expense related to Stock Awards to retirement-eligible employees on the date of grant. Based on interpretive guidance related to SFAS No. 123R, on March 1, 2006, the Company changed its accounting method for recognizing the cost of Stock Awards that are granted to retirement-eligible employees. The Company is accruing an expense throughout the fiscal year preceding the date of grant representing an estimate of Stock Awards to be granted to retirement-eligible employees as a result of such fiscal year’s service rather than recognize the expense on grant date, which occurs in the first quarter of the subsequent fiscal year. The accounting for Stock Awards to non-retirement eligible employees did not change and will be recognized over the service period, generally three years from grant date. Following is a table that outlines the actual/projected expense
+impact for non-retirement eligible employees Stock Awards for the fiscal years 2007 through 2010:
+
+25
+
+Actual/Projected Expense Impact of Non-Retirement Eligible Employees Stock Awards
+
+For Non-Retirement
+
+Eligible Employees Stock
+
+2007
+
+2008
+
+2009
+
+2010
+
+Awards Granted For:
+
+Expense Impact
+
+Expense Impact
+
+Expense Impact
+
+Expense Impact
+
+2006
+
+$13 million
+
+$11 million
+
+$10 million
+
+$ 2 million
+
+2007
+
+—
+
+$15 million
+
+$14 million
+
+$13 million
+
+Total Actual/Projected
+
+$13 million
+
+$26 million
+
+$24 million
+
+$15 million
+
+Expenses For
+
+plus expense
+
+plus expense for
+
+Non-Retirement
+
+for Stock
+
+Stock Awards to be
+
+Eligible Employees
+
+Awards to be
+
+granted in April
+
+Stock Awards
+
+granted in April
+
+2008 and 2009
+
+2008
+
+Differences between the projected and actual expenses for non-retirement eligible employees Stock Awards for 2008 and subsequent fiscal years may occur as a result of actual employee forfeitures of non-retirement eligible employees Stock Awards compared to the Company’s estimates and/or future accounting pronouncements by the Financial Accounting Standards Board (“FASB”), SEC or other regulatory authority.
+
+Communication and Technology
+
+Communication and technology expenses mainly encompass those costs associated with operating the Company’s back-office systems and technology infrastructure, which includes computer software and hardware – and the amortization and depreciation of each – along with data and trade processing. This expense line also includes costs for contract workers assigned to the Company’s various technology projects and needs. Additionally, account-statement printing and mailing, telephone service and technology repairs and maintenance all fall under this expense category.
+
+Communication and technology expenses increased $21 million (9 percent) in 2007. Professional expenses for outside consultants increased by $17 million (93 percent) due to various projects, including the Company’s transition from certain legacy back-office systems. Amortization and depreciation expenses increased $5 million (7 percent) as a result of several new technology projects. Expenses associated with the conversion of securities-processing operations to an application service provider increased $4 million (35 percent) due in part to greater client activity. As partial offsets, expenses related to repairs and maintenance decreased $2 million (14 percent) and expenses for certain telecommunications services decreased $3 million (15 percent).
+
+In 2006 communication and technology expenses declined $5 million (2 percent) as the Company completed several significant projects, resulting in decreased professional expenses for outside consultants. Amortization and depreciation expenses also decreased as several assets became fully depreciated. Partially offsetting these decreases were increases from securities-processing expenses associated with the conversion of securities-processing operations to an application service provider and data-processing expenses associated with data-processing services provided by an outside service provider.
+
+Occupancy and Equipment
+
+Occupancy and equipment expenses relate mainly to the leases for the Company’s branch-office locations and the amortization and depreciation expenses associated with equipment and furniture in those locations.
+
+In 2007 occupancy and equipment expenses increased $6 million (4 percent) primarily due to higher rates associated with renewing certain branch-office leases.
+
+In 2006, occupancy and equipment expenses decreased $7 million (5 percent). The decrease was primarily due to a $10 million charge recorded in 2005 to correct the recognition period for rent-escalation clauses and lease incentive in certain branch-office leases. The decrease was partially offset by increases in amortization expenses for leasehold improvements.
+
+26
+
+Marketing and Business Development
+
+Marketing and business development expenses are mainly related to the Company’s branding initiative, local-branch advertising and promotional efforts, and travel and entertainment expenses.
+
+In 2007 marketing and business development expenses increased $5 million (7 percent). Expenses associated with the Company’s national sales conference largely accounted for a $6 million (54 percent) increase in travel expenses. Partially offsetting this increase was $2 million (4 percent) in decreased costs associated with the Company’s branding initiative and other business-promotion expenses primarily resulting from timing differences in advertising schedules.
+
+While the amount for 2008 has not been determined with certainty, the Company expects its branding initiative to cost approximately $20 million, with fluctuations from period to period.
+
+In 2006 marketing and business development expenses increased $6 million (9 percent) primarily due to an increase in advertising expenses associated with the Company’s branding initiative and other business-promotion expenses.
+
+All Other Expenses
+
+All remaining operational expenses are largely related to professional expenses for legal, regulatory and audit consulting services, reserves and settlements for legal and regulatory matters, licensing and registration fees, publication and subscription expenses, and floor brokerage expenses.
+
+In 2007 all remaining operational expenses decreased $13 million (7 percent), led by an $11 million (20 percent) decline in professional expenses for legal and regulatory consulting services. Reserves and settlements for various legal and regulatory matters were $3 million (8 percent) lower than the prior year. A $2 million (9 percent) decrease in floor brokerage and clearance expenses resulted from lower fees charged by various securities exchanges. As a partial offset, the Company had a $3 million (15 percent) increase in expenses related to certain media-vendor services.
+
+In 2006 all remaining operational expenses increased $31 million (20 percent) due largely to increases in reserves and settlements for various legal and regulatory matters, professional expenses for legal and regulatory consulting services, and an increase in registration fees due mainly to an $8 million credit recorded in 2005 to correctly recognize state registration fees for the Company’s financial consultants over the registration period.
+
+Income Taxes
+
+The Company’s effective tax rate was 36.4 percent for 2007 compared with 34.5 percent for 2006. The increase in the effective tax rate was due largely to the recognition of $6 million in tax benefits from the resolution of certain tax matters during 2006, including $3 million in tax benefits from the resolution of tax matters related to technology research and development tax credits.
+
+Impact of Stock Exchange Holdings
+
+On March 7, 2006, the NYSE and Archipelago Holdings, Inc. closed a merger agreement and formed a new holding company, NYSE Group. In the merger, NYSE members were entitled, and the Company elected, to receive $404,640 and 78,601 shares of NYSE Group common stock for each NYSE membership seat. The sale of shares are subject to certain restrictions that expire ratably over a three-year period, unless the NYSE Group board of directors removes or reduces the transfer restrictions earlier. The NYSE Group board of directors authorized a secondary distribution, and the Company sold 67,841 shares in the offering, at a price of $60.27 per share in May 2006. In addition, Edwards purchases trading licenses through a modified Dutch auction process every year in order to receive the right to trade securities on the floor of the exchange. In January 2007, Edwards purchased four NYSE trading licenses at a price of $50,000 each.
+
+At February 28, 2006, Edwards had four NYSE membership seats included in other assets on the consolidated balance sheet at a total cost of $492,000. Factoring in the Company’s cost basis for the four seats and the transfer restrictions on the remaining shares, the Company recorded a $23 million gain related to the merger. Subsequent gains or losses will be recorded in future periods as transfer restrictions expire and the share price of NYSE Group stock fluctuates. As of February 28, 2007, the Company owned 246,563 NYSE Group shares.
+
+27
+
+Edwards currently has two NYMEX membership seats included in other assets at a cost of $10,000. In addition, Edwards owns 196,800 shares of NYMEX common stock, of which 150,000 are required membership holdings and 46,800 are subject to transfer restrictions. Factoring in the Company’s cost basis for the two seats and the transfer restrictions on the remaining shares, the Company recorded a $6 million unrealized gain on the mark to market of the common stock as of February 28, 2007.
+
+Edwards currently has six NYBOT membership seats included in other assets at a cost of $243,000. In January 2007, the NYBOT and the ICE closed a merger agreement that resulted in the issuance of ICE common stock to existing NYBOT membership seat holders. As a result of the merger, Edwards received 66,404 shares of ICE common stock, of which 27,402 shares are required membership holdings and 7,905 shares were available for sale. Edwards sold 31,097 shares during the current year. Factoring in the Company’s cost basis for the six seats and the sales proceeds, the Company recorded an $8 million gain related to the merger and subsequent sale of ICE common stock.
+
+Edwards currently has three CME membership seats included in other assets at a cost of $9,000. As of February 28, 2007, Edwards owned 12,666 shares of CME common stock, of which 8,000 shares were required membership holdings. Edwards sold 2,334 common shares in February 2007. The Company recorded $7 million gain for the sale of stock and a $3 million gain for the mark to market of remaining available for sale shares.
+
+Edwards currently has two CBOT membership seats included in other assets at a cost of $31,000. As of February 28, 2007, Edwards owned 54,676 shares of CBOT common stock, all of which are required membership holdings. The book value of both the CBOT seats and shares are held at cost, and no gain was recognized in the current year.
+
+As a result of the changes noted above at various securities exchanges of which the Company is a member, has trading privileges or has access to, portions of the Company’s shareholdings in these exchanges will impact the Company’s results of operations. Subsequent gains or losses will be recorded in future periods as transfer restrictions expire, as the share prices of these stocks fluctuate, and if any or all of these exchanges change shareholding requirements for membership. Shares required for exchange membership do not impact results of operations and are included in other assets on the consolidated balance sheet.
+
+ Following is a table that illustrates the exchanges in which the Company owned shares:
+
+ Shares Impacting
+
+ Shares Required
+
+ Results of
+
+ for Exchange
+
+Securities Exchange
+
+ Operations
+
+ Membership
+
+ Total Shares Held
+
+NYSE Euronext(2)
+
+246,563
+
+(1)
+
+—
+
+246,563
+
+NYMEX
+
+46,800
+
+(1)
+
+150,000
+
+196,800
+
+ICE
+
+7,905
+
+27,402
+
+35,307
+
+CME
+
+4,666
+
+(1)
+
+8,000
+
+12,666
+
+CBOT
+
+54,676
+
+54,676
+
+Other exchanges
+
+1,100
+
+1,100
+
+____________________
+
+(1)
+
+Includes certain sales restrictions as set forth by the various exchanges.
+
+(2)
+
+NYSE Group, Inc. and Euronext N.V. merged to create NYSE Euronext on April 4, 2007.
+
+Impact of Change in Accounting Principle for Stock Awards to Retirement Eligible Employees
+
+Effective March 1, 2006, the Company changed its accounting for restricted-stock and stock-options awards (collectively referred to as the “Stock Awards”) granted to retirement-eligible employees from expense recognition on grant date to expense recognition over the fiscal-year the Stock Awards are earned. As a result of this accounting change in 2007, the Company accrued an expense throughout the fiscal year for Stock Awards granted to retirement-eligible employees as a result of service during the fiscal year rather than recognize the expense on grant date, which occurred in April 2008. The accounting for awards to non-retirement eligible employees did not change and continues to be recognized over the service period, generally three years from grant date.
+
+28
+
+Due to this change in the Company’s accounting method, Stock Awards to retirement-eligible employees for 2006 totaling $20 million were accounted for in accordance with SFAS No. 154. This amount, net of taxes, was retrospectively applied to 2006 financial statements, including interim financial statements. In 2007, an adjustment was made to the opening balances as if the change in accounting for Stock Awards to retirement-eligible employees had been in effect in prior periods. The result was that the opening balance of retained earnings were reduced by the amount of the Stock Awards, net of taxes, for retirement-eligible employees for 2006.
+
+Employees, including retirement-eligible employees, were granted 1,030,024 restricted shares with a market value of approximately $53 million, and 308,170 options on April 17, 2006.
+
+Litigation and Regulatory Matters
+
+The Company is a defendant in a number of lawsuits, in some of which plaintiffs claim substantial amounts, relating primarily to its securities and commodities business. Management has determined that it is likely that ultimate resolution in favor of the plaintiffs will result in losses to the Company on certain of these claims and as a result, establishes accruals for potential litigation losses. The Company also is involved, from time to time, in investigations and proceedings by governmental and self-regulatory agencies, certain of which may result in adverse judgments, fines or penalties. Factors considered by management in estimating the Company’s reserves for these matters are the loss and damages sought by the plaintiffs, the merits of the claims, the total cost of defending the litigation, the likelihood of a successful defense against the claims, and the potential for fines and penalties from regulatory agencies. The
+Company establishes reserves for potential losses to the extent that such matters are probable and can be estimated, in accordance with Statement of Financial Accounting Standards No. 5, “Accounting for Contingencies.” As litigation and the resolution of regulatory matters are inherently unpredictable, the Company cannot predict with certainty the ultimate loss or range of loss related to matters where there is only a reasonable possibility that a loss may be incurred. The Company believes, based on current knowledge and after consultation with legal counsel, that the resolution of loss contingencies will not have a material adverse effect on the consolidated balance sheet, statement of earnings or statement of cash flows of the Company. However, the outcome of such matters could be material to the Company’s operating results and cash flows for future or interim periods, depending, among other things, on the results of operations for these periods.
+
+See “Item 3. - Legal Proceedings” for further discussion of legal and regulatory matters.
+
+Liquidity and Capital Resources
+
+The Company’s assets fluctuate in the normal course of business, primarily due to the timing of certain transactions. The Company monitors and evaluates the composition and size of its balance sheet. A substantial portion of the Company’s total assets consist of short-term receivables mainly resulting from margin loans to clients, along with highly liquid marketable securities. The principal sources for financing the Company’s business are stockholders’ equity, cash generated from operations, short-term bank loans and securities-lending arrangements. The Company has no long-term debt. Average short-term bank loans of $2 million and $28 million and average securities-lending arrangements of $179 million and $144 million for the years ended February 28, 2007 and 2006, respectively, were primarily used to finance customer margin transactions.
+
+The Trust Company has been authorized to begin accepting time and demand deposits by the OTS. The Trust Company plans to begin accepting demand deposits from the AGE Bank Deposit Program in mid-calendar 2007. For further discussion, see Asset Management and Service Fees. The Trust Company is required to maintain minimum capital amounts and ratios to be considered as “well-capitalized” under the OTS regulatory framework for prompt corrective action. These requirements are approximately 10 percent of deposits. The exact amount of additional capital to be required by the Trust Company is subject to uncertainty.
+
+In November 2006, the Company’s Board of Directors authorized the repurchase of 10,000,000 shares of the Company’s outstanding stock during the period from January 1, 2007, through December 31, 2008. In November 2004, the Company’s Board of Directors authorized the repurchase of up to 10,000,000 shares of the Company’s outstanding stock during the period November 19, 2004, through December 31, 2006. There were 6,203,611 shares repurchased by the end of the expiration period for the November 19, 2004 authorization. In November 2002, the Company’s Board of Directors authorized the repurchase of up to 10,000,000 shares of the Company’s outstanding
+
+29
+
+common stock during the period of January 1, 2003, through December 31, 2004. The January 1, 2003 authorization was fulfilled in its entirety. The Company purchased 3,241,865 shares at an aggregate cost of $181 million in 2007, 3,204,769 shares at an aggregate cost of $142 million in 2006 and 7,026,392 shares at an aggregate cost of $250 million in 2005. At February 28, 2007, the Company had up to 9,419,832 shares available for repurchase under the January 2007 authorization.
+
+In May 2005, the Company’s Board of Directors authorized the repurchase of up to 5,000,000 shares of the Company’s outstanding stock solely to effect employee stock transactions in the Company’s Retirement and Profit Sharing Plan during the period May 24, 2005, through May 31, 2008. The Company purchased 332,437 shares at an aggregate cost of $19 million during the year ended February 28, 2007. The Company purchased 153,021 shares at an aggregate cost of $7 million during the year ended February 28, 2006. At February 28, 2007, the Company had up to 4,514,542 shares available for repurchase under this authorization.
+
+In May 2005, the Company’s Board of Directors authorized the sale of up to 5,000,000 shares of the Company’s stock to the Company’s Retirement and Profit Sharing Plan during the period May 24, 2005 through May 31, 2008. The Company sold 372,293 shares at aggregate proceeds of $18 million in 2007. The Company sold 153,727 shares at aggregate proceeds of $7 million during the year ended February 28, 2006. At February 28, 2007, the Company had 4,473,980 shares available to sell.
+
+Tabular Disclosure of Contractual Obligations
+
+The following table summarizes information about the Company’s long-term contractual commitments and obligations as of February 28, 2007 (dollars in thousands):
+
+More than
+
+Contractual Obligations
+
+Total
+
+2008
+
+2
+009-2010
+
+2011-2012
+
+5 years
+
+Operating lease obligations
+
+$
+ 470,600
+
+$ 93,400
+
+$ 156,000
+
+$ 107,500
+
+$
+ 113,700
+
+Communications, technology, and other
+
+ service commitments
+
+216,300
+
+103,100
+
+77,800
+
+32,300
+
+3,100
+
+$
+ 686,900
+
+$ 196,500
+
+$ 233,800
+
+$ 139,800
+
+$
+ 116,800
+
+The Company had unfunded commitments of $30 million to various private equity investments at February 28, 2007. These commitments are subject to calls by the partnerships, as funds are needed.
+
+Management believes the Company has adequate sources of credit available, if needed, to finance customer-trading volumes, additional capital for the Trust Company, expansion of its branch system, stock repurchases, dividend payments and major capital expenditures. Currently the Company, with certain limitations, has access to $1.2 billion in uncommitted lines of credit as well as the ability to increase its securities lending activities.
+
+Edwards is required by the SEC to maintain specified amounts of liquid net capital to meet its obligations to clients. At February 28, 2007, Edwards’ net capital of $785 million was $747 million in excess of the minimum requirement.
+
+Critical Accounting Policies
+
+The consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States of America. In preparing these consolidated financial statements, management makes use of certain estimates and assumptions. See Note 1 (Summary of Significant Accounting Policies) of the Notes to Consolidated Financial Statements. The Company believes that of its significant accounting policies, the following critical policies, estimates and assumptions may involve a higher degree of judgment and complexity and are the most susceptible to significant fluctuations in the near term.
+
+Valuation of Investments
+
+The fair value of investments, for which a quoted market or dealer price is not available, is based on management’s estimate. Among the factors considered by management in determining the fair value of investments are cost, terms and liquidity of the investment, the sale price of recently issued securities, the financial condition and operating results of the issuer, earnings trends and consistency of operating cash flows, the long-term business potential of the issuer, the quoted market price of securities with similar quality and yields that are publicly traded,
+
+30
+
+information as to any transactions or offers with respect to the security, existence of merger proposals or tender offers affecting the securities, and other factors generally pertinent to the valuation of investments. The Company holds investments that may have quoted market prices but that are subject to restrictions (e.g., consent of the issuer or other investors to sell) that may limit our ability to realize the quoted market price. Accordingly, the Company estimates the fair value of these securities based on management’s best estimates, which incorporates pricing models based on projected cash flows, earnings multiples, comparisons based on similar transactions and/or review of underlying financial conditions and other market factors.
+
+Legal Reserves and Regulatory Matters
+
+The Company is a defendant in a number of lawsuits, in some of which plaintiffs claim substantial amounts, relating primarily to its securities and commodities business. Management has determined that it is likely that ultimate resolution in favor of the plaintiffs will result in losses to the Company on certain of these claims and as a result, establishes accruals for potential litigation losses. The Company also is involved, from time to time, in investigations and proceedings by governmental and self-regulatory agencies, certain of which may result in adverse judgments, fines or penalties. Factors considered by management in estimating the Company’s reserves for these matters are the loss and damages sought by the plaintiffs, the merits of the claims, the total cost of defending the litigation, the likelihood of a successful defense against the claims, and the potential for fines and penalties from regulatory agencies. The
+Company establishes reserves for potential losses to the extent that such matters are probable and can be estimated, in accordance with Statement of Financial Accounting Standards No. 5, “Accounting for Contingencies.” As litigation and the resolution of regulatory matters are inherently unpredictable, the Company cannot predict with certainty the ultimate loss or range of loss related to matters where there is only a reasonable possibility that a loss may be incurred. The Company believes, based on current knowledge and after consultation with legal counsel, that the resolution of loss contingencies will not have a material adverse effect on the consolidated balance sheet, statement of earnings or statement of cash flows of the Company. However, the outcome of such matters could be material to the Company’s operating results and cash flows for future or interim periods, depending, among other things, on the results of operations for these periods.
+
+See “Item 3. - Legal Proceedings” for further discussion of legal and regulatory matters.
+
+Allowance for Doubtful Accounts From Customers
+
+Receivables from customers consist primarily of floating rate loans collateralized by margin securities. Management estimates an allowance for doubtful accounts to reserve for potential losses from unsecured and partially secured customer accounts deemed uncollectible. The facts and circumstances surrounding each receivable and the number of shares, price and volatility of the underlying collateral are considered by management in determining the allowance. Management continually evaluates its receivables from customers for collectibility and possible write-off. The Company manages the credit risk associated with its receivables from customers through credit limits and continuous monitoring of collateral.
+
+Income Taxes
+
+The Company operates in multiple taxing jurisdictions, and as a result, accruals for tax contingencies require management to make estimates and judgments with respect to the ultimate tax liability in any given year. Actual results could vary from these estimates. In management’s opinion, adequate provisions for income taxes have been made for all years.
+
+Valuation of Stock Options
+
+The Company uses SFAS No. 123R to account for awards of equity instruments to employees. SFAS No. 123R requires measurement of the cost of employee services received in exchange for an award based on the fair value of the award on the grant date. The fair value of the stock options is estimated using expected dividend yields of the Company’s stock, the expected volatility of the stock, the expected length of time the options remain outstanding, and risk-free interest rates. Changes in one or more of these factors may significantly affect the estimated fair value of the stock options. Additionally, SFAS No. 123R requires the Company to estimate the number of instruments for which the required service is expected to be rendered. The Company estimates forfeitures using historical forfeiture rates for previous grants of equity instruments.
+
+31
+
+Recent Accounting Pronouncements
+
+In February 2007, the FASB issued SFAS No. 159, “The Fair Value Option for Financial Assets and Liabilities, including an amendment of FASB Statement No. 115” (“SFAS No. 159”). SFAS No. 159 permits entities to choose, at specified election dates, to measure many financial instruments and certain other items at fair value that are not currently required to be measured at fair value. Unrealized gains and losses shall be reported on items for which the fair value option has been elected in earnings at each subsequent reporting date. SFAS No. 159 is effective for fiscal years beginning after November 15, 2007. Early adoption is permitted as of the beginning of a fiscal year that begins on or before November 15, 2007, provided the entity also elects to apply the provisions of SFAS No. 157 “Fair Value Measurements” (“SFAS No. 157”). The Company is currently assessing the impact that SFAS No. 159
+will have on the consolidated financial statements.
+
+In September 2006, FASB issued SFAS No. 158, “Employers’ Accounting for Defined Benefit Pension and Other Postretirement Plans - an amendment of FASB Statements No. 87, 88, 106, and 132(R)” (“SFAS No. 158”). SFAS No. 158 requires employers to recognize the overfunded or underfunded status of a defined benefit post-retirement plan as an asset or liability in its statement of financial position. Further, this statement requires employers to recognize changes in the funded status in the year in which the changes occur through comprehensive income. SFAS No. 158 is effective for fiscal years ending after December 15, 2006. The Company’s adoption of SFAS No. 158 did not have a material impact on the consolidated financial statements.
+
+In September 2006, the FASB issued SFAS No. 157 which defines fair value, establishes a framework for measuring fair value in generally accepted accounting principles, and expands disclosures about fair value measurement. This statement applies under other accounting pronouncements that require or permit fair value measurements and does not require any new fair value measurements. SFAS No. 157 is effective for fiscal years beginning after November 15, 2007. The Company is currently assessing the impact that SFAS No. 157 will have on the consolidated financial statements.
+
+In September 2006, the SEC issued Staff Accounting Bulletin No. 108, “Considering the Effects of Prior Year Misstatements when Quantifying Misstatements in the Current Year Financial Statements” (“SAB 108”). SAB 108 addresses how the effects of prior year uncorrected misstatements should be considered when quantifying misstatements in current year financial statements. SAB 108 requires an entity to quantify misstatements using a balance sheet and income statement approach and to evaluate whether either approach results in quantifying an error that is material in light of relevant quantitative and qualitative factors. SAB No. 108 is effective for fiscal years ending after November 15, 2006. The Company’s adoption of SAB No. 108 did not have a material impact on the consolidated financial statements.
+
+In June 2006, FASB issued FASB Interpretation No. 48, “Accounting for Uncertainty in Income Taxes - an interpretation of FASB Statement No. 109” (“FIN 48”). FIN 48 clarifies the accounting for uncertainty in income taxes recognized in a company’s financial statements and prescribes a recognition threshold and measurement attribute for the financial statement recognition and measurement of a tax position expected to be taken in a tax return. FIN 48 also provides guidance on derecognition, classification, interest and penalties, accounting in interim periods, disclosure and transition. FIN 48 is effective for fiscal years beginning after December 15, 2006. The Company will adopt the provisions of FIN No. 48 beginning in the first quarter of 2008. The Company is currently evaluating the impact the adoption of FIN 48 may have on the consolidated financial statements.
+
+In June 2005, the FASB issued SFAS No. 154, “Accounting Changes and Error Corrections – a replacement of APB Opinion No. 20 and FASB Statement No. 3,” (“SFAS No. 154”). SFAS No. 154 changes the requirements for the accounting for and reporting of a change in accounting method. SFAS No. 154 is effective for accounting changes made in fiscal years beginning after December 15, 2005. The Company adopted SFAS No. 154 on March 1, 2006, and applied the pronouncement to its change in accounting method for stock awards granted to retirement-eligible employees.
+
+32
+
+Risk Management
+
+General
+
+Finding the proper balance of risk taking and risk mitigation, in a manner consistent with the Company’s risk appetite, is critical to the success of the Company’s financial stability and long-term profitability. The business activities of the Company expose it to a variety of risks, including operational, legal and regulatory, credit and market risk. Company management oversees the identification and assessment of the various risks and the development of appropriate risk mitigation activities, which primarily consist of internal controls, policies, and procedures. The execution of the risk mitigation activities is carried out at the business-unit level. The Company is in the early stages of developing an Enterprise Risk Management function to help coordinate and support firm-wide risk management efforts. Furthermore, the Internal Audit Department, reporting directly to the Audit Committee, provides independent
+assessments on the effectiveness of the risk management activities occurring throughout the Company. The following discussion highlights the principal risks faced by the Company and provides examples of how these risks are managed.
+
+Operational Risk
+
+Operational risk refers to the risk of loss resulting from inadequate or failed internal processes, people and systems, or from external events. This includes, but is not limited to, business interruptions, improper or unauthorized execution and processing of transactions, deficiencies in the Company’s operating systems, and inadequacies or breaches in the Company’s control processes. The Company is reliant on the ability of its employees, its internal systems, and the systems of its third-party vendors to process a large number of transactions. In the event of a breakdown or improper operation of the Company’s or third-party’s systems or improper actions by employees, the Company could suffer financial loss, regulatory sanctions and damage to its reputation.
+
+In order to mitigate and control operational risk, the Company has developed, and continues to enhance, specific internal controls, policies and procedures that are designed to identify and manage operational risk at appropriate levels throughout the organization. The purpose of these mechanisms is to provide reasonable assurance that the Company’s business operations are functioning within the policies and limits established by management. Additionally, business continuity plans have been developed for critical processes and systems so that the Company can sufficiently recover its critical operations should a business interruption occur.
+
+Legal and Regulatory Risk
+
+Legal and regulatory risk includes the risk of non-compliance with applicable legal and regulatory requirements, the risk of adverse legal judgments against the Company, and the risk that a counterparty’s performance obligations will be unenforceable. The Company is subject to extensive regulation in the different jurisdictions in which it conducts its business, and this regulatory scrutiny has been significantly increasing over the last several years. The Company has established and continues to enhance procedures based on legal and regulatory requirements that are reasonably designed to ensure compliance with all applicable statutory and regulatory requirements. In connection with its business, the Company has various procedures addressing significant topics such as regulatory capital requirements, sales and trading practices, new products, use and safekeeping of customer funds and securities, extension of credit, money
+laundering, privacy, and record keeping. The Company also has established procedures that are designed to ensure that senior management’s policies relating to conduct, ethics and business practices are followed.
+
+Credit Risk
+
+Credit risk is the risk of loss resulting from a client or counterparty failing to satisfy its contractual obligations with the Company or from the value of collateral held by the Company to secure obligations proving to be insufficient. The Company is primarily exposed to credit risk in its role as a lender to its customers and as a trading counterparty to dealers and customers.
+
+The primary source of the Company’s credit exposure is through customer margin loans, which are collateralized in accordance with internal and regulatory guidelines and monitored on a daily basis. Additional collateral is requested from customers when necessary to maintain compliance with internal and regulatory guidelines. Large customer margin loans and those margin loans related to concentrated or restricted positions are
+
+33
+
+evaluated by the Company’s Credit Committee, which is comprised of senior members of management from across the Company. The collateral requirements are increased, if necessary, to ensure the risk remains at an acceptable level.
+
+The Company is also exposed to credit risk by providing clearing services for securities transactions in its client accounts and by participating in the securities lending business. The Company has an obligation to settle transactions with clearing organizations and other financial institutions and is exposed to loss if a client or counterparty fails to meet its obligations to the Company. The Company also executes securities lending activity in order to obtain financing and securities to support its business activities and its customers’ trading activities. In most cases, the customer or counterparty has provided financial instruments as collateral for these transactions. The collateral value is monitored and additional collateral is obtained when appropriate.
+
+See Note 11 (Financial Instruments — Off-Balance Sheet Risk and Concentration of Credit Risk) of the Notes to Consolidated Financial Statements for additional information related to credit risk.
+
+Market Risk
+
+Market risk is the potential change in value of financial instruments resulting from fluctuations in interest rates and/or equity prices. The Company’s primary exposure to market risk comes from maintaining an inventory of fixed-income and equity security positions to provide investment products for its clients. The Company purchases only inventory that it believes it can readily sell to its clients, thus reducing the Company’s exposure to liquidity risk but not market fluctuations. The Company does not act as a dealer, trader or end-user of complex derivative products such as swaps, collars and caps. The Company may provide advice and guidance on complex derivative products to selected clients; however, this activity does not involve the Company acquiring a position or commitment in these products.
+
+Interest Rate Risk
+. Interest rate risk refers to the risk of changes in the level or volatility of interest rates, in the speed of payments on mortgage-backed securities, in the shape of the yield curve and in credit spreads. The Company is exposed to this risk as a result of maintaining inventories of interest-rate-sensitive financial instruments. This is the Company’s primary market risk.
+
+The Company manages its interest rate risk through the establishment and monitoring of trading policies and securities inventory guidelines and through the implementation of control and review procedures. The Company also manages this risk using hedging practices that involve U.S. Treasury obligations. On a daily basis, management monitors trading results, current inventory levels, concentrated inventory positions, and aged inventory positions. Real-time inventory data allows for intraday inventory management, and there is daily communication between trading department management and senior management regarding the Company’s inventory positions and risk profile.
+
+The Company elects to use a sensitivity analysis approach to express the potential decrease in the fair value of the Company’s debt inventory consisting of interest-rate-sensitive financial instruments. The Company calculated the potential loss in fair value of its debt inventory by calculating the change in the valuation of its fixed-income security inventories resulting from an increase of 10 percent or 50 basis points, whichever is greater, in the Treasury yield curve. Using this method, if such an increase occurred the Company calculated a potential loss in fair value of its debt inventory of $4 million at February 28, 2007, and 2006, respectively. The Company changed one assumption in its sensitivity analysis from the previous year. The Company no longer includes in its calculation those financial instruments with limited market risk exposure resulting from a short period of time until the interest rate resets. Including
+these financial instruments in the previous year’s analysis, the resulting potential loss was calculated at $10 million at February 28, 2006.
+
+Equity Price Risk
+. Equity price risk refers to the risk of changes in the level or volatility of the price of equity securities. The Company is exposed to this risk as a result of its market making activities and other investment activities. The Company manages this risk by establishing guidelines for its equity inventories and managing position levels within those guidelines. At February 28, 2007, and 2006, the potential daily loss in the fair value of equity securities related to the Company’s market-making activities was not material.
+
+34
+
+Included in Investments are $153 million in mutual funds that the Company uses to hedge its deferred compensation liability. The potential daily gain or loss in the fair value of these mutual funds is offset by a similar potential change in the value of the deferred compensation liability. Also included in Investments are $175 million in private equity investments that are subject to a high degree of volatility and valuation estimates, and may be susceptible to significant fluctuations particularly in the near term.
+
+Forward-Looking Statements
+
+The Management’s Discussion and Analysis of Financial Condition and Results of Operations and other sections of this Form 10-K may contain forward-looking statements within the meaning of federal securities laws. Actual results are subject to risks and uncertainties, including both those specific to the Company and those to the industry, which could cause results to differ materially from those contemplated. The risks and uncertainties include, but are not limited to, general economic conditions, government monetary and fiscal policy, the actions of competitors, changes in and effects of marketing strategies, client interest in specific products and services, the completion of all contractual, technological, legal and other requirements for the introduction of new products or services, regulatory changes and actions, changes in legislation, risk management, the impact of the AGE Bank Deposit Program and the expansion of powers
+of the Trust Company, legal claims, potential changes in compensation for or charges to financial consultants, technology changes, price adjustments, compensation changes, the impact of outsourcing agreements, the impact of SFAS No. 123R, including the timing of the recognition of expenses and the treatment of expenses for retirement-eligible employees, the impact and value of the Company’s investments including NYSE Euronext, the ability to achieve and the potential impact of acquisitions by the Company, implementation and effects of expense-reduction strategies, and efforts to make more of non-compensation expenses variable in nature. Undue reliance should not be placed on the forward-looking statements, which speak only as of the date of this Form 10-K. The Company does not undertake any obligation to publicly update any forward-looking statements.

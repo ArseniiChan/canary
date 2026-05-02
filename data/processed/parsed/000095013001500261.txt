@@ -1,0 +1,885 @@
+Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations
+
+17
+
+Item 7A
+
+Quantitative and Qualitative Disclosures About Market Risk
+
+17
+
+Item 8
+
+Financial Statements and Supplementary Data
+
+17
+
+Item 9
+
+Changes in and Disagreements with Accountants on Accounting and Financial
+
+Disclosure
+
+17
+
+Part III.
+
+Item 10
+
+Directors and Executive Officers of the Registrant
+
+18
+
+Item 11
+
+Executive Compensation
+
+18
+
+Item 12
+
+Security Ownership of Certain Beneficial Owners and Management
+
+18
+
+Item 13
+
+Certain Relationships and Related Transactions
+
+18
+
+Part IV.
+
+Item 14
+
+Exhibits, Financial Statement Schedules, and Reports on Form 8-K
+
+18
+
+By-Laws of Merrill Lynch & Co., Inc.
+
+Merrill Lynch & Co., Inc. 2001 Deferred Compensation Plan
+
+Statement Re Computation of Per Share Earnings
+
+Statement Re Computation of Ratios
+
+Excerpt of 2000 Annual Report to Stockholders
+
+Subsidiaries of Merrill Lynch & Co., Inc.
+
+Consent of Deloitte & Touche LLP
+
+Opinion of Deloitte & Touche LLP Re: Ratios of Earnings
+
+Opinion of Deloitte & Touche LLP Re: Selected Financial Data
+
+PART I
+
+Item 1.
+Business
+
+Overview
+
+ Merrill Lynch & Co., Inc.,* a Delaware corporation formed in 1973, is a holding company that, through its subsidiaries and affiliates, provides
+investment, financing, advisory, insurance, and related products and services on a global basis, including:
+
+ securities brokerage, trading, and underwriting
+
+investment banking, strategic services, including mergers and acquisitions, and other corporate
+
+ finance advisory activities
+
+ asset management
+
+ origination, brokerage, dealer and related activities in swaps, options, forwards, exchange-traded
+
+ futures, other derivatives and foreign exchange products
+
+ securities clearance and settlement services
+
+ equity, debt, foreign exchange, commodities and economic research
+
+ banking, trust, and lending services, including mortgage lending and related services
+
+ insurance sales and underwriting services
+
+ investment advisory and related recordkeeping services
+
+ Merrill Lynch provides these products and services to a wide array of clients, including individual investors, small businesses, corporations, governments,
+governmental agencies, and financial institutions.
+
+ Merrill Lynch's business has three business segments: the Corporate and Institutional Client Group ("CICG"), the Private Client Group
+("PCG") and Merrill Lynch Investment Managers ("MLIM"). Merrill Lynch provides financial services worldwide through various subsidiaries and affiliates that frequently participate in the facilitation and consummation of a single
+transaction. This organizational structure is designed to enhance the delivery of services to Merrill Lynch's diverse global client base and position it for worldwide growth. Merrill Lynch has organized its operations outside the United States into
+five regions:
+
+ Europe, Middle East, and Africa
+
+ Japan
+
+ Asia Pacific/Australia
+
+ Canada
+
+ Latin America
+
+ Merrill Lynch conducts its global business from various locations throughout the world. Its world headquarters facility is located at the World Financial
+Center in New York City and its other principal United States business and operational centers are in New Jersey, Colorado, Florida, and California. Merrill Lynch has a presence in 43 countries outside the United States, including offices in Buenos
+Aires, Dubai, Dublin, Frankfurt, Geneva, Hong Kong, Johannesburg, London, Madrid, Mexico City, Melbourne, Milan, Paris, Sao Paulo, Singapore, Sydney, Toronto, Tokyo and Zurich.
+
+ Merrill Lynch employed 72,000 people at the end of 2000.
+
+___________________
+
+*
+
+Unless the context otherwise requires, the term "Merrill Lynch" means Merrill Lynch & Co., Inc. and includes the consolidated subsidiaries of Merrill Lynch &
+Co., Inc. The term "ML & Co." is used herein where appropriate to refer to Merrill Lynch & Co., Inc., the parent holding company.
+
+1
+
+ At the end of 2000, total assets in client accounts or under management were approximately $1.7 trillion. In 2000, according to Thomson Financial Services
+Data, Merrill Lynch achieved the top ranking in U.S. debt and equity underwriting, and ranked fourth in U.S. completed and announced mergers and acquisitions. Merrill Lynch was the leading global debt and equity underwriter and ranked fifth in
+announced and third in completed non-U.S. mergers and acquisitions transactions.
+
+ Financial information concerning Merrill Lynch for each of the three fiscal years ended on the last Friday in December 2000, 1999, and 1998, including the
+amount of total revenue contributed by classes of similar services that accounted for 10% or more of its consolidated revenues in any one of these fiscal periods, as well as information with respect to Merrill Lynch's operations by segment and
+geographic area is set forth in Merrill Lynch's Consolidated Financial Statements and the Notes thereto in the Merrill Lynch & Co., Inc. 2000 Annual Report to Stockholders (the "Annual Report") included as an exhibit to this Form 10-K.
+
+Business Environment
+
+ The financial services industry, in which Merrill Lynch is a leading participant, is highly competitive and highly regulated. This industry and the global
+financial markets are influenced by numerous uncontrollable factors. These factors include economic conditions, monetary policies, the liquidity of global markets, international and regional political events, regulatory developments, the competitive
+environment, and investor sentiment. These conditions or events can significantly affect the volatility of financial markets. While greater volatility increases risk, it may also increase order flow in businesses such as trading and brokerage.
+Revenues and net earnings may vary significantly from period to period due to these unpredictable factors and the resulting market volatility and volumes.
+
+ The financial services industry continues to be affected by the intensifying competitive environment, as demonstrated by consolidation through mergers and
+acquisitions, diminishing margins in many mature products and services, and competition from new entrants as well as established competitors using the Internet or other technology to establish or expand their businesses. The Gramm-Leach-Bliley Act,
+passed in 1999, which repealed U.S. laws that separated commercial banking, investment banking and insurance activities, together with changes to the industry resulting from previous reforms, has increased the number of companies competing for a
+similar customer base.
+
+ In addition to providing historical information, Merrill Lynch may make or publish forward-looking statements about management expectations, strategic
+objectives, business prospects, anticipated financial performance, and other similar matters. A variety of factors, many of which are beyond its control, affect the operations, performance, business strategy, and results of Merrill Lynch and could
+cause actual results and experience to differ materially from the expectations and objectives expressed in these statements. These factors include, but are not limited to, the factors listed in the previous two paragraphs, as well as actions and
+initiatives taken by both current and potential competitors, the effect of current, pending, and future legislation and regulation both in the United States and throughout the world, and the other risks and uncertainties detailed in Competition and
+Regulation below and in Management's Discussion and Analysis in the Annual Report.
+Merrill Lynch undertakes no responsibility to update or revise any forward-looking statements.
+
+Description of Business Activities
+
+ The business activities of certain U.S. and non-U.S. Merrill Lynch subsidiaries comprising its three business segments are described below. Each subsidiary
+may provide products and services from some or all of these business segments. See Management's Discussion and Analysis and the Notes to the Consolidated Financial Statements in the Annual Report for further information about Merrill Lynch's
+business activities and policies, its business segments, services, and the geographic markets within which it operates.
+
+The Corporate and Institutional Client Group
+
+ The CICG businesses provide comprehensive investment banking, financing, and related products and services to corporations, institutional clients and
+sovereign governments throughout the world. These activities are conducted through a network of subsidiaries, including Merrill Lynch, Pierce, Fenner & Smith Incorporated ("MLPF&S"), Merrill Lynch International ("MLI"),
+and a number of other subsidiaries located in and outside the United States. CICG's activities predominately involve providing investment banking and other strategic mergers and acquisition advisory services; underwriting; trading, both as a broker
+and as a dealer, in equity securities, including common stock, preferred stock, american depositary receipts and other equity linked securities, debt securities, including investment grade, high yield, tax-exempt, asset backed, commercial paper and
+other short-term instruments, and derivative instruments; publishing and disseminating equity, debt, foreign exchange and economic research products and services; corporate lending, including syndicated and bridge financing; and providing various
+other capital markets services, including securities clearance activities.
+
+2
+
+ CICG's operations in the United States are conducted primarily out of Merrill Lynch's headquarters in New York City and
+from offices located throughout the United States, including Chicago, Houston, Boston, San Francisco, Los Angeles, Palo Alto, and Menlo Park, California. Merrill Lynch's CICG activities outside the United States are conducted through MLI and many
+non-U.S., locally established affiliates strategically located throughout the world, and a network of offices, including representative and liaison offices, located in more than 30 countries outside the United States. This office network services
+corporate clients, sovereign governments, and major "money center" institutions, as well as thousands of regional institutions.
+
+Investment Banking Activities:
+
+ Merrill Lynch is a leading global investment banking firm that participates in every aspect of investment banking for corporate, institutional, and
+governmental clients and acts in principal, agency, and advisory capacities. Advisory services include advice on strategic matters, including mergers and acquisitions, divestitures, spin-offs, restructurings, capital structuring, leveraged buyouts,
+and defensive projects. Merrill Lynch provides a wide variety of financial services, including underwriting the sale of securities to the public, privately placing securities with investors and developing structured and derivative financings,
+including project financing, and mortgage and lease financing.
+
+ Merrill Lynch, either directly or through affiliates, provides advice, valuation services, and financing assistance, and engages in the underwriting and
+private placement of securities in connection with, among other things, acquisition transactions, including mergers, leveraged buyouts and other acquisition-related transactions. It has, from time to time, taken principal positions in transactions
+and has extended credit to clients in the form of senior and subordinated debt, as well as provided bridge financing on a select basis, syndicated loans and participated in credit lines backing commercial paper for certain corporate issuers. Before
+engaging in any of these financing activities, an analysis is performed to ascertain the underlying creditworthiness of the particular client and the liquidity of the market for securities that may be issued in connection with any such financings
+and to determine the likelihood of refinancing within a reasonable period. In addition, equity interests in the subject companies are from time to time acquired as part of, or in connection with, such activities.
+
+ Merrill Lynch is also engaged in the business of making private equity investments in companies and in private funds and sponsors and manages private equity
+funds that invest in equity and debt securities of various companies. The limited partners of the funds managed by Merrill Lynch affiliates are primarily corporate and institutional investors. Merrill Lynch, through MLPF&S, MLI, and its other
+subsidiaries, may underwrite, trade, invest, and make markets in certain securities of companies in which the Merrill Lynch managed funds have invested, and may also provide financial advisory services to these companies.
+
+Brokerage, Dealer and Related Activities:
+
+ In the United States, MLPF&S is a broker for corporate, institutional and governmental clients, and is a dealer in the purchase and sale of corporate
+securities, primarily equity and debt securities traded on exchanges or in the over-the-counter markets. MLPF&S also acts as a broker and a dealer in the purchase and sale of mutual funds, money market instruments, government securities,
+high-yield bonds, municipal securities, futures, and options, including option contracts for the purchase and sale of various types of securities. Merrill Lynch, through MLPF&S, MLI, and various of its subsidiaries as described below, is a
+dealer in equity and fixed income securities of a significant number of U.S. and non-U.S. issuers, in U.S. and other sovereign government obligations, in U.S. municipal securities, and in mortgage-backed and asset-backed securities.
+
+ As an adjunct to its trading activities conducted by its subsidiaries, Merrill Lynch places its capital at risk by engaging in block positioning to
+facilitate transactions in large blocks of listed and over-the-counter securities and by engaging, from time to time, in arbitrage transactions for its own account. In its block positioning activities, securities are purchased, or are sold short for
+its own account, without having full commitments for their resale or covering purchase, thereby employing its capital to effect large transactions. Such positioning activities are undertaken after analyzing a given security's marketability, and any
+position taken typically is liquidated as soon as practicable. In addition, Merrill Lynch facilitates various trading strategies involving the purchase and sale of financial futures contracts and options and, in connection with this activity, it may
+establish positions for its own account and risk.
+
+ Merrill Lynch's U.S. broker-dealers, MLPF&S and ML & Co.'s subsidiary Herzog, Heine, Geduld, Inc., which was merged into a wholly-owned subsidiary of
+ML & Co. in July 2000, regularly make markets in approximately 11,000 equity securities. In addition, MLPF&S engages in dealer transactions in approximately 5,400 securities of non-U.S. issuers traded inthe over-the-counter markets. Outside
+the United States, MLI is a registered market maker in the equity securities of approximately 1600 non-U.S. corporations. MLPF&S and MLI are also dealers in mortgage-backed, asset-backed, and corporate fixed-income securities.
+
+ Through its subsidiary, Merrill Lynch Government Securities Inc. ("MLGSI"), Merrill Lynch is a primary dealer
+in
+
+3
+
+obligations issued or guaranteed by the U.S. Government and regularly makes a market in securities issued by Federal agencies and other government-sponsored entities, including Government National Mortgage
+Association, Federal National Mortgage Association, and Federal Home Loan Mortgage Corporation. It deals in mortgage-backed pass-through certificates issued by certain of these entities, and also in related futures, options, and forward contracts
+for its own account, to hedge its own risk, and to facilitate customers' transactions. As a primary dealer, MLGSI acts as a counterparty to the Federal Reserve Bank of New York and regularly reports positions and activities to the Federal Reserve
+Bank of New York.
+
+ An integral part of its business involves entering into repurchase agreements whereby funds are obtained by the Merrill Lynch subsidiary engaging in the
+transaction pledging its own securities as collateral. The repurchase agreements provide financing for dealer inventory and serve as short-term investments for customers, which customers include certain Merrill Lynch affiliates. As part of its
+business as a dealer in governmental obligations, the Merrill Lynch affiliate also enters into reverse repurchase agreements whereby it provides funds against the pledge of collateral by customers. Such agreements provide the Merrill Lynch affiliate
+with needed collateral and provide its customers with temporary liquidity for their investments in U. S. Government and agency securities or other non-U.S. government securities.
+
+ Various non-U.S. Merrill Lynch subsidiaries act as dealers in certain securities issued or guaranteed by the governments of the countries where such
+subsidiaries are located.
+
+Derivative Dealing Activities:
+
+ Merrill Lynch, through MLPF&S, MLI, Merrill Lynch Capital Services, Inc. ("MLCS") and Merrill Lynch Derivative Products AG ("MLDP")
+act as intermediaries and principals in a variety of interest rate, currency, and other over-the-counter derivative transactions. MLI engages in equity and credit derivatives business in the over-the-counter markets, and Merrill Lynch Capital
+Markets Bank Limited ("MLCMBL") is a credit intermediary and conducts part of Merrill Lynch's non-U.S. dollar swap activities. MLCS and MLDP are Merrill Lynch's primary interest rate and currency derivative product dealers. MLI is Merrill
+Lynch's primary credit and equity derivatives product dealer.
+
+ MLCS primarily acts as a counterparty for certain derivative financial products, including interest rate and currency swaps, caps and floors, and options.
+MLCS maintains positions in interest-bearing securities, financial futures, and forward contracts to hedge its derivative exposures. In the normal course of its business, MLCS enters into repurchase and resale agreements with certain affiliated
+companies. MLCS also engages in certain commodity-related transactions as a principal, and is licensed as a power marketer by the Federal Energy Regulatory Commission. See "Significant Strategic Initiatives-
+Acquisition and Divestiture
+ -
+sale of energy trading assets" for a discussion of Merrill Lynch's agreement to sell certain energy trading assets.
+
+ MLDP acts as an intermediary for certain derivative products, including interest rate and currency swaps, between MLCS and counterparties that are highly
+rated or otherwise acceptable to MLDP. Its activities address the desire of certain swap customers to limit their trading to those dealers having the highest credit quality. MLDP has been assigned the Aaa, AAA, and AAA counterparty rating by the
+rating agencies, Moody's Investors Service, Inc., Standard & Poor's, and Fitch IBCA, Inc., respectively. Customers meeting certain credit criteria enter into swaps with MLDP and, in turn, MLDP enters into offsetting mirror swaps with MLCS.
+However, MLCS is required to provide MLDP with collateral to meet certain exposures MLDP may have to MLCS.
+
+ MLCMBL, an Irish bank with branch offices in Frankfurt, Johannesburg, Labuan (Malaysia), Milan, Rome and Tokyo, acts as a credit intermediary and conducts
+part of Merrill Lynch's non-dollar swap activities. It engages in foreign exchange, swap and other derivative transactions, in addition to its underwriting, lending and institutional sales activities.
+
+Foreign Exchange Activities:
+
+ Merrill Lynch Global Foreign Exchange provides foreign exchange trading services to corporations and institutions in various countries through Merrill Lynch
+International Bank Limited ("MLIB Limited") and MLCMBL. Merrill Lynch Global Foreign Exchange has offices or agents in New York, London, Tokyo and Singapore.
+
+Mortgage Dealing Activities:
+
+ Merrill Lynch Mortgage Capital Inc. ("MLMCI") is a dealer in whole loan mortgages, mortgage loan participations, mortgage servicing and syndicated
+commercial loans. MLMCI, through its CMO Passport
+®
+
+service, provides dealers and investors with general indicative information and analytic capability with respect to collateralized mortgage obligations, mortgage pass-through certificates, and asset-backed securities. As an integral part of its
+business, MLMCI enters into repurchase agreements
+
+4
+
+whereby it obtains funds by pledging its own whole loans as collateral. The repurchase agreements provide financing for MLMCI's inventory and serve as short-term investments
+for MLMCI's customers. MLMCI also enters into reverse repurchase agreements through which it provides funds to customers collateralized by whole loan mortgages, thereby providing them with temporary liquidity. In addition, MLMCI provides to its
+clients short-term financing secured by performing and non-performing commercial real estate. MLMCI also makes proprietary equity investments in U.S. and non-U.S. companies owning performing, sub-performing and non-performing real estate and
+mortgages. Merrill Lynch Mortgage Lending, Inc. is a commercial mortgage conduit that makes, and purchases from lenders, commercial and multi-family mortgage loans and securitizes these loans for sale to investors.
+
+Money Markets Activities:
+
+ Merrill Lynch, through various subsidiaries including Merrill Lynch Money Markets Inc. ("MLMMI"), provides a full range of origination, trading,
+and marketing services with respect to money market instruments such as commercial paper, bankers' acceptances, and institutional certificates of deposit. Merrill Lynch also provides services in connection with the origination of medium-term notes
+issued by U.S. and non-U.S. corporations and short-term and medium-term bank notes issued by financial institutions, and through MLPF&S and MLI, it trades and markets such notes. MLMMI is also a commercial paper dealer for U.S. and non-U.S.
+corporations and financial institutions. MLMMI also acts as a dealer for U.S. and non-U.S. financial institutions in the certificate of deposit and bankers' acceptance markets and in connection with the purchase of certificates of deposit from
+Federally insured depository institutions. Such instruments are resold to certain institutional customers such as banks, insurance companies, investment companies, pension plans, and state and local governments. MLMMI, in cooperation with
+MLPF&S, originates certificates of deposit issued by bank and thrift institutions that are sold to a broad range of individual investor clients of MLPF&S.
+
+ Merrill Lynch offers standby "backstop" lines of credit to U.S. corporate clients in connection with rated commercial paper programs. Merrill Lynch
+offers this service through its affiliates Merrill Lynch Capital Corporation and Merrill Lynch Bank USA ("MLBUSA"). Commercial paper backstop lines are used by an issuer of commercial paper to repay its outstanding commercial paper when it
+is not able or willing to issue new commercial paper as its outstanding paper matures. Although this "backstop" business has not been a major part of Merrill Lynch's business in the past, in 2000 Merrill Lynch increased the amount of its
+outstanding commercial paper backstop lines significantly in response to demand from its corporate underwriting and advisory clients.
+
+Futures Business Activities:
+
+ Merrill Lynch's futures business activity is conducted through Merrill Lynch Futures Inc. ("MLF") and other subsidiaries. MLF holds memberships on
+all major commodity and financial futures exchanges and clearing associations in the United States and it also carries positions reflecting trades executed on exchanges outside of the United States. Other Merrill Lynch subsidiaries also hold
+memberships on major commodity and financial futures exchanges and clearing associations outside the United States and may also carry positions in proprietary and customer accounts. All futures and futures options transactions are executed, cleared
+through and/or carried by MLF and other Merrill Lynch subsidiaries engaged in futures activities. In certain contracts, or on certain exchanges, third party brokers are utilized to execute and/or clear trades. As part of its brokerage activities,
+MLPF&S, as a futures commission merchant, introduces customers to MLF for the purchase and sale of futures contracts and options on futures contracts. MLPF&S and certain of its affiliates may also take proprietary market positions in futures
+and futures options in certain instances.
+
+ In early 2000, Merrill Lynch refocused its futures activities on financial futures and options, and discontinued its sales and floor execution activities for
+agricultural and metals futures and options contracts. In addition, Merrill Lynch transferred its energy futures business to ABN AMRO Incorporated.
+
+Research Services:
+
+ The Global Securities Research & Economics Group provides equity, fixed-income and other research services on a global basis to Merrill Lynch's
+institutional and individual client sales forces and their customers. This group covers and distributes fundamental equity and fixed-income research, economic analyses, technical market and quantitative analyses, convertible securities research and
+investment strategy recommendations covering both equity and fixed-income markets.
+
+ Merrill Lynch consistently ranks among the leading research providers in the industry, and its analysts and other professionals in 26 countries cover
+approximately 3,500 companies, with approximately half of the staff now dedicated to non-U.S. research activities. Current information and investment opinions on these companies, as well as on industry sectors and countries, are available to Merrill
+Lynch's individual and institutional customers through their financial consultants and account
+
+5
+
+executives, and through various electronic means, including Merrill Lynch's websites.
+
+Securities Clearing Services:
+
+ MLPF&S provides securities clearing services through its subsidiaries, Broadcort Capital Corp. ("BCC") and Merrill Lynch Professional Clearing
+Corp. ("MLPCC"). BCC provides these services to over 100 unaffiliated broker-dealers. While the introducing broker-dealer firm retains all sales functions with its customers, BCC services the customers' accounts and handles all settlement
+and credit aspects of transactions. MLPCC clears transactions for specialists and market-makers on various national and regional stock exchanges and clears commodities futures transactions for clients through a divisional clearing arrangement with
+MLF. In addition, MLPCC clears transactions of arbitrageurs, customers, and other professional trading entities. Merrill Lynch Canada Inc. provides trading and securities clearing services to thirteen unaffiliated Canadian securities
+dealers.
+
+The Private Client Group
+
+ Through offices around the world, PCG provides products and services related to the accumulation and management of wealth, including, for example, brokerage,
+dealer and related activities; banking; retirement, investment and custody services; business financial services; insurance; trust services, mortgage lending and related activities.
+
+Brokerage, Dealer and Related Activities:
+
+ In the United States, MLPF&S is a broker (i.e., agent) and a dealer (i.e., acts for its own account) for individual, corporate, institutional and
+governmental clients in the purchase and sale of corporate securities, primarily equity and debt securities traded on exchanges or in the over-the-counter markets. MLPF&S also acts as a broker and a dealer in the purchase and sale of money
+market instruments, government securities, high-yield bonds, municipal securities, futures and options. In addition, MLPF&S acts as broker and/or mutual fund selected dealer in the purchase and sale of mutual funds.
+
+ MLPF&S has established commission rates or fixed charges for all brokerage services that it performs. For certain accounts, depending on account size and
+trading activity, however, MLPF&S's policy is to negotiate commissions based on economies of scale and the complexity of the particular trading transaction, and additionally, for its institutional customers, based on the competitive environment
+and trading opportunities.
+
+ MLPF&S offers to its clients Unlimited Advantage
+SM
+
+, a non-discretionary brokerage service offering transaction and non-transaction services for an annual asset-based fee. Unlimited Advantage clients may receive a wide array of services, including Financial Consultant advice and guidance, Merrill
+Lynch research, no per-trade commissions on most transactions, a Cash Management Account
+®
+
+financial services program (the "CMA
+®
+
+account"), the CMA
+®
+
+Visa
+®
+
+Signature
+SM
+
+program, and online bill payment. By year-end 2000, there were over 474,000 Unlimited Advantage accounts with aggregate client assets of approximately $83 billion, of which approximately $13 billion represented net new client assets in
+2000.
+
+ Merrill Lynch Direct
+SM
+
+is an award-winning, Internet-based brokerage service for U.S. clients preferring a self-directed approach to investing. Merrill Lynch Direct offers online equity and fixed income trading, mutual funds, access to Merrill Lynch research and a variety
+of online investing tools.
+
+ MLPF&S provides financing to clients, including margin lending and other extensions of credit. In a margin-based transaction, MLPF&S extends credit
+for a portion of the market value of the securities in the client's account up to the limit imposed by internal MLPF&S policies and applicable margin rules and regulations. Since MLPF&S may have financial exposure if a client fails to meet a
+margin call, any margin loan made by MLPF&S is collateralized by securities in the client's margin account. Financial reviews, margin procedures, and other credit standards have been implemented in an effort to limit any exposures resulting from
+this margin lending activity. Interest on margin loans is an important source of revenue for MLPF&S. To finance margin loans, MLPF&S uses funds on which it pays interest (including parent company borrowings), funds on which it does not pay
+interest (including its own capital), funds derived from clients' free credit balances to the extent permitted by regulations, and funds derived from securities loaned.
+
+ MLPF&S provides a wide range of client services, including trading in equity, fixed-income and other securities through its securities account services,
+such as its CMA
+®
+
+account. At the end of 2000, there were more than 2.5 million CMA accounts with aggregate assets of approximately $660 billion. MLPF&S also offers various investment advisory products, including Merrill Lynch Consults
+®
+
+, the Merrill Lynch Mutual Fund Advisor
+SM
+
+program, the Merrill Lynch Mutual Fund Advisor Selects
+SM
+
+program, and the Financial Foundation
+®
+
+report. T
+hrough Merrill Lynch Online
+®
+
+, clients can access their Merrill Lynch accounts, including account information, real time quotes, Merrill Lynch research and a variety of other investment information.
+
+6
+
+ Outside the United States, Merrill Lynch provides comprehensive brokerage and investment services and related products on a global basis to private clients,
+including the International CMA account. At the end of 2000, there were more than 68,000 International CMA accounts with aggregate assets of approximately $36 billion. These services and products are made available through a network of offices
+located in 33 countries. The brokerage and other services provided by MLPF&S are offered on a global basis to private clients. In addition, in certain countries such as the United Kingdom, Japan, Canada and Australia, clients can open accounts
+with Merrill Lynch affiliates that are locally regulated. Banking and trust services, and asset management services, are also offered globally to private clients, as described respectively below under "The Private Client Group - Trust, Mortgage
+Lending and Related Activities" and "Merrill Lynch Investment Managers." See also, "Strategic Initiatives -
+Strategic Alliances
+" for a discussion of Merrill Lynch and HSBC's alliance to create an online investment and
+banking company.
+
+Banking:
+
+ MLBUSA and Merrill Lynch Bank & Trust Co. ("MLBT") (collectively, the "ML U.S. Banks") are state chartered depository institutions
+insured by the FDIC. Both banks offer certificates of deposit, transaction accounts and money market deposit accounts (including deposit accounts offered through the Merrill Lynch Banking Advantage
+SM
+
+program for the CMA service, the Retirement Asset Savings Program
+SM
+
+for certain Merrill Lynch retirement accounts, and a deposit account program offered for Merrill Lynch Direct accounts), and issue VISA
+®
+
+cards. MLBUSA also originates and purchases secured loans.
+
+ During 2000, Merrill Lynch expanded the products offered by the ML U.S. Banks. These products included new interest bearing bank deposits into which cash
+from certain Merrill Lynch client accounts, previously swept into money market mutual funds, is swept. The combined ML U.S. Banks' deposits have increased from approximately $6 billion in 1999 to approximately $55 billion by year-end 2000. The ML
+U.S. Banks' deposits primarily fund a high credit quality marketable investment securities portfolio held by them.
+
+Benefits and Investment Solutions and Retirement and Education Savings Marketing
+:
+
+ Through its Benefits and Investment Solutions division, formerly known as Group Employee Services, MLPF&S ranked fourth in terms of participants and
+fifth in terms of assets among bundled service providers of 401(k) plans in the United States according to
+Pensions & Investment
+ (
+October 2, 2000
+). MLPF&S provides a wide variety of retirement plan products, particularly
+benefits consulting, administration, investment, employee education, and communication services to 401(k) and other benefit plans. At the end of 2000, it provided these services to over 1,576 corporate sponsored 401(k) plans, representing over $106
+billion in plan assets. During 2000, MLPF&S entered into a strategic alliance with BISYS Plan Services, L.P. to provide administrative services for approximately 5,000 defined contribution plans. During 2000, MLPF&S also sold its employee
+stock purchase plan servicing business to Computershare Trust Company, Inc.
+
+ MLPF&S provides custodial services to individual investors in connection with the investors' maintenance of Individual Retirement Accounts
+("IRAs"), including IRAs established under Simplified Employee Pension and SIMPLE plans. At the end of 2000, approximately $183.1 billion in customer assets was in more than 2.7 million Merrill Lynch IRAs, which includes approximately
+427,000 Roth and Education IRAs representing more than $4.4 billion in client assets. MLPF&S and its affiliates provide program management, including marketing, recordkeeping and other account services for three state sponsored college savings
+plans known as "529 Plans." By year-end 2000, approximately $400 million of client assets was invested in these separate 529 Plans.
+
+Business Financial Services:
+
+ Merrill Lynch provides financing services to small and medium businesses in conjunction with the Working Capital Management Account
+SM
+
+("WCMA
+®
+
+account") through Merrill Lynch Business Financial Services Inc. ("MLBFS"). The WCMA
+®
+
+account combines business checking, borrowing, investment, and electronic funds transfer services into one account for participating business clients. At the end of 2000, there were more than 154,000 WCMA accounts that, in the aggregate, had
+investment assets of more than $122 billion.
+
+ In addition to providing qualifying clients with short-term working capital financing through the WCMA commercial line of credit, MLBFS offers assistance to
+business clients with their term lending, equipment, and other asset-based financing needs, as well as financing for owner-occupied commercial real estate. In 2000, MLBFS originated more than $2.2 billion in new commercial loans and, at the end of
+2000, total outstanding loans held by MLBFS were more than $3.4 billion, of which approximately 97% were secured by tangible assets pledged by customers.
+
+ Merrill Lynch also provides business advisory services, including strategic services to middle market companies.
+
+7
+
+Insurance Activities:
+
+ Merrill Lynch's insurance services consist of the underwriting of life insurance and annuity products by Merrill Lynch Life Insurance Company
+("MLLIC") and ML Life Insurance Company of New York ("ML Life") and of the sale of proprietary and non-proprietary life insurance and annuity products through Merrill Lynch Life Agency Inc. and other insurance agencies affiliated
+or associated with MLPF&S operating in the United States and Canada.
+
+ MLLIC, an Arkansas stock life insurance company, is authorized to underwrite insurance and annuities products in 49 states, Puerto Rico, the District of
+Columbia, Guam, and the United States Virgin Islands. These products are marketed to MLPF&S customers. Although authorized to do so, it does not presently underwrite accident and health insurance. At year-end 2000, MLLIC had approximately $15.1
+billion of life insurance in force. At year-end 2000, MLLIC had annuity contracts in force of more than $10 billion in value.
+
+ ML Life, a New York stock life insurance company, is authorized to underwrite life insurance, annuities, and accident and health insurance in nine states;
+however, it does not presently underwrite accident and health insurance. At year-end 2000, ML Life had approximately $1.8 billion of life insurance in force, which amount included approximately $869 million reinsured from yearly renewable term
+insurance of an unaffiliated insurer. At year-end 2000, ML Life had annuity contracts in force of approximately $803 million in value.
+
+ Through agency agreements, licensed affiliate insurance agencies and other insurance agencies associated with MLPF&S sell life and health insurance and
+annuity products. A significant portion of these sales consists of products underwritten by MLLIC and ML Life.
+
+Trust, Mortgage Lending and Related Activities:
+
+ Merrill Lynch provides personal trust, employee benefit trust, and custodial services to clients in the United States through four state-chartered trust
+institutions and a federally chartered savings bank. Trust services outside of the United States are provided by Merrill Lynch Bank and Trust Company (Cayman) Limited ("MLBT Cayman").
+
+ Merrill Lynch Credit Corporation ("MLCC") offers a broad selection of real estate-based lending products enabling clients to purchase and refinance
+their homes as well as to manage their other personal credit needs. MLCC offers a variety of adjustable-rate and fixed-rate mortgage loans throughout the United States, including the Equity Access
+®
+
+, Mortgage 100
+SM
+
+and PrimeFirst
+®
+
+mortgage programs. MLCC also offers securities-based non-purpose lending through its Omega
+SM
+
+account, a personal line of credit using eligible securities as collateral that is accessible by VISA
+®
+
+card and by check. See "Significant Strategic Initiatives -
+Outsourcing
+" below for a discussion of MLCC's outsourcing arrangement with Cendant Mortgage Corporation.
+
+ MLIB Limited, a United Kingdom bank and licensed deposit taker under the United Kingdom Banking Act, provides collateralized lending, letter of credit and
+foreign exchange services to, and accepts deposits from, international private clients. It also has a global foreign exchange service, which is made available to institutional clients. In addition, it has a number of branch offices which house
+Financial Consultants, who refer business to the various Private Client Group account carriers outside of the United States.
+
+ Merrill Lynch Bank (Suisse) S.A., is a Swiss licensed bank, providing a full array of banking and brokerage products, including securities trading and
+custody, secured loans and overdrafts, fiduciary deposits, foreign exchange trading and portfolio management services, and individual client services to international private clients.
+
+ In early 2000, Merrill Lynch ceased acting as a broker for the purchase and sale of futures contracts and options on such futures contracts for individual
+clients.
+
+Merrill Lynch Investment Managers
+
+ During 2000, the various names used to conduct Merrill Lynch's asset management activities were rationalized and are now principally conducted through the
+Merrill Lynch Investment Managers ("MLIM") brand name. The principal subsidiaries engaged in these activities are Merrill Lynch Investment Managers LP ("MLIM LP") and Merrill Lynch Investment Managers Limited ("MLIM
+Ltd"). MLIM is one of the world's largest asset management organizations with total assets under management of approximately $557 billion at year-end 2000.
+
+8
+
+ With portfolio managers located in the United States, the United Kingdom, Japan, Australia, Canada, Switzerland, Italy and Singapore, MLIM manages a wide
+variety of investment products. These range from money market funds and other forms of short-term fixed-income investments to long-term taxable and tax-exempt fixed-income funds or portfolios, along a broad spectrum of quality ratings and
+maturities. MLIM also manages a wide variety of equity and balanced funds or portfolios that invest in more than 60 markets globally. In 2000, MLIM began to offer a variety of alternative investment products.
+
+ MLIM offers a wide array of taxable fixed-income, tax-exempt fixed-income, equity and balanced open-ended mutual funds. In the United States, MLIM brand of
+mutual funds (except for its money-market funds) are generally offered pursuant to the Merrill Lynch Select Pricing
+SM
+
+system, which allows investors four pricing alternatives. MLIM offers all of its brands of mutual funds to clients in the global markets through both the Merrill Lynch distribution network and through unaffiliated financial intermediaries. At the
+end of 2000, MLIM advised approximately $246 billion globally of open-ended mutual funds, unit investment trusts and other non-U.S. equivalent products.
+
+ MLIM provides separate account investment management services to a geographically diversified client base that includes pension funds, corporations,
+governments, supranational organizations, central banks and other institutions. Marketing offices in over 15 countries further support these services. At the end of 2000, the total assets under management of such services were approximately $261
+billion. MLIM offers similarly structured separate account investment management services for individual clients and smaller institutions and corporations in the United States, the United Kingdom and globally. The total assets under management for
+these services were $45 billion at the end of 2000.
+
+ MLIM also offers through MLPF&S sponsorship the Defined Asset Funds
+®
+
+group of funds. These funds are unit investment trusts registered in the United States under the Investment Company Act of 1940 and offshore in the Republic of Ireland and the Cayman Islands under applicable regulations. Defined Asset Funds are
+passively managed investments in U.S. and non-U.S. equity securities, as well as, municipal, corporate, and U.S. Government and non-U.S. debt obligations. At the end of 2000, approximately $21.9 billion of client funds were invested in Defined Asset
+Funds worldwide.
+
+ MLIM's Alternative Investments Group structures and manages a variety of alternative investment products, including hedge funds, fund of funds, private
+equity, managed futures and exchange funds. These products are sold primarily to high net worth and institutional investors in the United States and offshore. MLIM developed its Alternative Investments Group over the course of 2000. Currently, the
+group consists of several business units supported by an integrated business organization providing investment and risk management, sales and marketing, operations, fund accounting and administration, technology interfaces and client reporting
+capabilities.
+
+ At the end of 2000, MLIM's Alternative Investments Group was acting as sponsor or trading manager of alternative investment products in which a total of
+approximately $5.7 billion of client capital was committed and approximately $4.5 billion was invested.
+
+ MLIM's Quantitative Advisers group manages a wide range of quantitative investment management products for a variety of different types of investors. The
+Quantitative Advisers group seeks to track the performance of an index or outperform an index using risk-controlled enhanced indexing and allocation strategies. The Quantitative Advisers group also manages the Merrill Lynch QA family of hedge funds,
+which are distributed primarily to high net worth individuals through Merrill Lynch's non-U.S. brokerage businesses, as well as through direct sales to institutions and other sophisticated investors in the United States. The Merrill Lynch QA hedge
+funds collectively held over $1 billion in assets as of the end of 2000. The Quantitative Advisers group also manages index mutual funds for individual investors and the Mercury QA brand of retail mutual funds, which pursue asset allocation
+strategies. At the end of 2000, the Quantitative Advisers group managed a total of approximately $31 billion.
+
+ During 2000, Merrill Lynch began using FDIC insured accounts at the ML U.S. Banks as the sweep feature for cash for certain Merrill Lynch
+client accounts rather than MLIM-managed taxable retail money market mutual funds. Primarily due to this change, MLIM taxable retail money market fund assets, at the end of 2000, were approximately $65 billion, which is approximately $45 billion
+less than they would have been without such change.
+
+Significant Strategic Initiatives
+
+Acquisition and Divestiture:
+
+ During 2000, significant strategic initiatives included the following transactions:
+
+ In July 2000, Herzog, Heine, Geduld, Inc., ("Herzog") a leading NASDAQ market maker, was merged into a wholly owned
+
+9
+
+subsidiary of ML & Co. Together with Herzog, Merrill Lynch now executes for approximately 475 broker-dealers and executes approximately 265 million shares of over-the-counter daily trading volume.
+
+ In January 2001, Merrill Lynch signed an agreement to sell certain energy trading assets to Allegheny Energy, Inc., a diversified energy company. A portion
+of the purchase price to be received by Merrill Lynch is a two percent equity interest in Allegheny Energy Supply Company, LLC, the power generation subsidiary of Allegheny
+.
+
+Strategic Alliances:
+
+ Merrill Lynch initiated strategic alliances in the e-commerce area to enhance our delivery of information and products and services to our clients. Examples
+of these include:
+
+ In April 2000, Merrill Lynch and HSBC Holdings plc ("HSBC") formed, with equal ownership, the first global online investment and banking company,
+Merrill Lynch HSBC Ltd. The target market for Merrill Lynch HSBC is "mass affluent" investors outside the United States who prefer a self-directed approach to investing. Merrill Lynch HSBC launched services in Canada and Australia in 2000
+and plans to launch similar services in the United Kingdom in 2001.
+
+ During 2000, Merrill Lynch collaborated with a variety of financial services and other firms to form the following entities: TheMarkets.com, a portal for
+institutional investors offering real-time equity research, news, market data and equity new issue information; BondBook LLC, an electronic-trading platform for U.S. investment grade and high-yield corporate and municipal bonds open to certain
+institutional participants; SecuritiesHub LLC, an information services company which hosts online portals, including BondHub and SyndicateHub, and facilitates access to research, new issue and general market information for dealers and institutional
+fixed income investors; MuniCenter/DebtCenter, an electronic trading platform primarily for secondary market trading in municipal securities; and SwapsWire, an interest rate derivatives electronic dealing network.
+
+Outsourcing:
+
+ As part of Merrill Lynch's continuing efforts to focus on core capabilities and utilize outsourcing or other similar arrangements more efficiently to achieve
+service and profitability goals, Merrill Lynch entered into the following transactions:
+
+ In January 2001, MLCC entered into a long-term outsourcing arrangement with Cendant Mortgage Corporation ("Cendant"). Pursuant to this arrangement,
+Cendant will perform certain mortgage origination services for MLCC on a private-label basis in addition to certain mortgage servicing activities. MLCC will continue to market mortgages to Merrill Lynch clients through Merrill Lynch's financial
+consultants.
+
+ During 2000, MLPF&S entered into a strategic alliance with BISYS Plan Services, L.P. for the provision of administrative services for smaller 401(k)
+plans. MLPF&S also sold its employee stock purchase plan servicing business to Computershare Trust Company, Inc. In early 2001, MLIM outsourced accounting and administrative services it previously provided to certain mutual funds to State Street
+Bank and Trust Company.
+
+Other initiatives:
+
+ In May 2000, CICG launched a new business called Merrill Lynch Securities Services Division ("SSD"). SSD was formed to both consolidate and expand
+the securities clearing, settlement, custody and financing services to Merrill Lynch businesses and clients.
+
+Competition
+
+ All aspects of Merrill Lynch's business are intensely competitive, particularly underwriting, trading, and advisory activities, and have been affected by the
+entry of several new and non-traditional competitors such as commercial banks and insurance companies and Internet broker-dealers, and by the consolidation of others. Merrill Lynch competes for clients, market share, and human talent in every aspect
+of its business.
+
+ In the financial services industry, there is significant competition for qualified employees. Merrill Lynch faces competition for qualified employees from
+both traditional and non-traditional competitors, including commercial banks, insurance companies, on-line financial services providers, Internet-related businesses and private equity funds. Merrill Lynch's ability to compete effectively in its
+businesses is substantially dependent on its continuing ability to attract, retain and motivate qualified employees, including successful financial consultants and other revenue-producing personnel and other qualified employees.
+
+10
+
+ Merrill Lynch competes directly on a global basis with other U.S. and non-U.S. trading, investment banking and financial
+advisory service firms, brokers and dealers in securities and futures. It also competes with commercial banks and their affiliates in these businesses, particularly in its derivatives and capital markets businesses. Many of Merrill Lynch's non-U.S.
+competitors may have competitive advantages in their home markets. Merrill Lynch's competitive position depends to an extent on prevailing worldwide economic conditions and U.S. and non-U.S. governmental policies.
+
+ Through its subsidiaries and affiliates, Merrill Lynch also competes for investment funds with mutual fund management companies, insurance companies, finance
+and investment advisory companies, banks, and trust companies and institutions. Merrill Lynch competes for individual and institutional clients on the basis of price, the range of products that it offers, the quality of its services, its financial
+resources, and product and service innovation. Merrill Lynch's insurance businesses operate in highly competitive environments. Many insurance companies, both stock and mutual, are older and larger and have more substantial financial resources and
+larger agency relationships than do Merrill Lynch's insurance subsidiaries.
+
+ Merrill Lynch's businesses are highly dependent on the ability to timely process a large number of transactions across numerous and diverse markets in many
+currencies, at a time when transaction processes have become increasingly complex and are increasing in volume. The proper functioning of financial, control, accounting or other data processing systems is critical to Merrill Lynch's businesses and
+its ability to compete effectively.
+
+Regulation
+
+ Certain aspects of Merrill Lynch's business, as with that of its competitors and the financial services industry in general, are subject to stringent
+regulation by U.S. Federal and state regulatory agencies and securities exchanges and by various non-U.S. governmental agencies or regulatory bodies, securities exchanges, and central banks, each of which has been charged with the protection of the
+financial markets and the interests of those participating in those markets. These regulatory agencies in the United States include, among others, the Securities and Exchange Commission ("SEC"), the Commodity Futures Trading Commission
+("CFTC"), the Federal Deposit Insurance Corporation ("FDIC"), the Municipal Securities Rulemaking Board ("MSRB"), the New York State Banking Department ("NYSBD") and the Office of Thrift Supervision
+("OTS"). In other areas of the world, these regulators include, in the United Kingdom, the Financial Services Authority ("FSA"), the Securities and Futures Authority ("SFA"), and the Investment Management Regulatory
+Organization ("IMRO"), and elsewhere, the Central Bank of Ireland, the Federal Banking Supervisory Authority in Germany, the Swiss Federal Banking Commission, the Japanese Financial Supervisory Agency, the Monetary Authority of Singapore,
+the Office of Superintendent of Financial Institutions in Canada, the Canadian Securities Administrators, the Securities Commission in Argentina, the Securities Commission in Brazil, the National Securities and Banking Commission in Mexico and the
+Securities and Futures Commission in Hong Kong, among many others.
+
+ Additional legislation and regulations and changes in rules promulgated by the SEC or other U.S. Federal and state governmental regulatory authorities and
+self-regulatory organizations and by non-U.S. government and governmental regulatory agencies may directly affect the manner of operation and profitability of Merrill Lynch.
+
+United States Regulatory Oversight and Supervision:
+
+ MLPF&S and certain other subsidiaries of ML & Co. are registered as broker-dealers with the SEC and as such are subject to regulation by the SEC and
+by self-regulatory organizations, such as the National Association of Securities Dealers, Inc. (the "NASD") and the securities exchanges of which each is a member. Certain Merrill Lynch subsidiaries and affiliates, including MLPF&S,
+MLIM LP and MLIM Ltd, are registered as investment advisers with the SEC.
+
+ Merrill Lynch entities that are broker-dealers registered with the SEC and members of U.S. national securities exchanges are subject to Rule 15c3-1 under the
+Securities Exchange Act of 1934 (the "Exchange Act") which is designed to measure the general financial condition and liquidity of a broker-dealer. Under this rule, they are required to maintain the minimum net capital deemed necessary to
+meet broker-dealers' continuing commitments to customers and others. Under certain circumstances, this rule limits the ability of ML & Co. to withdraw capital from such broker-dealers. Additional information regarding certain net capital
+requirements is set forth in Note 13 to the Consolidated Financial Statements in the Annual Report.
+
+ Certain Merrill Lynch subsidiaries are also subject to the risk assessment rules adopted by the SEC under the Market Reform Act of 1990, which require, among
+other things, that certain broker-dealers maintain and preserve records and other information, describe risk management policies and procedures, and report on the financial condition of certain affiliates whose financial and securities activities
+are reasonably likely to have a material impact on the financial and operating condition of the broker-dealer.
+
+ Broker-dealers are also subject to other regulations covering the operations of their business, including sales and trading
+
+11
+
+practices, use of client funds and securities, and conduct of directors, officers, and employees. Broker-dealers are also subject to regulation by state securities administrators in
+those states where they do business. Violations of the stringent regulations governing the actions of a broker-dealer can result in the revocation of broker-dealer licenses, the imposition of censures or fines, the issuance of cease and desist
+orders, and the suspension or expulsion from the securities business of a firm, its officers or employees. The SEC and the national securities exchanges emphasize in particular the need for supervision and control by broker-dealers of their
+employees.
+
+ The SEC, various banking regulators, the Financial Accounting Standards Board, and Congress, among others, have launched a number of initiatives which have
+the effect of increasing regulation or requiring greater disclosure by financial institutions and requiring greater disclosure of financial instruments, including derivatives positions and activities. Merrill Lynch, along with certain other major
+U.S. securities firms, has implemented a voluntary oversight framework to address issues related to capital, management controls, and counterparty relationships arising out of the over-the-counter derivatives activities of unregulated affiliates of
+SEC-registered broker-dealers and CFTC-registered futures commission merchants. Merrill Lynch formed its Risk Oversight Committee as an extension of its risk management process to provide general oversight of risk management for all of its
+institutional trading activities and to monitor compliance with its commitments respecting this voluntary oversight initiative.
+
+ Merrill Lynch Investment Partners Inc. ("MLIP") and Merrill Lynch QA Advisers LLC are registered with the Commodity Futures Trading Commission as
+commodity pool operators and commodity trading advisors.
+
+ MLGSI is subject to regulation by the NASD and the Chicago Board of Trade and is required to maintain minimum net capital pursuant to rules of the U.S.
+Department of the Treasury. Merrill Lynch's municipal finance professionals are subject to various trading and underwriting regulations of the MSRB. MLPF&S and MLF are registered futures commission merchants and regulated by the CFTC, the
+National Futures Association ("NFA"), and the commodity exchanges of which each is a member. The CFTC and the NFA impose net capital requirements on these companies. MLIP is registered with the CFTC as a commodity pool operator and a
+commodity trading advisor and is a member of the NFA in such capacities.
+
+ In December 2000, the Commodity Futures Modernization Act of 2000 ("CFMA") became law. CFMA provides, among other things, broad exemptions from the
+Commodity Exchange Act for over-the-counter derivatives and will permit futures trading on single-stocks and narrow-based stock indices in the United States. CFMA also provides for extensive relief for regulated futures exchanges and their
+participants and creates several categories of lesser regulated marketplaces. The enactment of the CFMA should simplify, and provide greater legal certainty to, the regulatory environment in which Merrill Lynch's over-the-counter derivatives
+businesses operate.
+
+ Merrill Lynch's banking and lending activities are supervised and regulated by a number of different Federal and state regulatory agencies. MLBT is regulated
+primarily by the State of New Jersey and by the FDIC.
+
+ MLBUSA is regulated primarily by the State of Utah and by the FDIC. MLBFS and MLCC are wholly owned subsidiaries of MLBUSA, and certain of their activities
+are regulated and subject to examination by the FDIC and the Utah Department of Financial Institutions. In addition to Utah and the FDIC, MLCC is also licensed or registered to conduct its lending activities in 35 other jurisdictions and MLBFS is
+licensed or registered in eight jurisdictions, subjecting each to regulation and examination by the appropriate authorities in those jurisdictions. Merrill Lynch's U.S. trust institutions are subject to regulation by the OTS in the case of the
+federal savings bank and by the bank regulatory agencies in the states where the state-chartered institutions are incorporated. In addition, the federal savings bank is an investment advisor subject to regulation by the SEC.
+
+ Merrill Lynch's insurance subsidiaries are subject to state insurance regulatory supervision. ML Life is subject to regulation and supervision by the New
+York State Insurance Department. MLLIC is subject to regulation and supervision by the Insurance Department of the State of Arkansas. Both MLLIC and ML Life are subject to similar regulation in the other states in which they are licensed.
+
+Non-U.S. Regulatory Oversight and Supervision:
+
+ Merrill Lynch's business is also subject to extensive regulation by various non-U.S. governments, securities exchanges, central banks, and regulatory bodies,
+particularly in those countries where it has established an office. Certain Merrill Lynch subsidiaries are regulated as broker-dealers under the laws of the jurisdictions in which they operate.
+
+ MLI and MLIB Limited are regulated in the United Kingdom by the FSA. MLCMBL, which engages in the derivatives business, is regulated by the Central Bank of
+Ireland and the NYSBD. Merrill Lynch's activities in Australia are regulated by the Australian Securities and Investment Commission or the Australian Prudential Regulation Authority, and its Hong Kong and
+
+12
+
+Singapore operations are regulated and supervised by the Hong Kong Securities and Futures Commission and The Monetary Authority of Singapore, respectively. Merrill Lynch's Japanese
+business is subject to the regulation of the Financial Supervisory Agency as well as other Japanese regulatory authorities. Merrill Lynch Phatra Securities is regulated primarily by the Securities and Exchange Commission of Thailand and the Stock
+Exchange of Thailand.
+
+ Merrill Lynch Canada is an investment dealer in Canada and is regulated under the laws of the Canadian provinces by securities commissions and by the
+Investment Dealers Association of Canada. It is also a member of all major Canadian exchanges and is subject to their rules and regulations.
+
+ The business of MLIM LP and MLIM Ltd is regulated by a number of non-U.S. regulatory agencies or bodies. Their activities in the United Kingdom are regulated
+by IMRO and the Personal Investment Authority and, in other jurisdictions, by local regulators.
+
+ Merrill Lynch's activities in Mexico, Brazil and Argentina are regulated by their respective Securities Commissions and exchanges as well as other regulatory
+authorities. Banco Merrill Lynch S.A. is also regulated by the Brazilian Central Bank.
+
+ Merrill Lynch's subsidiaries engaged in banking and trust activities outside the United States are regulated by various governmental entities in the
+particular jurisdiction where they are chartered, incorporated, and/or conduct their business activities. In addition to being regulated by the NYSBD, MLIB Limited is regulated by the FSA in respect of its banking activities (previously by the Bank
+of England) and The Monetary Authority of Singapore. Merrill Lynch Bank (Suisse) S.A. is regulated by the Swiss Federal Banking Commission. MLBT Cayman is regulated by the Cayman Monetary Authority and the Florida Department of Banking.
+
+Item 2.
+Properties
+
+ Merrill Lynch has offices in various locations throughout the world. Other than those described below as being owned, substantially all offices of Merrill
+Lynch throughout the world are located in leased premises. Facilities owned or occupied by Merrill Lynch are believed to be adequate for the purposes for which they are currently used and are well maintained. Set forth below is a brief description
+and the approximate square footage of the principal facilities of Merrill Lynch. Each of these principal facilities support various Merrill Lynch segments, other than the property on King William Street in London referred to below, which is utilized
+solely by Merrill Lynch Investment Managers ("MLIM"). Information regarding Merrill Lynch's property lease commitments is set forth in Note 9 to the Consolidated Financial Statements under the caption
+Leases
+ in the Annual Report.
+
+Principal Facilities in the United States:
+
+ Merrill Lynch's executive offices and principal administrative offices are located in leased premises at the World Financial Center in New York City.
+Separate Merrill Lynch affiliates lease both the North Tower (1,800,000 square feet) and the South Tower (2,500,000 square feet); both leases expire in 2013. Merrill Lynch occupies the entire North Tower and approximately half of the South Tower.
+Another Merrill Lynch affiliate is a partner in the partnership that holds the ground lessee's interest in the North Tower.
+
+ In New York City, MLPF&S also holds a lease for 662,000 square feet in lower Manhattan expiring in 2007. In 1998, Merrill Lynch began partial occupancy
+of a 760,000 square foot building at 222 Broadway, which was purchased by a subsidiary in 1997; as third party leases expire, Merrill Lynch intends to occupy the entire building. In New Jersey, Merrill Lynch affiliates own a 389,000 square foot
+hotel, conference and training center in Princeton, a 669,000 square foot office building in Plainsboro, and a 414,000 square foot building on 34 acres at 300 Davidson Avenue in Somerset. MLPF&S holds a 590,000 square foot lease at 101 Hudson
+Street in Jersey City. A Merrill Lynch affiliate commenced construction on facilities of 1,250,000 square feet on land owned by it in Hopewell, New Jersey which will consolidate existing operations and allow for future expansion. Initial operations
+commenced in the Fall of 2000. Merrill Lynch affiliates own a 54-acre campus in Jacksonville, Florida, with four buildings (a large portion of one of which is leased to a third party) and a 70-acre campus in Englewood, Colorado with two buildings.
+
+Principal Facilities Outside the United States:
+
+ Merrill Lynch occupies approximately 970,000 square feet in 14 sites in London, including a lease of approximately 250,000 square feet at Ropemaker Place
+with a cancellation right in 2002, and a lease of approximately 140,000 square feet with an expiration date in 2014 on King William Street, where MLIM's operations in Europe, Middle East and Africa are headquartered. In 1998, Merrill Lynch purchased
+a freehold site in the City of London and is currently constructing a headquarters complex of approximately 580,000 square feet. The new headquarters (known as Merrill Lynch Financial Centre)
+
+13
+
+will replace the Ropemaker facility, and occupation is expected to begin in 2001.
+
+Item 3.
+Legal Proceedings
+
+ ML & Co., certain of its subsidiaries, including MLPF&S, and other persons have been named as parties in various legal actions and arbitration
+proceedings arising in connection with the operation of ML & Co.'s businesses.
+
+ In the following shareholder derivative action ML & Co. is named as a nominal defendant because the action purports to be brought on behalf of ML &
+Co. and any recovery obtained by plaintiffs would be for the benefit of ML & Co.:
+
+ Miller v. Schreyer, et al., a consolidated derivative action instituted October 11, 1991 in the Supreme Court of the State of New York, New York County,
+alleges, among other things, breach of fiduciary duty against certain present or former ML & Co. directors, and against Transmark USA, Inc. and one of its principals in connection with securities trading transactions that occurred at year-end
+1984, 1985, 1986, and 1988 between subsidiaries of ML & Co. and a subsidiary of Transmark USA, Inc., Guarantee Security Life Insurance Company, which was later liquidated. Damages in an unspecified amount are sought. Merrill Lynch has moved to
+dismiss the action, and is awaiting a decision on its motion.
+
+ Although the ultimate outcome of legal actions, arbitration proceedings, and claims pending against ML & Co. or its subsidiaries as of March 14, 2001,
+cannot be ascertained at this time and the results of legal proceedings cannot be predicted with certainty, it is the opinion of management that the resolution of these actions will not have a material adverse effect on the financial condition of
+Merrill Lynch as set forth in the Consolidated Financial Statements of Merrill Lynch included in the Annual Report, but may be material to Merrill Lynch's operating results for any particular period.
+
+Item 4.
+Submission of Matters to a Vote of Security Holders
+
+ There were no matters submitted to a vote of security holders during the 2000 fourth quarter.
+
+14
+
+EXECUTIVE OFFICERS OF MERRILL LYNCH & CO., INC.
+
+ The following table sets forth the name, age, present title, principal occupation, and certain biographical information for the past five years for ML &
+Co.'s executive officers, all of whom have been elected by the ML & Co. Board of Directors and have been appointed as members of the Merrill Lynch Executive Management Committee. Unless otherwise indicated, the officers listed are of ML &
+Co. Under ML & Co.'s by-laws, elected officers are elected annually to hold office until their successors are elected and qualify or until their earlier resignation or removal.
+
+David H. Komansky, 61
+
+Chairman of the Board since April 1997; Chief Executive Officer since December 1996; President and Chief Operating Officer from January 1995 to April 1997.
+
+Thomas W. Davis, 47
+
+Executive Vice President and President of Corporate and Institutional Client Group since March 1998; Executive Vice President and Co-Head of Corporate and Institutional Client Group from April 1997 to March 1998;
+Managing Director and Co-Head of Investment Banking Group from April 1995 to April 1997.
+
+Edward L. Goldberg, 60
+
+Executive Vice President of Operations Services Group since January 1999; Deputy Chairman of Merrill Lynch HSBC Ltd. since January 2001; Interim Chief Executive Officer of Merrill Lynch HSBC Ltd. from April 2000 to
+January 2001; Chairman of Securities Services Division since December 2000; Executive Vice President of Operations, Services and Technology from April 1991 to January 1999.
+
+Stephen L. Hammerman, 63
+
+Vice Chairman of the Board since April 1992; General Counsel since October 1984.
+
+Jerome P. Kenney, 59
+
+Executive Vice President of Corporate Strategy and Research since October 1990.
+
+John A. McKinley, Jr., 43
+
+Executive Vice President of Technology Group since January 2000; Head of the Technology Group since January 1999; Chief Technology Officer since October 1998; Senior Vice President of Technology Group from October
+1998 to January 2000. Joined Merrill Lynch in October 1998. Prior to joining Merrill Lynch, Chief Technology and Information Officer of General Electric Capital Services from October 1995 to October 1998.
+
+E. Stanley O'Neal, 49
+
+Executive Vice President and President of U.S. Private Client Group since February 2000; Executive Vice President and Chief Financial Officer from March 1998 to February 2000; Executive Vice President and Co-Head of
+Corporate and Institutional Client Group from April 1997 to March 1998; Managing Director and Head of Global Capital Markets Group from April 1995 to April 1997.
+
+Thomas H. Patrick, 57
+
+Executive Vice President and Chief Financial Officer since February 2000; Executive Vice President and Chairman of Special Advisory Services from March 1993 to February 2000.
+
+Jeffrey M. Peek, 54
+
+Executive Vice President, President of Merrill Lynch Investment Managers and President of MLIM LP since December 1997; Managing Director and Co- Head of Investment Banking Group from March 1997 to December 1997;
+Senior Vice President and Director of Global Securities Research & Economics from April 1995 to March 1997.
+
+15
+
+Winthrop H. Smith, Jr., 51
+
+Executive Vice President and President of International Private Client Group since April 1997; Chairman of Merrill Lynch International Incorporated since April 1993; Executive Vice President of International from June
+1992 to April 1997.
+
+John L. Steffens, 59
+
+Chairman of U.S. Private Client Group since February 2000; Vice Chairman of the Board since April 1997; President of U.S. Private Client Group from April 1997 to February 2000; Executive Vice President of Private
+Client Group from October 1990 to April 1997.
+
+_______________________________
+
+16
+
+PART II
+
+Item 5.
+ Market for Registrant's Common Equity and Related Stockholder Matters
+
+ Information relating to the principal market in which the Registrant's Common Stock is traded, the high and low sales prices per share for each full
+quarterly period within the two most recent fiscal years, the approximate number of holders of record of Common Stock, and the frequency and amount of any cash dividends declared for the two most recent fiscal years, is set forth under the captions
+"Dividends Per Common Share" and "Stockholder Information" on page 88 of the Annual Report and such information is incorporated herein by reference.
+
+Item 6.
+ Selected Financial Data
+
+ Selected financial data for the Registrant and its subsidiaries for each of the last five fiscal years is set forth in the financial table "Selected
+Financial Data" on page 27 of the Annual Report (excluding for this purpose the financial ratio, leverage, and employee information set forth under the headings "Financial Ratios" and "Employee Statistics"). Such information
+is incorporated herein by reference and should be read in conjunction with the Consolidated Financial Statements and the Notes thereto on pages 55 to 87 of the Annual Report.
+
+Item 7.
+ Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+ Management's Discussion and Analysis of Financial Condition and Results of Operations is set forth on pages 28 to 53 of the Annual Report under the caption
+"Management's Discussion and Analysis" and is incorporated herein by reference. All of such information should be read in conjunction with the Consolidated Financial Statements and the Notes thereto on pages 55 to 87 of the Annual Report.

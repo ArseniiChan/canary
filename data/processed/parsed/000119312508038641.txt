@@ -1,0 +1,1965 @@
+and Analysis of Financial Condition and Results of Operation
+.
+
+(In thousands, except per-share data)
+
+This discussion reviews and analyzes the consolidated financial condition at December 31, 2007 and
+2006, the consolidated results of operations for the years ended December 31, 2007, 2006, and 2005, and other factors that may affect future financial performance. This discussion should be read in conjunction with the Selected Financial Data
+included in Item 6 of this Annual Report and the Consolidated Financial Statements and Notes to the Consolidated Financial Statements included in Item 8 of this Annual Report.
+
+Overview
+
+Our Business and Business Segments
+
+We are a leading global provider of investment processing, fund processing, and investment management business outsourcing solutions that help corporations, financial
+institutions, financial advisors, and affluent families create and manage wealth. Investment processing fees are earned as monthly fees for contracted services, including computer processing services, software licenses, and trust operations
+services, as well as transaction-based fees for providing securities valuation and trade-execution. Fund processing and investment management fees are earned as a percentage of average assets under management or administration. As of
+December 31, 2007, through our subsidiaries and partnerships in which we have a significant interest, we administer $426.1 billion in mutual fund and pooled assets, manage $196.8 billion in assets, and operate from more than 20 offices in over
+a dozen countries.
+
+Effective January 1, 2007, we changed the names of three of our business segments. The Private Banking and Trust business segment
+was renamed as Private Banks, the Enterprises business segment was renamed as Institutional Investors, and the Money Managers business segment was renamed as Investment Managers. Additionally, the structure of two of our business segments changed on
+January 1, 2007. The investment management programs and services offered to global private banks of the Investments in New Businesses segment was moved to the Private Banks segment. For comparability, the prior period’s results have been
+reclassified to reflect the realignment of the business segments.
+
+Our reportable business segments are:
+
+Private Banks – provides investment processing and investment management programs to banks and trust institutions worldwide and accounts for 30
+percent of consolidated revenues in 2007;
+
+Investment Advisors – provides investment management programs to affluent investors through
+a network of independent registered investment advisors, financial planners and other investment professionals in the United States and accounts for 19 percent of consolidated revenues in 2007;
+
+Institutional Investors – provides investment management programs and administrative outsourcing solutions to retirement plan sponsors and
+not-for-profit organizations worldwide and accounts for 15 percent of consolidated revenues in 2007;
+
+Investment Managers – provides
+investment processing, fund processing and operational outsourcing solutions to investment managers, fund companies and banking institutions located in the United States and to investment managers worldwide of alternative asset classes such as hedge
+funds, fund of funds, and private equity funds and accounts for ten percent of consolidated revenues in 2007;
+
+Investments in New Businesses – provides investment management programs to affluent families residing in the United States and Europe through the SEI Wealth Network
+®
+. This segment accounts for one percent of consolidated revenues in 2007; and
+
+LSV Asset Management –
+is a registered investment advisor that provides investment advisory services to institutions, including pension plans and investment companies. This segment accounts for 25 percent of consolidated revenues in 2007.
+
+Page 16 of 86
+
+Table of Contents
+
+Recent Highlights
+
+Revenues in 2007 were $1.37 billion, with net income of $259.8 million and diluted earnings per share of $1.28. We believe the following items were significant to our business during 2007:
+
+•
+
+Revenue growth across all of our segments was primarily driven by higher asset-based fees from market appreciation through the first three quarters of 2007 and late
+2006. Favorable capital market conditions increased the value of assets we manage or administer for our existing clients, resulting in an increase in our base revenues. These market conditions also generated improved profits and operating margins in
+our Investment Advisors, Institutional Investors and Investment Managers business segments.
+
+•
+
+Sales of new business in our Institutional Investors and Investment Managers business segments as well as positive cash receipts in 2007 and late 2006 from new and
+existing advisor relationships in our Investment Advisors business segment contributed to the increase in our revenues and profits.
+
+•
+
+The LSV business segment also contributed significantly to the increase in our revenues and profits. Our proportionate share in the earnings of LSV was $131.7
+million in 2007, compared to $112.4 million in 2006, an increase of $19.3 million, or 17 percent. The increase was due to the growth in assets under management from new and existing clients and capital market appreciation.
+
+•
+
+The Global Wealth Platform was placed into service in 2007. Amortization of previously capitalized software development costs of $217.8 million began in the third
+quarter and will continue to be amortized evenly over a period of 15 years. We incurred an additional $6.9 million in amortization expense in 2007 due to the release of the platform, primarily recognized in the Private Banks and Investment Advisors
+business segments. We capitalized a total of $61.4 million in software development costs in 2007, as compared to $73.3 million during 2006, as a larger portion of our costs were incurred from maintenance and support of the platform as we enter the
+operational stage of the project. We expect to capitalize a significant amount of development costs in 2008 for enhancements and upgrades to the Global Wealth Platform.
+
+•
+
+Our consolidated operating margins were negatively impacted by increased spending for the development of the necessary infrastructure to deliver and support new
+company strategies and solutions. A substantial portion of these costs relate to personnel and third-party service providers.
+
+•
+
+We recorded a non-cash charge of $25.1 million in the fourth quarter 2007 related to agreements that provide capital support to money market funds holding
+investments that are exposed to liquidity and credit risk (See Note 6 to the Consolidated Financial Statements). These support agreements are described in greater detail under the caption “Money Market Fund Support” later in this
+discussion.
+
+•
+
+We continued our stock repurchase program during 2007 and purchased approximately 7,161,000 shares at an average price of approximately $29 per share for a total
+cost of $205.1 million. These figures reflect the impact of the two-for-one stock split effected in the form of a stock dividend paid in June 2007.
+
+•
+
+In 2007, our net income was unfavorably impacted by an increase in our effective tax rate. Our effective tax rate was 36.6 percent for 2007 compared to 33.9 percent
+in 2006. The 2006 effective tax rate benefited from a one-time favorable state legislative change and state tax planning.
+
+Forward
+Looking Information and Risk Factors
+
+Certain information contained in this discussion is or may be considered forward-looking. Forward-looking
+statements relate to future operations, strategies, financial results or other developments. Forward-looking statements are based upon estimates and assumptions that involve certain risks and uncertainties, many of which are beyond our control or
+are subject to change. Although we believe our assumptions are reasonable, they could be inaccurate. Our actual future revenues and income could differ materially from our expected results. We have no obligation to publicly update or revise any
+forward-looking statements.
+
+Among the risks and uncertainties which may affect our future operations, strategies, financial results or other developments
+are those risks described in Item 1A “Risk Factors” of this Annual Report. The following items are, in our opinion, anticipated to occur in the next 12 to 18 months:
+
+•
+
+Our intention is to implement enhancements and upgrades to our Global Wealth Platform through a series of releases. We expect to incur significant development costs
+related to these enhancements and upgrades. The capitalized costs associated with these releases will be amortized over the remaining useful life of the platform. As we continue to progress through the project, we also expect a larger portion of our
+costs will be incurred from maintenance and support of the platform. These costs will be expensed as incurred.
+
+Page 17 of 86
+
+Table of Contents
+
+•
+
+We have taken appropriate measures to protect our clients and shareholders of our money market funds from the liquidity issues in the subprime credit markets
+through support agreements. Future capital commitments and corresponding charges against our earnings for the obligations under these agreements will depend upon prevailing conditions in the credit markets as they impact the value of money market
+instruments, including structured investment vehicles, and upon the overall asset levels of the Funds (See Note 6 to the Consolidated Financial Statements and “Money Market Fund Support” later in this discussion).
+
+•
+
+We will continue a process to transform our company from one that is product and services based to one that is solutions based. Each of our business segments has
+developed a new business model that will gradually move our clients to our new business solutions. We will continue to implement our new business model for each segment.
+
+•
+
+Our revenues and earnings are affected by changes in capital markets. A significant portion of our revenues are earned based on the value of assets invested in
+investment products that we manage or administer. The performance of the capital markets during most of 2007 and 2006 had a net positive impact on our asset-based investment management fees; however, recent market volatility has negatively impacted
+these revenues. Prolonged volatility in the capital markets could have adverse affects on our revenues and earnings derived from assets under management and administration.
+
+Money Market Fund Support
+
+In 2007, we entered into Capital Support
+Agreements with the SEI Daily Income Trust Prime Obligation (the SDIT PO Fund), the SEI Daily Income Trust Money Market Fund (the SDIT MM Fund), and the SEI Liquid Asset Trust Prime Obligation Fund (the SLAT PO Fund) (each a Fund or, together, the
+Funds). We are the advisor to the Funds. The sub-advisor to the Funds is Columbia Management, which is the primary investment management division of Bank of America Corporation. Many of our clients are investors in the Funds. SDIT PO Fund is rated
+AAA and Aaa by Standards & Poor’s Corporation (S&P) and Moody’s Investor Services Inc. (Moody’s), respectively, and the SDIT MM Fund is rated Aaa by Moody’s. The SLAT PO Fund is not rated by S&P or Moody’s.
+
+The Funds hold senior notes issued by structured investment vehicles (SIV or SIVs). SIVs issue commercial paper and other debt securities and use the
+proceeds to purchase bonds and other long-term debt instruments that are used to collateralize the obligations of the vehicle. The senior notes are collateralized by residential mortgage-backed securities, commercial mortgage-backed securities,
+corporate collateralized debt obligations and collateralized debt obligations of asset-backed securities. Some of the SIVs have either ceased making payments or potentially may cease making payments on its outstanding notes on the scheduled maturity
+dates.
+
+In October 2007, S&P stated that it would place any mutual fund that had an AAA rating and owned certain SIVs on credit watch with negative
+implications unless the fund was provided credit support having an A-1 short-term rating by S&P. Although we were not obligated to provide the credit support required by S&P, in order to avoid a credit watch by S&P on the SDIT PO Fund,
+and to address the needs of our customers who require an S&P AAA rating of the SDIT PO Fund, we entered into the Capital Support Agreements to satisfy S&P’s requirement. We entered into similar agreements with the SDIT MM and SLAT PO
+Funds.
+
+The Capital Support Agreements require us to commit capital to the Fund, subject to the aggregate limit of $126.0 million in the case of the SDIT
+PO Fund, $3.0 million in the case of the SDIT MM Fund, and $1.5 million in the case if the SLAT PO Fund, if the Fund realizes payments or sales proceeds from specified SIV securities held by the Fund which are less than the amortized cost of the SIV
+securities. Upon the sale or other disposition of a SIV security, the amount of required capital commitment would be the least of the following amounts: (i) the amount, if any, by which the amortized cost of the SIV security exceeds the amount
+realized from the sale or other disposition of the SIV security; (ii) the amount, if any, necessary to restore the net asset value per share of the Fund to $0.9950 (or in the case of the SDIT PO Fund, so long as the SDIT PO Fund is rated AAA by
+S&P, $0.9975), or (iii) the remaining amount of the aggregate limit of the Capital Support Agreement applicable to the Fund, taking into account all prior contributions.
+
+The obligations under the Capital Support Agreements are secured by letters of credit of a third party bank rated A-1 by S&P. The letters of credit were issued under our existing credit facility, which provides
+for borrowings up to $200.0 million with provisions for an additional $100.0 million under certain conditions (See Note 7 to the Consolidated Financial Statements for more information related to the letters of credit and credit facility). The
+Capital Support Agreements and the letters of credit have a term of one year. In the event that capital must be provided to the Funds, we may, at our
+
+Page 18 of 86
+
+Table of Contents
+
+discretion, utilize our credit facility or contribute the required capital from unrestricted cash. However, so long as the letters of credit remain
+outstanding, the amount available under the credit facility will be reduced by the amount of the letters of credit. Therefore, only the remaining $69.5 million is unrestricted and may be used for general purposes. Some of the covenants contained
+within the credit facility were amended as a result of the Capital Support Agreements that provide certain allowances and exemptions for transactions arising solely from the Capital Support Agreements.
+
+In the event we are required to commit capital to any Fund, we will not receive any consideration from the Fund, in the form of shares of the Fund or any other form, for
+the contributed capital. If the mark-to-market value of the SIV securities is less than its amortized cost and if the aggregate net asset value of the Fund is less than $0.9950 (or in the case of the SDIT PO Fund, so long as the SDIT PO Fund is
+rated AAA by S&P, $0.9975), then, even though the loss has not been realized through the sale or other disposition of the SIV securities, we will be obligated to commit the required amount of capital so that the Fund’s net asset value is at
+least $.9950 (or in the case of the SDIT PO Fund, $0.9975). However, in this case, we would not be required to pay the capital contribution to the Funds.
+
+As of December 31, 2007, the amount of our obligation to commit capital to the Funds was $25.1 million, but this amount was not required to be paid since the Funds did not realize any loss from the sale of the SIV securities. However,
+we were required to record an expense for $25.1 million which is reflected in Net (loss) gain from investments on the Consolidated Statements of Operations of the accompanying Consolidated Financial Statements. At December 31, 2007, the
+aggregate market value of the SIVs covered by the Capital Support Agreements on the books of the three Funds was $710.1 million.
+
+In January 2008, another
+SIV security within the Funds suffered a technical default, triggering ratings downgrades from the principal rating agencies. As a result, the carrying value of this security in the Funds was reduced as well. In addition, S&P has required the
+posting of additional capital support for the SDIT PO fund. As a result of these events, we amended the Capital Support Agreements to provide additional funding subject to a new aggregate limit of $156.0 million from $130.5 million. We secured
+$150.0 million of the revised funding limit through our credit facility and secured the remaining $6.0 million through a segregated bank account. This increase caused the amount available for borrowings under our credit facility to be further
+reduced to $50.0 million.
+
+As of February 21, 2008, the amount which would be accrued for our contribution obligations under the Capital Support
+Agreements based on that day’s market value of the portfolio assets of the Funds, including the SIVs covered by the Capital Support Agreements, was $31.7 million. Based upon this valuation and assuming no other changes in the portfolio assets
+through March 31, 2008, an additional non-cash expense of $6.6 million would be recorded in the first quarter 2008. There have been no cash payments made under the Capital Support Agreements as of February 21, 2008. At February 21,
+2008, the aggregate market value of the SIVs covered by the Capital Support Agreements on the books of the three Funds was $699.2 million.
+
+We believe that the SIV securities will be successfully restructured, although we cannot predict the timing or net
+impact the restructuring will ultimately have on the realized value of these SIV securities. Excluding the SIV securities in technical default, as of February 21, 2008, all remaining SIV holdings of the Funds continue to have an AAA or A-1
+rating from a major credit rating agency. For further information regarding the portfolio assets of the Funds, the month-end holdings of each of the Funds can be viewed after the 15
+th
+ day of the following month at http://www.seic.com/holdings home.asp.
+
+The Capital
+Support Agreements are considered derivative contracts in accordance with applicable accounting guidance. The fair value of the contracts was determined using a valuation model for credit default swaps. The fair value of the derivative contracts
+approximates the value of our actual obligation at December 31, 2007. The value of the Capital Support Agreements will be determined at least quarterly. In the event payments are not required to be paid to the Funds, such expense may be
+reversed in a subsequent period.
+
+Our future obligation under the Capital Support Agreements is affected by a number of factors including, but not limited
+to, prevailing conditions in the credit markets as they impact the value of money market instruments, including the liquidity of SIV securities, the creditworthiness of the SIV securities and the overall asset levels of the Funds. Changes in the net
+asset value of the Funds are dependent upon net investments or redemptions in the Fund and the net asset value of the portfolio assets of the Funds. Changes in these amounts, including changes in portfolio assets resulting from mark-to-market
+adjustments, will affect the per share net asset value of the Funds. The fair market value of the SIV securities is derived from current market prices or, in the event no market price exists, from independent valuation sources.
+
+Page 19 of 86
+
+Table of Contents
+
+We believe changes in the value of the portfolio assets of the Funds and changes in the value of the SIV securities are
+the two most volatile factors affecting our obligation. These factors can cause our obligation to fluctuate on a daily basis. The following discussion, based on actual values as of February 21, 2008, is included to give an indication of the
+impact of movements in the value of the portfolio assets of the Funds and changes in the price of the SIV securities on our obligation.
+
+In the following
+example, we assume the value of the SIV securities remains unchanged but the value of the portfolio assets of the Funds increases by ten percent or decreases by ten percent. A ten percent increase in the value of the portfolio assets of the Funds
+would cause our obligation to decrease by approximately $1.9 million. Conversely, a ten percent decrease in the value of the portfolio assets of the Funds would cause our obligation to increase by approximately $1.9 million.
+
+In this example, we assume the value of the portfolio assets of the funds remains unchanged but the value of the SIV securities increases by one percent or decreases by
+one percent. A one percent increase in the value of the SIV securities would cause our obligation to decrease by approximately $3.9 million. Conversely, a one percent decrease in the value of the SIV securities would cause our obligation to increase
+by approximately $3.9 million.
+
+Stock-Based Compensation
+
+We adopted the provisions of SFAS 123(R) during the first quarter of 2006 to account for stock-based compensation. We elected the modified-prospective method, under which prior periods are not restated for comparative purposes. Under the
+fair value recognition provisions of this statement, stock-based compensation cost is measured at the grant date based on the fair value of the award and is recognized as expense over the requisite service period, which is the vesting period. We
+currently use the Black-Scholes option pricing model to determine the fair value of stock options. The determination of the fair value of stock-based payment awards on the date of grant using an option-pricing model is affected by our stock price as
+well as various other assumptions. These assumptions include our expected stock price volatility over the term of the awards, actual and projected employee stock option exercise behaviors, risk-free interest rate and expected dividends. We are
+required to estimate forfeitures at the time of grant and revise those estimates in subsequent periods if actual forfeitures differ from those estimates. We currently base our expectations for these assumptions from historical data. These
+expectations are subject to change in future periods.
+
+Stock options granted have performance vesting conditions based on the attainment of certain
+earnings per share targets established at the date of grant. The first performance condition determines vesting of 50 percent of the options, and a second performance condition determines the vesting of the remaining 50 percent of the options. The
+performance conditions are measured annually on December 31. Options granted prior to 2006 also could vest in their entirety seven years from the date of grant. The amount of stock-based compensation expense is based upon our estimates of when
+we believe the earnings per share targets may be achieved. If our estimate of the attainment of the earnings per share targets proves to be inaccurate, the remaining amount of stock-based compensation expense could be accelerated, spread out over a
+longer period, or reversed. This may cause volatility in the recognition of stock-based compensation expense in future periods and could materially affect our net income and net income per share. In 2007 and 2006, we recognized approximately $28.2
+million and $24.8 million, respectively, in stock-based compensation expense. Based upon our current view of how many options will vest and when they will vest, we estimate that stock-based compensation expense will be recognized according to the
+following schedule:
+
+Period
+
+Stock-Based
+Compensation
+Expense
+
+2008
+
+$
+
+21,442
+
+2009
+
+14,200
+
+2010
+
+10,661
+
+2011
+
+6,096
+
+2012
+
+6,054
+
+2013
+
+4,214
+
+2014
+
+2,103
+
+$
+
+64,770
+
+Page 20 of 86
+
+Table of Contents
+
+Results of Operations
+
+Revenues, Expenses, Income from operations and Income before income taxes by business segment for the year ended 2007 compared to the year ended 2006, and for the year ended 2006 compared to the year ended 2005 are:
+
+Year Ended December 31,
+
+2007
+
+2006
+
+Percent
+Change
+
+2005
+
+Percent
+Change
+
+Revenues:
+
+Private Banks
+
+$
+
+413,922
+
+$
+
+367,449
+
+13
+
+%
+
+$
+
+328,308
+
+12
+
+%
+
+Investment Advisors
+
+259,288
+
+225,716
+
+15
+
+%
+
+203,423
+
+11
+
+%
+
+Institutional Investors
+
+199,593
+
+164,962
+
+21
+
+%
+
+132,013
+
+25
+
+%
+
+Investment Managers
+
+143,375
+
+118,964
+
+21
+
+%
+
+103,272
+
+15
+
+%
+
+Investments in New Businesses
+
+7,205
+
+7,537
+
+(4
+
+)%
+
+5,991
+
+26
+
+%
+
+LSV
+
+345,645
+
+291,121
+
+19
+
+%
+
+—
+
+N/A
+
+Total revenues
+
+1,369,028
+
+1,175,749
+
+16
+
+%
+
+773,007
+
+52
+
+%
+
+Expenses:
+
+Private Banks
+
+330,923
+
+279,089
+
+19
+
+%
+
+242,214
+
+15
+
+%
+
+Investment Advisors
+
+124,942
+
+111,907
+
+12
+
+%
+
+87,857
+
+27
+
+%
+
+Institutional Investors
+
+121,365
+
+106,377
+
+14
+
+%
+
+89,022
+
+19
+
+%
+
+Investment Managers
+
+101,401
+
+90,799
+
+12
+
+%
+
+85,595
+
+6
+
+%
+
+Investments in New Businesses
+
+19,670
+
+22,891
+
+(14
+
+)%
+
+22,468
+
+2
+
+%
+
+LSV (2)
+
+213,926
+
+178,727
+
+20
+
+%
+
+—
+
+N/A
+
+Total expenses
+
+912,227
+
+789,790
+
+16
+
+%
+
+527,156
+
+50
+
+%
+
+Income from business segments:
+
+Private Banks
+
+82,999
+
+88,360
+
+(6
+
+)%
+
+86,094
+
+3
+
+%
+
+Investment Advisors
+
+134,346
+
+113,809
+
+18
+
+%
+
+115,566
+
+(2
+
+)%
+
+Institutional Investors
+
+78,228
+
+58,585
+
+34
+
+%
+
+42,991
+
+36
+
+%
+
+Investment Managers
+
+41,974
+
+28,165
+
+49
+
+%
+
+17,677
+
+59
+
+%
+
+Investments in New Businesses
+
+(12,465
+
+)
+
+(15,354
+
+)
+
+19
+
+%
+
+(16,477
+
+)
+
+7
+
+%
+
+LSV
+
+131,719
+
+112,394
+
+17
+
+%
+
+—
+
+N/A
+
+Total income from business segments
+
+456,801
+
+385,959
+
+18
+
+%
+
+245,851
+
+57
+
+%
+
+Corporate overhead expenses
+
+(42,045
+
+)
+
+(38,842
+
+)
+
+8
+
+%
+
+(33,898
+
+)
+
+15
+
+%
+
+LSV Employee Group (1)
+
+(7,281
+
+)
+
+(7,281
+
+)
+
+—
+
+—
+
+N/A
+
+Minority interest reflected in segments (2)
+
+186,500
+
+158,615
+
+18
+
+%
+
+3,139
+
+N/A
+
+Income from operations
+
+593,975
+
+498,451
+
+19
+
+%
+
+215,092
+
+N/A
+
+Other (expense) income
+
+(184,435
+
+)
+
+(139,695
+
+)
+
+32
+
+%
+
+80,117
+
+N/A
+
+Income before income taxes
+
+$
+
+409,540
+
+$
+
+358,756
+
+14
+
+%
+
+$
+
+295,209
+
+22
+
+%
+
+(1)
+
+Primarily relates to amortization costs of identifiable intangible assets.
+
+(2)
+
+For the years ended December 31, 2007 and 2006, includes $181,591 and $153,381, respectively, of minority interest of the other partners of LSV.
+
+Page 21 of 86
+
+Table of Contents
+
+Asset Balances
+
+This table presents assets of our clients, or of our clients’ customers, for which we provide management or administrative services. These assets are not included in our balance sheets because we do not own them.
+
+Asset Balances
+
+(In millions)
+
+As of December 31,
+
+2007
+
+2006
+
+2005
+
+Assets invested in equity and fixed-income programs
+
+$
+
+170,923
+
+$
+
+154,427
+
+$
+
+122,307
+
+Assets invested in collective trust programs
+
+10,850
+
+13,487
+
+14,078
+
+Assets invested in liquidity funds
+
+14,993
+
+13,573
+
+12,153
+
+Assets under management
+
+196,766
+
+181,487
+
+148,538
+
+Client proprietary assets under administration
+
+229,359
+
+185,082
+
+163,526
+
+Assets under management and administration
+
+$
+
+426,125
+
+$
+
+366,569
+
+$
+
+312,064
+
+Assets under management are total assets of our clients or their customers invested in our equity and fixed-income
+investment programs, collective trust fund programs, and liquidity funds for which we provide asset management services. Assets under management and administration are total assets of our clients or their customers for whom we provide administrative
+services, including client proprietary fund balances for which we provide administration and/or distribution services. Assets invested in equity and fixed-income programs as of December 31, 2007, 2006 and 2005 include assets managed by LSV.
+
+Consolidated
+
+Our revenues increased $193.3 million,
+or 16 percent, to $1.37 billion in 2007 compared to 2006, and increased $402.7 million, or 52 percent, to $1.18 billion in 2006 compared to 2005. Higher asset-based fees derived from capital market appreciation throughout most of 2007 and late 2006
+primarily drove our revenue growth across all of our business segments. Sales of new business in our Private Banks, Investment Advisors, Institutional Investors and Investment Managers business segments also contributed significantly to the increase
+in our revenues. The increase in revenues in 2006 was primarily due to consolidating the accounts of LSV into our financial statements, which accounted for $291.1 million of the increase in revenues. Revenue growth in 2006 was also driven by
+increased asset-based fees due to favorable capital market conditions and sales of new business in our Private Banks, Institutional Investors, and Investment Managers business segments.
+
+Income before income taxes increased $50.8 million, or 14 percent, to $409.5 million in 2007 and increased $63.5 million, or 22 percent, in 2006 compared to 2005. Diluted earnings per share in 2007 were $1.28 per
+share as compared to $1.17 per share a year ago, an increase of nine percent. Diluted earnings per share increased by $0.26 per share in 2006 compared to 2005, an increase of 29 percent. The increase in revenues as previously described generated
+improved profits and operating margins in our Investment Advisors, Institutional Investors and Investment Managers business segments. Our consolidated operating margins were negatively impacted by increased non-capitalized spending related to the
+Global Wealth Platform and the development of the necessary infrastructure to deliver and support new company strategies and solutions. Additionally, our profits and operating margins were negatively impacted by a non-cash charge of $25.1 million in
+the fourth quarter 2007 related to agreements that provide capital support to money market funds. The increase in net income and diluted earnings per share in 2006 as compared to 2005 was due primarily to the net operating results of LSV.
+
+Page 22 of 86
+
+Table of Contents
+
+Business Segments
+
+Private Banks
+
+Year Ended December 31,
+
+2007
+
+2006
+
+Percent
+Change
+
+2005
+
+Percent
+Change
+
+Revenues:
+
+Investment processing and software servicing fees
+
+$
+
+220,604
+
+$
+
+204,224
+
+8
+
+%
+
+$
+
+195,046
+
+5
+
+%
+
+Asset management, administration & distribution fees
+
+153,312
+
+128,301
+
+19
+
+%
+
+100,768
+
+27
+
+%
+
+Transaction-based and trade execution fees
+
+40,006
+
+34,924
+
+15
+
+%
+
+32,494
+
+7
+
+%
+
+Total revenues
+
+$
+
+413,922
+
+$
+
+367,449
+
+13
+
+%
+
+$
+
+328,308
+
+12
+
+%
+
+Revenues increased $46.5 million, or 13 percent, in 2007 compared to 2006, and $39.1 million, or 12 percent, in
+2006 compared to 2005. Revenues during 2007 and 2006 were primarily affected by:
+
+•
+
+Increased assets under management caused by improved capital market conditions and additional asset funding from existing international investment management
+clients;
+
+•
+
+Implementation fees related to the merger of two existing clients of our GWTS solution in 2007; and
+
+•
+
+An increase in revenues in our GWS solution from cross-sales of other services to existing clients; partially offset by
+
+•
+
+A decrease in non-recurring revenues in our GWTS solution due to a one-time buyout fee of $4.7 million of an existing contract in 2006 and from implementation fees
+earned in 2006 from client acquisitions.
+
+Operating margins were 20 percent in 2007 as compared to 24 percent in 2006. Operating income
+decreased $5.4 million, or six percent, in 2007 compared with 2006. Operating income in 2007 was primarily affected by:
+
+•
+
+Increased direct expenses associated with higher levels of assets from new and existing international investment management clients;
+
+•
+
+Increased personnel expenses and other operational costs necessary to deliver business outsourcing solutions to existing clients;
+
+•
+
+Increased non-capitalized technology spending and infrastructure buildout related to the Global Wealth Platform; and
+
+•
+
+Amortization expense related to the release of the Global Wealth Platform at the beginning of the third quarter of 2007; partially offset by
+
+•
+
+An increase in revenues.
+
+Operating margins were 24
+percent in 2006 as compared to 26 percent in 2005. Operating income increased $2.3 million, or three percent, in 2006, compared with 2005. Operating income during 2006 was primarily affected by:
+
+•
+
+An increase in revenues, which includes the non-recurring buyout fee mentioned above; and
+
+•
+
+A decrease in project-related costs for the implementation of new clients; partially offset by
+
+•
+
+The recognition of approximately $8.8 million in compensation expense related to stock options;
+
+•
+
+Increased non-capitalized technology spending and the write-off of previously capitalized software development costs related to the Global Wealth Platform; and
+
+•
+
+Increased personnel and other operational and technology costs necessary to deliver business outsourcing solutions.
+
+Investment Advisors
+
+Revenues increased $33.6 million, or 15 percent,
+in 2007 compared with 2006, and $22.3 million, or 11 percent, in 2006 compared with 2005. Revenues during 2007 and 2006 were primarily affected by:
+
+•
+
+Increased investment management fees from existing clients due to higher assets under management caused by improved capital market conditions and positive cash
+receipts from new and existing advisor relationships.
+
+Page 23 of 86
+
+Table of Contents
+
+Operating margins were 52 percent in 2007 and 50 percent in 2006. Operating income increased $20.5 million, or 18
+percent, in 2007 compared with 2006. Operating income in 2007 was primarily affected by:
+
+•
+
+An increase in revenues;
+
+•
+
+The write-off of the front-end component of the SEI Advisor Desktop for $3.4 million during the second quarter of 2006; partially offset by
+
+•
+
+Increased personnel costs for our investment advisors business and investment management operations;
+
+•
+
+Increased non-capitalized technology spending related to the Global Wealth Platform;
+
+•
+
+Amortization expense related to the release of the Global Wealth Platform at the beginning of the third quarter of 2007; and
+
+•
+
+Increased direct expenses associated with the increase in revenues.
+
+Operating margins were 50 percent in 2006 as compared to 57 percent in 2005. Operating income decreased $1.8 million, or two percent, in 2006 compared with 2005. Operating income during 2006 was primarily affected by:
+
+•
+
+The recognition of approximately $4.2 million in compensation expense related to stock options;
+
+•
+
+The write-off of the front-end component of the SEI Advisor Desktop for $3.4 million during the second quarter of 2006;
+
+•
+
+Increased non-capitalized technology spending and the write-off of previously capitalized software development costs related to the Global Wealth Platform; and
+
+•
+
+Increased personnel, promotion and technology costs related to our operating infrastructure, including investment management operations; partially offset by
+
+•
+
+An increase in revenues.
+
+Institutional Investors
+
+Revenues increased $34.6 million, or 21 percent, in 2007 compared with 2006, and $32.9 million, or 25 percent, in 2006 compared with 2005. Revenues
+during 2007 and 2006 were primarily affected by:
+
+•
+
+Asset funding from new sales of our retirement and not-for-profit solutions;
+
+•
+
+Asset funding from existing clients; and
+
+•
+
+Increased assets under management from existing clients caused by improved capital market conditions.
+
+Operating margins were 39 percent in 2007, 36 percent in 2006 and 33 percent in 2005. Operating income increased $19.6 million, or 34 percent, in 2007 compared with
+2006, and $15.6 million, or 36 percent, in 2006 compared with 2005. Operating income during 2007 and 2006 was primarily affected by:
+
+•
+
+An increase in revenues; less
+
+•
+
+Increased direct expenses associated with the increase in revenues;
+
+•
+
+Increased personnel costs, including stock-based compensation expenses, for our international institutional business and investment management operations; and
+
+•
+
+Increased sales compensation expenses related to sales of new business.
+
+Investment Managers
+
+Revenues increased $24.4 million, or 21 percent, in 2007 compared with 2006 and $15.7 million,
+or 15 percent, in 2006 compared with 2005. Revenues during 2007 and 2006 were primarily affected by:
+
+•
+
+Asset funding from existing clients of hedge fund, separately managed account and total operational outsourcing solutions;
+
+•
+
+Increased assets under administration from existing clients caused by improved capital market conditions; and
+
+•
+
+Cash flows from new clients; partially offset by
+
+•
+
+Client losses.
+
+Operating margins were 29 percent in
+2007, 24 percent in 2006 and 17 percent in 2005. Operating income increased $13.8 million, or 49 percent, in 2007 compared with 2006, and $10.5 million, or 59 percent, in 2006 compared with 2005. Operating income during 2007 and 2006 was primarily
+affected by:
+
+•
+
+An increase in revenues; partially offset by
+
+•
+
+Increased personnel costs, including stock-based compensation expenses, and technology costs related to our hedge fund, separate account and total operational
+outsourcing solutions; and
+
+•
+
+Increased sales compensation expenses related to sales of new business.
+
+Page 24 of 86
+
+Table of Contents
+
+LSV
+
+Revenues
+increased $54.5 million, or 19 percent, in 2007 compared with 2006 and $93.5 million, or 47 percent, in 2006 compared with 2005. The increase in revenues was primarily due to increased assets under management from the growth in assets from new and
+existing clients and capital market appreciation. Our earnings from LSV increased $19.3 million, or 17 percent, in 2007 compared with 2006 and $37.6 million, or 50 percent, in 2006 compared with 2005. The increase in operating income in 2007 and
+2006 was primarily driven by the increase in revenues.
+
+Other
+
+Corporate overhead expenses
+
+Year Ended December 31,
+
+2007
+
+2006
+
+Percent
+Change
+
+2005
+
+Percent
+Change
+
+Corporate overhead expenses
+
+$
+
+42,045
+
+$
+
+38,842
+
+8
+
+%
+
+$
+
+33,898
+
+15
+
+%
+
+Corporate overhead expenses primarily consist of corporate units such as executive management, accounting,
+regulatory compliance, workforce development and other general administrative costs not directly associated with a reportable business segment. The increase in these expenses was primarily due to increased general overhead costs and resources and
+associated expenses for our corporate compliance program and employee development initiatives.
+
+Other Income
+
+Items related to Other (expense) income on the accompanying Consolidated Statements of Operations consist of:
+
+Year Ended December 31,
+
+2007
+
+2006
+
+Percent
+Change
+
+2005
+
+Percent
+Change
+
+Equity in the earnings of unconsolidated affiliate
+
+$
+
+—
+
+$
+
+—
+
+N/A
+
+$
+
+74,818
+
+N/A
+
+Net (loss) gain from investments
+
+(25,395
+
+)
+
+(2,378
+
+)
+
+N/A
+
+87
+
+N/A
+
+Interest and dividend income
+
+18,596
+
+13,521
+
+38
+
+%
+
+8,367
+
+62
+
+%
+
+Interest expense
+
+(4,709
+
+)
+
+(5,464
+
+)
+
+(14
+
+)%
+
+(1,524
+
+)
+
+258
+
+%
+
+Minority interest
+
+(175,879
+
+)
+
+(146,962
+
+)
+
+20
+
+%
+
+(3,139
+
+)
+
+N/A
+
+Other
+
+2,952
+
+1,588
+
+86
+
+%
+
+1,508
+
+5
+
+%
+
+Total other (expense) income, net
+
+$
+
+(184,435
+
+)
+
+$
+
+(139,695
+
+)
+
+32
+
+%
+
+$
+
+80,117
+
+N/A
+
+Beginning in 2006, we consolidated the accounts of LSV and LSV Employee Group into our financial statements as a
+result of an unsecured loan guaranty. The ownership percentage of the other existing partners of LSV and LSV Employee Group is reflected in Minority interest. Prior to 2006, our proportionate share of the earnings from LSV was reflected in Equity in
+the earnings of unconsolidated affiliate.
+
+Minority interest includes the amount owned by other shareholders of entities in which we have a significant or
+controlling interest. The accounts of these entities are included in our consolidated financial statements. Minority interest on the accompanying Consolidated Statements of Operations consists of the following:
+
+Year Ended December 31,
+
+2007
+
+2006
+
+2005
+
+LSV Asset Management
+
+$
+
+(181,591
+
+)
+
+$
+
+(153,381
+
+)
+
+$
+
+—
+
+LSV Employee Group
+
+10,991
+
+11,653
+
+—
+
+Other entities
+
+(5,279
+
+)
+
+(5,234
+
+)
+
+(3,139
+
+)
+
+Total minority interest
+
+$
+
+(175,879
+
+)
+
+$
+
+(146,962
+
+)
+
+$
+
+(3,139
+
+)
+
+Page 25 of 86
+
+Table of Contents
+
+The accounts of LSV Employee Group are included in our consolidated financial statements. We do not have any ownership
+interest in the entity and, therefore, we record an offsetting amount for the operations of LSV Employee Group as minority interest.
+
+Net (loss) gain from
+investments consists of:
+
+Year Ended December 31,
+
+2007
+
+2006
+
+2005
+
+Net realized gain from sales of marketable securities
+
+$
+
+772
+
+$
+
+2,302
+
+$
+
+595
+
+Decrease in fair value of derivative financial instruments
+
+(1,089
+
+)
+
+(1,521
+
+)
+
+(525
+
+)
+
+Losses from Capital Support Agreements
+
+(25,122
+
+)
+
+—
+
+—
+
+Other-than-temporary declines in market value
+
+—
+
+(1,979
+
+)
+
+—
+
+Increase in fair value of securities owned
+
+503
+
+362
+
+17
+
+Other losses
+
+(459
+
+)
+
+(1,542
+
+)
+
+—
+
+Net (loss) gain on investments
+
+$
+
+(25,395
+
+)
+
+$
+
+(2,378
+
+)
+
+$
+
+87
+
+Derivative financial instruments are used to minimize the price risk associated with changes in the fair value of
+our seed investments in new investment management programs. These derivative financial investments did not qualify for hedge accounting under current accounting rules. As a result, changes in the fair value of these derivative financial instruments
+were recorded in current period earnings, whereas the change in the fair value of the hedged asset is recorded in other comprehensive income. Management’s decision to enter into derivative financial instruments that do not qualify for hedge
+accounting may cause volatility in earnings (See Notes 1 and 5 to the Consolidated Financial Statements).
+
+Losses from Capital Support Agreements include a
+non-cash charge of $25.1 million in the fourth quarter 2007 related to agreements that provide capital support to money market funds (See Note 6 to the Consolidated Financial Statements).
+
+Other-than-temporary declines in market value in 2006 includes an impairment charge of approximately $2.0 million related to an investment in an SEI-sponsored mutual
+fund. This investment had been in an unrealized loss position for a period longer than one year.
+
+Other losses in 2007 and 2006 include write-downs of
+approximately $475 thousand in 2007 and $1.5 million in 2006, respectively, related to an investment in a private company. The write down in 2007 represented the remaining balance of the investment in the company.
+
+Interest and dividend income is earned based upon the amount of cash that is invested daily. The increase in interest and dividend income in 2007 compared to 2006 was
+due to higher cash balances and an overall increase in interest rates.
+
+Interest expense includes the borrowings of LSV Employee Group, our Senior Notes
+and other borrowings. Interest expense for the debt associated with LSV Employee Group was approximately $3.8 million in 2007 and $4.4 million in 2006. The remaining amount of interest expenses is associated with our debt and fees for our lines of
+credit. We made a voluntary pre-payment for the remaining balance on our Senior Notes in August 2007. The decrease in interest expense is primarily due to lower balances of outstanding debt.
+
+Income Taxes
+
+Our effective tax rate was 36.6 percent in 2007, 33.9
+percent in 2006 and 36.2 percent in 2005. The 2006 effective tax rate benefited from a combination of state tax planning as well as a one-time favorable state legislative change which allowed for a greater amount of net operating losses to be
+utilized against our tax liability.
+
+Page 26 of 86
+
+Table of Contents
+
+Liquidity and Capital Resources
+
+Year Ended December 31,
+
+2007
+
+2006
+
+2005
+
+Net cash provided by operating activities
+
+$
+
+361,457
+
+$
+
+346,170
+
+$
+
+214,437
+
+Net cash used in investing activities
+
+(96,058
+
+)
+
+(118,016
+
+)
+
+(116,256
+
+)
+
+Net cash used in financing activities
+
+(191,426
+
+)
+
+(71,334
+
+)
+
+(185,019
+
+)
+
+Net increase (decrease) in cash and cash equivalents
+
+73,973
+
+156,820
+
+(86,838
+
+)
+
+Cash and cash equivalents, beginning of year
+
+286,948
+
+130,128
+
+216,966
+
+Cash and cash equivalents, end of year
+
+$
+
+360,921
+
+$
+
+286,948
+
+$
+
+130,128
+
+Cash requirements and liquidity needs are primarily funded through our cash flow from operations and our capacity
+for additional borrowing. At December 31, 2007, our unused sources of liquidity consisted of unrestricted cash and cash equivalents of $360.9 million and the amount available under our credit facility. In July 2007, we entered into a new credit
+facility agreement and terminated the old credit facility agreement which was scheduled to expire in September 2007. The credit facility agreement provides for borrowings of up to $200.0 million and expires in July 2012. The aggregate amount of the
+credit facility may be increased by an additional $100.0 million under certain conditions set forth in the agreement. Due to the outstanding letters of credit associated with the Capital Support Agreements (See “Money Market Fund Support”
+earlier in this discussion), the amount available for borrowings has been reduced to $50.0 million. The availability of the credit facility is subject to the compliance with certain covenants set forth in the agreement.
+
+Cash flows from operations increased $15.3 million in 2007 compared to 2006 and $131.7 million in 2006 compared to 2005. The increase in cash flows in 2007 was primarily
+caused by the increase in net income of $22.8 million. Cash flows in 2006 were significantly affected by the consolidation of the accounts of LSV. The net change in our working capital accounts partially offset the increase in net cash from
+operating activities in 2007 and 2006.
+
+Net cash used in investing activities primarily includes the capitalization of costs incurred in developing
+computer software, purchases and sales of marketable securities, and capital expenditures. In 2007, the Global Wealth Platform was placed into service. We will continue the development of the Global Wealth Platform through a series of releases to
+expand the functionality of the platform. The costs associated with these enhancements will be capitalized. We capitalized $61.4 million of software development costs in 2007 as compared to $73.3 million in 2006. The decrease in capitalized costs
+was primarily due to a higher proportion of spending related to the operation of the platform in 2007, which is not eligible for capitalization (See Note 1 to the Consolidated Financial Statements).
+
+We had $4.5 million and $16.8 million in net purchases of marketable securities in 2007 and 2006, respectively. Purchases and sales of marketable securities are mainly
+for the start-up of new investment products to be offered to our clients or to satisfy regulatory requirements of certain subsidiaries. The length of time we remain invested in our investment products is dependent upon client subscriptions. We will
+redeem our investment as clients subscribe to these new products.
+
+Capital expenditures in 2007 and 2006 primarily include the expansion of our corporate
+headquarters, which was substantially completed during 2007. Total costs for the expansion were approximately $27.0 million, of which $11.5 million was spent in 2007. Capital expenditures in 2007 and 2006 also include new computer-related equipment,
+mainly servers, associated with the release of the Global Wealth Platform.
+
+Net cash used in financing activities primarily includes the repurchase of our
+common stock, dividend payments, and principal payments on our debt. Our board of directors has authorized the repurchase of our common stock of up to $1.4 billion, which includes an additional authorization of $100.0 million on October 23,
+2007. As of January 31, 2008, we still had $112.2 million of authorization remaining for the purchase of our common stock under this program (See Note 9 to the Consolidated Financial Statements).
+
+Page 27 of 86
+
+Table of Contents
+
+The following table lists information regarding repurchases of our common stock during 2007, 2006, and 2005:
+
+Year
+
+Total Number of
+Shares Repurchased
+
+Average Price
+Paid
+per Share
+
+Total Cost
+(in thousands)
+
+2007
+
+7,161,000
+
+$
+
+28.64
+
+$
+
+205,085
+
+2006
+
+4,689,000
+
+23.40
+
+109,734
+
+2005
+
+8,886,000
+
+18.47
+
+164,118
+
+Cash dividends paid were $25.7 million or $.13 per share in 2007, $22.7 million or $.12 per share in 2006 and
+$21.3 million or $.11 per share in 2005. Our board of directors declared a cash dividend of $.07 per share on December 10, 2007. The dividend was paid on January 18, 2008 for $13.6 million.
+
+Principal payments on our debt were $9.0 million in 2007 and $5.4 million in 2006. Payments in 2007 include a voluntary principal pre-payment of $5.0 million consisting
+of the remaining balance of our Senior Notes. Principal payments made by LSV Employee Group for amounts included in our debt were $19.7 million in 2007 and $11.2 million in 2006.
+
+We believe our operating cash flow, available borrowing capacity, and existing cash and cash equivalents should provide adequate funds for continuing operations; continued investment in new products and equipment; our
+common stock repurchase program; future dividend payments; and expansion of our corporate headquarters.
+
+Significant Arrangement
+
+On January 24, 2006, we entered into a Guaranty and Collateral Agreement with LSV Employee Group, LaSalle Bank National Association and certain other lenders. We
+entered into the agreement in order to facilitate the acquisition of certain partnership interests of LSV by LSV Employee Group. Additional information pertaining to the agreement is presented in Note 2 of the Notes to the Consolidated Financial
+Statements.
+
+Contractual Obligations
+
+As of
+December 31, 2007, the Company is obligated to make payments in connection with its lines of credit, debt obligations, operating leases, maintenance contracts and other commitments in the amounts listed below. The contractual obligation table
+below excludes $11,895 of the Company’s FIN 48 liabilities because the Company cannot make a reasonable estimate of the timing of the related cash payment. The Company has no unrecorded obligations other than the items noted in the following
+table:
+
+Total
+
+2008
+
+2009
+
+2010 to
+2012
+
+2013 and
+Thereafter
+
+Line of credit and long-term debt (a)(b)
+
+$
+
+55,997
+
+$
+
+9,639
+
+$
+
+8,484
+
+$
+
+37,874
+
+$
+
+—
+
+Operating leases and maintenance agreements (c)
+
+44,929
+
+14,913
+
+9,109
+
+10,130
+
+10,777
+
+Other commitments (d)
+
+3,299
+
+3,299
+
+—
+
+—
+
+—
+
+Total
+
+$
+
+104,225
+
+$
+
+27,851
+
+$
+
+17,593
+
+$
+
+48,004
+
+$
+
+10,777
+
+(a)
+
+Amounts include estimated commitment fees and interest. See Notes 7 and 8 to the Consolidated Financial Statements.
+
+(b)
+
+Amounts include the long-term debt of LSV Employee Group. See Note 2 to the Consolidated Financial Statements.
+
+(c)
+
+See Note 11 to the Consolidated Financial Statements.
+
+(d)
+
+Amount includes the FIN 48 liabilities that are classified as a current liability on the accompanying Consolidated Balance Sheets. See Note 12 to the Consolidated Financial
+Statements.
+
+Page 28 of 86
+
+Table of Contents
+
+Critical Accounting Policies
+
+The accompanying consolidated financial statements and supplementary information were prepared in accordance with accounting principles generally accepted in the United States. Our significant accounting policies are
+discussed in Note 1 to the Consolidated Financial Statements. Inherent in the application of many of these accounting policies is the need for management to make estimates and judgments in the determination of certain revenues, expenses, assets and
+liabilities. Materially different financial results can occur as circumstances change and additional information becomes known. We believe that the following accounting policies require extensive judgment by our management to determine the
+recognition and timing of amounts recorded in our financial statements.
+
+Revenue Recognition:
+
+Revenues are recognized in the periods in which the related services are performed provided that persuasive evidence of an agreement exists, the fee is fixed or determinable, and collectibility is reasonably assured.
+Cash received by us in advance of the performance of services is deferred and recognized as revenue when earned. Our principal sources of revenues are: (1) asset management, administration and distribution fees calculated as a percentage of the
+total average daily net assets under management or administration; (2) information processing and software servicing fees that are recurring in nature and earned based upon the number of trust accounts being serviced and non-recurring project
+fees that are earned based upon contractual agreements related to client implementations; and (3) transaction-based fees for providing securities valuation and trade-execution services. The majority of our revenues are based on contractual
+arrangements. Certain portions of our revenues require management’s consideration of the nature of the client relationship in determining whether to recognize as revenue the gross amount billed or net amount retained after payments are made to
+vendors for certain services related to the product or service offering.
+
+Allowance for Doubtful Accounts:
+
+We maintain an allowance for doubtful accounts for estimated losses resulting from the inability of some of our clients to make their scheduled payments. The allowance
+for doubtful accounts is based on the total amount of outstanding receivables and an aging analysis at each balance sheet date. Other factors are considered in determining the adequacy of the allowance for doubtful accounts, such as historical
+trends, the financial condition of our clients and other factors that may be deemed appropriate. Based upon this analysis, the allowance for doubtful accounts is adjusted to an amount that is sufficient to cover expected losses from doubtful
+accounts.
+
+Investments Available-For-Sale:
+
+We value our
+investments in marketable securities based on quoted market prices. We review our investments in marketable securities on a quarterly basis with regard to impairment. Factors considered in determining other-than-temporary impairment are significant
+or prolonged declines in the fair value of our investments, our ability and intent to retain the investment for a period sufficient to allow the value to recover, and the financial condition of the investment. After considering these factors, if we
+believe that a decline is other-than-temporary, the carrying value of the investment is written down to its fair value through current period earnings.
+
+Computer Software Development Costs:
+
+We utilize internally developed computer software as part of our product offering. In the development of a
+new software product, substantial consideration must be given by management to determine whether costs incurred are research and development costs, or internal software development costs eligible for capitalization. Management must consider a number
+of different factors during their evaluation of each computer software development project that includes estimates and assumptions. Costs considered to be research and development are expensed as incurred. After meeting specific requirements,
+internal software development costs are capitalized as incurred. The capitalization and ongoing assessment of recoverability of software development costs requires considerable judgment by management with respect to certain external factors,
+including, but not limited to, technological and economic feasibility, and estimated economic life. Amortization of capitalized software development costs begins when the product is ready for its intended use. Capitalized software development costs
+are amortized on a product-by-product basis using the straight-line method over the estimated economic life of the product or enhancement.
+
+Page 29 of 86
+
+Table of Contents
+
+Income Tax Accounting:
+
+We
+use the asset and liability method of accounting for income taxes. Under this method, income tax expense is recognized for the amount of taxes payable or refundable for the current year. In addition, deferred tax assets and liabilities are
+recognized for the expected future tax consequences of temporary differences between the financial reporting and tax bases of assets and liabilities, and for operating losses and tax credit carryforwards. Management must make assumptions, judgments
+and estimates to determine our current provision for income taxes and also our deferred tax assets and liabilities and any valuation allowance to be recorded against a deferred tax asset.
+
+Our assumptions, judgments and estimates relative to the current provision for income taxes take into account current tax laws, our interpretation of current tax laws
+and possible outcomes of current and future audits conducted by foreign and domestic tax authorities. We have established reserves for income taxes to address potential exposures involving tax positions that could be challenged by tax authorities.
+Although we believe our assumptions, judgments and estimates are reasonable, changes in tax laws or our interpretation of tax laws and the resolution of any future tax audits could significantly impact the amounts provided for income taxes in our
+consolidated financial statements.
+
+Our assumptions, judgments and estimates relative to the value of a deferred tax asset take into account predictions of
+the amount and category of future taxable income, such as income from operations or capital gains income. Actual operating results and the underlying amount and category of income in future years could render our current assumptions, judgments and
+estimates of recoverable net deferred taxes inaccurate. Any of the assumptions, judgments and estimates mentioned above could cause our actual income tax obligations to differ from our estimates, thus materially impacting our financial position and
+results of operations.
+
+Stock-Based Compensation:
+
+Stock-based
+compensation cost is measured at the grant date based on the fair value of the award and is recognized as expense over the requisite service period, which is the vesting period. We currently use the Black-Scholes option pricing model to determine
+the fair value of stock options. The determination of the fair value of stock-based payment awards on the date of grant using an option-pricing model is affected by our stock price as well as various other assumptions. These assumptions include our
+expected stock price volatility over the term of the awards, actual and projected employee stock option exercise behaviors, risk-free interest rate and expected dividends. We are required to estimate forfeitures at the time of grant and revise those
+estimates in subsequent periods if actual forfeitures differ from those estimates. The amount of stock-based compensation expense that is recognized in a given period is dependent upon management’s estimate of when the earnings per share
+targets are expected to be achieved. If this estimate proves to be inaccurate, the remaining amount of stock-based compensation expense could be accelerated, spread out over a longer period, or reversed. We currently base our expectations for these
+assumptions from historical data and other applicable factors. These expectations are subject to change in future periods.
+
+The assessment of critical
+accounting policies is not meant to be an all-inclusive discussion of the uncertainties to financial results that can occur from the application of the full range of our accounting policies. Materially different financial results could occur in the
+application of other accounting policies as well. Also, materially different results can occur upon the adoption of new accounting standards.
+
+New
+Accounting Pronouncements
+
+In September 2006, the FASB issued SFAS No. 157 (SFAS 157), “Fair Value Measurements,” which defines fair
+value, establishes guidelines for measuring fair value and expands disclosures regarding fair value measurements. SFAS 157 does not require any new fair value measurements but rather eliminates inconsistencies in guidance found in various prior
+accounting pronouncements. SFAS 157 is effective for fiscal years beginning after November 15, 2007. However, in February 2008, the FASB issued FASB Staff Position (FSP) FAS 157-2 (FSP FAS 157-2) which delays the effective date of SFAS 157 for
+all nonfinancial assets and nonfinancial liabilities, except those that are recognized or disclosed at fair value in the financial statements on a recurring basis (at least annually). This FSP partially defers the effective date of SFAS 157 to
+fiscal years beginning after November 15, 2008, and interim periods within those fiscal years for items within the scope of this FSP. Effective for fiscal 2008, we will adopt SFAS 157 except as it applies to those nonfinancial assets and
+nonfinancial liabilities as noted in FSP FAS 157-2. The partial adoption of SFAS 157 is not expected to have a material impact on our consolidated financial position, results of operations or cash flows.
+
+In December 2007, the FASB issued SFAS No. 141 (revised 2007) (SFAS 141R), “Business Combinations” and SFAS No. 160 (SFAS 160), “Noncontrolling
+Interests in Consolidated Financial Statements, an amendment of Accounting Research Bulletin
+
+Page 30 of 86
+
+Table of Contents
+
+No. 51.” SFAS 141R will change how business acquisitions are accounted for and will impact financial statements both on the acquisition date and in
+subsequent periods. SFAS 160 will change the accounting and reporting for minority interests, which will be re-characterized as noncontrolling interests and classified as a component of equity. SFAS 141R and SFAS 160 will become effective for us
+beginning in the first quarter of fiscal 2009. Early adoption is not permitted. We are currently evaluating the impact that SFAS 141R and SFAS 160 will have on our consolidated financial statements.
+
+In February 2007, the FASB issued FASB Statement No. 159 (SFAS 159), “The Fair Value Option for Financial Assets and Financial Liabilities.” SFAS 159
+permits companies to choose to measure certain financial instruments and certain other items at fair value. The standard requires that unrealized gains and losses on items for which the fair value option has been elected be reported in earnings.
+SFAS 159 is effective for all financial statements issued for fiscal years beginning after November 15, 2007. We do not expect the adoption of SFAS 159 to have a material impact on our financial statements.
+
+See the discussion of New Accounting Pronouncements in Note 1 to the Consolidated Financial Statements.
+
+Page 31 of 86
+
+Table of Contents

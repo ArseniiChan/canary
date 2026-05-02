@@ -1,0 +1,472 @@
+AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+ OF OPERATIONS
+ (IN THOUSANDS)
+
+GENERAL
+
+ The Company primarily supplies financial and business information to
+institutional and retail investors worldwide. The Company is a leading provider
+of time sensitive pricing, dividend, corporate action, and descriptive
+information for more than 3.5 million securities. The Company also provides
+fixed income portfolio analytics, consulting and valuation services to
+institutional fixed income portfolio managers. At the core of the business are
+its extensive database expertise and technology resources.
+
+ The Company delivers real-time, end of day and historically archived data
+to customers through a variety of products featuring Internet, dedicated line,
+satellite and dialup delivery protocols. Through a broad range of partnerships
+and alliances, the Company provides links to leading financial service and
+software companies for trading, analysis, portfolio management, and valuation.
+
+ The Company operates in two business segments:
+
+ Institutional services -- delivery of time sensitive pricing,
+ dividend, corporate action, hard-to-value unlisted fixed income
+ instruments, and descriptive information and fixed income portfolio
+ analytics to institutional customers.
+
+ Retail Investor services -- delivery of real-time financial market
+ information and decision support tools to retail customers.
+
+ The services provided by the Company include the following:
+
+ Institutional:
+
+ - FT Interactive Data provides a wide range of high quality financial
+ information to trading houses, custodians, and fund managers
+ worldwide. The financial information collected and distributed
+ includes pricing, descriptive and corporate action information on
+ equities from all over the world.
+
+ - CMS BondEdge provides fixed income analytical tools and models
+ designed for investment managers, broker dealers, insurance
+ companies and bank and pension fund managers.
+
+ - The Federal News Service division, which the Company sold on January
+ 10, 2001, provides verbatim transcripts of hearings, briefings,
+ press conferences, and interviews by US government officials and
+ government agencies.
+
+ Retail:
+
+ - Internet based offers leading real-time, Internet delivered
+ subscription quote service for serious traders offering charts, news,
+ research, decision support tools and alerts direct to a laptop, PC, or
+ telephone.
+
+ - The broadcast services deliver real time quotes to communication
+ devices that rely on FM subcarriers, satellite, and cable television
+ or telephone lines.
+
+ 11
+<PAGE> 13
+
+RESULTS OF OPERATIONS
+
+ SELECTED FINANCIAL DATA
+
+ FOR THE PERIODS ENDED DECEMBER 31,
+ ($ THOUSANDS)
+
+<TABLE>
+<CAPTION>
+ HISTORICAL PROFORMA(1)
+ ------------------------------ --------------------------------
+ 2000 1999 1998 2000 1999 1998
+ -------- ------- ------- -------- -------- --------
+<S> <C> <C> <C> <C> <C> <C>
+Revenues
+Institutional.............. 269,943 188,956 153,677 276,361 258,217 238,439
+Retail:
+ -- eSignal............... 27,427 -- -- 32,551 13,400 5,063
+ -- Broadcast............. 16,768 -- -- 21,547 39,641 50,644
+ -------- ------- ------- -------- -------- --------
+TOTAL...................... 314,138 188,956 153,677 330,459 311,258 294,146
+Cost of Services........... 105,524 55,031 47,992 113,592 105,466 99,996
+Selling, General &
+ Administrative........... 116,091 77,743 65,661 123,472 136,226 127,207
+ -------- ------- ------- -------- -------- --------
+EBITDA(2).................. 92,523 56,182 40,024 93,395 69,566 66,943
+Depreciation............... 12,671 6,681 5,293 13,739 13,924 16,240
+Amortization............... 82,943 31,897 31,114 88,917 88,539 98,488
+Restructuring.............. -- -- 3,647 -- -- 3,647
+ -------- ------- ------- -------- -------- --------
+INCOME (LOSS) FROM
+OPERATIONS................. (3,091) 17,604 (30) (9,261) (32,897) (51,432)
+Equity in loss from
+ MarketWatch.com, Inc..... (67,229) (79,543) (69,041) (55,450)
+Other than temporary loss
+ in MarketWatch.com,
+ Inc...................... (141,844) (141,844) --
+Other income, net.......... 1,170 241 382 1,538 1,450 1,396
+ -------- ------- ------- -------- -------- --------
+INCOME (LOSS) BEFORE INCOME
+TAXES...................... (210,994) 17,845 352 (229,110) (100,488) (105,486)
+Provision (benefit) from
+ income taxes............. (67,522) 11,648 3,567 (73,623) (27,624) (31,918)
+ -------- ------- ------- -------- -------- --------
+NET INCOME (LOSS).......... (143,472) 6,197 (3,215) (155,487) (72,864) (73,568)
+ ======== ======= ======= ======== ======== ========
+Earnings per share -- Basic
+ and diluted.............. (1.68) 0.11 (0.06) (1.70) (0.80) (0.81)
+Weighted average shares
+ outstanding -- Basic and
+ diluted.................. 85,560 56,424 56,424 91,202 91,202 91,202
+</TABLE>
+
+---------------
+(1) The proforma amounts reflect the results as if Data Broadcasting and
+ Interactive Data had been combined on January 1, 1998. In addition, they
+ reflect Interactive Data's July 1999 acquisition of Muller Data Corporation
+ and the assets of MuniView, and Valorinform, as if the acquisition had
+ occurred on January 1, 1998.
+
+(2) "EBITDA" is defined as net income before net interest expense/income, income
+ taxes, depreciation and amortization expense and equity in losses of
+ MarketWatch.com, Inc. EBITDA is presented because it is a widely accepted
+ indicator of funds available to business, although it is not a measure of
+ liquidity or financial performance under generally accepted accounting
+ principles. We believe that EBITDA, while providing useful information,
+ should not be considered in isolation or as an alternative to net income or
+ cash flows as determined under generally accepted accounting principles.
+ EBITDA, as presented here,
+
+ 12
+<PAGE> 14
+
+ may differ from similarly titled measures reported by other companies due to
+ potential inconsistencies in methods of calculation.
+
+HISTORICAL RESULTS
+
+ 2000 versus 1999
+
+ The Company's historical results for the year ended December 31, 2000
+include a full 12 month's results for Interactive Data and 10 months for the
+Data Broadcasting business, while the historical results for the years ended
+December 31, 1999 and 1998 include only the Interactive Data business. This is
+due to the merger between Interactive Data and Data Broadcasting that occurred
+on February 29, 2000 and was accounted for as a reverse merger as described in
+Note 2 to the financial statements.
+
+ Revenue for the institutional business increased by 43% in 2000 over 1999.
+The increase was primarily due to the inclusion of the results in 2000 of the
+Muller Data, MuniView, and Valorinform businesses ("Acquired Businesses"), which
+were acquired in the latter half of 1999, the inclusion of the Data
+Broadcasting, CMS BondEdge, and FNS businesses and growth from the core
+Interactive Data business. There are no comparatives for the retail business
+since Interactive Data did not operate in this segment.
+
+ Cost of services increased by 92% in 2000 over 1999. This increase was due
+to the inclusion of the results of the Acquired Businesses, and the inclusion of
+10 months results of Data Broadcasting. Costs of services as a percentage of
+revenue increased from 29% in 1999 to 34% in 2000. The main reason for this
+growth was the higher percentage of overall costs allocated to cost of services
+for Data Broadcasting compared with Interactive Data . Selling, general and
+administrative expenses increased by 49% in 2000 over the comparable period in
+1999. This increase was due to the inclusion of the Acquired Businesses and 10
+months of Data Broadcasting. Selling, general and administrative expenses as a
+percentage of revenue decreased from 41% in 1999 to 37% in 2000. The main reason
+for this decrease was the lower percentage of costs allocated to this category
+from Data Broadcasting combined with synergies realized from combining the
+Acquired Businesses with Interactive Data and merging the central functions of
+Data Broadcasting with those of Interactive Data.
+
+ EBITDA increased from $56,182 in 1999 to $92,523 in 2000, an increase of
+65%. This increase was partially due to the inclusion of the Acquired Businesses
+and the inclusion of 10 months of Data Broadcasting's results. In addition the
+larger percentage increase in EBITDA than revenue resulted from the synergies
+realized from combining the Acquired Businesses with Interactive Data and
+merging the central functions of Data Broadcasting with those of Interactive
+Data, as outlined above.
+
+ Income from operations declined from $17,604 in 1999 to a loss of $3,091 in
+2000. The decline in income from operations was due to the inclusion of the
+amortization of the goodwill and intangibles relating to the Acquired
+Businesses, and goodwill and intangible amortization arising from the merger
+between Interactive Data and Data Broadcasting.
+
+ During the fourth quarter of 2000, the Company recorded a charge of $4,528
+in connection with the write off a trademark of one of the Acquired Businesses
+that was no longer in use. This charge is included in amortization expense.
+
+ The Company's pre tax share of the net losses from MarketWatch totaled
+$67,229 in the year representing the Company's equity interest in the net loss
+of MarketWatch, and amortization of the fair value of the Company's investment
+in excess of the share of the equity in MarketWatch.
+
+ On December 27, 2000, the Company announced the sale of its 34.4% ownership
+in MarketWatch to Pearson for $26,888. The Company recorded an other than
+temporary loss of $141,844 on the investment representing the difference between
+the book value of the investment and the sale price. The sale was consummated in
+early January, 2001 and the proceeds were distributed to shareholders.
+
+ Other income increased from $241 in 1999 to $1,170 in 2000. This increase
+was due mainly to higher invested cash balances in 2000 than in 1999.
+
+ 13
+<PAGE> 15
+
+ The Company's effective tax rate declined from a charge of 65% to a benefit
+of 32% mainly due to the losses in 2000 compared with net income in 1999. The
+difference between the Company's statutory tax rate and effective tax rate is
+primarily due to amortization deducted for financial reporting purposes which is
+not deductible for federal and state tax purposes.
+
+ The Company generated a net loss of $143,472 in 2000 compared with net
+income of $6,197 in 1999. This was due to higher amortization expense, the
+Company's share of MarketWatch's losses, the loss on the write down of the
+MarketWatch investment and the write off of a discontinued trademark, partially
+offset by a benefit from income taxes.
+
+ Weighted average shares outstanding grew by 52% due to the shares issued to
+Pearson on February 29,2000 in the merger of Interactive Data and Data
+Broadcasting merger.
+
+ 1999 versus 1998
+
+ The Company's historical results for the year ended December 31, 1999
+include five months results from the Acquired Businesses, while the historical
+results for the year ended December 31, 1998 include only those for Interactive
+Data.
+
+ Revenue for the institutional business increased by 23% in 1999 over 1998.
+The increase was primarily due to the inclusion of five months of results in
+1999 from the Acquired Businesses, and growth from Interactive Data.
+
+ Cost of services increased by 15% in 1999 over 1998. This increase was due
+to the inclusion of five months results from the Acquired Businesses. Costs of
+services as a percentage of revenue decreased from 31% in 1998 to 29% in 1999.
+The main reason for this decline was synergies in the IT and data collection
+areas from combining the Acquired Businesses with Interactive Data. Selling,
+general and administrative expenses increased by 18% in 1999 over the comparable
+period in 1998. This increase was due the inclusion of the Acquired Businesses.
+Selling, general and administrative expenses as a proportion of revenue declined
+from 43% in 1998 to 41% in 1999, mainly as a result of synergies in the sales
+and corporate areas.
+
+ EBITDA increased from $40,024 in 1998 to $56,182 in 1999, an increase of
+40%. The increase was partially due to the inclusion of the Acquired Businesses.
+In addition, the larger increase in EBITDA compared with the increase in revenue
+is driven by the synergies realized from combining the Acquired Businesses with
+Interactive Data, as outlined above.
+
+ Income from operations increased from a loss of $30 in 1998 to income of
+$17,604 in 1999. The increase in income from operations was due to the inclusion
+of the revenues from the Acquired Businesses, the benefits from the synergies of
+combining Interactive Data and the Acquired Businesses and efficiencies achieved
+as a result of the restructuring in 1998.
+
+ The Company's effective tax rate decreased to 65% in 1999 because of the
+higher income. The difference between the Company's statutory tax rate and
+effective tax rate is primarily due to amortization deducted for financial
+reporting purposes which is not deductible for federal and state tax purposes.
+
+ The Company's net loss of $3,215 in 1998 improved to net income of $6,197
+in 1999. This was due to the inclusion of the Acquired Businesses revenue for
+five months and the cost savings associated with the synergies highlighted
+above.
+
+ Weighted average shares outstanding were unchanged.
+
+PROFORMA RESULTS
+
+ The Proforma amounts reflect the results as if Data Broadcasting and
+Interactive Data had been combined on January 1, 1998. In addition they reflect
+Interactive Data's July 1999 acquisition of the Acquired Businesses, as if the
+acquisition had occurred on January 1, 1998.
+
+ 14
+<PAGE> 16
+
+ 2000 versus 1999
+
+ On a proforma basis, for 2000, overall revenue increased by 6% over 1999.
+Growth in the institutional business (+7%) and eSignal business (+143%) were
+partially offset by a decline in the business using broadcast delivery (-46%).
+This decline in broadcast customers is expected to continue as customers
+transfer to Internet based delivery of data. Institutional revenues increased
+strongly in our core Interactive Data and CMS BondEdge businesses with a
+marginal decline in the Acquired Businesses as customers who had previously
+purchased duplicate backup services from these entities and Interactive Data
+chose to cancel and seek alternative sources.
+
+ EBITDA grew from $69,566 in 1999 to $93,395 in 2000, an increase of 34%.
+This was due to cost of services remaining flat at 34% of total revenue in both
+1999 and 2000, and selling, general and administrative costs declining from 44%
+of revenue in 1999 to 37% in 2000. These reductions came largely from synergies
+realized from combining the Acquired Businesses with Interactive Data and
+merging the central functions of Data Broadcasting with those of Interactive
+Data.
+
+ The loss from operations declined from $32,897 in 1999 to $9,261 in 2000 an
+improvement of 72%. This improvement was due to the improved EBITDA reported
+above.
+
+ 1999 versus 1998
+
+ On a proforma basis, overall 1999 revenue increased by 6% over 1998. Growth
+in the institutional business (+8%) and eSignal business (+165%) were partially
+offset by a decline in the business using broadcast delivery (-22%). This
+decline in broadcast customers is expected continue as customers transfer to
+Internet based delivery of data. Institutional revenues increased strongly in
+the Interactive Data and CMS BondEdge businesses.
+
+ EBITDA grew from $66,943 in 1998 to $69,566 in 1999, an increase of 4%.
+This was due to cost of services remaining flat at 34% of total revenue in both
+1998 and 1999, and selling, general and administrative costs increasing
+marginally from 43% of revenue in 1998 to 44% in 1999. This small increase was
+the result of duplicate costs from the purchase of the Acquired Businesses,
+which were subsequently eliminated in 2000.
+
+ The loss from operations declined from $51,432 in 1998 to $32,897 in 1999.
+The decline in the loss from operations was due to the improved EBITDA reported
+above, lower amortization as a result of the ending of amortization of certain
+non-compete contracts and the non-recurrence of restructuring charges which were
+incurred in 1998.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+ Cash provided by operating activities was $64,950, $39,310 and $38,004 in
+2000, 1999 and 1998, respectively. The increase from 1999 to 2000 resulted from
+the acquisition of the Acquired Businesses in the second half of 1999 and the
+merger of Interactive Data and Data Broadcasting in February 2000. The increase
+from 1998 to 1999 was mainly due to the move from a net loss to a net income
+position being partially offset by higher accounts receivable and lower deferred
+revenues.
+
+ The Company's capital expenditures have continued to increase over the
+three-year period. They increased from $4,812 in 1998 to $7,920 in 1999 with the
+purchase and integration of the Acquired Businesses. In 2000 they increased to
+$15,699, as a result of the merger between Interactive Data and Data
+Broadcasting and continuing integration of all the businesses. Capital
+expenditures are expected to stay at this level as the Company expands and
+purchases capital assets to enable it to utilize a common technology across its
+institutional operations.
+
+ In 2000, the Company spent $14,766 on acquisitions. There were two
+acquisitions made in the year. On April 1, 2000, Interactive Data acquired Itex
+(FIT) Limited for consideration totaling $12,800, comprised of a cash payment of
+$11,200 plus relief against an accounts receivable due to the Company's UK
+subsidiary of $1,600. On August 31, 2000, the Company acquired Trading
+Techniques, Inc. for consideration totaling
+
+ 15
+<PAGE> 17
+
+$5,566, comprised of cash of $3,566, and a deferred payment of $2,000. In 1999,
+Interactive Data used $149,078 for acquisitions to acquire the Acquired
+Businesses. There were no acquisitions in 1998.
+
+ In 2000, the Company received $402 from the exercise of 192 stock options
+and warrants.
+
+ Management believes that the cash generated by operating activities,
+together with its existing cash and financing arrangements, are sufficient to
+meet the short- and long-term needs of the current operations of the Company.
+
+INCOME TAXES
+
+ The Company recognizes future tax benefits or expenses attributable to its
+temporary differences, net operating loss carryforwards and tax credit
+carryforwards. Recognition of deferred tax assets is subject to the Company's
+determination that realization is more likely than not. As of December 31, 2000,
+the Company has recorded $46,915 of deferred tax assets. Based on taxable income
+projections, management believes that the recorded deferred tax assets will be
+realized.
+
+INFLATION
+
+ Although management believes that inflation has not had a material effect
+on the results of its operations during the past three years, there can be no
+assurance that the Company's results of operations will not be affected by
+inflation in the future.
+
+RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS
+
+ In June 1998 and June 2000, the Financial Accounting Standards Board
+("FASB") issued Financial Accounting Standard No. 133 ("FAS 133"), "Accounting
+for Derivative Instruments and Hedging Activities", and Financial Accounting
+Standard No. 138 ("FAS 138"), "Accounting for Certain Derivative Instruments and
+Certain Hedging Activities". This statement amends the accounting and reporting
+standards for certain derivative instruments and hedging activities. FAS Nos.
+133 and 138 are effective for fiscal years beginning after June 15, 2000. The
+Company has not engaged in hedging activities or invested in derivative
+instruments and, accordingly, does not believe implementation of FAS 133 will
+have a material effect on its financial statements.
+
+ In March 2000, the FASB issued Interpretation No. 44, "Accounting for
+Certain Transactions Involving Stock Compensation -- an interpretation of APB
+Opinion No. 25" ("FIN 44"). FIN 44 clarifies the application of APB Opinion No.
+25 and among other issues clarifies the following: the definition of an employee
+for purposes of applying APB Opinion No. 25, the criteria for determining
+whether a plan qualifies as a noncompensatory plan, the accounting consequence
+of various modifications to the terms of previously fixed stock options or
+awards, and the accounting for an exchange of stock compensation awards in a
+business combination. FIN 44 was effective July 1, 2000, but certain conclusions
+in this interpretation cover specific events that occur after either December
+15, 1998, or January 12, 2000.
+
+ Application of this pronouncement did not have a material impact on the
+Company's financial position or results of operations.
+
+ In December 1999, the Securities and Exchange Commission staff released
+Staff Accounting Bulletin No. 101, "Revenue Recognition in Financial Statements"
+(SAB No. 101), which provides guidance on the recognition, presentation and
+disclosure of revenue in financial statements. SAB 101 was effective in the
+fourth quarter of Fiscal 2000. In order to comply with the gross revenue versus
+net revenue presentation requirements of SAB 101, the Company reduced revenue
+and costs of services by $7,750. Adoption of this SAB had no material impact on
+the Company's quarterly or annual results of operations or financial position.
+
+FORWARD-LOOKING STATEMENTS
+
+ From time to time, the Company may publish forward-looking statements
+relating to such matters as anticipated financial performance, business
+prospects, technological developments, new products, research,
+
+ 16
+<PAGE> 18
+
+and development activities and similar matters. The Private Securities
+Litigation Reform Act of 1995 provides a safe harbor for forward-looking
+statements. In order to comply with the terms of the safe harbor, the Company
+notes that a variety of factors could cause the Company's actual results and
+experience to differ materially from the anticipated results or other
+expectations expressed in the Company's forward-looking statements. The risks
+and uncertainties that may affect the operations, performance, development, and
+results of the Company's business include the following:
+
+ - The presence of competitors with greater financial resources and their
+ strategic response to the Company's services and products.
+
+ - Changes in technology, which could affect the competitiveness of the
+ Company's products and services.
+
+ - A decline in activity levels in the securities markets, which could lower
+ demand for the Company's products and services.
+
+ - Consolidation of financial services. This consolidation has two forms:
+ consolidations within an industry (such as banking) and across industries
+ (such as consolidations of insurance, banking and brokerage companies).
+ Such consolidations could lower demand for the Company's products and
+ services.
+
+ - Loss of key employees assigned to work associated with the integration of
+ the recently acquired businesses of the Company. This could result in a
+ delay in integration work designed to provide operational synergies and
+ product enhancements.
+
+ - Prolonged outage at one of Company's data centers. While the Company
+ employs high reliability hardware at its data centers, a prolonged outage
+ at one of its data centers could have a material impact on revenues.
+
+ - The acceptance of the Internet as a reliable real-time distribution
+ platform by institutional customers.
+
+ - The ability of the Company to broaden its subscriber base by adding more
+ individual investors outside of the Company's traditional "active-trader"
+ market.
+
+ - The potential obsolescence of the Company's services due to the
+ introduction of new technologies.

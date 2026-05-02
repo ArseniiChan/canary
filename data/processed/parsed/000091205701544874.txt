@@ -1,0 +1,1100 @@
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+ FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+ The accompanying Consolidated Financial Statements include the consolidated
+accounts of Tyco International Ltd. ("Tyco") and its subsidiaries (Tyco and all
+its subsidiaries, hereinafter "we" or the "Company"). On June 1, 2001, a
+subsidiary of the Company acquired The CIT Group, Inc. ("CIT"), an independent
+commercial finance company, now Tyco Capital Corporation. The discussion and
+financial data presented herein are furnished separately for each of the
+following:
+
+ - Tyco Industrial--This represents Tyco and all its subsidiaries other than
+ Tyco Capital, and includes the results of operations of Tyco Capital from
+ June 2, 2001 on the equity method of accounting.
+
+ - Tyco Capital--This represents Tyco Capital Corporation and all its
+ subsidiaries and reflects their results of operations from June 2, 2001.
+ In addition, Tyco Capital includes certain international subsidiaries that
+ were sold by Tyco Capital Corporation to a non-U.S. subsidiary of Tyco on
+ September 30, 2001.
+
+ - Consolidated--This represents Tyco Industrial and Tyco Capital on a
+ consolidated basis.
+
+ RESULTS OF OPERATIONS
+
+TYCO INDUSTRIAL
+
+OVERVIEW
+
+ Information for all periods presented below reflects the grouping of Tyco
+Industrial's businesses into four segments, consisting of Electronics, Fire and
+Security Services, Healthcare and Specialty Products, and Telecommunications.
+While our Telecommunications business currently operates as part of our
+Electronics segment, it is broken out separately in the segment discussion
+below.
+
+ During Fiscal 2001, a change was made in the Company's internal management
+reporting structure such that the operations of the former Flow Control Products
+and Services segment are now reported in part within the Fire and Security
+Services and in part within the Electronics segments. The Company has conformed
+its segment reporting accordingly and has reclassified comparative prior period
+information to reflect this change.
+
+ In Fiscal 1999, we consummated two mergers that were accounted for under the
+pooling of interests method of accounting: the merger with United States
+Surgical Corporation ("U.S. Surgical") and the merger with AMP Incorporated
+("AMP"). As required by generally accepted accounting principles in the United
+States ("GAAP"), we restated our financial statements as if U.S. Surgical and
+AMP had always been a part of Tyco.
+
+ Tyco Industrial segment revenues increased 17.6% during Fiscal 2001 to
+$34,036.6 million compared to $28,931.9 million in Fiscal 2000. Fiscal 2001
+revenues reflect a decrease of $241.1 million resulting from the adoption of
+Staff Accounting Bulletin No. 101 ("SAB 101"). Tyco Industrial segment revenues
+increased 28.6% during Fiscal 2000 to $28,931.9 million from $22,496.5 million
+in Fiscal 1999.
+
+ Income before extraordinary items and cumulative effect of accounting
+changes was $4,671.1 million in Fiscal 2001 as compared to $4,520.1 million in
+Fiscal 2000 and $1,067.7 million in Fiscal 1999. Income before extraordinary
+items and cumulative effect of accounting changes for Fiscal 2001 included a net
+charge of $382.2 million ($366.8 million after-tax) consisting of the following:
+(i) restructuring and other non-recurring charges and impairment charges
+totaling $705.4 million related primarily to the closure of facilities within
+the Electronics and Fire and Security Services segments; (ii) $184.3 million
+write-off of purchased in-process research and development related to the
+acquisition of Mallinckrodt Inc. ("Mallinckrodt"); (iii) a non-recurring credit
+of $166.8 million related
+
+ 91
+<Page>
+to the settlement of litigation; (iv) a net gain on sale of businesses and
+investments of $276.6 million principally related to the sale of ADT Automotive,
+partially offset by the permanent impairment of an equity investment; and (v) a
+$64.1 million net gain on the sale of common shares of a subsidiary. Income
+before extraordinary items and cumulative effect of accounting changes for
+Fiscal 2001 also reflects a $111.2 million decrease resulting from the Fiscal
+2001 impact of the adoption of SAB 101. Income before extraordinary items for
+Fiscal 2000 included a net credit of $1,484.7 million ($793.7 million after-tax)
+consisting of the following: (i) a gain of $1,760.0 million on the sale by a
+subsidiary of its common shares in connection with TyCom's initial public
+offering; (ii) restructuring, non-recurring and impairment charges of
+$424.2 million primarily for non-recurring claims related to a merged company
+and the exiting of U.S. Surgical's interventional cardiology business; and
+(iii) a credit of $148.9 million representing a revision of estimates of merger,
+restructuring and other non-recurring accruals. Income before extraordinary
+items for Fiscal 1999 included a net charge of $1,542.7 million
+($1,304.8 million after-tax) related primarily to the mergers with U.S. Surgical
+and AMP and costs associated with AMP's profit improvement plan.
+
+ The following table details Tyco Industrial's net revenue and earnings in
+Fiscal 2001, Fiscal 2000 and Fiscal 1999 ($ in millions):
+
+<Table>
+<Caption>
+ FISCAL 2001 FISCAL 2000 FISCAL 1999
+ ----------- ----------- -----------
+<S> <C> <C> <C>
+Tyco Industrial segment revenues before accounting change... $34,277.7 $28,931.9 $22,496.5
+Impact of SAB 101........................................... (241.1) -- --
+ --------- --------- ---------
+TYCO INDUSTRIAL SEGMENT REVENUES AFTER ACCOUNTING CHANGE.... $34,036.6 $28,931.9 $22,496.5
+ ========= ========= =========
+Tyco Industrial operating income, before certain charges
+ (credits) and accounting change(1)........................ $ 7,623.5 $ 6,094.1 $ 3,949.6
+Merger, restructuring and other non-recurring charges,
+ net....................................................... (418.5) (176.3) (1,035.2)
+Write-off of purchased in-process research and
+ development............................................... (184.3) -- --
+Charges for the impairment of long-lived assets............. (120.1) (99.0) (507.5)
+Amortization of goodwill.................................... (537.4) (344.4) (216.1)
+Impact of SAB 101........................................... (171.1) -- --
+Corporate expense allocated to Tyco Capital................. (5.3) -- --
+ --------- --------- ---------
+Tyco Industrial operating income............................ 6,186.8 5,474.4 2,190.8
+Net gain on sale of businesses and investments.............. 276.6 -- --
+Net gain on sale of common shares of a subsidiary........... 64.1 1,760.0 --
+Tyco Capital net earnings (from June 2, 2001)............... 252.5 -- --
+Interest expense, net....................................... (776.5) (769.6) (485.6)
+ --------- --------- ---------
+Income before income taxes, minority interest, extraordinary
+ items and cumulative effect of accounting changes......... 6,003.5 6,464.8 1,705.2
+Income taxes................................................ (1,284.9) (1,926.0) (637.5)
+Minority interest........................................... (47.5) (18.7) --
+ --------- --------- ---------
+INCOME BEFORE EXTRAORDINARY ITEMS AND CUMULATIVE EFFECT OF
+ ACCOUNTING CHANGES........................................ 4,671.1 4,520.1 1,067.7
+Extraordinary items, net of tax............................. (17.1) (0.2) (45.7)
+Cumulative effect of accounting changes, net of tax......... (683.4) -- --
+ --------- --------- ---------
+TYCO INDUSTRIAL NET INCOME.................................. $ 3,970.6 $ 4,519.9 $ 1,022.0
+ ========= ========= =========
+</Table>
+
+------------------------------
+
+(1) This amount is the sum of the operating income of Tyco Industrial's four
+ business segments set forth in the segment discussion below, less certain
+ corporate expenses, and is before merger, restructuring and other
+ non-recurring charges (credits), the write-off of purchased in-process
+ research and development, charges for the impairment of long-lived assets,
+ amortization of goodwill and the adoption of SAB 101. Merger, restructuring
+ and other non-recurring charges, net, in the amount of $184.9 million,
+ $1.0 million and $106.4 million related to inventory have been deducted as
+ part of cost of revenue in the Consolidated Statements of Operations for
+ Fiscal 2001, 2000 and 1999, respectively. However, they have not been
+ deducted as part of cost of revenue for the purpose of calculating operating
+ income before certain charges (credits) in this table. These charges are
+ instead included in merger, restructuring and other non-recurring charges.
+
+ 92
+<Page>
+ During Fiscal 2001, we recorded merger, restructuring and other
+non-recurring charges and charges for the impairment of long-lived assets
+related primarily to cost reduction actions and acquisitions. Under our
+restructuring and integration programs, we terminate employees and close
+facilities made redundant. The reduction in manpower and facilities comes from
+the manufacturing, sales and administrative functions. In addition, we
+discontinue or dispose of product lines which do not fit the long-term strategy
+of the respective businesses. We do not separately track the impact on financial
+results of the restructuring and integration programs. However, we estimate that
+our overall cost structure has been reduced by approximately $300.0 million on
+an annualized basis due to the impact associated with these charges. The
+significant decreases have been to selling, general and administrative expenses
+and to cost of revenue.
+
+ Operating income and margins for Tyco Industrial's four business segments,
+which are presented in accordance with GAAP in the following discussion, are
+supplemented by a discussion of operating income and margins stated before
+deductions for merger, restructuring and other non-recurring charges, charges
+for impairment of long-lived assets and the adoption of SAB 101. This
+supplemental discussion of operating results before certain charges (credits)
+and accounting change should not be considered an alternative to operating or
+net income as an indicator of the performance of our business, or as an
+alternative to cash flows from operating activities as a measure of liquidity,
+in each case determined in accordance with GAAP.
+
+ Operating income, before certain (charges) credits and accounting change,
+improved in all segments in each of Fiscal 2001 and Fiscal 2000, with the
+exception of the Telecommunications segment as discussed below. The operating
+improvements are the result of both increased revenues in all but our
+Telecommunications segment and enhanced margins in all but our Healthcare and
+Specialty Products segment. Increased revenues resulted from acquisitions that
+are accounted for under the purchase method of accounting and from organic
+growth. We enhanced our margins through improved productivity and cost
+reductions in the ordinary course of business, unrelated to acquisition or
+divestiture activities. We regard charges that we incurred to reduce costs in
+the ordinary course of business as recurring charges, which are reflected in
+cost of revenue and in selling, general, administrative and other costs and
+expenses in the Consolidated Statements of Operations.
+
+ When we make an acquisition, the acquired company is immediately integrated
+with our existing operations. Consequently, we do not separately track the
+financial results of acquired companies. The discussions following the tables
+below include estimates of year-to-year revenue growth that exclude the effects
+of indicated acquisitions. These estimates assume that the acquisitions were
+made at the beginning of the relevant fiscal periods.
+
+REVENUE AND OPERATING INCOME AND MARGINS
+
+ ELECTRONICS
+
+ Electronics' products and services include:
+
+ - designing, engineering and manufacturing of electronic connector systems,
+ fiber optic components, wireless devices, heat shrink products, power
+ components, wire and cable, relays, sensors, touch screens, smart card
+ components, identification and labeling products, energy solutions, power
+ products, switches and battery assemblies.
+
+ The AMP merger occurred in April 1999, but, as required under the pooling of
+interests method of accounting, Fiscal 1999 results are presented as though the
+companies had been combined since the
+
+ 93
+<Page>
+beginning of Fiscal 1999. The following table sets forth revenue and operating
+income (loss) and margins for the Electronics segment ($ in millions):
+
+<Table>
+<Caption>
+ FISCAL 2001 FISCAL 2000 FISCAL 1999
+ ----------- ----------- -----------
+<S> <C> <C> <C>
+Revenue, before accounting change........................... $13,052.1 $11,417.7 $7,043.5
+Operating income, before certain (charges) credits and
+ accounting change......................................... $ 3,310.9 $ 2,759.9 $1,052.5
+Operating margins, before certain (charges) credits and
+ accounting change......................................... 25.4% 24.2% 14.9%
+
+Revenue, after accounting change............................ $13,107.5 $11,417.7 $7,043.5
+Operating income (loss), after certain (charges) credits and
+ accounting change......................................... $ 2,848.4 $ 2,850.8 $ (22.3)
+Operating margins, after certain (charges) credits and
+ accounting change......................................... 21.7% 25.0% (0.3)%
+</Table>
+
+ The 14.3% increase in revenue, before accounting change, in Fiscal 2001 over
+Fiscal 2000 resulted primarily from acquisitions. These acquisitions included:
+Siemens Electromechanical Components GmbH & Co. KG ("Siemens") and AFC Cable
+Systems, Inc. ("AFC Cable") in November 1999; Praegitzer Industries, Inc.
+("Praegitzer") in December 1999; Critchley Group PLC ("Critchley") in
+March 2000; the electronic OEM business of Thomas & Betts in July 2000; CIGI
+Investment Group, Inc. ("CIGI") in October 2000; and Lucent Technologies' Power
+Systems business unit in December 2000. Excluding the impact of these
+acquisitions, revenue increased an estimated 0.3%, which reflects an economic
+slowdown in the computer and consumer electronics and communications industries
+and, to a lesser extent, the effect of foreign exchange rates.
+
+ The 62.1% increase in revenue in Fiscal 2000 over Fiscal 1999 was
+predominantly due to acquisitions and, to a lesser extent, organic growth. These
+acquisitions included: Glynwed International, plc in March 1999; Raychem
+Corporation ("Raychem") in August 1999; Siemens and AFC Cable in November 1999;
+Praegitzer in December 1999; Critchley in March 2000; and the electronic OEM
+business of Thomas & Betts in July 2000. Excluding the impact of these
+acquisitions, revenue increased an estimated 13.1%.
+
+ The 20.0% increase in operating income and the increase in margins, before
+certain (charges) credits and accounting change, in Fiscal 2001 compared with
+Fiscal 2000 was primarily due to acquisitions and improved margins at both Tyco
+Printed Circuit Group and AMP. These increases were somewhat offset by decreased
+operating income and margins at Allied Tube and Conduit resulting from higher
+raw material prices.
+
+ Operating income and margins, after certain (charges) credits and accounting
+change, include restructuring and other non-recurring and impairment charges of
+$485.0 million, partially offset by an increase of $22.5 million relating to the
+adoption of SAB 101 in Fiscal 2001, as compared to a net merger, restructuring
+and other non-recurring credit of $90.9 million in Fiscal 2000.
+
+ The substantial increase in operating income and margins, before certain
+(charges) credits, in Fiscal 2000 compared with Fiscal 1999 was primarily due to
+the acquisitions of Raychem and Siemens and improved margins at both AMP and
+Tyco Printed Circuit Group. The improved operating margins, before certain
+(charges) credits, in Fiscal 2000 compared with Fiscal 1999 resulted from
+increased volume, improved pricing and continuing cost reduction programs
+following the AMP merger.
+
+ In addition to the items discussed above, the substantial increase in
+operating income and margins, after certain (charges) credits, was due to a
+merger, restructuring and other non-recurring net credit of $90.9 million in
+Fiscal 2000 compared with a restructuring and other non-recurring charge of
+$1,074.8 million in Fiscal 1999.
+
+ 94
+<Page>
+ FIRE AND SECURITY SERVICES
+
+ Fire and Security Services' products and services include:
+
+ - designing, installing and servicing a broad line of fire detection,
+ prevention and suppression systems, and manufacturing and servicing of
+ fire extinguishers and related products;
+
+ - designing, installing, monitoring and maintaining electronic security
+ systems;
+
+ - designing and manufacturing valves and related products; and
+
+ - providing a broad range of consulting, engineering and construction
+ management and operating services for water, wastewater, environmental,
+ transportation and infrastructure markets.
+
+ The following table sets forth revenue and operating income and margins for
+the Fire and Security Services segment ($ in millions):
+
+<Table>
+<Caption>
+ FISCAL 2001 FISCAL 2000 FISCAL 1999
+ ----------- ----------- -----------
+<S> <C> <C> <C>
+Revenue, before accounting change........................... $10,529.1 $8,506.6 $8,086.5
+Operating income, before certain (charges) credits and
+ accounting change......................................... $ 2,019.3 $1,464.0 $1,308.9
+Operating margins, before certain (charges) credits and
+ accounting change......................................... 19.2% 17.2% 16.2%
+
+Revenue, after accounting change............................ $10,253.2 $8,506.6 $8,086.5
+Operating income, after certain (charges) credits and
+ accounting change......................................... $ 1,690.6 $1,475.2 $1,336.1
+Operating margins, after certain (charges) credits and
+ accounting change......................................... 16.5% 17.3% 16.5%
+</Table>
+
+ The 23.8% increase in revenue, before accounting change, in Fiscal 2001 over
+Fiscal 2000 resulted primarily from higher sales volume and increased service
+revenue in fire protection in North America and Asia and higher revenues in the
+worldwide electronic security services business. The increases were due
+primarily to a higher volume of recurring service revenues and, to a lesser
+extent, the effects of acquisitions. These acquisitions included: Flow Control
+Technologies ("FCT") in February 2000; Simplex Time Recorder Co. in
+January 2001; Scott Technologies, Inc. ("Scott") in May 2001; and the electronic
+security systems businesses of Cambridge Protection Industries, L.L.C.
+("SecurityLink") in July 2001. Excluding the impact of these acquisitions,
+revenue increased an estimated 9.9%.
+
+ The 5.2% increase in revenue in Fiscal 2000 over Fiscal 1999 resulted
+primarily from increased sales in the worldwide electronic security services
+business and higher sales volume in fire protection operations in North America,
+Asia and Australia. The increases were due primarily to a higher volume of
+recurring service revenues and, to a lesser extent, the effects of acquisitions
+in the security services business. These acquisitions included: Entergy Security
+Corporation in January 1999; Alarmguard Holdings in February 1999; Central
+Sprinkler Corporation in August 1999; and FCT in February 2000. In August 1999,
+we sold certain businesses within this segment, including The Mueller Company
+and portions of Grinnell Supply Sales and Manufacturing. Excluding the impact of
+these acquisitions and divestitures, revenue increased an estimated 11.9%.
+
+ The 37.9% increase in operating income, before certain (charges) credits and
+accounting change, in Fiscal 2001 over Fiscal 2000 was primarily due to
+acquisitions and increased service volume in the fire protection business in
+North America and Asia and worldwide security business. The increase in
+operating margins, before certain (charges) credits and accounting change, was
+primarily due to increased service revenues in fire protection and improved
+margins at both the valve operations and at Tyco Infrastructure (formerly known
+as Earth Tech).
+
+ Operating income and margins, after certain (charges) credits and accounting
+change, include restructuring and other non-recurring and impairment charges of
+$144.9 million, as well as a decrease of $183.8 million relating to the adoption
+of SAB 101, in Fiscal 2001, as compared to a restructuring and other
+non-recurring credit of $11.2 million in Fiscal 2000. As required under
+SAB 101, we modified our revenue recognition policies with respect to the
+installation of electronic security systems as of the beginning of the fiscal
+year. See Consolidated Items--CUMULATIVE EFFECT OF ACCOUNTING CHANGES.
+
+ 95
+<Page>
+ The 11.8% increase in operating income, before certain (charges) credits, in
+Fiscal 2000 over Fiscal 1999 reflects increased service volume in security
+operations in the United States and fire protection businesses in North America
+and Asia. The increase in operating margins, before certain credits, was due to
+increased sales volume in both security services and fire protection offset
+slightly, in the case of security services, by the costs of the reorganization
+of the security services' dealer program and internal sales force during the
+first two quarters of Fiscal 2000.
+
+ In addition to the items discussed above, operating income and margins,
+after certain (charges) credits, reflect restructuring and other non-recurring
+credits of $11.2 million in Fiscal 2000 and $27.2 million in Fiscal 1999.
+
+ HEALTHCARE AND SPECIALTY PRODUCTS
+
+ Healthcare and Specialty Products include:
+
+ - a wide variety of disposable medical products, including wound care and
+ closure products, syringes and needles, sutures and surgical staplers,
+ products used for vascular therapy and respiratory care, infant medical
+ accessories, incontinence products, anesthetic supplies, electrosurgical
+ instruments and laparoscopic instruments;
+
+ - polyethylene film and film products such as flexible plastic packaging,
+ plastic bags and sheeting, coated and laminated packaging materials, tapes
+ and adhesives, plastic garment hangers and pipeline coatings for the oil,
+ gas and water distribution industries; and
+
+ - ADT Automotive's auto redistribution services, which was sold on
+ October 6, 2000.
+
+ The following table sets forth revenue and operating income and margins for
+the Healthcare and Specialty Products segment ($ in millions):
+
+<Table>
+<Caption>
+ FISCAL 2001 FISCAL 2000 FISCAL 1999
+ ----------- ----------- -----------
+<S> <C> <C> <C>
+Revenue, before accounting change........................... $8,833.3 $6,467.9 $5,742.7
+Operating income, before certain (charges) credits and
+ accounting change......................................... $2,070.6 $1,527.9 $1,386.0
+Operating margins, before certain (charges) credits and
+ accounting change......................................... 23.4% 23.6% 24.1%
+
+Revenue, after accounting change............................ $8,812.7 $6,467.9 $5,742.7
+Operating income, after certain (charges) credits and
+ accounting change......................................... $1,804.4 $1,439.8 $ 890.9
+Operating margins, after certain (charges) credits and
+ accounting change......................................... 20.5% 22.3% 15.5%
+</Table>
+
+ The 36.6% increase in revenue, before accounting change, in Fiscal 2001 over
+Fiscal 2000 resulted primarily from acquisitions and, to a lesser extent,
+organic growth. These acquisitions included: General Surgical Innovations, Inc.
+("GSI") in November 1999; Radionics in January 2000; Fiber-Lam in March 2000;
+Mallinckrodt Inc. ("Mallinckrodt") in October 2000; and InnerDyne, Inc.
+("InnerDyne") in December 2000. The revenue increase was somewhat offset by the
+sale of our ADT Automotive business. Excluding the impact of these acquisitions
+and this divestiture, revenue increased an estimated 5.9%.
+
+ The 12.6% increase in revenue in Fiscal 2000 over Fiscal 1999 was primarily
+the result of increased sales at Tyco Plastics and Adhesives and Tyco Healthcare
+and, to a lesser extent, ADT Automotive. The increases for Tyco Healthcare were
+due to organic growth and, to a lesser extent, acquisitions. These acquisitions
+included: Graphic Controls Corporation and Sunbelt Plastics, both in
+November 1998; Batts, Inc. in April 1999; GSI in November 1999; Radionics in
+January 2000; and Fiber-Lam in March 2000. Excluding the impact of these
+acquisitions, revenue for the segment increased an estimated 8.2% in Fiscal 2000
+over Fiscal 1999.
+
+ The 35.5% increase in operating income, before certain (charges) credits and
+accounting change, and the slight decrease in operating margins, before certain
+(charges) credits and accounting change, in
+
+ 96
+<Page>
+Fiscal 2001 compared to Fiscal 2000 was due to the acquisition of Mallinckrodt,
+which generally has lower operating margins than other businesses in this
+segment.
+
+ Operating income and margins, after certain (charges) credits and accounting
+change, include restructuring and other non-recurring and impairment charges of
+$256.4 million, as well as a decrease of $9.8 million relating to the adoption
+of SAB 101, in Fiscal 2001, as compared to net merger, restructuring and other
+non-recurring and impairment charges of $88.1 million in Fiscal 2000.
+
+ The 10.2% increase in operating income, before certain (charges) credits and
+accounting change, in Fiscal 2000 over Fiscal 1999 was due to increased sales
+volume at Tyco Healthcare, Tyco Plastics and Adhesives and, to a lesser extent,
+ADT Automotive, slightly offset by a lower operating margin percentage at Tyco
+Healthcare principally due to higher raw materials costs.
+
+ In addition to the items discussed above, the substantial increase in
+operating income and margins, after certain (charges) credits in Fiscal 2000
+over Fiscal 1999, was due to net merger, restructuring and other non-recurring
+and impairment charges of $88.1 million in Fiscal 2000 compared with net merger,
+restructuring and other non-recurring charges of $495.1 million in Fiscal 1999.
+
+ TELECOMMUNICATIONS
+
+ Tyco's subsidiary, TyCom Ltd. ("TyCom"), is a leading independent provider
+of undersea fiber optic networks and services, and its products and services
+include:
+
+ - designing, engineering, manufacturing and installing undersea cable
+ communications systems; and
+
+ - servicing and maintaining major undersea cable networks.
+
+ Beginning in the fourth quarter of Fiscal 2000, TyCom began the design,
+manufacture and installation of a global undersea fiber optic network, known as
+the TyCom Global Network-TM- ("TGN"). In the third quarter of Fiscal 2001, TyCom
+began operating, maintaining and selling bandwidth capacity on the TGN.
+
+ The following table sets forth revenue and operating income and margins for
+the Telecommunications segment ($ in millions):
+
+<Table>
+<Caption>
+ FISCAL 2001 FISCAL 2000 FISCAL 1999
+ ----------- ----------- -----------
+<S> <C> <C> <C>
+Revenue..................................................... $1,863.2 $2,539.7 $1,623.8
+Operating income, before certain charges.................... $ 414.6 $ 529.7 $ 325.1
+Operating margins, before certain charges................... 22.3% 20.9% 20.0%
+
+Operating income, after certain charges..................... $ 414.6 $ 516.6 $ 325.1
+Operating margins, after certain charges.................... 22.3% 20.3% 20.0%
+</Table>
+
+ Since the fourth quarter of Fiscal 2000, when we began construction of the
+transatlantic portion of the TGN, TyCom's revenues have decreased due to lower
+third-party contract sales, while fixed costs have generally increased due to
+our building the infrastructure to support the TGN, including network
+operations, sales and marketing, research and development and administration.
+The 26.6% decrease in revenue in Fiscal 2001 as compared to Fiscal 2000 reflects
+generally the downturn in the telecommunications industry and specifically a
+decrease in third-party contract sales for undersea communication systems. In
+addition, certain revenues were deferred pending customer financing. TyCom may
+continue to experience softness in demand if the current downturn in the
+telecommunications industry continues. However, TyCom believes that its
+technological capabilities and contraction in the number of competitors should
+mitigate the negative effects of industry trends on its results in the longer
+term.
+
+ 97
+<Page>
+ The 56.4% increase in revenue in Fiscal 2000 over Fiscal 1999 resulted
+primarily from increased demand for third-party sales of undersea communications
+systems and, to a much lesser extent, the acquisition in May 1999 of
+Telecomunicaciones Marinas, S.A. ("Temasa"). Excluding the effect of Temasa, the
+revenue increase for the segment in Fiscal 2000 was an estimated 54.0%.
+
+ The 21.7% decrease in operating income, before certain charges, in Fiscal
+2001 compared with Fiscal 2000 was principally due to the decrease in the volume
+of undersea cable communications systems sales and services to others. The
+increase in operating margins was primarily due to project completions and
+certain reduced accruals due to lower profitability levels for Fiscal 2001 and
+certain contractual settlements.
+
+ The substantial increase in operating income, before and after certain
+charges, in Fiscal 2000 compared with Fiscal 1999 was primarily due to higher
+sales volume, and to a lesser extent, the Temasa acquisition. The increase in
+operating income, after certain charges, was offset by a non-recurring charge of
+$13.1 million incurred in connection with the TyCom initial public offering.
+
+FOREIGN CURRENCY
+
+ The effect of changes in foreign exchange rates for Fiscal 2001 compared to
+Fiscal 2000 was a decrease in revenue of approximately $1,053.6 million and a
+decrease in operating income of approximately $199.5 million. The effect of
+changes in foreign exchange rates for Fiscal 2000 compared to Fiscal 1999 was a
+decrease in revenue of approximately $528.6 million and a decrease in operating
+income of approximately $105.9 million.
+
+CORPORATE EXPENSES
+
+ Corporate expenses, excluding a net gain on sale of businesses and
+investments of $276.6 million, a net non-recurring credit of $163.4 million,
+primarily for the settlement of litigation, and a net gain of $64.1 million on
+the sale of common shares of a subsidiary, were $191.9 million in Fiscal 2001 as
+compared to $187.4 million in Fiscal 2000 and $122.9 million in Fiscal 1999.
+These increases were due principally to higher compensation expense under our
+equity-based incentive compensation plans and an increase in corporate staffing
+and related costs to support and monitor our expanding businesses and
+operations.
+
+AMORTIZATION OF GOODWILL
+
+ Amortization of goodwill, a non-cash charge, increased $193.0 million to
+$537.4 million in Fiscal 2001 compared with Fiscal 2000. Fiscal 2000
+amortization of goodwill increased to $344.4 million from $216.1 million in
+Fiscal 1999. The increases in goodwill amortization expenses were due to net
+increases in goodwill balances of $10,066.2 million in Fiscal 2001 and
+$3,764.4 million in Fiscal 2000, all due to acquisitions. In accordance with
+recently adopted accounting rule changes, goodwill will no longer be amortized
+beginning with our Fiscal 2002 year. See ACCOUNTING AND TECHNICAL PRONOUNCEMENTS
+within Note 1 to our Consolidated Financial Statements for a discussion of these
+accounting rule changes.
+
+INTEREST EXPENSE, NET
+
+ Interest expense, net, increased $6.9 million to $776.5 million in Fiscal
+2001, as compared to Fiscal 2000, and increased $284.0 million to
+$769.6 million in Fiscal 2000, as compared to Fiscal 1999. These increases were
+due primarily to higher average debt balances, resulting from borrowings to
+finance acquisitions and our share repurchase program, offset by lower interest
+rates during Fiscal 2001. The increase in borrowings was mitigated in part by
+the generation of a substantial amount of free cash flow. The weighted-average
+rates of interest on Tyco Industrial's long-term debt outstanding at
+September 30, 2001 and 2000 were 4.2% and 6.6%, respectively.
+
+ 98
+<Page>
+TYCO CAPITAL
+
+ On June 1, 2001, a subsidiary of Tyco acquired The CIT Group, Inc., an
+independent commercial finance company, now Tyco Capital Corporation. The
+discussion herein is only for the period June 2 through September 30, 2001 (the
+"Four Month Period"). The results for the Four Month Period are not indicative
+of results which would have been achieved for an entire year. Tyco Capital's
+services include:
+
+ - commercial financing and leasing--offering equipment, commercial factoring
+ and structured financing; and
+
+ - specialty financing and leasing--consumer lending and retail sales and
+ vendor financing.
+
+ The following table sets forth operating results of Tyco Capital:
+
+<Table>
+<Caption>
+ FOR THE PERIOD
+ JUNE 2 THROUGH
+($ IN MILLIONS) SEPTEMBER 30, 2001
+--------------- ------------------
+<S> <C>
+Finance income.............................................. $ 1,676.5
+Interest expense............................................ 597.1
+ ---------
+Net finance income.......................................... 1,079.4
+Depreciation on operating lease equipment(1)................ 448.6
+ ---------
+Net finance margin.......................................... 630.8
+Other income................................................ 335.1
+ ---------
+Operating revenue........................................... 965.9
+Selling, general, administrative and other costs and
+ expenses less depreciation on operating lease equipment... (398.7)
+Provision for credit losses................................. (116.1)
+ ---------
+Income before income taxes and minority interest............ $ 451.1
+ =========
+Average earning assets ("AEA")(2)........................... $39,159.2
+Net finance margin as a percent of AEA (annualized)......... 4.83%
+Operating revenue as a percent of AEA (annualized).......... 7.40%
+</Table>
+
+------------------------------
+
+(1) Depreciation on operating lease equipment has been included within selling,
+ general, administrative and other costs and expenses in the Consolidated
+ Statements of Operations.
+
+(2) Average earning assets is the average of finance receivables, operating
+ lease equipment, finance receivables held for sale and certain investments,
+ less credit balances of factoring clients.
+
+ Tyco Capital's revenues were $2,011.6 million for the Four Month Period.
+Finance income totaled $1,676.5 million for the Four Month Period. As a
+percentage of AEA, finance income (excluding interest income related to
+short-term interest-bearing deposits) was 12.70%.
+
+ Interest expense totaled $597.1 million for the Four Month Period. As a
+percentage of AEA, interest expense (excluding interest related to short-term
+interest-bearing deposits and dividends related to preferred capital securities)
+was 4.43%.
+
+ Other income for Tyco Capital was $335.1 million for the Four Month Period
+as set forth in the following table ($ in millions):
+
+<Table>
+<Caption>
+ FOR THE PERIOD
+ JUNE 2 THROUGH
+ SEPTEMBER 30, 2001
+ ------------------
+<S> <C>
+Fees and other income....................................... $212.3
+Gains on securitizations.................................... 59.0
+Factoring commissions....................................... 50.7
+Gains on sales of leasing equipment......................... 14.2
+Losses on venture capital investments....................... (1.1)
+ ------
+ Total..................................................... $335.1
+ ======
+</Table>
+
+ Included in fees and other income are miscellaneous fees, syndication fees
+and gains from receivable sales.
+
+ The provision for credit losses was $116.1 million for the Four Month
+Period, while charge-offs were $86.8 million. Managed assets were $50.9 billion
+at September 30, 2001, while financing and
+
+ 99
+<Page>
+leasing portfolio assets totaled $40.7 billion. Managed assets include finance
+receivables, operating lease equipment, finance receivables held for sale,
+certain investments, and finance receivables previously securitized and still
+managed by Tyco Capital.
+
+CONSOLIDATED ITEMS
+
+CONSOLIDATED INCOME TAX EXPENSE
+
+ The effective income tax rate, excluding the impact of purchased in-process
+research and development, merger, restructuring and other non-recurring
+(charges) credits, charges for the impairment of long-lived assets, net gain on
+the sale of businesses and investments, net gain on the sale of common shares of
+a subsidiary and accounting change, was 23.0% during Fiscal 2001, as compared to
+24.8% in Fiscal 2000 and 27.0% in Fiscal 1999. The decrease in the effective
+income tax rate was primarily due to higher earnings in tax jurisdictions with
+lower income tax rates. We believe that we will generate sufficient future
+income to realize the tax benefits related to our deferred tax assets. A
+valuation allowance has been maintained due to continued uncertainties of
+realization of certain tax benefits, primarily tax loss carryforwards (see Note
+9 to our Consolidated Financial Statements).
+
+EXTRAORDINARY ITEMS
+
+ Extraordinary items in Fiscal 2001, Fiscal 2000 and Fiscal 1999 included
+after-tax losses amounting to $17.1 million, $0.2 million and $45.7 million,
+respectively, relating primarily to the early extinguishment of debt (see Note
+17 to our Consolidated Financial Statements).
+
+CUMULATIVE EFFECT OF ACCOUNTING CHANGES
+
+ In December 1999, the Securities and Exchange Commission ("SEC") issued
+SAB 101, in which the SEC Staff expressed its views regarding the appropriate
+recognition of revenue in a variety of circumstances, some of which are relevant
+to us. As required under SAB 101, we modified our revenue recognition policies
+with respect to the installation of electronic security systems (see "REVENUE
+RECOGNITION" within Note 1 to our Consolidated Financial Statements). In
+addition, in response to SAB 101, we undertook a review of our revenue
+recognition practices and identified certain provisions included in a limited
+number of sales arrangements that delayed the recognition of revenue under
+SAB 101. During the fourth quarter of Fiscal 2001, we changed our method of
+accounting for these items retroactive to the beginning of the fiscal year to
+conform to the requirements of SAB 101. This was reported as a $653.7 million
+after-tax ($1,005.6 million pre-tax) charge for the cumulative effect of change
+in accounting principle in the Fiscal 2001 Consolidated Statement of Operations.
+
+ The impact of SAB 101 on total revenues in Fiscal 2001 was a net decrease of
+$241.1 million, reflecting the deferral of $520.5 million of Fiscal 2001
+revenues, partially offset by the recognition of $279.4 million of revenue that
+is included in the cumulative effect adjustment as of the beginning of the
+fiscal year. We restated each of the first three quarters of Fiscal 2001 in the
+Consolidated Statement of Operations to reflect the adoption of SAB 101 (see
+Note 29 to our Consolidated Financial Statements). Pro forma amounts for the
+periods prior to Fiscal 2001 have not been presented since the effect of the
+change in accounting principle for these periods could not be reasonably
+determined.
+
+ We recorded a cumulative effect adjustment, a $29.7 million loss, net of
+tax, in Fiscal 2001 in accordance with the transition provisions of SFAS
+No. 133 (see Note 1 to our Consolidated Financial Statements).
+
+ 100
+<Page>
+ LIQUIDITY AND CAPITAL RESOURCES
+
+TYCO INDUSTRIAL
+
+ The following table shows the sources of our cash flow from operating
+activities and the use of a portion of that cash in our operations in Fiscal
+2001, Fiscal 2000 and Fiscal 1999. We refer to the net amount of cash generated
+from operating activities less capital expenditures and dividends as "free cash
+flow."
+
+<Table>
+<Caption>
+($ IN MILLIONS) FISCAL 2001 FISCAL 2000 FISCAL 1999
+--------------- ----------- ----------- -----------
+<S> <C> <C> <C>
+Tyco Industrial operating income, before certain charges
+ (credits) and accounting change(1)........................ $7,623.5 $6,094.1 $3,949.6
+Depreciation and amortization of intangible assets(2)....... 1,603.2 1,300.0 1,095.1
+Net increase in deferred income taxes....................... 219.0 507.8 351.6
+Less:
+ Net increase in working capital(3)........................ (466.0) (64.9) (122.6)
+ Interest expense, net..................................... (776.5) (769.6) (485.6)
+ Income tax expense........................................ (1,284.9) (1,926.0) (637.5)
+ Restructuring expenditures(4)............................. (215.5) (155.2) (633.6)
+ Other, net................................................ 222.7 288.8 32.8
+ -------- -------- --------
+Cash flow from operating activities......................... 6,925.5 5,275.0 3,549.8
+Less:
+ Capital expenditures(5)................................... (1,797.5) (1,703.8) (1,632.5)
+ Tyco Capital factoring receivables........................ (297.8) -- --
+ Dividends paid............................................ (90.0) (86.2) (187.9)
+ -------- -------- --------
+Free cash flow.............................................. $4,740.2 $3,485.0 $1,729.4
+ ======== ======== ========
+</Table>
+
+------------------------------
+
+(1) This amount is the sum of the operating income of the four Tyco Industrial
+ business segments as set forth above, less certain corporate expenses, and
+ is before merger, restructuring and other non-recurring charges (credits), a
+ charge for the write-off of purchased in-process research and development,
+ charges for the impairment of long-lived assets, goodwill amortization and
+ the adoption of SAB 101.
+
+(2) This amount is the sum of depreciation of tangible property
+ ($1,243.1 million, $1,095.0 million and $979.6 million in Fiscal 2001,
+ Fiscal 2000 and Fiscal 1999, respectively) and amortization of intangible
+ assets other than goodwill ($360.1 million, $205.0 million and
+ $115.5 million in Fiscal 2001, Fiscal 2000 and Fiscal 1999, respectively).
+
+(3) This amount includes $490.6 million (of which $297.8 million relates to
+ sales to Tyco Capital), $100.0 million and $50.0 million received on the
+ sale of accounts receivable in Fiscal 2001, Fiscal 2000 and Fiscal 1999,
+ respectively.
+
+(4) This amount is cash paid for merger, restructuring and other non-recurring
+ charges.
+
+(5) This amount excludes expenditures related to construction of the TGN of
+ $2,247.7 million and $111.1 million for the years ended September 30, 2001
+ and 2000, respectively. This amount includes $427.7 million and
+ $172.0 million received in sale-leaseback transactions for the years ended
+ September 30, 2001 and 2000, respectively.
+
+ In addition, in Fiscal 2001, Fiscal 2000 and Fiscal 1999 we paid out
+$737.2 million, $544.2 million and $354.4 million, respectively, in cash that
+was charged against reserves established in connection with acquisitions
+accounted for under the purchase accounting method. This amount is included in
+"Acquisition of businesses, net of cash acquired" in the Consolidated Statements
+of Cash Flows.
+
+ Reserves for restructuring and other non-recurring items are taken as a
+charge against current earnings at the time the reserves are established.
+Amounts expended for restructuring and other non-recurring costs are charged
+against the reserves as they are paid out. If the amount of the reserves proves
+to be greater than the costs actually incurred, any excess is credited against
+restructuring and other non-recurring charges in the Consolidated Statement of
+Operations in the period in which that determination is made.
+
+ In Fiscal 2001, we recorded net restructuring and other non-recurring
+charges of $331.8 million, of which charges of $98.2 million are included in
+cost of revenue, consisting of charges of $498.6 million, related primarily to
+the closure of manufacturing plants, sales offices, warehouses and
+administrative offices in the Electronics and Fire and Security Services
+segments, partially offset by a $166.8 million
+
+ 101
+<Page>
+credit to litigation reserves established in the prior year. In addition, we
+incurred a non-recurring charge of $86.7 million related to the sale of
+inventory which had been written-up under purchase accounting, which has been
+included in cost of revenue. At September 30, 2000, there existed merger,
+restructuring and other non-recurring reserves of $365.9 million. During Fiscal
+2001, we paid out $215.5 million in cash and incurred $228.7 million in non-cash
+charges that were charged against these reserves. At September 30, 2001, there
+remained $340.2 million of merger, restructuring and other non-recurring
+reserves on Tyco Industrial's Consolidated Balance Sheet, of which
+$304.9 million is included in accrued expenses and other current liabilities and
+$35.3 million is included in other long-term liabilities.
+
+ All business combinations completed in Fiscal 2001 were accounted for under
+the purchase accounting method. At the time each purchase acquisition is made,
+we establish a reserve for transaction costs and the costs of integrating the
+purchased company within the relevant Tyco business segment. The amounts of such
+reserves established in Fiscal 2001 are detailed in Note 2 to the Consolidated
+Financial Statements. These amounts are not charged against current earnings but
+are treated as additional purchase price consideration and have the effect of
+increasing the amount of goodwill recorded in connection with the respective
+acquisition. We view these costs as the equivalent of additional purchase price
+consideration when we consider making an acquisition. If the amount of the
+reserves proves to be in excess of costs actually incurred, any excess is used
+to reduce the goodwill account that was established at the time the acquisition
+was made.
+
+ In Fiscal 2001, Tyco Industrial made acquisitions that were accounted for
+under the purchase accounting method at an aggregate cost of $14,741.5 million.
+Of this amount, $10,956.6 million was paid in cash, net of cash acquired
+(excluding $2,156.4 million of cash acquired from Tyco Capital), and
+$3,784.9 million was paid in the form of Tyco common shares. Debt of acquired
+companies aggregated $1,592.3 million. In connection with these acquisitions, we
+established purchase accounting reserves of $1,021.3 million for transaction and
+integration costs. In addition, purchase accounting liabilities of
+$103.7 million and a corresponding increase to goodwill and deferred tax assets
+were recorded during Fiscal 2001. Changes in estimates related to acquisitions
+consummated prior to Fiscal 2001, primarily related to revisions associated with
+finalizing the exit plans of the electronic OEM business of Thomas & Betts, AFC
+Cable, Critchley and Siemens, all acquired during Fiscal 2000. At the beginning
+of Fiscal 2001, purchase accounting reserves were $372.6 million as a result of
+purchase accounting transactions made in prior years. During Fiscal 2001, we
+paid out $894.4 million in cash (including approximately $105.7 million relating
+to purchase price adjustments and earn-out liabilities on certain acquisitions
+and $51.5 million relating to the acquisition of Tyco Capital) and incurred
+$7.2 million in non-cash charges against the reserves established during and
+prior to Fiscal 2001. Also, in Fiscal 2001, we determined that $68.9 million of
+purchase accounting reserves related primarily to acquisitions prior to Fiscal
+2001 were not needed and reversed that amount against goodwill. At
+September 30, 2001, there remained $702.1 million in purchase accounting
+reserves on Tyco Industrial's Consolidated Balance Sheet, of which
+$583.1 million is included in accrued expenses and other current liabilities and
+$119.0 million is included in other long-term liabilities.
+
+ The following details the Fiscal 2001 capital expenditures and depreciation
+by segment for Tyco Industrial ($ in millions):
+
+<Table>
+<Caption>
+ CAPITAL
+ EXPENDITURES DEPRECIATION
+ ------------ ------------
+<S> <C> <C>
+ Electronics....................................... $ 587.8 $ 429.0
+ Fire and Security Services........................ 897.1 456.9
+ Healthcare and Specialty Products................. 159.6 257.0
+ Telecommunications................................ 113.0(1) 89.1
+ Corporate......................................... 40.0 11.1
+ -------- --------
+ $1,797.5(2) $1,243.1
+ ======== ========
+</Table>
+
+------------------------------
+
+(1) Excludes $2,247.7 million in spending for construction of the TGN.
+
+(2) Includes $427.7 million received in sale-leaseback transactions.
+
+ 102
+<Page>
+ We continue to fund capital expenditures to improve the cost structure of
+our businesses, to invest in new processes and technology, and to maintain high
+quality production standards. The level of capital expenditures for the Fire and
+Security Services segment significantly exceeded, and is expected to continue to
+significantly exceed, depreciation due to the substantial growth in the number
+of new security system installations. The level of capital expenditures in the
+other segments is expected to increase moderately in Fiscal 2002. During Fiscal
+2001, TyCom spent $2,247.7 million on construction of the TGN. We expect our
+expenditures on construction of the TGN to be approximately $1,500.0 million in
+Fiscal 2002. The source of funds for capital expenditures and construction of
+the TGN is expected to be cash from operating activities.
+
+ The provision for income taxes in the Consolidated Statement of Operations
+for Fiscal 2001 was $1,284.9 million, but the amount of income taxes paid (net
+of refunds) during the year was $722.9 million. The difference is due to timing
+differences, as well as the tax benefits related to the exercise of share
+options. The current income tax liability at September 30, 2001 was
+$1,845.0 million, as compared to $1,650.3 million at September 30, 2000.
+
+ The net change in working capital, net of the effects of acquisitions and
+divestitures, was an increase of $466.0 million in Fiscal 2001. The components
+of this change are set forth in detail in Tyco Industrial's Consolidated
+Statement of Cash Flows. The increase in working capital accounts is
+attributable to the higher level of business activity in Fiscal 2001 as
+reflected in the increased revenue over the prior year. We focus on maximizing
+the cash flow from our operating businesses and attempt to keep the working
+capital employed in the businesses to the minimum level required for efficient
+operations.
+
+ During Fiscal 2001, we used $1,326.1 million to repurchase our own common
+shares under our ongoing share buyback program. We repurchase our own shares
+from time to time in the open market to satisfy certain stock-based compensation
+arrangements, such as the exercise of share options, or to use for acquisitions.
+
+ During Fiscal 2001, Tyco sold 39 million common shares for approximately
+$2,198.0 million in an underwritten public offering. Net proceeds from the
+offering were $2,196.6 million and were used to repay debt incurred to finance a
+portion of the acquisition of CIT.
+
+ During Fiscal 2001, we received proceeds of $545.0 million from the exercise
+of common share options. In addition, during Fiscal 2001, we received proceeds
+of $904.4 million, net of cash sold, primarily from the sale of our ADT
+Automotive business.
+
+ The source of the cash used for acquisitions in Fiscal 2001 was primarily
+through the issuance of debt, free cash flow, the sale of common shares and
+proceeds on the sale of businesses. Goodwill and other intangible assets were
+$28,740.9 million at September 30, 2001, compared to $16,332.6 million at
+September 30, 2000. At September 30, 2001, Tyco Industrial's total debt was
+$21,619.0 million, as compared to $10,999.0 million at September 30, 2000. This
+increase resulted principally from net proceeds of approximately
+$3,374.0 million and $2,203.4 million from the sale of zero coupon convertible
+debentures due 2020 and 2021, respectively; $1,982.1 million from the sale of
+notes due 2006 and 2011; $1,787.9 million from the sale of notes due 2003 and
+2006; and borrowings under Tyco International Group S.A.'s ("TIG") commercial
+paper program. For a full discussion of debt activity, see Note 6 to the
+Consolidated Financial Statements.
+
+ Shareholders' equity was $31,737.4 million, or $16.40 per share, at
+September 30, 2001, compared to $17,033.2 million, or $10.11 per share, at
+September 30, 2000. The increase in shareholders' equity was due primarily to
+the issuance of approximately 211.2 million common shares valued at
+$10,435.3 million for the acquisitions of Mallinckrodt and CIGI in
+October 2000, InnerDyne in December 2000, Scott in May 2001 and CIT in
+June 2001; net income of $3,970.6 million; and the sale of 39 million common
+shares for net proceeds of $2,196.6 million as discussed above. This increase
+was partially offset by the repurchase of our common shares for approximately
+$1,326.1 million and an unrealized loss on available for sale securities of
+$1,267.9 million. Total debt as a percent of total
+
+ 103
+<Page>
+capitalization (total debt and shareholders' equity) was 41% at September 30,
+2001 and 39% at September 30, 2000. Net debt (total debt less cash and cash
+equivalents) as a percent of total capitalization was 37% at September 30, 2001
+and 35% at September 30, 2000.
+
+ On October 26, 2001, TIG sold $1,500.0 million 6.375% notes due 2011 under
+its $6.0 billion shelf registration statement in a public offering. The notes
+are fully and unconditionally guaranteed by Tyco. The net proceeds of
+approximately $1,487.8 million were used to repay borrowings under TIG's
+commercial paper program.
+
+ On November 13, 2001, Tyco completed the acquisition of Sensormatic
+Electronics Corporation ("Sensormatic"), a leading supplier of electronic
+security solutions to the retail, commercial and industrial market-places. The
+acquisition is valued at approximately $2.3 billion, including the assumption of
+$116 million of net debt. An aggregate of approximately 48 million common shares
+of Tyco were issued in exchange for all the outstanding capital stock of
+Sensormatic.
+
+ On November 19, 2001, TIG issued E500 million 4.375% notes due 2005, E685
+million 5.5% notes due 2009, L200 million 6.5% notes due 2012 and L285 million
+6.5% notes due 2032, utilizing the capacity available under TIG's European
+Medium Term Note Programme established in September 2001. The notes are fully
+and unconditionally guaranteed by Tyco. The net proceeds of $1,726.6 million
+were used to repay borrowings under TIG's commercial paper program.
+
+ On December 18, 2001, we completed our amalgamation with TyCom and each of
+the approximately 56 million TyCom common shares not owned by Tyco were
+converted into the right to receive 0.3133 of a Tyco common share. Upon
+completion of the amalgamation, TyCom became a wholly-owned subsidiary of Tyco.
+
+ We believe that our cash flow from Tyco Industrial's operations, together
+with our existing credit facilities and other credit arrangements, is adequate
+to fund Tyco Industrial's operations.
+
+TYCO INDUSTRIAL BACKLOG
+
+ At September 30, 2001, Tyco Industrial had a backlog of unfilled orders of
+$10,999.1 million, compared to a backlog of $10,418.2 million as of
+September 30, 2000. We expect that approximately 76% of our backlog at
+September 30, 2001 will be filled during Fiscal 2002. Backlog by reportable
+industry segment is as follows ($ in millions):
+
+<Table>
+<Caption>
+ SEPTEMBER 30,
+ ---------------------
+ 2001 2000
+ --------- ---------
+<S> <C> <C>
+Fire and Security Services............................. $ 8,010.9 $ 4,888.3
+Electronics............................................ 1,943.9 2,497.1
+Telecommunications..................................... 865.9 2,941.7
+Healthcare and Specialty Products...................... 178.4 91.1
+ --------- ---------
+ $10,999.1 $10,418.2
+ ========= =========
+</Table>
+
+ Backlog for Fire and Security Services includes recurring "revenue in
+force," which represents one year's fees for security monitoring and maintenance
+services under contract. The amount of backlog as of September 30, 2000 has been
+restated to include recurring revenue in force at that date of
+$2,203.4 million. The amount of recurring revenue in force at September 30, 2001
+is $3,099.6 million. Within the Fire and Security Services segment, backlog
+increased due to the following: the deferral of $1,453.5 million of net revenue
+as a result of the adoption of SAB 101, an increase in services contracts of the
+security business, an increase in contract bookings at Tyco Infrastructure and,
+to a lesser extent, the effect of acquisitions.
+
+ Within the Electronics segment, backlog decreased due to the cancellation
+and/or delay of orders by customers in certain end-markets, such as the computer
+and consumer electronics and communications industries. The decrease in backlog
+within the Telecommunications segment reflects
+
+ 104
+<Page>
+generally the downturn in the telecommunications industry and specifically a
+decrease in third-party contracts for undersea communications systems, partially
+offset by contracts signed for capacity sales on the TGN. In addition, a
+$710.5 million contract previously booked was removed from backlog pending
+customer financing. The increase in backlog in Healthcare and Specialty Products
+is due to the deferral of $71.6 million of net revenue as a result of the
+adoption of SAB 101. Backlog in the Healthcare and Specialty Products segment
+represents unfilled orders which, in the nature of the business, are normally
+shipped shortly after purchase orders are received. We do not view backlog in
+the healthcare industry to be a significant indicator of the level of future
+sales activity.
+
+TYCO CAPITAL
+
+ Tyco Capital maintains committed bank lines of credit aggregating
+$8.5 billion to provide back-stop support of its commercial paper borrowings and
+approximately $252.4 million of local bank lines to support international
+operations. Tyco Capital's primary bank line agreements include a minimum equity
+requirement of $3.8 billion. Included as part of Tyco Capital's securitization
+programs are committed asset-backed commercial paper programs in the U.S. and
+Canada aggregating approximately $4.6 billion. To ensure uninterrupted access to
+capital at competitive interest rates, Tyco Capital maintains strong investment
+grade ratings.
+
+ As part of Tyco Capital's continuing program of accessing the public and
+private asset-backed securitization markets as an additional liquidity source,
+general equipment finance receivables of $2.2 billion were securitized during
+the Four Month Period.
+
+ As part of Tyco Capital's initiative to address businesses that did not fit
+strategically, or portfolios that did not meet profitability requirements,
+during the Four Month Period, approximately $1.8 billion of assets were sold and
+a total of $3.6 billion of managed assets were either sold, liquidated or placed
+in liquidation status. In addition, Tyco Capital received $898.3 million in
+capital contributions from Tyco Industrial to partially offset the impact to
+tangible capital from push-down accounting. As a result, tangible equity to
+managed assets and total debt to tangible equity were 8.55% and 8.13x,
+respectively.
+
+ 105
+<Page>

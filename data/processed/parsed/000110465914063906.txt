@@ -1,0 +1,1161 @@
+AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion and analysis describes material changes in the financial condition and results of operations, as well as liquidity and capital resources of Lannett Company, Inc. (“the Company”). Additionally, it addresses accounting policies that management has deemed are “critical accounting policies”. This discussion and analysis should be read in conjunction with the Consolidated Financial Statements, the Notes to the Consolidated Financial Statements and other sections of this Form 10-K.
+
+In addition to historical information, this Form 10-K contains forward-looking information. The forward-looking information is subject to certain risks and uncertainties that could cause actual results to differ materially from those projected in the forward-looking statements. Important factors that might cause such a difference include, but are not limited to, those discussed in the following section, entitled “Management’s Discussion and Analysis of Financial Condition and Results of Operations.” Readers are cautioned not to place undue reliance on these forward-looking statements, which reflect management’s analysis only as of the date of this Form 10-K. The Company undertakes no obligation to publicly revise or update these forward-looking statements to reflect events or circumstances that may occur. Readers should carefully review the risk factors described in other documents the Company files from time to time with the SEC, including the Quarterly Reports on Form 10-Q to be filed by the Company in Fiscal 2015, and any Current Reports on Form 8-K filed by the Company.
+
+Company Overview
+
+Lannett Company, Inc. (a Delaware corporation) and subsidiaries (the “Company” or “Lannett”) develop, manufacture, package, market, and distribute solid oral (tablets and capsules), extended release, topical, nasal, and oral solution finished dosage forms of drugs, that address a wide range of therapeutic areas. The Company also manufactures active pharmaceutical ingredients through its Cody Labs subsidiary, providing a vertical integration benefit. Additionally the Company is pursuing partnerships, research contracts and internal expansion for the development and production of other dosage forms including: ophthalmic, nasal, patch, foam, buccal, sublingual, soft gel, injectable, and oral dosages.
+
+The Company operates pharmaceutical manufacturing plants in Philadelphia, Pennsylvania and Cody, Wyoming. Customers of the Company’s pharmaceutical products include generic pharmaceutical distributors, drug wholesalers, chain drug stores, private label distributors, mail-order pharmacies, other pharmaceutical manufacturers, managed care organizations, hospital buying groups, governmental entities and health maintenance organizations.
+
+Financial Summary
+
+For Fiscal 2014, net sales increased to $273.8 million representing 81% growth over the prior year period. Gross profit increased $97.0 million to $154.4 million, compared to the prior year period, and included the $20.1 million charge related to the JSP contract renewal. The JSP contract renewal charge equated to a 7 percentage-point reduction in gross profit percentage. R&D expenses increased 71% to $27.7 million compared to the prior year period while SG&A expenses increased 72% to $38.6 million. Operating income for Fiscal 2014 was $88.1 million compared to $18.8 million in the prior year period. Net income attributable to Lannett for Fiscal 2014 was $57.1 million, or $1.62 per diluted share, and included the $20.1 million pre-tax charge ($0.36 per diluted share) related to the JSP contract renewal. Comparatively, net income attributable to Lannett in the prior year was $13.3 million, or $0.46 per diluted share, which included a favorable pre-tax litigation settlement of $1.3 million ($0.03 per diluted share).
+
+A more detailed discussion of the Company’s financial results can be found below.
+
+30
+
+Table of Contents
+
+Results of Operations — Fiscal 2014 compared to Fiscal 2013
+
+Net sales increased 81% to $273.8 million for the fiscal year ended June 30, 2014. The following table identifies the Company’s approximate net product sales by medical indication for the fiscal years ended June 30, 2014 and 2013:
+
+(In thousands)
+
+Fiscal Year Ended June 30,
+
+Medical Indication
+
+2014
+
+2013
+
+Antibiotic
+
+$
+
+13,572
+
+$
+
+9,167
+
+Cardiovascular
+
+62,121
+
+25,876
+
+Gallstone
+
+6,578
+
+6,114
+
+Glaucoma
+
+11,987
+
+6,410
+
+Gout
+
+10,822
+
+5,092
+
+Migraine
+
+14,527
+
+5,418
+
+Obesity
+
+4,032
+
+4,721
+
+Pain Management
+
+27,174
+
+21,232
+
+Thyroid Deficiency
+
+102,248
+
+57,978
+
+Other
+
+20,710
+
+9,046
+
+Total
+
+$
+
+273,771
+
+$
+
+151,054
+
+Product price increases contributed $115.1 million to the overall increase in net sales, while increased volumes added $7.6 million. The Company experienced favorable trends in product pricing on several key products during the period, as discussed below. Although the Company has benefited from these favorable pricing trends, the
+level of competition in the marketplace is constantly changing and
+ the Company cannot guarantee that these pricing trends will continue.
+
+The following chart details price and volume changes by medical indication:
+
+Medical indication
+
+Sales volume
+ change %
+
+Sales price
+ change %
+
+Antibiotic
+
+38
+
+%
+
+10
+
+%
+
+Cardiovascular
+
+(10)
+
+%
+
+150
+
+%
+
+Gallstone
+
+(23)
+
+%
+
+31
+
+%
+
+Glaucoma
+
+1
+
+%
+
+86
+
+%
+
+Gout
+
+105
+
+%
+
+8
+
+%
+
+Migraine
+
+44
+
+%
+
+124
+
+%
+
+Obesity
+
+(6)
+
+%
+
+(8)
+
+%
+
+Pain Management
+
+(6)
+
+%
+
+34
+
+%
+
+Thyroid Deficiency
+
+7
+
+%
+
+69
+
+%
+
+Thyroid Deficiency.
+ Net sales of drugs used for the treatment of thyroid deficiency increased by $44.3 million, primarily as a result of price increases on key products.
+
+Cardiovascular.
+ Net sales of drugs used for cardiovascular treatment increased by $36.2 million, primarily as a result of price increases on products used to treat congestive heart failure. The increase in net sales was partially offset by a decrease in net sales on products used to treat hypertension due to pricing pressures and modest volume decreases on several products within the indication.
+
+Migraine.
+ Net sales of drugs used to treat migraines increased by $9.1 million. The increase in net sales was attributable to increased volumes as well as price increases on key products.
+
+Pain Management.
+ Net sales of pain management products increased $5.9 million. The increase in net sales was mainly attributable to a price increase on the Company’s C-Topical® Solution product. The increase in net sales was partially offset by lower sales volume of the Company’s C-Topical® Solution product. Net sales of the Company’s Oxycodone HCl Oral Solution product were lower due to FDA enforcement actions against market participants which caused the Company and others to voluntarily exit the market by October 4, 2012. The Company is awaiting FDA approval for this product and anticipates resuming product sales in the near future.
+
+Gout.
+ Net sales of drugs used for gout treatment increased by $5.7 million. The increase in net sales was primarily attributable to increased volumes.
+
+31
+
+Table of Contents
+
+Glaucoma.
+ Net sales of drugs used for treatment of Glaucoma increased by $5.6 million. The increase in net sales was primarily attributable to price increases.
+
+Antibiotic.
+ Net sales of antibiotics increased by $4.4 million. The increase in net sales was primarily attributable to increased volumes across various products.
+
+The Company sells its products to customers in various distribution channels. The table below presents the Company’s net sales to each distribution channel for the fiscal year ended June 30:
+
+(In thousands)
+ Customer Distribution Channel
+
+June 30,
+ 2014
+
+June 30,
+
+2013
+
+Wholesaler/Distributor
+
+$
+
+172,503
+
+$
+
+83,582
+
+Retail Chain
+
+80,710
+
+52,479
+
+Mail-Order Pharmacy
+
+20,558
+
+14,993
+
+Total
+
+$
+
+273,771
+
+$
+
+151,054
+
+Net sales to wholesaler/distributor increased primarily as a result of increased sales in a variety of products for gout, thyroid deficiency and cardiovascular, as discussed above. Retail chain net sales increased primarily as a result of increased sales of drugs for the treatment of thyroid deficiency and cardiovascular, as discussed above.
+
+Cost of Sales.
+ Cost of sales for the fiscal year ended June 30, 2014 increased $25.7 million to $119.4 million, which included the $20.1 million charge related to the JSP contract renewal. The remaining increase primarily reflected the impact of the increase in sales volumes. Amortization expense included in cost of sales totaled $1.4 million for the fiscal years ended June 30, 2014 and 2013.
+
+Gross Profit.
+ Gross profit for the fiscal year ended June 30, 2014 increased 169% to $154.4 million or 56% of net sales. In comparison, gross profit for the fiscal year ended June 30, 2013 was $57.4 million or 38% of net sales. The gross profit percentage change for the fiscal year ended June 30, 2014 was mainly attributable to changes in the mix of products sold and product price increases, as discussed above, offset by the charge related to the JSP contract renewal, which negatively impacted gross margin by 7 percentage-points.
+
+The Company is continuously seeking to keep product costs low, however there can be no guarantee that gross profit percentages will stay consistent in future periods. Pricing pressure from competitors and costs of producing or purchasing new drugs may also fluctuate in future periods. Changes in future product sales mix may also occur.
+
+Research and Development.
+ Research and development expenses increased 71% to $27.7 million for the fiscal year ended June 30, 2014 compared to $16.3 million in the prior year period. The increase is primarily due to increased costs for third-party laboratory services totaling $4.1 million, bioequivalence studies totaling $1.2 million and other costs for product development and FDA submissions totaling $4.4 million.
+
+Selling, General and Administrative.
+ Selling, general and administrative expenses increased 72% to $38.6 million for the fiscal year ended June 30, 2014 compared with $22.4 million in the prior year period. The increase is primarily due to additional compensation-related costs totaling $9.9 million and expenses related to marketing the Company’s C-Topical® Solution product totaling $1.9 million. Additional increases were attributable to general corporate spending totaling $2.2 million.
+
+The Company is focused on controlling selling, general and administrative costs, however increases in personnel and other costs to facilitate improvements in the Company’s infrastructure and expansion may impact selling, general and administrative expenses in future periods.
+
+Other Income (Expense).
+ Interest expense for the fiscal year ended June 30, 2014 totaled $130 thousand compared to $251 thousand for the fiscal year ended June 30, 2013. Interest and dividend income totaling $295 thousand for the fiscal year ended June 30, 2014 was higher compared with $116 thousand for the prior year period. The Company also recorded a net gain on investment securities during the fiscal year ended June 30, 2014 totaling $1.9 million compared to a net gain on investment securities totaling $699 thousand in the prior year period.
+
+Income Tax.
+ The Company recorded income tax expense for the fiscal year ended June 30, 2014 of $32.9 million compared to $7.3 million for the fiscal year ended June 30, 2013. The effective tax rate for the fiscal year ended June 30, 2014 was 36.5%, compared to 35.3% for the prior year period. The increase in the effective tax rate in the fiscal year ended June 30, 2014 as compared to the fiscal year ended June 30, 2013 was due to an increase in non-deductible items and a decrease in tax credits, both relative to pre-tax income for the comparable periods.
+ The effective rate increase was partially offset by the effects of a Pennsylvania tax law change which lowered the Company’s apportionment factor within the state in Fiscal 2013.
+
+32
+
+Table of Contents
+
+The impact of this change caused the Company to reduce its deferred tax assets thereby increasing the effective tax rate by 1.1% in Fiscal 2013.
+
+At June 30, 2014, the Company had recognized a net deferred tax asset of $25.5 million. The net deferred tax asset is net of a valuation allowance of $2.3 million that is primarily related to the Cody notes receivable impairment recorded in conjunction with the acquisition of Cody Labs. The Company expects the remaining net deferred tax assets to be fully realizable based on the Company’s history and future expectations of generating sufficient taxable income.
+
+Net Income.
+ For the fiscal year ended June 30, 2014, the Company reported net income attributable to Lannett Company, Inc. of $57.1 million, or $1.70 basic and $1.62 per diluted share. Net income attributable to Lannett Company, Inc. included the charge related to the JSP contract renewal equal to $0.36 per diluted share. Comparatively, net income attributable to Lannett in the prior year was $13.3 million, or $0.47 basic and $0.46 per diluted share, which included the favorable litigation settlement equal to $0.03 per diluted share.
+
+Results of Operations — Fiscal 2013 compared to Fiscal 2012
+
+Net sales increased 23% from $123.0 million in Fiscal 2012 to $151.1 million in Fiscal 2013. The following table identifies the Company’s approximate net product sales by medical indication for the fiscal years ended June 30, 2013 and 2012:
+
+(In thousands)
+
+Fiscal Year Ended June 30,
+
+Medical Indication
+
+2013
+
+2012
+
+Antibiotic
+
+$
+
+9,167
+
+$
+
+6,724
+
+Cardiovascular
+
+25,876
+
+18,142
+
+Gallstone
+
+6,114
+
+5,991
+
+Glaucoma
+
+6,410
+
+4,252
+
+Gout
+
+5,092
+
+484
+
+Migraine
+
+5,418
+
+5,971
+
+Obesity
+
+4,721
+
+3,755
+
+Pain Management
+
+21,232
+
+20,870
+
+Thyroid Deficiency
+
+57,978
+
+50,849
+
+Other
+
+9,046
+
+5,952
+
+Total
+
+$
+
+151,054
+
+$
+
+122,990
+
+The following price and volume changes contributed to the $28.1 million increase in net sales:
+
+Medical indication
+
+Sales volume
+ change %
+
+Sales price
+ change %
+
+Antibiotic
+
+36
+
+%
+
+1
+
+%
+
+Cardiovascular
+
+50
+
+%
+
+(8)
+
+%
+
+Gallstone
+
+(2)
+
+%
+
+4
+
+%
+
+Glaucoma
+
+8
+
+%
+
+43
+
+%
+
+Gout
+
+949
+
+%
+
+4
+
+%
+
+Migraine
+
+(15)
+
+%
+
+6
+
+%
+
+Obesity
+
+(44)
+
+%
+
+69
+
+%
+
+Pain Management
+
+(30)
+
+%
+
+33
+
+%
+
+Thyroid Deficiency
+
+11
+
+%
+
+3
+
+%
+
+Thyroid Deficiency.
+ Sales of drugs used for the treatment of thyroid deficiency increased by $7.1 million, primarily as a result of both volume and price increases on key products within this medical indication.
+
+Cardiovascular.
+ Sales of drugs for cardiovascular treatment increased by $7.7 million primarily due to increased volumes related to a product used for the treatment of hypertension which commenced shipping at the end of December 2011.
+
+Antibiotic.
+ Sales of drugs in the antibiotic medical indication increased by $2.4 million primarily as a result of increased volumes on selected key products within the medical indication.
+
+33
+
+Table of Contents
+
+Pain Management.
+ Sales related to pain management products were relatively flat during Fiscal 2013 compared to Fiscal 2012. Additional pain management sales as a result of a price increase on the Company’s C-Topical® Solution product were offset by lower volumes shipped of Morphine Sulfate Oral Solution and Oxycodone HCL Oral Solution. Lower volumes of Oxycodone resulted from FDA enforcement actions against market participants which caused the Company and others to voluntarily exit the market by October 4, 2012. The Company is awaiting FDA approval for this product and anticipates resuming product sales in the near future.
+
+Gout.
+ Increased sales of drugs used for gout treatment, resulting from additional volume, also contributed an additional $4.6 million to the overall increase in sales.
+
+Glaucoma.
+ Sales of drugs used for the treatment of glaucoma increased by $2.2 million mainly due to price increases on key products within the medical indication.
+
+The Company sells its products to customers in various distribution channels. The table below presents the Company’s net sales to each distribution channel.
+
+(In thousands)
+ Customer Distribution Channel
+
+Fiscal 2013
+
+Net Sales
+
+Fiscal 2012
+
+Net Sales
+
+Wholesaler/Distributor
+
+$
+
+83,582
+
+$
+
+68,082
+
+Retail Chain
+
+52,479
+
+45,633
+
+Mail-Order Pharmacy
+
+14,993
+
+9,275
+
+Total
+
+$
+
+151,054
+
+$
+
+122,990
+
+The sales to wholesaler/distributor increased primarily as a result of increased net sales in a variety of products including the gout and thyroid deficiency medical indications as discussed above. Retail chain sales increased primarily as a result of increased sales for the treatment of thyroid deficiency medical indication as discussed above. Mail-order pharmacy sales increased primarily as a result of increased sales of products in the cardiovascular and thyroid deficiency medical indications.
+
+Cost of Sales.
+ Cost of sales increased to $93.6 million in Fiscal 2013 from $84.0 million in Fiscal 2012. The increase primarily reflected the impact of the 23% increase in net sales, partially offset by changes in the mix of products sold, as well as increased manufacturing efficiencies. Amortization expense included in cost of sales above primarily relates to the JSP Distribution Agreement.
+
+Gross Profit.
+ Gross profit margins for Fiscal 2013 and Fiscal 2012 were 38% and 32%, respectively. Gross profit percentage increased primarily due to a change in the mix of products sold as discussed above, in addition to improved manufacturing efficiencies. While the Company is continuously striving to keep product costs low, there can be no guarantee that profit margins will stay consistent in future periods. Pricing pressure from competitors and costs of producing or purchasing new drugs may also fluctuate in future periods. Changes in the future sales product mix may also occur.
+
+Research and Development.
+ Research and development expenses increased 37% to $16.3 million in Fiscal 2013 from $11.8 million in Fiscal 2012. The increase is primarily due to increased costs related to biostudies as a result of the timing of milestone achievements and third-party laboratory service costs for products in development. Additional compensation-related costs incurred in Fiscal 2013 as compared to Fiscal 2012 also contributed to the increase.
+
+The Company expenses all production costs as R&D until the drug is approved by the FDA. R&D expenses may fluctuate from period to period, based on R&D plans for submission to the FDA.
+
+Selling, General and Administrative.
+ Selling, general and administrative expenses increased 11% to $22.4 million in Fiscal 2013 from $20.2 million in Fiscal 2012. The increase is primarily due to additional compensation-related costs, partially offset by a decrease in legal expenses in Fiscal 2013, as compared to Fiscal 2012.
+
+While the Company is focused on controlling costs, increases in personnel costs may have an ongoing and longer lasting impact on the administrative cost structure. Other costs are being incurred to facilitate improvements in the Company’s infrastructure. These costs are expected to be temporary investments in the future of the Company and may not continue at the same level.
+
+Other Income (Expense).
+ During the first quarter of Fiscal 2013, the Company entered into a favorable settlement agreement related to litigation the Company had been involved in since January 2010. As a result of the agreement the Company recorded a gain in the amount of $1.3 million. As of June 30, 2013, the Company had recorded all amounts related to the agreement.
+
+In Fiscal 2013 interest expense totaled $251 thousand compared to $273 thousand in Fiscal 2012. Interest and dividend income totaling $116 thousand was lower compared with $142 thousand in Fiscal 2012. The Company also recorded a gain on investment securities during Fiscal 2013 totaling $699 thousand compared to a loss on investment securities totaling $103 thousand in Fiscal 2012.
+
+34
+
+Table of Contents
+
+Income Tax.
+ The Company recorded income tax expense totaling $7.3 million in Fiscal 2013 compared to an income tax expense totaling $2.6 million in Fiscal 2012. The effective tax rate for Fiscal 2013 was 35.3% compared to 39.3% for Fiscal 2012. The effective tax rate for Fiscal 2013 was lower compared to Fiscal 2012 due primarily to the impact of nondeductible incentive stock option compensation expense relative to pretax income for Fiscal 2012 compared to Fiscal 2013. An increase in disqualifying dispositions of incentive stock options in Fiscal 2013, as compared to Fiscal 2012, provided additional benefits. The overall decrease was partially offset by the effects of a Pennsylvania tax law change which lowered the Company’s apportionment factor within the state. The impact of this change caused the Company to reduce its deferred tax assets thereby increasing the effective tax rate by 1.1%.
+
+At June 30, 2013, the Company had recognized a net deferred tax asset of $12.9 million. The net deferred tax asset is net of a valuation allowance of $2.1 million that is primarily related to the Cody notes receivable impairment recorded in conjunction with the acquisition of Cody Labs. The Company has provided for the valuation allowance related to the notes receivable impairment as this benefit will be realized only upon the disposition of Cody Labs. As the Company has no current plans to dispose of its holdings in Cody, a full valuation allowance has been established. The Company expects the remaining net deferred tax assets to be fully realizable based on the Company’s history and future expectations of generating sufficient taxable income.
+
+Net Income.
+ The Company reported net income attributable to Lannett Company, Inc. of $13.3 million for Fiscal 2013, or $0.47 basic and $0.46 diluted earnings per share, compared to net income attributable to Lannett Company, Inc. of $3.9 million for Fiscal 2012, or $0.14 basic and diluted loss per share.
+
+Liquidity and Capital Resources
+
+Cash Flow
+
+The Company has historically financed its operations with cash flow generated from operations, supplemented with borrowings from various government agencies and financial institutions. At June 30, 2014, working capital was $218.5 million as compared to $83.0 million at June 30, 2013, an increase of $135.5 million. Current product portfolio sales as well as sales related to future product approvals are anticipated to continue to generate positive cash flow from operations.
+
+Net cash from operating activities of $45.1 million for the fiscal year ended June 30, 2014 reflected net income of $57.2 million after adjustments for non-cash items of $13.5 million, as well as cash used by changes in operating assets and liabilities of $25.6 million. In comparison, net cash from operating activities of $26.5 million for the fiscal year ended June 30, 2013 reflected net income of $13.4 million after adjustments for non-cash items of $7.4 million, as well as cash provided by changes in operating assets and liabilities of $5.7 million.
+
+Significant changes in operating assets and liabilities from June 30, 2013 to June 30, 2014 are comprised of:
+
+·
+
+An increase in accounts receivable of $34.9 million, mainly due to an increase in gross accounts receivable as a result of increased sales, partially offset by increases in total revenue-related reserves. The Company’s days sales outstanding (“DSO”) at June 30, 2014, based on annualized gross sales and gross accounts receivable at June 30, 2014, was 60 days. The level of DSO at June 30, 2014 was comparable to the Company’s expectation that DSO will be in the 60 to 70 day range based on 60 day payment terms for most customers.
+
+·
+
+An increase in income taxes payable totaling $11.4 million, mainly resulting from Fiscal 2014 taxable income offset by the timing of estimated tax payments made during Fiscal 2014 and excess tax benefits on share-based compensation awards.
+
+·
+
+An increase in inventories of $12.3 million, primarily due to the timing of customer order fulfillment.
+
+·
+
+An increase in rebates payable of $3.5 million due to an increase in rebates accrued resulting from sales qualifying for existing rebate programs.
+
+·
+
+An increase in accrued payroll and payroll-related expenses of $6.0 million, due to an increase in incentive compensation in Fiscal 2014 compared to Fiscal 2013.
+
+35
+
+Table of Contents
+
+Significant changes in operating assets and liabilities from June 30, 2012 to June 30, 2013 are comprised of:
+
+·
+
+A decrease in accounts receivable of $173 thousand, mainly due to an increase in total revenue-related reserves, partially offset by increased sales in the fourth quarter of Fiscal 2013 compared to the fourth quarter of Fiscal 2012. The Company’s days sales outstanding (“DSO”), based on gross sales and gross accounts receivable, for Fiscal 2013 was 61 days. The level of DSO at June 30, 2013 is comparable to the Company’s expectation that DSO will be in the 60 to 70 day range based on 60 day payment terms for most customers.
+
+·
+
+A decrease in income taxes receivable and an increase in income taxes payable totaling $2.5 million. The amount is mainly the result of a federal tax refund received in the amount of $2.2 million as well as estimated tax payments related to expected taxable income for Fiscal 2013.
+
+·
+
+An increase in inventories of $5.5 million, primarily due to the fulfillment of customer orders and inventory on hand related to new product approvals.
+
+·
+
+An increase in accounts payable of $4.7 million, due to the timing of payments at the end of Fiscal 2013.
+
+·
+
+An increase in accrued payroll and payroll-related expenses of $3.7 million, primarily related to accrued incentive compensation costs in Fiscal 2013, partially offset by Fiscal 2013 payments of incentive compensation accrued during Fiscal 2012.
+
+Net cash used in investing activities of $56.4 million for the year ended June 30, 2014 is mainly the result of purchases of investment securities of $53.7 million and purchases of property, plant and equipment of $26.1 million, partially offset by proceeds from the sale of investment securities of $23.4 million. Net cash used in investing activities of $8.6 million for the year ended June 30, 2013 is mainly the result of purchases of investment securities of $23.6 million and purchases of property, plant and equipment of $7.8 million, partially offset by proceeds from the sale of investment securities of $22.5 million.
+
+Net cash provided by financing activities of $74.2 million for the year ended June 30, 2014
+was primarily due to proceeds from an offering of the Company’s common stock of $71.5 million, proceeds from the issuance of stock pursuant to share-based compensation plans of $5.4 million and excess tax benefits on share-based compensation awards of $7.0 million, partially offset by debt repayments of $5.4 million and purchases of treasury stock of $3.9 million.
+ Net cash provided by financing activities of $2.2 million for the year ended June 30, 2013 was primarily due to proceeds from the issuance of stock pursuant to share-based compensation plans of $3.1 million, partially offset by scheduled repayments of debt of $647 thousand and purchases of treasury stock of $440 thousand.
+
+Credit Facilities
+
+The Company has previously entered into and may enter future agreements with various government agencies and financial institutions to provide additional cash to help finance the Company’s various capital investments and potential strategic opportunities. These borrowing arrangements as of June 30, 2014 are as follows:
+
+In December 2013, the Company entered into a credit agreement (the “Citibank Line of Credit”) with Citibank, N.A., as administrative agent and certain other financial institutions. The Citibank Line of Credit provides for a revolving loan commitment in the amount of up to $50.0 million. Any loans under the Citibank Line of Credit will bear interest at either a “Eurodollar Rate” or a “Base Rate” plus a specified margin. The Company is also required to pay a commitment fee on any undrawn commitments under the Citibank Line of Credit ranging from 0.2% - 0.3% per annum according to the average daily balance of borrowings under the agreement. The Citibank Line of Credit is collateralized by substantially all of the Company’s assets. In connection with securing the Citibank Line of Credit, the Company repaid substantially all of its outstanding debt, except for the Cody LCI Realty, LLC (“Realty”) mortgage. As of June 30, 2014, the Company had $50.0 million available under the Citibank Line of Credit.
+
+The Citibank Line of Credit contains representations and warranties, affirmative, negative and financial covenants, and events of default, applicable to the Company and its subsidiaries which are customary for credit facilities of this type. As of June 30, 2014 the Company was in compliance with all financial covenants.
+
+The Company is the primary beneficiary to a VIE called Realty. The VIE owns land and a building which is being leased to Cody Labs. A mortgage loan with First National Bank of Cody has been consolidated in the Company’s financial statements, along with the related land and building. The mortgage requires monthly principal and interest payments of $15 thousand. As of June 30, 2014 and June 30, 2013, the effective rate was 4.5%. The mortgage is collateralized by the land and building with a net book value of $1.5 million. As of June 30, 2014, $1.1 million is outstanding under the mortgage loan, of which $129 thousand is classified as currently due.
+
+36
+
+Table of Contents
+
+Other Liquidity Matters
+
+On December 20, 2013, the Company acquired two separate properties located in Philadelphia, Pennsylvania for $4.0 million and $5.0 million, respectively. The buildings are 196,000 and 400,000 square feet, respectively, and the Company intends to use the two properties for future expansion including, but not limited to, additional manufacturing, product development, and warehousing capabilities. In connection with the purchase of these two buildings, the Company expects to incur significant capital expenditures for fit out costs over the next several years.
+
+The Company completed an offering of its common stock on October 4, 2013 at an offering price of $18.00 per share. The offering of 4.25 million shares yielded net proceeds of $71.5 million after deducting underwriting, legal and accounting fees totaling $5.0 million.
+
+We are continuously evaluating the potential for product and company acquisitions as a part of our future growth strategy. In conjunction with a potential acquisition the Company may utilize current resources or seek additional sources of capital to finance any such acquisition, which could have an impact on future liquidity.
+
+Contractual Obligations
+
+The following table represents annual contractual obligations as of June 30, 2014:
+
+Less than 1
+
+More than 5
+
+(In thousands)
+
+Total
+
+year
+
+1-3 years
+
+3-5 years
+
+Years
+
+Long-Term Debt
+
+$
+
+1,138
+
+$
+
+129
+
+$
+
+276
+
+$
+
+302
+
+$
+
+431
+
+Purchase Obligations
+
+143,986
+
+19,986
+
+62,000
+
+62,000
+
+—
+
+Interest on Obligations
+
+705
+
+148
+
+278
+
+253
+
+26
+
+Total
+
+$
+
+145,829
+
+$
+
+20,263
+
+$
+
+62,554
+
+$
+
+62,555
+
+$
+
+457
+
+The purchase obligations above are primarily due to the agreement with Jerome Stevens Pharmaceuticals, Inc. (“JSP”). If the minimum purchase requirement is not met, JSP has the right to terminate the contract within 60 days of Lannett’s failure to meet the requirement. If JSP terminates the contract, Lannett does not pay any fee, but could lose its exclusive distribution rights in the United States. If Lannett’s management believes that it is not in the Company’s best interest to fulfill the minimum purchase requirements, it can also terminate the contract without any penalty. If either party were to terminate the purchase agreement, there would be a significant impact on the operating cash flows of the Company. See Note 19 “Material Contracts with Suppliers” to our Consolidated Financial Statements for more information on the terms, conditions and financial impact of the JSP Distribution Agreement.
+
+Interest on Obligations amount above includes interest on the Cody mortgage as well as the unused commitment fee related to the Citibank line of credit. Refer to Note 9 “Bank Line of Credit” and Note 10 “Long-Term Debt” for additional information.
+
+Research and Development Arrangements
+
+In the normal course of business, the Company has entered into certain research and development and other arrangements. As part of these arrangements the Company has agreed to certain contingent payments which generally become due and payable only upon the achievement of certain developmental, regulatory, commercial and/or other milestones. In addition, under certain arrangements, we may be required to make royalty payments based on a percentage of future sales, or other metric, for products currently in development in the event that the Company begins to market and sell the product. Due to the inherent uncertainty related to these developmental, regulatory, commercial and/or other milestones, it is unclear if the Company will ever be required to make such payments. As such, these contingencies are not reflected in the expected cash requirements for Contractual Obligations in the table above.
+
+Prospects for the Future
+
+Lannett continues to see substantial growth year over year in many important financial metrics. Each year, our knowledge, skills and talent increase, as the Company learns from its experience. The Company is strengthening and building momentum to push to the next level within the generic pharmaceutical industry. There are several strategic initiatives on which the Company is embarking to continue its growth.
+
+One initiative at the core of the Company’s strategy is to continue leveraging the asset we acquired in 2007, Cody Labs. In July 2008, the DEA granted Cody Labs a license to directly import concentrated poppy straw for conversion into opioid-based APIs for use in various dosage forms for pain management. The value of this license comes from the fact that, to date, only six other companies in the U.S. have been granted this license. This license, along with Cody Labs’ expertise in API development and manufacture, allows the Company to perform in a market with high barriers to entry, no foreign competition, and limited domestic competition.
+
+37
+
+Table of Contents
+
+Because of this vertical integration, the Company has direct control of its supply and can avoid increased costs associated with buying APIs from third-party manufacturers, thereby achieving higher margins. The Company can also leverage this vertical integration not only for direct supply of opioid-based APIs, but also for the manufacture of non-opioid-based APIs.
+
+The Company believes that the demand for controlled substance, pain management drugs will continue to grow as the “Baby Boomer” generation ages. By concentrating additional resources in the development of opioid-based APIs and dosage forms, the Company is well-positioned to take advantage of this opportunity. The Company is currently vertically integrated on two products, with several others in various stages of development.
+
+One product which the Company manufactures is a cocaine hydrochloride solution. This product is being manufactured and marketed under the brand name C-Topical® Solution. This product is an analgesic topical solution, with vasoconstriction as a side effect, for use primarily by ear, nose and throat doctors during surgical procedures. This product represents the Company’s first foray into the brand market. Selling brand versus generic products requires a dedicated sales force to detail and educate physicians on the product. The Company strongly believes that C-Topical®, once the clinical trials are completed and the FDA has granted approval, will be an important contributor to total revenue, with higher than average profit margins as a result of vertical integration.
+
+The Company’s strategic goal is to continue investing in controlled substance product development so that, within five years, at least 50% of revenues from manufactured products are derived from controlled substance products which carry with them higher-than-average gross margins. As the Company continues to invest in, and focus, on process and manufacturing optimization, Cody Labs will continue to be an important part of our future growth plan.
+
+In addition to focusing on the development and manufacture of opioid-based APIs and dosage forms, the Company has made a strategic decision to develop products, both in-house and with external partners, which require a paragraph four (P-IV) certification when filing the ANDA. A P-IV certification is required when an ANDA is submitted for a product for which the innovator’s patent has not expired. The certification must state whether the patent on the reference listed drug (RLD) is being challenged on grounds of it being invalid, or if the patent is being circumvented. This path to product approval represents a major opportunity for generic drug companies because they do not have to wait until a particular patent expires to potentially enter the market. Secondly, if a company is the first to file a P-IV on a product, and they successfully invalidate or circumvent the patent, the FDA may grant 180 days of market exclusivity. This allows the generic manufacturer to be the sole competitor to the brand company for six months, during which time it will capture a significant portion of the market from the brand company, albeit at lower prices.
+
+The challenge for generic manufacturers with this strategy is the legal costs involved. Before a product is selected for development, the Company must perform a thorough review of the existing patents and determine if they are going to try to invalidate the patent or try to circumvent it. In either case, once the Company submits a P-IV the brand company will have 45 days to respond with a determination on whether they are going to file a suit against the generic company to defend their patent. A generic company needs to be prepared not only for the time and effort associated with a protracted legal challenge, but the associated fees which can easily reach in excess of several million dollars. This strategy provides a ‘high risk, high reward’ path to product approval. The Company filed its first ANDA with a P-IV certification in Fiscal 2013.
+T
+o date, we have filed four paragraph IV certifications. In response to our paragraph IV certification with respect to the Zomig® nasal spray product, AstraZeneca AB, AstraZeneca UK Limited and Impax Laboratories, Inc. filed two patent infringement complaints against the Company in July 2014. With the right research and analysis performed up front, the Company believes it can target suitable products for which to file a P-IV certification, be successful, and reap the rewards of limited competition.
+
+Another area of focus for the Company is in mergers, acquisitions and other strategic alliances, whether new or continuing. The Company is party to supply and development agreements with international companies,
+including, Azad Pharma AG, Swiss Caps of Switzerland, Pharma 2B (formerly Pharmaseed), The GC Group of Israel and HEC Pharm Group, as well as domestic companies, including JSP, Cerovene, and Summit Bioscience LLC
+. The Company is currently in negotiations on similar agreements with other companies, and is actively seeking additional strategic partnerships, through which it will market and distribute products manufactured in-house or by third parties.
+
+38
+
+Table of Contents
+
+Critical Accounting Policies
+
+The preparation of our consolidated financial statements in accordance with accounting principles generally accepted in the United States and the rules and regulations of the U.S. Securities & Exchange Commission requires the use of estimates and assumptions. A listing of the Company’s significant accounting policies are detailed in Note 2 “Summary of Significant Accounting Policies.” A subsection of these accounting policies have been identified by management as “Critical Accounting Policies”. Critical accounting policies are those which require management to make estimates using assumptions that were uncertain at the time the estimate was made and for which the use of different assumptions, which reasonably could have been used, could have a material impact on the financial condition or results of operations.
+
+Management has identified the following as “Critical Accounting Policies”: Revenue Recognition, Inventories, Income Taxes, Valuation of Long-Lived Assets, and Share-based Compensation.
+
+Revenue Recognition
+
+The Company recognizes revenue when title and risk of loss have transferred to the customer and provisions for estimates, including rebates, promotional adjustments, price adjustments, returns, chargebacks, and other potential adjustments are reasonably determinable. The Company also considers all other relevant criteria specified in Securities and Exchange Commission Staff Accounting Bulletin No. 104, Topic No. 13, “Revenue Recognition”, in determining when to recognize revenue.
+
+When revenue is recognized a simultaneous adjustment to revenue is made for chargebacks, rebates, returns, promotional adjustments, and other potential adjustments. These provisions are primarily estimated based on historical experience, future expectations, contractual arrangements with wholesalers and indirect customers, and other factors known to management at the time of accrual. Accruals for provisions are presented in the Consolidated Financial Statements as a reduction to gross sales with the corresponding reserve presented as a reduction of accounts receivable or included as rebates payable. The reserves presented as a reduction of accounts receivable totaled $51.9 million and $17.5 million at June 30, 2014 and June 30, 2013, respectively. Rebates payable at June 30, 2014 and June 30, 2013 included $4.6 million and $1.0 million, respectively, for certain rebate programs, primarily related to Medicare Part D and Medicaid, and certain sales allowances and other adjustments paid to indirect customers.
+
+The following table identifies the activity and ending balances of each major category of revenue reserve for fiscal years 2014, 2013 and 2012:
+
+Reserve Category
+
+(In thousands)
+
+Chargebacks
+
+Rebates
+
+Returns
+
+Other
+
+Total
+
+Balance at July 1, 2011
+
+$
+
+5,497
+
+$
+
+2,925
+
+$
+
+5,142
+
+$
+
+509
+
+$
+
+14,073
+
+Current period provision
+
+68,433
+
+21,178
+
+4,692
+
+6,792
+
+101,095
+
+Credits issued during the period
+
+(66,867
+
+)
+
+(19,667
+
+)
+
+(4,294
+
+)
+
+(6,596
+
+)
+
+(97,424
+
+)
+
+Balance at June 30, 2012
+
+7,063
+
+4,436
+
+5,540
+
+705
+
+17,744
+
+Current period provision
+
+67,898
+
+23,731
+
+4,490
+
+10,249
+
+106,368
+
+Credits issued during the period
+
+(67,694
+
+)
+
+(24,586
+
+)
+
+(3,341
+
+)
+
+(9,954
+
+)
+
+(105,575
+
+)
+
+Balance at June 30, 2013
+
+7,267
+
+3,581
+
+6,689
+
+1,000
+
+18,537
+
+Current period provision
+
+144,578
+
+56,346
+
+6,632
+
+21,462
+
+229,018
+
+Credits issued during the period
+
+(121,525
+
+)
+
+(44,836
+
+)
+
+(3,980
+
+)
+
+(20,675
+
+)
+
+(191,016
+
+)
+
+Balance at June 30, 2014
+
+$
+
+30,320
+
+$
+
+15,091
+
+$
+
+9,341
+
+$
+
+1,787
+
+$
+
+56,539
+
+For the years ending June 30, 2014, 2013 and 2012, as a percentage of gross sales the provision for chargebacks was 28.8%, 26.4% and 30.6%, the provision for rebates was 11.2%, 9.2% and 9.5%, the provision for returns was 1.3%, 1.7% and 2.1%, and the provision for other adjustments was 4.3%, 4.0% and 3.0%, respectively.
+
+The increase in total reserves from June 30, 2013 to June 30, 2014 was mainly due to an increase in the rebates and chargebacks reserves. The increase in the rebates reserve resulted from the timing of credits issued, increased gross sales qualifying for rebate programs and pricing changes, while the increase in the chargebacks reserve resulted from increased inventory levels at wholesale distribution centers due to a strategic partnership between two of the companies customers, partially offset by reduced chargeback rates. The activity in the “Other” category for the fiscal year ended June 30, 2014 and 2013 includes shelf-stock, shipping and other sales adjustments including prompt payment discounts. The increased provision in the “Other” category during the fiscal year ended June 30, 2014, compared to the fiscal year ended June 30, 2013, primarily resulted from contractual price protection arrangements with customers in connection with various product price increases. Historically, we have not recorded any material amounts in the current period related to prior period reserves.
+
+39
+
+Table of Contents
+
+Provisions for chargebacks, rebates, returns and other adjustments require varying degrees of subjectivity. While rebates generally are based on contractual terms and require minimal estimation, chargebacks and returns require management to make more subjective assumptions. Each major category is discussed in detail below:
+
+Chargebacks
+
+The provision for chargebacks is the most significant and complex estimate used in the recognition of revenue. The Company sells its products directly to wholesale distributors, generic distributors, retail pharmacy chains, and mail-order pharmacies. The Company also sells its products indirectly to independent pharmacies, managed care organizations, hospitals, nursing homes, and group purchasing organizations, collectively referred to as “indirect customers.” The Company enters into agreements with its indirect customers to establish pricing for certain products. The indirect customers then independently select a wholesaler from which to purchase the products. If the price paid by the indirect customers is lower than the price paid by the wholesaler, the Company will provide a credit, called a chargeback, to the wholesaler for the difference between the contractual price with the indirect customers and the wholesaler purchase price. The provision for chargebacks is based on expected sell-through levels by the Company’s wholesale customers to the indirect customers and estimated wholesaler inventory levels. As sales to the large wholesale customers, such as Cardinal Health, AmerisourceBergen, and McKesson increase (decrease), the reserve for chargebacks will also generally increase (decrease). However, the size of the increase (decrease) depends on product mix and the amount of sales made to indirect customers with which the Company has specific chargeback agreements. The Company continually monitors the reserve for chargebacks and makes adjustments when management believes that expected chargebacks may differ from the actual chargeback reserve.
+
+Rebates
+
+Rebates are offered to the Company’s key chain drug store, distributor and wholesaler customers to promote customer loyalty and increase product sales. These rebate programs provide customers with credits upon attainment of pre-established volumes or attainment of net sales milestones for a specified period. Other promotional programs are incentive programs offered to the customers. Additionally, as a result of the Patient Protection and Affordable Care Act (“PPACA”) enacted in the U.S. in March 2010, the Company participates in a new cost-sharing program for certain Medicare Part D beneficiaries designed primarily for the sale of brand drugs and certain generic drugs if their FDA approval was granted under a New Drug Application (“NDA”) or 505(b) NDA versus an Abbreviated New Drug Application (“ANDA”). Because our drugs used for the treatment of thyroid deficiency and our Morphine Sulfate Oral Solution product were both approved by the FDA as 505(b)(2) NDAs, they are considered “brand” drugs for purposes of the PPACA. Drugs purchased within the Medicare Part D coverage gap (commonly referred to as the “donut hole”) result in additional rebates. The Company estimates the reserve for rebates and other promotional credit programs based on the specific terms in each agreement when revenue is recognized. The reserve for rebates increases (decreases) as sales to certain wholesale and retail customers increase (decrease). However, since these rebate programs are not identical for all customers, the size of the reserve will depend on the mix of sales to customers that are eligible to receive rebates.
+
+Returns
+
+Consistent with industry practice, the Company has a product returns policy that allows customers to return product within a specified time period prior to and subsequent to the product’s expiration date in exchange for a credit to be applied to future purchases. The Company’s policy requires that the customer obtain pre-approval from the Company for any qualifying return. The Company estimates its provision for returns based on historical experience, changes to business practices, credit terms and any extenuating circumstances known to management. While historical experience has allowed for reasonable estimations in the past, future returns may or may not follow historical trends. The Company continually monitors the reserve for returns and makes adjustments when management believes that actual product returns may differ from the established reserve. Generally, the reserve for returns increases as net sales increase.
+
+Other Adjustments
+
+Other adjustments consist primarily of price adjustments, also known as “shelf-stock adjustments” and “price protections,” which are both credits issued to reflect increases or decreases in the invoice or contract prices of the Company’s products. In the case of a price decrease a credit is given for product remaining in customer’s inventories at the time of the price reduction. Contractual price protection results in a similar credit when the invoice or contract prices of the Company’s products increase, effectively allowing customers to purchase products at previous prices for a specified period of time. Amounts recorded for estimated shelf-stock adjustments and price protections are based upon specified terms with direct customers, estimated changes in market prices, and estimates of inventory held by customers. The Company regularly monitors these and other factors and evaluates the reserve as additional information becomes available. Other adjustments also include prompt payment discounts.
+
+40
+
+Table of Contents
+
+Inventories
+
+Inventories are stated at the lower of cost or market determined by the first-in, first-out method. Inventories are regularly reviewed and provisions for excess and obsolete inventory are recorded based primarily on current inventory levels and estimated sales forecasts. During the fiscal years ended June 30, 2014, 2013 and 2012, the Company recorded provisions for excess and obsolete inventory of $2.9 million, $876 thousand and $1.7 million, respectively.
+
+Income Taxes
+
+The Company uses an asset and liability approach to account for income taxes as prescribed by ASC 740, Income Taxes. Deferred taxes are recorded to reflect the tax consequences on future years of events that the Company has already recognized in the financial statement or tax returns. Deferred income tax assets and liabilities are adjusted to recognize the effect of changes in tax law or tax rates in the period during which the new law is enacted. Under ASC 740, Income Taxes, a valuation allowance is required when it is more likely than not that all or some portion of the deferred tax assets will not be realized through generating sufficient future taxable income. Failure to achieve forecasted taxable income in applicable tax jurisdictions could affect the ultimate realization of deferred tax assets and could result in an increase in the Company’s effective tax rate on future earnings.
+
+The Company may recognize the tax benefit from an uncertain tax position claimed on a tax return only if it is more likely than not that the tax position will be sustained on examination by the taxing authorities, based on the technical merits of the position. The tax benefits recognized in the financial statements from such a position should be measured based on the largest benefit that has a greater than 50% likelihood of being realized upon ultimate settlement. The benefit from uncertain tax positions recorded in the financial statements was immaterial for all period presented.
+
+The Company’s future effective income tax rate is highly reliant on future projections of taxable income, tax legislation, and potential tax planning strategies. A change in any of these factors could materially affect the effective income tax rate of the Company in future periods.
+
+Valuation of Long-Lived Assets
+
+The Company’s long-lived assets primarily consist of property, plant and equipment as well as definite-lived intangible assets. Intangible assets are stated at cost less accumulated amortization and are not material to the consolidated financial statements at June 30, 2014. Amortization is computed on a straight-line basis over the assets’ estimated useful lives, generally for periods ranging from 10 to 15 years. Property, plant and equipment are stated at cost less accumulated depreciation. Depreciation is computed on a straight-line basis over the assets’ estimated useful lives, generally for periods ranging from 5 to 39 years. The Company continually evaluates the reasonableness of the useful lives of these assets.
+
+Long-lived assets are reviewed for impairment whenever events or changes in circumstances (“triggering events”) indicate that the carrying amount of the asset may not be recoverable. The nature and timing of triggering events by their very nature are unpredictable; however management regularly considers the performance of an asset as compared to its expectations, industry events, industry and economic trends, as well as any other relevant information known to management when determining if a triggering event occurred.
+
+If a triggering event is determined to have occurred, the first step in the impairment test is to compare the asset’s carrying value to the undiscounted cash flows expected to be generated by the asset. If the carrying value exceeds the undiscounted cash flow of the asset then impairment exists. An impairment loss is measured as the excess of the asset’s carrying value over its fair value, which in most cases is calculated using a discounted cash flow model. Discounted cash flow models are highly reliant on various assumptions which are considered Level 3 inputs, including estimates of future cash flows (including long-term growth rates), discount rates, and the probability of achieving the estimated cash flows.
+
+Share-
+based Compensation
+
+Share-based compensation costs are recognized over the vesting period, using a straight-line method, based on the fair value of the instrument on the date of grant less an estimate for forfeitures. The Company uses the Black-Scholes valuation model to determine the fair value of stock options and the market price on the grant date to value restricted stock. The Black-Scholes valuation model includes various assumptions, including the expected volatility, the expected life of the award, dividend yield, and the risk-free interest rate. These assumptions involve inherent uncertainties based on market conditions which are generally outside the Company’s control. Changes in these assumptions could have a material impact on share-based compensation costs recognized in the financial statements.
+
+41
+
+Table of Contents
+
+The following table presents the weighted average assumptions used to estimate fair values of the stock options granted during the years ended June 30 and the estimated annual forfeiture rates used to recognize the associated compensation expense:
+
+Stock
+ Options
+ FY 2014
+
+Stock
+ Options
+ FY 2013
+
+Stock
+ Options
+ FY 2012
+
+Risk-free interest rate
+
+2.1
+
+%
+
+1.0
+
+%
+
+1.1
+
+%
+
+Expected volatility
+
+62.8
+
+%
+
+61.6
+
+%
+
+63.5
+
+%
+
+Expected dividend yield
+
+0.0
+
+%
+
+0.0
+
+%
+
+0.0
+
+%
+
+Forfeiture rate
+
+7.5
+
+%
+
+7.5
+
+%
+
+7.5
+
+%
+
+Expected term (in years)
+
+5.9 years
+
+6.1 years
+
+5.2 years
+
+Expected volatility is based on the historical volatility of the price of our common shares during the historical period equal to the expected term of the option. The Company uses historical information to estimate the expected term, which represents the period of time that options granted are expected to be outstanding. The risk-free rate for the period equal to the expected life of the option is based on the U.S. Treasury yield curve in effect at the time of grant. The forfeiture rate assumption is the estimated annual rate at which unvested awards are expected to be forfeited during the vesting period. This assumption is based on our historical forfeiture rate. Periodically, management will assess whether it is necessary to adjust the estimated rate to reflect changes in actual forfeitures or changes in expectations. Additionally, the expected dividend yield is equal to zero, as the Company has not historically issued, and has no immediate plans to issue, a dividend.
+
+Recent Accounting Pronouncements
+
+In May 2014, the FASB issued authoritative guidance on revenue recognition. The core principle of the guidance is that an entity should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. The authoritative guidance is effective for annual reporting periods beginning after December 15, 2016. Early application is not permitted. The Company is currently in the process of assessing the impact this guidance will have on the consolidated financial statements.

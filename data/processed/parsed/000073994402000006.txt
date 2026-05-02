@@ -1,0 +1,554 @@
+AND ANALYSIS
+ OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+
+General
+
+ MEDTOX Scientific, Inc. (formerly EDITEK, Inc.), a Delaware corporation,
+was organized in September 1986 to succeed the operations of a predecessor
+California corporation. MEDTOX Scientific, Inc. and its wholly-owned
+subsidiaries, MEDTOX Laboratories, Inc., MEDTOX Diagnostics, Inc., and New
+Brighton Business Center LLC are referred to herein as "the Company". The
+Company is engaged primarily in two distinct, but very much related businesses.
+The business of manufacturing and distribution of diagnostic devices is carried
+on by MEDTOX Diagnostics, Inc. from its facility in Burlington, North Carolina
+and the business of forensic and clinical laboratory services is conducted by
+MEDTOX Laboratories, Inc. at its facility in St. Paul, Minnesota.
+
+ The Company has two reportable segments: "Laboratory Services"
+conducted by the Company's wholly owned subsidiary, MEDTOX Laboratories, Inc.
+and "Products Sales" conducted by the Company's wholly owned subsidiary MEDTOX
+Diagnostics, Inc. Laboratory Services include forensic toxicology, clinical
+toxicology, clinical testing for the pharmaceutical industry and heavy metal
+analyses as well as logistics, data, and overall program management services.
+Product Sales include sales of a variety of point-of-collection (POC) screening
+devices for therapeutic drugs and drugs of abuse. For the years ended December
+31, 2001, 2000, and 1999, Laboratory Services revenue accounted for 77%, 81% and
+89% of the Company's revenues, respectively. Revenue from Product Sales
+accounted for 23%, 19% and 11% of the total revenues of the Company for the
+years ended December 31, 2001, 2000 and 1999, respectively.
+
+Critical Accounting Policies
+
+ The Company has identified the policies outlined below as critical to
+its business operations and an understanding of results of operations. The
+listing is not intended to be a comprehensive list of all accounting policies.
+In many cases, the accounting treatment of a particular transaction is
+specifically dictated by accounting principles generally accepted in the United
+States, with no need for management's judgment in their application. The impact
+and any associated risks related to these policies on the Company's business
+operations is discussed throughout Management's Discussion and Analysis of
+Financial Condition and Results of Operations where such policies affect
+reported and expected financial results. For a detailed discussion on the
+application of these and other accounting policies, see Note 1 in the Notes to
+the Consolidated Financial Statements in Item 14 on Form 10-K, beginning on page
+41. Note that the preparation of this Form 10-K requires management to make
+estimates and assumptions that affect the reported amount of assets and
+liabilities, disclosure of contingent assets and liabilities at the date of our
+financial statements, and the reported amounts of revenue and expenses during
+the reporting period. There can be no assurance that actual results will not
+differ from those estimates.
+
+The Company's critical accounting policies are as follows:
+
+Accounts Receivable:
+ The Company performs ongoing credit evaluations of its customers and
+adjusts credit limits based upon payment history and the customers' current
+credit worthiness, as determined by management's review of their current credit
+information. The Company continuously monitors collections and payments from its
+customers and maintains a provision for estimated credit losses based upon the
+Company's historical experience and any specific customer collection issues that
+have been identified. While such credit losses have historically been within the
+Company's general expectations and the provisions established, the Company
+
+<PAGE>
+
+cannot guarantee that it will continue to experience the same credit loss rates
+that have occurred in the past. The Company's consolidated trade accounts
+receivable balance as of December 31, 2001 was $8.4 million, net of allowance
+for doubtful accounts of $1.1 million.
+
+Off-Site Supplies Inventory:
+ Off-site supplies represents collection kits and forms located at
+collections sites throughout the United States used by Laboratory Services'
+customers to submit specimens for testing services. At December 31, 2001,
+off-site inventory was $0.8 million. The process for estimating off-site
+inventory involves significant assumptions and judgments. The estimate is based
+on the historical average time that a collection site uses the inventory, as
+well as the amount of inventory expected to be scrapped.
+
+Goodwill:
+ The Company continually evaluates whether events and changes in
+circumstances warrant revised estimates of useful lives or recognition of an
+impairment loss of unamortized goodwill. The conditions that would trigger an
+impairment assessment of unamortized goodwill include a significant, sustained
+negative trend in operating results or cash flows, a decrease in demand for the
+Company's products or services, a change in the competitive environment, and
+other industry and economic factors. The Company measures impairment of
+unamortized goodwill utilizing the undiscounted cash flow method. The estimated
+cash flows are then compared to recorded goodwill amounts; if the unamortized
+balance of the goodwill exceeds the estimated cash flows, the excess of the
+unamortized balance is written off. As of December 31, 2001, the Company
+determined that there has been no impairment of goodwill.
+
+ In June 2001, the Financial Accounting Standards Board (FASB) issued
+Statement of Financial Accounting Standards (SFAS) No. 142, "Goodwill and Other
+Intangible Assets" (SFAS 142). The Company will adopt SFAS No. 142 in the first
+quarter of 2002. With the adoption of SFAS No. 142, the Company will assess the
+impact based on a two-step approach to assess goodwill based on applicable
+reporting units and will reassess any intangible assets, including goodwill,
+recorded in connection with previous acquisitions. The Company recorded
+approximately $0.8 million of goodwill amortization during 2001 and would have
+recorded approximately $0.8 million of goodwill amortization during 2002. In
+lieu of amortization, the Company will be required to perform an initial
+impairment review of goodwill in 2002 and an annual impairment review
+thereafter. The Company is currently assessing, but has not yet determined, the
+impact the adoption of SFAS No. 142 will have on its consolidated financial
+statements. As of December 31, 2001, the Company had unamortized goodwill of
+$15.2 million.
+
+Accounting for Income Taxes:
+ As part of the process of preparing the consolidated financial
+statements, the Company is required to estimate income taxes in each of the
+jurisdictions in which it operates. This process involves estimating actual
+current tax exposure together with assessing temporary differences resulting
+from differing treatment of items for tax and accounting purposes. These
+differences result in deferred tax assets and liabilities. The Company must then
+assess the likelihood that deferred tax assets will be recovered from future
+taxable income and, to the extent management believes that recovery is not
+likely, the Company must establish a valuation allowance. To the extent the
+Company increases or decreases the valuation allowance in a period, the Company
+must include an expense or benefit within the tax provision in the consolidated
+statement of operations.
+
+ Significant management judgment is required in determining the
+provision for income taxes, deferred tax assets and liabilities, and any
+valuation allowance recorded against net deferred tax assets. As of December 31,
+2001, the Company has recorded a full valuation allowance of $13.9 million due
+
+<PAGE>
+
+to uncertainties related to the Company's ability to utilize the deferred tax
+assets, primarily consisting of certain net operating losses (NOL) carried
+forward, before they expire. The valuation allowance is based on management's
+estimate of taxable income (primarily determined from four-year cumulative
+historical results) and the period over which deferred tax assets will be
+recoverable. It is possible that the Company could be profitable in the future
+at levels which cause management to conclude that it is more likely than not
+that the Company will realize all or a portion of the NOL carryforward. Upon
+reaching such a conclusion, the Company would immediately record the estimated
+net realizable value of the deferred tax asset at that time and would then
+provide for income taxes at a rate equal to the Company's combined federal and
+state effective rates, which would approximate 38% under current tax rates.
+Subsequent revisions to the estimated net realizable value of the deferred tax
+asset could cause the provision for income taxes to vary significantly from
+period to period, although the Company's cash payments would remain unaffected
+until the benefit of the NOL is utilized.
+
+Results of Operations
+
+ In 2001, the Company achieved record revenues and net income, driven by
+sales of the PROFILE(R) Test Systems and the expanding VERDICT(R)-II product
+line, and an increase in volume from specialty laboratory testing services.
+Gross margin improved due to the Company's continued focus on higher margin
+products and testing. Selling, general, and administrative expenses decreased as
+a percentage of sales reflecting continued efforts to reduce operating costs.
+The following table sets forth the percentages of total revenues represented by
+certain items reflected in the Company's Consolidated Statements of Operations:
+
+ YEARS ENDED DECEMBER 31,
+ 2001 2000 1999
+-------------------------------------------------------------------------------
+ Revenues 100.0% 100.0% 100.0%
+ Cost of revenues 60.4 65.0 65.0
+ --------- ---------- ---------
+ Gross margin 39.6 35.0 35.0
+ Operating expenses:
+ Selling, general, and
+ administrative 29.4 36.1 26.7
+ Research and development 2.6 2.6 2.4
+ Restructuring costs - - (0.5)
+ -------------------------------------------
+ 32.0 38.7 28.6
+ Other expense, primarily interest 2.5 2.3 2.3
+ ---------- --------------------------
+ Net income (loss) 5.1% (6.0)% 4.1%
+ ======= ========= =======
+
+Year Ended December 31, 2001 Compared to Year Ended December 31, 2000
+
+Revenues
+
+ Revenues increased 14.5% to $ 49.1 million in 2001, driven by a $3.0
+million, or 37% increase in Product Sales revenues and a $3.2 million, or 9.2%
+increase in Laboratory Services revenues.
+
+ The growth in Laboratory Services was primarily due to a 30% increase
+in the Company's specialty laboratory services revenues. This increase is due to
+the expansion of clinical testing for the pharmaceutical industry and the
+October 2001 acquisition of Leadtech Corporation (Leadtech), a pediatric
+lead-testing laboratory. The Company's research and development group continues
+
+<PAGE>
+
+to improve and add to the over 900 proprietary bio-analytical assays that have
+been developed. In the past, these tests have largely been marketed to
+hospitals, clinics and other laboratories. However, in 2001, the Company has
+increased its efforts to apply the assay development skills to the
+bio-analytical needs of the pharmaceutical market. Specimen volume growth from
+the occupational health and corporate clients was relatively flat in 2001. The
+slowing economy and the impact of the tragic events occurring on September 11,
+2001 caused volume from existing occupational health and corporate clients to be
+below expectations. However, this impact has been largely mitigated by the
+Company's continued success in acquiring new client relationships and gaining
+market share. The Company believes that the current lower volume from existing
+clients will continue to be offset by successful sales efforts to new clients.
+
+ The Product Sales segment achieved higher sales due to increased sales
+of substance abuse testing products, partially offset by decreased sales of
+agricultural diagnostic products. Product sales from substance abuse testing
+products, which incorporates the EZ-SCREEN(R), PROFILE(R)-II, PROFILE(R)-ER and
+VERDICT(R)-II on-site test kits and other ancillary products for the detection
+of abused substances, increased $3.1 million to $9.4 million in 2001. This
+growth reflected the sales and marketing efforts for the Company's
+second-generation test kits, PROFILE(R)-II, PROFILE(R)-ER and VERDICT(R)-II. The
+PROFILE(R)-ER device is an on-site, nine drugs-of-abuse panel, targeted at
+hospital laboratories for emergency response screening in drugs-of-abuse
+overdose situations. The Company received FDA approval for its PROFILE(R)-ER
+device and for 10 configurations of its VERDICT(R)-II product in January 2001.
+The VERDICT(R)-II was developed for the prison, probation, parole and
+rehabilitation markets. The VERDICT(R)-II product line now consists of 16
+different configurations to detect from one to seven drugs of abuse. The Company
+continues to develop new products in this area, including the PROFILE-IIA(R)
+device which was introduced in November 2001. The PROFILE-IIA(R) device screens
+for five drugs of abuse and uses a unique lateral flow test strip to screen for
+the five most common adulterants.
+
+ Sales of contract manufacturing services, microbiological and
+associated products remained flat at $1.3 million in both 2001 and 2000. Product
+sales from agricultural diagnostic products decreased 25% to $0.4 million
+primarily as a result of decreased purchases by the U.S. Department of
+Agriculture (USDA) for the Company's products. The USDA's needs for the
+Company's products vary from year-to-year and sales to the USDA are expected to
+fluctuate accordingly.
+
+Gross profit
+
+ Consolidated gross margin improved to 39.6% in 2001 compared to 35.0%
+in 2000, reflecting improvement in both Product Sales and Laboratory Services
+gross margins, as well as the continuing shift in our business mix toward
+Product Sales at significantly higher margins.
+
+ Laboratory Services gross margin was 31.9% in 2001, up from 29.0% in
+2000. This improvement is primarily due to improved efficiencies and the
+Company's continued focus on higher margin testing. Gross margin from Product
+Sales improved to 66.1% from 61.2% in 2000, driven by an increased mix of higher
+margin products and manufacturing efficiencies gained at the production
+facility.
+
+Selling, general and administrative expenses
+
+ Selling, general and administrative expenses were $14.4 million, or
+29.4% of revenues in 2001, compared to $15.5 million, or 36.1% of revenues in
+2000. The decrease in the percentage of revenues and in absolute dollars
+primarily reflects the continued efforts taken to reduce overall operating costs
+as well as the impact of charges incurred in the fourth quarter of 2000. (See
+discussion of Year Ended December 31, 2000 Compared to Year Ended December 31,
+1999 below.) This positive trend was offset slightly by the amortization of
+
+<PAGE>
+
+intangible assets associated with the Leadtech acquisition in October 2001, as
+well as expenses associated with operating the Leadtech facility in New Jersey
+prior to it being merged into the Company's existing laboratory facility in
+December 2001.
+
+Research and development expenses
+
+ Research and development expenses increased by $0.2 million, or 15.1%,
+in 2001, principally due to higher research and development expenses associated
+with new product development for on-site and other ancillary products in the
+Product Sales segment.
+
+Other expense
+
+ Other expense consisted primarily of interest expense, which increased
+by $0.1 million or 13.3% in 2001, reflecting higher average debt levels offset
+by lower interest rates. Other expense also included a loss of $98,000 from the
+Company's rental activities.
+
+Net income (loss)
+
+ In 2001, the Company recorded net income of $2.5 million compared to a
+net loss of $2.6 million in 2000, reflecting increased revenues and gross
+margins in both the Product Sales and Laboratory Services segments, and
+decreased selling, general and administrative expenses in the Laboratory
+Services segment.
+
+ Laboratory Services reported net income of $0.8 million in 2001
+compared to a net loss of $3.4 million in 2000. The increase was primarily
+driven by higher sample volume from the Company's specialty laboratory testing
+services, the Company's continued focus on higher margin testing, and a
+reduction in selling, general and administrative expenses.
+
+ Product Sales net income was $1.7 million in 2001 compared to $0.8
+million in 2000. This improvement was largely attributable to the growth in
+sales and an improved gross margin.
+
+<PAGE>
+
+Year Ended December 31, 2000 Compared to Year Ended December 31, 1999
+
+Revenues
+
+ Revenues increased 23% to $ 42.9 million in 2000, compared to $35.0
+million in 1999, driven by a $4.1 million, or 103% increase in Product Sales
+revenues and a $3.8 million, or 12% increase in Laboratory Services revenues.
+The Product Sales segment achieved higher sales due to increased sales of
+substance abuse testing products and contract manufacturing services, partially
+offset by decreased sales of agricultural diagnostic products. The growth in
+Laboratory Services revenues was primarily due to a 7% increase in laboratory
+tests for employment drug testing services, partially offset by a 14% decline in
+the average price per testing specimen.
+
+Gross profit
+
+ Consolidated gross margin of 35.0% in 2000 remained flat compared to
+1999, reflecting improvement in Product Sales gross margin, offset by a decline
+in Laboratory Services gross margin. Laboratory Services gross margin was 29.0%
+in 2000, down from 33.7% in 1999. The erosion of the gross margin was primarily
+attributable to a 14% decline in the average price per testing specimen. The
+drop in the average price per testing specimen stemmed from competitive market
+conditions, which restricted the average price that the Company could charge new
+customers. Gross margin was also impacted by an increase in the Company's
+employee health insurance costs. Gross margin from Product Sales improved from
+45.5% to 61.2% in 2000, driven by an increased mix of higher margin products and
+manufacturing efficiencies gained at the production facility.
+
+Selling, general and administrative expenses
+
+ Selling, general and administrative expenses were $15.5 million, or
+36.1% of revenues in 2000, compared to $9.3 million or 26.7% of revenues in
+1999. The increase, in both the absolute amount and percentage of revenues, was
+primarily the result of the buildup of the Company's sales and marketing group
+throughout 2000, which affected both the Laboratory Services and the Product
+Sales segments.
+
+ The Company also incurred a charge of $0.6 million related to the
+reorganization of its laboratory operations. The charge primarily represented
+severance and other costs associated with certain management changes.
+Additionally, the Company recorded a $0.5 million charge to reserve for
+potential losses attributable to the Chapter 11 bankruptcy filings of two
+Laboratory Services customers. Both customers remain as clients, and subsequent
+to bankruptcy filings, are current on their obligations to the Company.
+
+ The increase in the absolute dollar amount of selling, general and
+administrative expenses also reflected the higher revenue level in 2000.
+
+Research and development expenses
+
+ Research and development expenses increased by $0.3 million, or 35%, in
+2000, principally due to higher research and development expenses associated
+with new product development for on-site and other ancillary products in the
+Product Sales segment.
+
+<PAGE>
+
+Interest expense
+
+ Interest expense increased by $0.2 million, or 21%, in 2000, reflecting
+higher average debt levels and increasing interest rates.
+
+Net (loss) income
+
+ In 2000, the Company recorded a net loss of $2.6 million compared to
+net income of $1.4 million in 1999, reflecting higher overall operating costs
+and a reduced gross margin in the Laboratory Services segment, partially offset
+by higher revenues in both the Product Sales and Laboratory Services segments.
+
+ Laboratory Services reported a net loss of $3.4 million in 2000
+compared to net income of $1.4 million in 1999. The decline was primarily due to
+increased selling, general and administrative expenses associated with the
+buildup of the Company's sales and marketing group, the reorganization of
+laboratory operations and the Chapter 11 bankruptcy of two customers. Although
+revenues increased 12%, this improvement was offset by a reduced gross margin,
+which was impacted by a reduction in the average price per specimen and an
+increase in the Company's employee health insurance costs.
+
+ Product Sales net income was $0.8 million in 2000 compared to a net
+loss of $21,000 in 1999. This improvement was attributable to the growth in
+sales and an improved gross margin, which was driven by an increased mix of
+higher margin products and manufacturing efficiencies gained at the production
+facility.
+
+Liquidity and Capital Resources
+
+ The working capital requirements of the Company have been funded
+primarily by cash received from debt financing and the sale of equity
+securities. Cash and cash equivalents at December 31, 2001 were $0.1 million,
+compared to $0.2 million at December 31, 2000.
+
+ Net cash provided by operating activities was $3.5 million in 2001
+compared to net cash used in operating activities of $2.0 million in 2000. Net
+cash provided by operating activities was $0.7 million in 1999. The increase of
+$5.5 million in 2001 was primarily due to an improvement in operating results.
+
+ Net cash used in investing activities was $10.9 million in 2001
+compared to $3.4 million and $1.2 million in 2000 and 1999, respectively. In
+2001, the Company's investing activities consisted of capital expenditures
+(primarily the building purchase discussed below) and cash paid for the
+acquisition of Leadtech.
+
+ In March 2001, the Company purchased the three building, 129,039 square
+foot complex in St. Paul, Minnesota, where the Company's laboratory segment
+formerly leased 53,576 square feet. The purchase price, exclusive of expenses
+and closing costs, was $6.35 million and was financed by a mortgage loan from
+Principal Life Insurance Company of Des Moines, Iowa in the amount of $6.2
+million. The mortgage loan has a term of ten years and is being repaid based on
+a 20-year amortization schedule with a balloon payment at the end of the
+ten-year term. The interest rate is fixed at an annual rate of 7.23% for the
+first five years at which time the rate will be renegotiated by the parties. The
+facility includes other commercial tenants who have individual leases that range
+from 4 years to less then 1 year in duration. The current annual rent paid by
+such third party tenants, excluding their pro-rata share of operating expenses,
+is approximately $431,000 per year.
+<PAGE>
+
+ In October 2001, the Company completed the acquisition of Leadtech, a
+private company operating as an independent clinical laboratory devoted
+primarily to the examination of blood lead concentrations in pediatric patients.
+The purchase price of $6.1 million consisted of $2.5 million in cash, the
+issuance of $2.7 million of the Company's common stock and $0.9 million of
+seller financing payable over 24 months. The initial cash payment of $2.5
+million was funded primarily from proceeds received from private placement of
+subordinated debt in October 2001, net proceeds from the legal settlement with
+Morgan Capital LLC, and operating cash flows.
+
+ The Company expects equipment and capital improvement expenditures to
+be between $5.0 million and $6.0 million in 2002. These expenditures are
+intended primarily to continue to improve efficiencies and reduce operating
+costs within the Laboratory Services and Product Sales businesses. Such
+expenditures are expected to be funded through borrowings under the Company's
+credit facilities and cash provided by operating activities.
+
+ Net cash provided by financing activities was $7.3 million in 2001,
+compared to $5.0 million and $1.0 million in 2000 and 1999, respectively. The
+increase was principally associated with proceeds received under the mortgage
+loan discussed above, the Company's credit agreement for the purchase of capital
+equipment, and the private placement of subordinated debt in October and
+November 2001(discussed below). In addition, in September 2001, the Company
+received net proceeds of $0.6 million as settlement in the Company's lawsuit
+against Morgan Capital LLC under Section 16(b) of the Securities Exchange Act of
+1934. The increase in 2000 over 1999 was primarily due to proceeds of $4.9
+million from the Company's private equity placement.
+
+ In January 1998, the Company entered into a Credit Security Agreement
+(the Wells Fargo Credit Agreement) with Wells Fargo Business Credit, Inc. The
+Wells Fargo Credit Agreement, as amended, consists of (i) a term loan of $3.185
+million bearing interest at prime + 1.25%; (ii) a revolving line of credit,
+payable on demand, of not more than $6.0 million or 85% of the Company's
+eligible trade accounts receivable bearing interest at prime + 1%; and (iii) a
+capex note of up to $3.5 million for the purchase of capital equipment bearing
+interest at prime + 1.25% and (iv) availability of letters of credit in amounts
+not to exceed the lesser of $300,000 (less outstanding letters of credit) or the
+unborrowed portion of the revolving line of credit (less outstanding letters of
+credit).
+
+ The Wells Fargo Credit Agreement requires the Company to comply with
+certain covenants and maintain certain quarterly financial ratios as to minimum
+debt service coverage and maximum debt to book net worth. It also sets minimum
+quarterly net income and book net worth levels, which restrict the payment of
+dividends. As of December 31, 2001, the Company was in compliance with the
+financial covenants of the Wells Fargo Credit Agreement.
+
+ The Company received a total of $1.05 million from private placements
+of subordinated debt and warrants in October and November 2001. The notes
+require payment of the principal amounts on September 30, 2004. Interest at 10%
+per annum is paid semi-annually on June 30 and December 31. In connection with
+the issuance of the subordinated notes, the Company issued warrants to purchase
+54,265 shares of common stock at $9.675 per share. The Company has determined
+the value of the warrants at the dates of issuance to be $281,000 based upon the
+Black-Scholes option pricing model. The value of the warrants has been accounted
+for as additional paid-in capital and deducted from the principal of the
+subordinated notes as discount on debt issued. The discount will be amortized to
+interest expense over the term of the debt. The effective interest rate of the
+subordinated debt including the warrants is 23.0%.
+
+ The Company is relying on expected positive cash flow from operations
+and its line of credit to fund its future working capital and asset purchases.
+The amount available on the revolving line of credit is based primarily on the
+
+<PAGE>
+
+receivables of the Company and, as such, varies with accounts receivable, and to
+a lesser degree, the inventory of the Company. As of December 31, 2001, the
+Company had total borrowing capacity of $5.5 million on its line of credit, of
+which $2.9 million was borrowed, leaving a net availability of $2.6 million.
+
+ In the short term, the Company believes that the aforementioned capital
+will be sufficient to fund the Company's planned operations through 2002. While
+there can be no assurance that the available capital will be sufficient to fund
+the future operations of the Company beyond 2002, the Company believes that
+future profitable operations, as well as access to additional capital through
+debt or equity financings, will be the primary means for funding the operations
+of the Company for the long term.
+
+Impact of Inflation and Changing Prices
+
+ The impact of inflation and changing prices on the Company has been
+primarily limited to salary, laboratory and operating supplies and rent
+increases and has historically not been material to the Company's operations. In
+the future, the Company may not be able to increase the prices of laboratory
+testing by an amount sufficient to cover the cost of inflation, although the
+Company is responding to these concerns by refocusing the laboratory operations
+towards higher margin testing (including clinical and pharmaceutical trials) as
+well as emphasizing the marketing, sales and operations of the Product Sales
+business.
+
+Impact of New Accounting Standards
+
+ In June 2001, the Financial Accounting Standards Board (FASB) issued SFAS
+No. 141, "Business Combinations." This Statement supersedes APB Opinion No. 16,
+"Business Combinations" and SFAS No. 38. "Accounting for Preacquisition
+Contingencies of Purchased Enterprises" and eliminates the pooling method of
+accounting for business acquisitions. This Statement requires all business
+combinations to be accounted for using the purchase method for all transactions
+initiated after June 30, 2001.
+
+ In June 2001, the Financial Accounting Standards Board (FASB) issued
+SFAS No. 142, "Goodwill and Other Intangible Assets." This statement applies to
+intangibles and goodwill acquired after June 30, 2001, as well as goodwill and
+intangibles previously acquired. Under this statement, goodwill as well as other
+intangibles determined to have an infinite life will no longer be amortized;
+however, these assets will be reviewed for impairment on a periodic basis. SFAS
+No. 142 also includes provisions for the reclassification of certain existing
+recognized intangibles as goodwill, reclassification of certain intangibles out
+of previously reported goodwill and the identification of reporting units for
+purposes of assessing potential future impairments of goodwill. SFAS No. 142 is
+effective for the Company on January 1, 2002. In accordance with this statement,
+the Company is not required to complete the transitional goodwill impairment
+test until June 30, 2002. The Company is currently assessing but has not yet
+determined the impact of SFAS No. 142 on its financial position and results of
+operations. As of December 31, 2001 the Company had net goodwill and other
+intangible assets of approximately $15.2 million and $2.6 million, respectively.
+Goodwill amortization expense was approximately $0.8 million for each of the
+years ended December 31, 2001, 2000 and 1999. Amortization expense of other
+intangible assets was approximately $0.3 million, $0.1 million and $0.1 million
+for the years ended December 31, 2001, 2000 and 1999 respectively.
+
+ In June 2001, the FASB issued SFAS No. 143, "Accounting for Asset
+Retirement Obligations." SFAS No. 143 addresses financial accounting and
+reporting for obligations associated with the retirement of long-lived assets
+and the associated asset retirement costs. SFAS No. 143 is effective for the
+Company on January 1, 2003. The Company is currently in the process of
+evaluating the impact of the adoption of SFAS No. 143.
+<PAGE>
+
+ In August 2001, the FASB issued SFAS No. 144, "Accounting for Impairment or
+Disposal of Long-Lived Assets." SFAS No. 144 supersedes SFAS No. 121,
+"Accounting for the Impairment of Long-Lived Assets and for Long-Lived Assets to
+Be Disposed Of" and addresses the financial accounting and reporting for the
+impairment or disposal of long-lived assets. SFAS No. 144 is effective for the
+Company on January 1, 2002. The Company is currently in the process of
+evaluating the impact of the adoption of SFAS No. 144.
+
+<PAGE

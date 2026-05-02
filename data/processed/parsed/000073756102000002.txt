@@ -1,0 +1,477 @@
+and Analysis of Financial Condition and Results
+of Operations
+
+The following discussion and analysis provides information which the Company
+believes is relevant to an assessment and understanding of the Company's
+consolidated results of operations and financial condition. This discussion
+should be read in conjunction with the consolidated financial statements and
+notes thereto.
+
+Basis of Presentation
+
+The consolidated financial statements of the Company include the accounts of
+UCI, UCI-SC, UCI-GA and the P.A.'s. Such consolidation is required under
+Emerging Issues Task Force (EITF) 97-2 as a consequence of the nominee
+shareholder arrangement that exists with respect to each of the P.A.'s. In each
+case, the nominee (and sole) shareholder of the P.A. has entered into an
+agreement with UCI-SC or UCI-GA, as applicable, which satisfies the requirements
+set forth in footnote 1 of EITF 97-2. Under the agreement, UCI-SC or UCI-GA, as
+applicable, in its sole discretion, can effect a change in the nominee
+shareholder at any time for a payment of $100 from the new nominee shareholder
+to the old nominee shareholder, with no limits placed on the identity of any new
+nominee shareholder and no adverse impact resulting to any of UCI-SC, UCI-GA or
+the P.A. resulting from such change.
+
+In addition to the nominee shareholder arrangements described above, each of
+UCI-SC and UCI-GA have entered into Administrative Service Agreements with the
+P.A.'s. (See Item 1. Business - "Organizational Structure" for a detailed
+description of the Administrative Service Agreements.) As a consequence of the
+nominee shareholder arrangements and the Administrative Service Agreements, the
+Company has a long-term financial interest in the affiliated practices of the
+P.A.'s. According to EITF 97-2, the application of FASB Statement No. 94
+(Consolidation of All Majority-Owned Subsidiaries), and APB No. 16 (Business
+Combinations), the Company must consolidate the results of the affiliated
+practices with those of the Company.
+
+The P.A.'s enter into employment agreements with physicians for terms ranging
+from one to five years. All employment agreements have clauses that allow for
+early termination of the agreement if certain events occur such as the loss of a
+medical license. Over 79% of the physicians employed by the P.A.'s are paid on
+an hourly basis for time scheduled and worked at the medical centers. The other
+physicians are salaried. Approximately 25 of the physicians have incentive
+compensation arrangements; however, no amounts were accrued or paid during the
+Company's three prior fiscal years that were significant. Any incentive
+compensation is based upon a percentage of non-ancillary collectible charges for
+services performed by a provider. Percentages range from 3% to 17% and vary by
+individual employment contract. As of September 30, 2001 and 2000, the P.A.'s
+employed 109 and 106 medical providers, respectively.
+
+The net assets of the P.A.'s are not material for any period presented, and
+intercompany accounts and transactions have been eliminated. For the fiscal year
+ended September 30, 2001, the Company has shown a decrease of approximately 5%
+in revenues. This decrease is a direct result of actions taken by management to
+close unprofitable centers in the Atlanta region.
+
+The Company does not allocate all indirect costs incurred at the corporate
+offices to the Centers on a center-by-center basis. Therefore, all discussions
+below are intended to be in the aggregate for the Company as a whole.
+
+Chapter 11 Bankruptcy Filing
+
+On November 2, 2001, the Company (the "Debtors") filed a voluntary petition for
+reorganization under Chapter 11 of the United States Bankruptcy Code (the
+"Bankruptcy Code") in the United States Bankruptcy Court for the District of
+South Carolina (the "Bankruptcy Court"). The Debtors remain in possession of
+their properties and assets and management of the Company continues to operate
+the business of the Debtors as a debtor-in-possession. As a
+debtor-in-possession, the Company is authorized to continue to operate its
+businesses, but may not engage in transactions outside the ordinary course of
+business without the approval, after notice and an opportunity for a hearing, of
+the Bankruptcy Court. Pursuant to the automatic stay provisions of the
+Bankruptcy Code, all actions to collect pre-petition indebtedness of the
+Debtors, as well as most other pending litigation against the Debtors are
+currently stayed. In addition, as debtor-in-possession, the Debtors have the
+right, subject to the approval of the Bankruptcy Court and certain other
+conditions, to assume or reject any pre-petition executory contracts or
+unexpired leases.
+
+The Bankruptcy Court has approved payment of certain pre-petition liabilities,
+such as employee wages and benefits, and settlement of certain trade payable
+claims. In addition, the Bankruptcy Court has allowed for the retention of legal
+and financial professionals to advise in the bankruptcy proceedings.
+
+The Company presently intends to reorganize the Company's business and
+restructure the Company's liabilities through a plan of reorganization to be
+filed with the Bankruptcy Court. In connection with the development of a plan or
+plans of reorganization alternatives, the Company will evaluate any and all
+proposals to maximize the value of the Debtors.
+
+Comparison of Results of Operations for Fiscal Years 2001, 2000, and 1999
+-------------------------------------------------------------------------
+
+Revenues of $38,117,000 in fiscal year 2001 reflected a decrease of
+approximately 5% from the fiscal year 2000 revenues of $39,953,000 which
+reflected a decrease of 1% from the amount reported for fiscal year 1999. The
+following reflects revenue trends from fiscal year 1997 through fiscal year
+2001:
+
+ For the year ended September 30, (in thousands)
+<TABLE>
+<S> <C> <C> <C> <C> <C>
+
+ 2001 2000 1999 1998 1997
+ ----------- ---------- ---------- ----------- -----------
+
+ $38,117 $39,953 $40,470 $37,566
+Revenues $27,925
+ 35,546 38,127 35,975 39,094
+Operating Costs 26,466
+ 2,572 1,827 4,495 (1,528)
+Operating Margin 1,459
+</TABLE>
+
+The decrease in revenue for fiscal year 2001 is attributed primarily to the
+shutdown of the Atlanta centers to be discussed later. Revenues for the Atlanta
+centers declined by $1,059,000 from $2,648,000 for fiscal year 1999 to
+$1,589,000 for fiscal year 2000 and was zero ($0.00) in fiscal year 2001.
+
+The number of centers operated by the Company increased from 34 to 36 from
+September 30, 2000 to September 30, 2001. The additions were two physical
+therapy offices (one in the Greenville-Spartanburg region and one in the
+Charleston region).
+
+The number of centers operated by the Company decreased from 40 to 34 from
+September 30, 1999 to September 30, 2000. Of the six centers closed, five were
+in the Atlanta region and the sixth was a physical therapy site in the
+Greenville-Spartanburg region which was opened for only a short period in the
+fourth quarter of fiscal year 1999 and the first quarter of fiscal year 2000.
+
+During the past three fiscal years, the Company has continued its services
+provided to members of HMOs. In these arrangements, the Company, through the
+P.A., acts as the designated primary caregiver for members of HMOs who have
+selected one of the Company's centers or providers as their primary care
+provider. In fiscal year 1994, the Company began participating in an HMO
+operated by Companion HealthCare Corporation ("CHC"), a wholly owned subsidiary
+of Blue Cross Blue Shield of South Carolina ("BCBS"). BCBS, through CHC, is a
+primary stockholder of UCI. Including its arrangement with CHC, the Company now
+participates in four HMOs and is the primary care "gatekeeper" for more than
+18,000 lives in fiscal years 2001, 2000, and 1999. As of September 30, 2001, all
+of these HMOs use a discounted fee-for-service basis for payment. HMOs do not,
+at this time, have a significant penetration into the South Carolina market; the
+Company is not certain if there will be growth in the market share of HMOs in
+the areas in which it operates clinics. In fiscal year 1999, there was only one
+HMO that paid by capitated revenue which was approximately $1,400,000 or 3% of
+total revenue. During fiscal years 2000 and 2001, none of the four HMOs paid via
+a capitation arrangement.
+
+Sustained revenues in fiscal years 2001, 2000 and 1999 also reflect the
+Company's heightened focus on occupational medicine and industrial health
+services (these revenues are referred to as "employer paid" and "workers
+compensation" on the table below). Focused marketing materials, including
+quarterly newsletters for employers, were developed to spotlight the Company's
+services for industry. Approximately 22% of the Company's total revenue was
+derived from these occupational medicine services in fiscal year 2001, 25% in
+fiscal year 2000 and 24.5% in fiscal year 1999. The Company also entered into an
+agreement with Companion Property and Casualty Insurance Company ("CP&C")
+wherein the Company acts as the primary care provider for injured workers of
+firms insured through CP&C. CP&C is a primary stockholder of UCI.
+
+Patient encounters were 472,000 in fiscal year 2001, 504,000 in fiscal year 2000
+and 509,000 in fiscal year 1999. The small decrease in fiscal year 2000 is due
+to the closure of the Atlanta centers effective June 30, 2000. Patient
+encounters in the Atlanta centers were 21,000 in fiscal year 2000 as compared to
+32,000 in fiscal year 1999 and were zero (0) in fiscal year 2001.
+
+No new significant competition entered the Company's market during fiscal years
+2001, 2000 or 1999.
+
+The improvement in the operating margin during fiscal year 2001 was due to the
+elimination of the Atlanta operations during fiscal year 2000.
+
+The operating margin decreased to $1,827,000 in fiscal year 2000 from $4,495,000
+in fiscal year 1999 partially due to the poor performance of the Atlanta centers
+for the first nine months of the fiscal year until their closure on June 30,
+2000. For the nine months ending June 30, 2000, the Atlanta centers had an
+operating deficit of approximately $1,143,000 as compared to an operating
+deficit of approximately $730,000 for the twelve months of fiscal year 1999.
+Approximately $400,000 of the decline in the operating deficit from fiscal year
+1999 to fiscal year 2000 was attributable to the two Knoxville centers, one of
+which moved to a new location in early fiscal year 2000. This move resulted in a
+severe reduction of business for approximately six months which began to improve
+over the last quarter of fiscal year 2000. The remainder of the decrease was
+primarily due to continuing costs pressures of managed care and due to an
+increase of $519,000 in bad debt expense in fiscal year 2000 as compared to
+fiscal year 1999, and a $379,000 change in estimate in fiscal year 1999 reducing
+lease expense, as discussed in Note 14 to the financial statements.
+
+An operating margin of $4,495,000 was achieved in fiscal year 1999. This
+significant improvement over fiscal year 1998 was the result of a decisive cost
+reduction plan put into place by management during the fourth quarter of fiscal
+year 1998 that included staff reductions and the closure or divestiture of
+several unprofitable centers. For the six centers that were closed or divested
+of during fiscal year 1998 the combined losses were approximately $775,000
+during fiscal year 1998. Salary savings from the staff reductions are estimated
+to be approximately $1,000,000 at the corporate level and between $3,000,000 and
+$4,000,000 at the remaining centers. The following table breaks out the
+Company's revenue and patient visits by revenue source for fiscal years 2001,
+2000, and 1999.
+<TABLE>
+<S> <C> <C> <C> <C> <C> <C> <C>
+
+ Percent of Patient Percent of Revenue
+ Visits
+ ------------------------- --------------------------
+ 2001 2000 1999 2001 2000 1999
+ ------- ------- --------- -------- -------- --------
+ 19 17 18 17 18
+ Patient Pay 18
+ 12 14 7 8
+ Employer Paid 15 9
+ 12 12 12 14 9
+ HMO 11
+ 10 8 15 17
+ Workers Compensation 8 16
+ 8 7 6 6
+ Medicare/Medicaid 7 6
+ 35 36 38 30
+ Managed Care Insurance 34 31
+ 4 6 7 5 7 11
+ Other (Commercial Indemnity, Champus, etc.)
+</TABLE>
+
+As managed care plans attempt to cut costs, they typically increase the
+administrative burden of providers such as the Company by requiring referral
+approvals and by requesting hard copies of medical records before they will pay
+claims. The number of patients at the Company's Centers that are covered by a
+managed care plan versus a traditional indemnity plan continues to grow.
+Management expects this trend to continue.
+
+Bad debt expense, a component of operating costs, was approximately $1,495,000
+(or approximately 4% of revenue) for fiscal year 2001, $2,808,000 (or
+approximately 7% of revenue) for fiscal year 2000 and $2,289,000 (or
+approximately 6% of revenue) for fiscal year 1999. The expenses from bad debts
+were higher in fiscal years 1999 and 2000 due to the difficulties encountered in
+the collection of amounts associated with patients seen at the centers acquired
+during fiscal year 1998 (Georgia centers) which were closed in fiscal year 2000.
+The collection percentage for the established South Carolina centers has
+remained constant at approximately 96% for the past 5 to 6 years.
+
+The Company continually evaluates the operations of its physician practice
+centers and assesses the centers for impairment when certain indicators of
+impairment are present. At September 30, 2001, three centers were, upon review,
+deemed to have impaired goodwill. One center in the Columbia region and one
+center in the Greenville-Spartanburg region had decreased profitability during
+fiscal year 2001 due to changes in the assigned physicians. Even though
+management has made changes to the staffing and marketing focus on these two
+centers and now believes they are on the track to meeting expected goals and
+profitability in the next few months; the goodwill was considered impaired at
+September 30, 2001 and was, therefore, written off. Additionally, as of
+September 30, 2001, a decision had been made to combine the two Knoxville
+locations into one and, therefore, the goodwill associated with the closed
+locations was deemed to be impaired and, therefore, written off. In May 2000,
+the Company announced its intention to close its Georgia physician practice
+centers effective June 30, 2000. The performance of these centers, which were
+originally acquired in May 1998, did not meet the expectations of the Company
+during fiscal year 2000 and the Company was no longer committed to the Georgia
+market. The Company sold the property and equipment at these centers for an
+amount approximating the net book value of the fixed assets or transferred the
+property and equipment to other Company locations. The long-lived assets and
+related goodwill for these centers was assessed for impairment under a held for
+use model as of March 31, 2000. As a result of the decision to close these
+centers coupled with the fact that the remaining projected undiscounted cash
+flows were less than the carrying value of the long-lived assets and goodwill
+for these centers, the Company recorded an impairment in the quarter ended March
+31, 2000 of approximately $3,567,000 to reduce the goodwill to its fair value.
+This is a component of the line item Realignment and Impairment Charges.
+
+Additionally, the Company incurred additional costs associated with the decision
+to close the Georgia centers during the third and fourth quarters of fiscal year
+2000. These costs relate primarily to exiting certain lease obligations. The
+estimated lease obligations, net of estimated sub-lease income, are expected to
+be approximately $242,000 at September 30, 2000. The total costs related to
+lease obligations and employee contractual liabilities for the Atlanta centers
+closed June 30, 2000 was $561,000 which is the other component of the line item
+Realignment and Impairment Charges.
+
+When the Company acquires medical practices, the excess of cost over fair value
+of assets acquired (goodwill) is recorded as an asset and is amortized on a
+straight-line basis over 15 years. Subsequent to an acquisition, the Company
+periodically evaluates whether later events and circumstances have occurred that
+indicate that the remaining balance of goodwill may not be recoverable. When
+external factors indicate that goodwill should be evaluated for possible
+impairment, the Company uses an estimate of the related center's undiscounted
+cash flows to determine if an impairment exists. If an impairment exists, it is
+measured based on the difference between the carrying amount and fair value, for
+which discounted cash flows are used. Examples of external factors that are
+considered in evaluation for possible impairment include significant changes in
+the third party payor reimbursement rates and unusual turnover or licensure
+difficulties of clinical staff at a center.
+
+During the second quarter of fiscal year 2000 and the fourth quarter of fiscal
+year 2001, the above analysis resulted in an impairment charge of approximately
+$3,567,000 and $753,000 to goodwill for centers that had been closed (i.e.,
+Atlanta region) in fiscal year 2000 and for three underperforming centers in
+fiscal year 2001. This is a component of the line item Realignment and
+Impairment Charges.
+
+It should be noted that the Company also has launched medical centers as
+start-up operations, which have contributed in fiscal year 1999 to the Company's
+overall cash used in operations. Costs of starting up new centers are expensed
+as incurred.
+
+Depreciation and amortization expense decreased to $1,544,000 in fiscal year
+2000, down from $1,720,000 in fiscal year 2000 and $1,954,000 in fiscal year
+1999. This decrease reflects lower amortization and depreciation resulting from
+the closure of the Atlanta region. Net interest expense decreased to $1,699,000
+in fiscal year 2001 from $1,995,000 in fiscal year 2000 as a result of the
+overall decrease in long-term debt due to principal pay downs and due to a
+continuing decline in interest rates over the year. Net interest expense
+increased to $1,995,000 in fiscal year 2000 from $1,472,000 in fiscal year 1999
+primarily as a result of the interest costs associated with the indebtedness
+incurred in the leasehold improvements, the operating line of credit the Company
+has with its primary bank, increase in bank fees and interest penalties, and
+debt associated with the acquisitions noted above.
+
+The Company evaluates the valuation allowance regarding deferred tax assets on a
+more likely than not basis. In determining that it was more likely than not that
+the recorded deferred tax asset would be not realized, management of the Company
+considered the following:
+
+o Recent historical operating results.
+
+o Lack of sufficient liquidity to support operations.
+
+o The budgets and forecasts that management and the Board of
+ Directors had adopted for the next five fiscal years including
+ plans for expansion.
+
+o The ability to utilize NOL's prior to their expiration.
+
+o The potential limitation of NOL utilization in the event of a change in
+ownership.
+
+o The generation of future taxable income in excess of income
+ reported on the consolidated financial statements.
+
+A valuation allowance of $7.2 million and $7.6 million at September 30, 2001 and
+2000, respectively, remained necessary in the judgement of management because
+the factors noted above (i.e. forecasts) did not support the utilization of less
+than a full valuation allowance. The lack of consistent earnings and liquidity
+concerns, discussed above, was considered in the decision to maintain a 100%
+valuation allowance of $7,184,000 at September 30, 2001, leaving no tax related
+asset recorded.
+
+Going Concern Matters
+
+The accompanying financial statements have been prepared on a going concern
+basis, which contemplates the realization of assets and the satisfaction of
+liabilities in the normal course of business. As shown in the financial
+statements, the Company has a working capital deficiency and an accumulated
+deficit. Ultimately, the Company's viability as a going concern is dependent
+upon its ability to continue to generate positive cash flows from operations,
+maintain adequate working capital and obtain satisfactory long-term financing.
+
+The financial statements do not include any adjustments relating to the
+recoverability and classification of liabilities that might be necessary should
+the Company be unable to continue as a going concern. The Company plans include
+the following, although it is not possible to predict the ultimate outcome of
+the Company's efforts.
+
+The Chapter 11 Bankruptcy Reorganization Plan filed by the Company and discussed
+earlier should allow the restructuring of long-term liabilities on a plan that
+will greatly improve the Company's cash flow. The closure of the Atlanta
+centers, which were unprofitable, had an immediate positive effect on the
+Company in the fourth quarter of fiscal year 2000. This improvement is expected
+to continue into fiscal year 2002 and beyond. However, there can be no
+assurances that such improvement will occur.
+
+<PAGE>
+
+Results of Operations for the Three Months Ended September 30, 2001 as Compared
+to the Three Months Ended September 30, 2000:
+
+The following summarizes the fiscal 2001 fourth quarter results of operations as
+compared to the prior year:
+
+<TABLE>
+<S> <C> <C> <C>
+ For the Three Months Ended
+ (in 000's)
+
+ 09/30/2001 09/30/2000
+ ------------- -----------
+ $9,195 $9,171
+ Revenues
+ 9,272 8,378
+ Operating Costs
+ (77) 793
+ Operating Margin
+
+ 12 16
+ General and Administrative Expenses
+ Realignment and Impairment Charges 753 70
+ 389 387
+ Depreciation and Amortization
+ 532 622
+ Interest Expense, net
+ (1,763) (302)
+ Net Income (loss)
+</TABLE>
+
+Revenues of $9,195,000 for the quarter ending September 30, 2001 remained
+consistent with those of the fourth quarter of fiscal year 2000.
+
+Patient encounters decreased to 110,000 in the fourth quarter of fiscal year
+2001 from 117,000 in the fourth quarter of fiscal year 2000 due to the reduction
+in the number of centers as discussed above.
+
+The decrease in interest expense is due to the reduction in long-term debt due
+to regular principal payments and to the steady decline in interest rates during
+the year.
+
+Financial Condition at September 30, 2001 and September 30, 2000
+
+Cash and cash equivalents decreased by $204,000 from September 30, 2000 to
+September 30, 2001.
+
+Accounts receivable decreased from $6,959,000 at September 30, 2000 to
+$6,297,000 at September 30, 2001. This decrease was attributable to increased
+focus on collections at the Corporate billing department that involved a
+reorganization of functional duties and slightly lower revenues in fiscal year
+2001 as compared to fiscal year 2000. As the payor mix of the Company continues
+to change, the billing and collection functions will need to be continually
+modified and updated. The decrease in the number of centers in operation and the
+small decrease in revenue also result in a lower accounts receivable balance.
+
+The decreases in property and equipment and in the excess of cost over fair
+value of assets acquired ("goodwill") are both the result of regular
+depreciation and amortization charges and the write-off of the goodwill
+discussed above. Depreciation charges were somewhat offset on the Property and
+Equipment balance by the net equipment purchases of approximately $744,000.
+
+The reductions in long-term debt from September 30, 2000 to September 30, 2001
+were the result of the regularly scheduled principal payments. Management
+believes that it will be able to fund debt service requirements for the
+foreseeable future out of cash generated through operations.
+
+<PAGE>
+
+Liquidity and Capital Resources
+
+The Company requires capital principally to fund growth (acquire new Centers),
+for working capital needs and for the retirement of indebtedness. The Company's
+capital requirements and working capital needs have been funded through a
+combination of external financing (including bank debt and proceeds from the
+sale of common stock to CHC and CP&C), and credit extended by suppliers.
+
+As of September 30, 2001, the Company had no material commitments for capital
+expenditures or for acquisition or start-ups.
+
+Operating activities generated $2,716,000 of cash during fiscal year 2001,
+compared to $1,048,000 during fiscal year 2000. The improvement from fiscal year
+2000 to fiscal year 2001 was mainly due to an improvement in the overall
+operations of the Company, much of which was the result of cost reductions that
+have remained in place throughout 2001, which shows up as the increase in
+operating margin on the income statement.
+
+Investing activities used $727,000 of cash during fiscal year 2001 and $701,000
+used in fiscal year 2000 as a result of normal equipment upgrades in existing
+centers.
+
+Approximately $2,193,000 of cash was used by the Company for financing
+activities in fiscal year 2001 to pay down the Line of Credit and a temporary
+year-end bank overdraft. Approximately $2,467,000 of cash was used during fiscal
+year 1999 to reduce debt. This was made possible by the positive performance of
+the Company and by the discontinuation of growth through acquisitions during the
+year. Liquidity in fiscal year 1999 was adequate to meet the operating needs of
+the Company; therefore, no financing sources of cash were required. There is no
+assurance that any additional financing, if required, will be available on terms
+acceptable to the Company.
+
+Overall, the Company's current liabilities exceed its current assets at
+September 30, 2001 and 2000 by $6,245,000 and $6,230,000. The Company intends to
+renegotiate or renew all of its debt instruments during fiscal year 2002 and
+does not expect to pay them off during fiscal year 2002 as part of its Chapter
+11 Reorganization Plan. There can be no assurances that these instruments will
+be reinstated or renewed. There can be no assurance that sources of cash will
+exceed uses of cash.

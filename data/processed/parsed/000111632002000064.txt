@@ -1,0 +1,721 @@
+AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS
+
+Overview
+
+ The Company participates in five reportable
+business segments of the HVACR industry. The first segment is the North American
+residential market, in which LII manufactures and markets a full line of
+heating, air conditioning and hearth products for the residential replacement
+and new construction markets in the United States and Canada. The second segment
+is the North American retail market which includes sales and installation of,
+and maintenance and repair services for, HVACR equipment by LII-owned service
+centers in the United States and Canada. The third segment is the global
+commercial air conditioning market, in which LII manufactures and sells rooftop
+products and applied systems for commercial applications. The fourth segment is
+the global commercial
+
+12
+
+refrigeration market, which consists of unit coolers, condensing units and other
+commercial refrigeration products. The fifth segment is the heat transfer
+market, in which LII designs, manufactures and sells evaporator and condenser
+coils, copper tubing and related manufacturing equipment to original equipment
+manufacturers and other specialty purchasers on a global basis.
+
+ LII sells its products to numerous types of customers, including
+distributors, installing dealers, property owners, national accounts and
+original equipment manufacturers. The demand for LII's products is influenced by
+national and regional economic and demographic factors, such as interest rates,
+the availability of financing, regional population and employment trends, new
+construction and general economic conditions, especially consumer confidence. In
+addition to economic cycles, demand for LII's products is seasonal and dependent
+on the weather. Hotter than normal summers generate strong demand for
+replacement air conditioning and refrigeration products and colder than normal
+winters have the same effect on heating products. Conversely, cooler than normal
+summers and warmer than normal winters depress sales of HVACR products.
+
+ The principal components of cost of goods sold are labor, raw materials,
+component costs, factory overhead and estimated costs of warranty expense. The
+principal raw materials used in LII's manufacturing processes are copper,
+aluminum and steel. In instances where LII is unable to pass on to its customers
+increases in the costs of copper and aluminum, LII enters into forward contracts
+for the purchase of those materials. LII attempts to minimize the risk of price
+fluctuations in key components by entering into contracts, typically at the
+beginning of the year, which generally provide for fixed prices for its needs
+throughout the year. These hedging strategies enable LII to establish product
+prices for the entire model year while minimizing the impact of price increases
+of components and raw materials on its margins. Warranty expense is estimated
+based on historical trends and other factors.
+
+ LII acquired James N. Kirby Pty. Ltd. ("Kirby"), an Australian company that
+participates in the commercial refrigeration and heat transfer markets in
+Australia, in June 1999 for approximately $65 million in cash, common stock and
+seller financing, plus a contingent consideraton based on the future value of LII stock. In addition, LII assumed approximately $20.5 million of
+Kirby's debt.
+
+ LII purchased the HVAC related assets of The Ducane Company, Inc. in
+October 1999 for approximately $53 million in cash. This purchase added to the
+brands offered in the North American residential segment.
+
+ On January 21, 2000, LII completed the acquisition of Service Experts Inc.,
+an HVAC company comprised of HVAC retail businesses across the United States,
+for approximately $307 million, including 12.2 million shares of LII common
+stock and the assumption of $175 million of debt. The acquisition added an
+additional 120 service centers to the U.S. retail network. As these centers have
+been integrated into the retail operation with the 104 centers acquired by LII
+since September 1, 1998, operating performance has not reached expected levels.
+During the second quarter of 2001, the Company initiated a restructuring plan
+which covered selling, closing or merging 38 Company-owned dealer service
+centers. During the fourth quarter of 2001, a new President and Chief Operating
+Officer was appointed and management was significantly restructured to further
+improve operating efficiency and the Company's competitive position in the
+market.
+
+ The Company recorded pre-tax restructuring charges in 2001 totaling
+$73.2 million. These
+restructuring charges related to closures of manufacturing plants in Toronto,
+Ontario, Canada and Brookvale, NSW, Australia scheduled to occur in the first quarter of 2002. Charges were also recorded for
+closing and consolidating a distribution facility in the U.S., for office
+consolidation of the Company's corporate headquarters, for elimination of excess
+manufacturing capacity in Europe and for final close-down costs for its Mexico
+sales operation, as they exceeded original estimates. These
+restructuring charges also included the closure of certain retail centers in the third
+quarter of 2001 and
+the merger of certain other retail centers in 2001 and 2002. These charges are discussed
+further in the Results of Operations below.
+
+ LII's fiscal year ends on December 31 of each year and its fiscal quarters
+are each comprised of 13 weeks. For convenience, throughout this Management's
+Discussion and Analysis of Financial Condition and Results of Operations, the 13
+week periods comprising each fiscal quarter are denoted by the last day of the
+calendar quarter.
+
+13
+
+Results of Operations
+
+ The following table sets forth, as a percentage of net sales, LII's
+statement of income data for the years ended December 31, 2001, 2000 and 1999:
+
+Year Ended December 31,
+ -----------------------
+ 2001 2000 1999
+
+ ---- ---- ----
+Net sales.................................... 100.0 % 100.0% 100.0%
+Cost of goods sold........................... 70.2 68.6 68.5
+ ----- ---- -----
+ Gross profit.............................. 29.8 31.4 31.5
+Selling, general and administrative expense.. 27.5 26.3 24.9
+Restructurings............................... 2.3 0.2 --
+ ----- ---- -----
+ (Loss) income from operations............. (0.0) 4.9 6.6
+Interest expense, net........................ 1.4 1.7 1.4
+Other........................................ 0.0 0.1 0.0
+Minority interest............................ 0.0 0.0 0.0
+ ----- ---- -----
+ (Loss) income before income taxes......... (1.4) 3.1 5.2
+(Benefit from) provision for income taxes... (0.0) 1.3 2.1
+ ----- ---- ---
+ Net (loss) income......................... (1.4)% 1.8% 3.1%
+ ===== ===== ======
+
+ The following table sets forth net sales by business segment and geographic
+market (dollars in millions):
+
+Years Ended December 31,
+ ---------------------------------------------------------------
+ 2001 2000 1999
+ ---- ---- ----
+ Amount % Amount % Amount %
+
+ ------ - ------ - ------ -
+Business Segment:
+
+North American residential $ 1,201.1 38.5% $ 1,221.8 37.6% $ 1,174.2 49.7%
+North American retail 1,002.6 32.1 1,053.2 32.4 218.1 9.2
+Commercial air conditioning 470.0 15.1 469.2 14.4 452.8 19.2
+Commercial refrigeration 333.5 10.7 358.3 11.0 327.3 13.9
+Heat transfer 215.1 6.9 246.8 7.6 220.0 9.3
+Eliminations (102.6) (3.3) (101.9) (3.0) (30.7) (1.3)
+ ---------- ----- -------- ----- -------- -----
+ Total net sales $ 3,119.7 100.0% $ 3,247.4 100.0% $ 2,361.7 100.0%
+ ========== ===== ======== ===== ======== =====
+Geographic Market:
+U.S. $ 2,454.6 78.7% $ 2,559.8 78.8% $ 1,730.4 73.3%
+International 665.1 21.3 687.6 21.2 631.3 26.7
+ ---------- ----- -------- ----- -------- -----
+ Total net sales $ 3,119.7 100.0% $ 3,247.4 100.0% $ 2,361.7 100.0%
+ ========== ===== ======== ===== ======== =====
+
+Year Ended December 31, 2001 Compared to Year Ended December 31, 2000
+
+Net Sales
+
+Net sales decreased $127.7 million, or 3.9%, to $3,119.7 million for the
+year ended December 31, 2001 from $3,247.4 million for the year ended December
+31, 2000. Foreign currency translation is responsible for 31% of the decrease in
+sales. The balance of the sales decrease is a result of the closure of retail
+centers and soft economic conditions.
+
+ Net sales in the North American residential segment were $1,201.1 million
+for the year ended December 31, 2001, a decrease of $20.7 million, or 1.7%, from
+$1,221.8 million for the year ended December 31, 2000. A weaker economic climate
+in 2001, which accelerated after the events of September 11, resulted in a drop
+in discretionary spending by consumers, who continue to defer investment in new
+heating and cooling equipment. As a result, replacements or upgrades of existing
+home comfort systems were often deferred.
+
+ Net sales in the North American retail segment were $1,002.6 million for
+the year ended December 31, 2001, a decrease of $50.6 million from $1,053.2
+million for the year ended December 31, 2000. The decrease is attributable to
+dealer service centers that were sold or closed during 2001 and by the economic
+issues previously mentioned in the North American residential segment. On a
+same-store basis, sales were up 0.4% when adjusted for service centers that were
+sold or closed.
+
+ Commercial air conditioning net sales
+increased $0.8 million, or 0.2%, to $470.0 million for the year ended December
+31, 2001 compared to the year ended December 31, 2000. The sales increase was
+1.3% after adjusting for the impact of foreign currency exchange. Although
+market conditions continued to soften in the fourth quarter
+
+14
+
+ of 2001, we continue to see
+market share growth as a result of strong performance from national accounts and
+commercial sales districts. Europe experienced double digit commercial air
+conditioning sales growth over the prior year after adjusting for foreign
+currency exchange movements. The benefits of increased distribution, decreased
+product costs and improved customer service through a unified European marketing
+strategy are being realized.
+
+ Net sales related to the commercial refrigeration segment were $333.5
+million for the year ended December 31, 2001, a decrease of $24.8 million, or
+6.9%, from $358.3 million for the year ended December 31, 2000. Over two-thirds
+of the sales decline is a result of foreign currency exchange. Even though the
+North American refrigeration market in which we participate is estimated to be
+approximately 15% below year 2000 levels, market share gains have been made
+through targeted account efforts and customer service levels provided.
+
+ Heat transfer segment revenues declined $31.7 million, or 12.8%, to $215.1
+million for the year ended December 31, 2001 compared to the year ended December
+31, 2000. Compared to the same period last year, sales declined 10.7% after
+adjusting for the impact of foreign currency exchange. The heat transfer segment
+is the segment most affected by the economic downturn. Heat transfer products
+are sold to customers in the recreational vehicle, telecommunications, transport
+refrigeration and automotive industries. These industries have been impacted by
+the economic downturn to a greater degree than the general business community.
+
+Gross Profit
+
+ Gross profit was $929.7 million for the year ended December 31, 2001,
+compared to $1,019.3 million for the year ended December 31, 2000, a decrease of
+$89.6 million. Gross profit margin was 29.8% for the year ended December 31,
+2001 and 31.4% for the year ended December 31, 2000. Over 55% of the decrease in
+gross profit margin was in the retail segment. Inefficient labor utilization and
+a shift in product mix to lower margin new construction sales were the reasons
+for the retail segment margin decline. The remaining 45% of the decline in gross
+profit margin was primarily a result of increased manufacturing overhead and
+product mix changes including a higher ratio of lower margin parts and supplies.
+A new manufacturing facility in Orangeburg, South Carolina, and the relocation
+of product lines from the manufacturing facility in Bellevue, Ohio to the
+Orangeburg facility were the principal reasons for the higher manufacturing
+overhead.
+
+Selling, General and Administrative Expense
+
+ Selling, general and administrative expenses were $857.2 million for the
+year ended December 31, 2001, an increase of $1.6 million, or 0.2%, from $855.6
+million for the year ended December 31, 2000. Selling, general and
+administrative expenses represented 27.5% and 26.3% of total revenues for the
+twelve months of 2001 and 2000, respectively. Nearly one month's additional
+expense (approximately $11.0 million) was incurred in 2001 as a result of the
+acquisition of Service Experts Inc., completed on January 21, 2000. Similarly,
+an additional $1.5 million in expense resulted from a full twelve months of the
+accounts receivable securitization program. Selling, general and administrative
+expense incurred for accounts receivable securitization is more than offset by
+reduced interest expense. Cost reduction programs, expense control initiatives
+and reductions in personnel; primarily in the retail and heat transfer segments,
+helped offset the increases from the Service Experts Inc. acquisition and asset
+securitization program.
+
+Restructurings
+
+ The Company recorded pre-tax restructuring charges in 2001
+totaling $73.2 million. These charges are shown as part of Operating Expenses in the accompanying Consolidated Statements of Income.
+The restructuring charges are related to closures of manufacturing plants in Toronto, Ontario,
+Canada and Brookvale, NSW, Australia which are scheduled to occur in the first quarter of 2002. Charges were also recorded for closing and consolidating
+a distribution facility in the U.S. for office consolidation of the Company's corporate headquarters,
+for elimination of excess manufacturing capacity in Europe and for final close-down
+costs for its Mexico sales operation, as they exceeded original estimates. These restructuring
+charges also included the closure of certain retail centers in the third quarter of
+2001 and the merger of certain other retail centers in 2001 and 2002.
+
+15
+
+ The restructuring charges are summarized as follows (in thousands):
+
+Asset December 31, 2001
+ 2nd Quarter 2001 Write-Downs, Net Payments Adjustments Reserve Balance
+
+ ---------------- ---------------- -------- ----------- ---------------
+
+Severance and Benefits..... $ 4,800 $ -- $ 2,518 $2,282 $ --
+Asset Write-Downs.......... 21,100 25,400 (1,512) (2,788) --
+Contract Exit Costs........ 12,100 -- 1,606 3,014 7,480
+ -------- --------- ------- ------ ---------
+ Total................... $ 38,000 $ 25,400 $ 2,612 $2,508 $ 7,480
+ ======== ========= ======= ====== =========
+
+Asset December 31, 2001
+ 4th Quarter 2001 Write-Downs, Net Payments Adjustments Reserve Balance
+
+ ---------------- ---------------- -------- ----------- ---------------
+Severance and Benefits..... $ 6,023 $ -- $ 402 $ -- $ 5,621
+Asset Write-Downs.......... 21,591 21,591 -- -- --
+Contract Exit Costs........ 7,559 -- -- -- 7,559
+ -------- --------- ------- ------ ---------
+ Total................... $ 35,173 $ 21,591 $ 402 $ -- $ 13,180
+ ======== ========= ======= ====== =========
+
+ Severance and Benefits includes amounts paid to, or anticipated to be paid
+to, 177 salaried and 536 hourly employees that were either terminated or
+notified of impending termination as of December 31, 2001.
+
+Interest Expense, Net
+
+ Interest expense, net, for the year ended December 31, 2001, decreased to
+$43.1 million from $56.2 million for the year ended December 31, 2000. The
+decreased interest expense was a result of decreased debt levels and lower
+interest rates. At the end of each quarter of 2001, total debt levels have been
+much lower than the comparable quarter of 2000. Strong cash flow generation has
+allowed significant progress in paying down debt. At the end of
+December 2001, total debt was $518 million, $173 million lower than December 31,
+2000.
+
+Other
+
+ Other expense was $0.4 million for the year ended
+ December 31, 2001, a $1.4
+million decline from the same period a year ago. Other expense is primarily
+comprised of currency exchange gains or losses, which relate principally to the
+Company's operations in Canada, Australia, Europe and Brazil. Improvement in
+Canada's currency exchange movement was primarily responsible for the overall
+improvement over prior year.
+
+Provision for Income Taxes
+
+ The benefit from income taxes was $2.0 million for
+the year ended December
+31, 2001 compared to a provision for income taxes of $41.9 million for the year
+ended December 31, 2000. Excluding the tax benefit of $16.6 million as a result
+of the restructuring charges recognized in 2001, the effective tax rate was
+50.6% for the year ended December 31, 2001 and 41.5% for the same period last
+year. This rate differs from the statutory federal rate of 35.0% principally due
+to state and local taxes, non-deductible goodwill expenses, foreign operating
+losses for which no tax benefits have been recognized and foreign taxes at rates
+other than 35%.
+
+Year Ended December 31, 2000 Compared to Year
+Ended December 31, 1999
+
+Net Sales
+
+ Net sales increased $885.7 million, or 37.5%, to $3,247.4 million for the
+year ended December 31, 2000 from $2,361.7 million for the year ended December
+31, 1999.
+
+ Net sales in the North American residential segment were $1,221.8 million
+for the year ended December 31, 2000, an increase of $47.6 million, or 4.1%,
+from $1,174.2 million for the year ended December 31, 1999. Sales from
+acquisitions contributed $51.5 million to the increase in sales for the year.
+The acquisition of Ducane's HVAC product lines was the primary reason for the
+acquisition sales increase.
+
+ LII's traditional North American residential businesses had a decrease in
+sales of $3.9 million, or 0.3%, from the prior year. This decrease was a result
+of unfavorable weather and a decline in sales in the Company's hearth products
+business. Mild weather conditions in key markets for LII negatively impacted
+sales in both the early months of 2000 and especially the third quarter of 2000.
+Over 50% of the Company's North American residential equipment sales are
+concentrated in geographic locations that had a cold summer in 2000. Cooling
+degree days
+
+16
+
+ through August of 2000 were 50% below
+1999 levels in the Northeast region of the United States and 27% below 1999
+levels in the Upper Midwest region of the United States. This unusually cool
+summer reduced the stress on existing air conditioning equipment, which
+depressed equipment sales and reduced demand for profitable add-on air
+conditioning in those markets where air conditioning is a discretionary
+purchase. The Company's hearth products business sales decreased 12.3% as a
+result of declining housing starts and a delay in realizing synergies from the
+individual hearth operations acquired primarily in the third quarter of 1998 and
+first quarter of 1999.
+
+ Net sales in the North American retail segment were $1,053.2 million for
+the year ended December 31, 2000, an increase of $835.1 million from $218.1
+million for the year ended December 31, 1999. This increase was almost entirely
+due to acquisitions.
+
+ Commercial air conditioning net sales increased $16.4 million, or 3.6%, to
+$469.2 million for the year ended December 31, 2000 compared to the year ended
+December 31, 1999. North American sales grew 8.1% over the prior year. This
+growth is primarily a result of two additional commercial sales districts and
+the introduction of the Company's cost effective Value line product.
+International commercial air conditioning sales also grew 8.1% over the prior
+year, when compared in local currencies. Converted to U.S. dollars, however, the
+increase was negated, primarily due to the decrease in the Euro exchange rate
+from the prior year.
+
+ Net sales related to the commercial refrigeration segment were $358.3
+million for the year ended December 31, 2000, an increase of $31.0 million, or
+9.5%, from $327.3 million for the year ended December 31, 1999. Of this
+increase, $27.5 million was due to the acquisition of James N. Kirby Pty. Ltd.
+North American commercial refrigeration sales increased 9.7% due to strong sales
+in the walk-in cooler segment and some large cold storage projects that were
+completed. Europe and Australia, two of the Company's key refrigeration markets,
+had significant decreases in the value of their currency compared to the U.S.
+dollar. Excluding the impact of currency fluctuations and acquisitions,
+international sales grew 4.5%.
+
+ Heat transfer segment revenues increased $26.8 million, or 12.2%, to $246.8
+million for the year ended December 31, 2000 compared to the year ended December
+31, 1999. Of this increase, $22.0 million was due to the acquisitions of James
+N. Kirby Pty. Ltd. and Livernois Engineering Holding Company. The Company's
+traditional businesses increased sales 5.0%, after adjusting for the impact of
+currency exchange.
+
+Gross Profit
+
+ Gross profit was $1,019.3 million for the year ended December 31, 2000,
+compared to $744.3 million for the year ended December 31, 1999, an increase of
+$275.0 million. The majority of this increase is attributable to increased sales
+in 2000 as compared to 1999. Gross profit margin was 31.4% for the year ended
+December 31, 2000 and 31.5% for the year ended December 31, 1999.
+
+Selling, General and Administrative Expense
+
+ Selling, general and administrative expenses
+were $855.6 million for the
+year ended December 31, 2000, an increase of $267.2 million, or 45.4%, from
+$588.4 million for the year ended December 31, 1999. Selling, general and
+administrative expenses represented 26.3% and 24.9% of total revenues for the
+twelve months of 2000 and 1999, respectively. Of the $267.2 million increase,
+$251.7 million, or 94%, was related to increased infrastructure associated with
+acquisitions. The majority of the remaining $15.5 million increase was due to
+fees for an asset securitization program implemented in June of 2000 and
+increased expenses associated with North American retail.
+
+Interest Expense, Net
+
+ Interest expense, net, for the year ended
+December 31, 2000, increased to $56.2 million from $33.1 million for the year
+ended December 31, 1999. The increase in interest expense is attributable to the
+increased use of credit lines and short-term borrowings to fund acquisitions.
+
+Other
+
+ Other expense (income) was $1.8 million for
+the year ended December 31, 2000 and $(0.3) million for the year ended December
+31, 1999. Other expense is primarily comprised of currency exchange gains or
+losses, which relate principally to the Company's operations in Canada,
+Australia and Europe.
+
+17
+
+Provision for Income Taxes
+
+ The provision for income taxes was $41.9 million for the year ended
+December 31, 2000 and $50.1 million for the year ended December 31, 1999. The
+effective tax rate of 41.5% and 40.6% for the years ended December 31, 2000 and
+1999, respectively, differs from the statutory federal rate of 35.0% principally
+due to state and local taxes, non-deductible goodwill expenses and foreign
+operating losses for which no tax benefits have been recognized.
+
+Liquidity and Capital Resources
+
+ During 2001, LII generated $212 million of cash from operations, $167
+million of which was used to reduce debt. In 2000, LII increased its net
+borrowing by $111 million, and in 1999 LII increased its net borrowing by $223
+million. Additionally, approximately $142 million was raised in 1999 from an
+initial public offering of common stock. The cash raised through borrowing and
+sale of capital stock in 2000 and 1999 was used primarily to acquire new
+businesses. These acquisitions required $247 million of cash in 2000 and $334
+million in 1999. Cash used to fund acquisitions in 2001 amounted to just $19
+million and this amount consisted primarily of contingent payment considerations
+on prior Retail acquisitions and similar contingent consideration for the Kirby
+company acquisition.
+
+ The cash provided by operating activities, $212 million in 2001, came from
+cash income of $110 million and working capital and other reductions of $102
+million. Purchases of property, plant and equipment in 2001 of $17 million
+consisted primarily of expenditures for production equipment and operating
+system software enhancements and upgrades.
+
+ At December 31, 2001, LII had outstanding long-term debt obligations
+totaling $494 million, which was down from $659 million at December 31, 2000.
+The amount outstanding at December 31, 2001 consisted primarily of six issues of
+notes with an aggregate principal outstanding of $233 million, with interest
+rates ranging from 6.81% to 8.25% and with maturities ranging from 2002 to 2010
+and an aggregate amount of $213 million borrowed under a $300 million revolving
+credit agreement. The issues of notes and the revolving credit agreement contain
+restrictive covenants, including financial maintenance covenants and covenants
+that place limitations on LII's ability to incur additional indebtedness,
+encumber its assets, sell its assets or to pay dividends. Upon a change in
+control, LII must make an offer to repurchase the notes at a price equal to 100%
+of the principal amount of the notes, plus accrued and unpaid interest.
+
+ Summarized below are LII's long-term payment obligations under its current
+debt and lease contracts (amounts shown in thousands):
+
+Payments Due by Period
+ -------------------------------------------------
+ 1 Year 2-3 4-5 After
+ Total or Less Years Years 5 Years
+
+ ----- -------- ----- ----- --------
+Contractual obligations:
+
+Long-term debt and
+capital leases.................... $494,058 $28,895 $272,964 $ 83,502 $108,697
+Operating leases.................. 225,355 57,034 65,828 35,414 67,079
+ ------- ------ ------- ------- -------
+ Total contractual obligations.... $719,413 $85,929 $338,792 $118,916 $175,776
+ ======= ====== ======= ======= =======
+
+ Additionally, LII has commercial commitments in the form of stand-by
+letters of credit aggregating $35 million for the benefit of various insurance
+companies administering worker's compensation, product and general liability
+programs. In the event LII is unable to fund these claims, the insurance
+companies may draw on these non-expiring letters of credit.
+
+LII, in addition to the
+revolving and term loans described above, utilizes three other types of
+financing in the course of funding its operations:
+
+ Trade
+accounts receivable are sold on a non-recourse basis to third parties. The
+receivables so sold are reported as a reduction of the asset “Accounts and
+notes receivable, net” in the Consolidated Balance Sheets. As of December
+31, 2001 and December 31, 2000, LII had sold $143 million and $130 million,
+respectively, of such
+
+18
+
+accounts receivable. The receivables are sold at a
+discount from face value, and this discount aggregated $6.8 million in 2001 and
+$5.3 million in 2000. The discount expense is shown as a component of selling,
+general and administrative expense in the Consolidated Statements of Income.
+
+ LII
+also leases real estate and machinery and equipment pursuant to leases which
+properly are not capitalized on the balance sheet under Generally Accepted
+Accounting Principles (“GAAP”), including high-turnover equipment such
+as autos and service vehicles and short-lived equipment such as personal
+computers. These operating leases required rent expense of approximately $69.9
+million, $67.3 million and $38.4 million in the years 2001, 2000 and 1999,
+respectively. Included in these rent expense amounts are $4.4 million for 2001 and $0.3 million
+for 2000 relating to leases qualifying as operating leases for GAAP reporting,
+but considered financing
+leases for income tax purposes. The Company has no significant obligations to purchase the assets
+leased under these operating leases and has not guaranteed residual values to
+the lessors.
+
+ LII
+is a partial owner of several joint ventures formed to pursue particular product
+components or markets. The largest of these joint ventures is Alliance
+Compressors LLC (“Alliance”) located in the United States. LII owns
+24.5% of Alliance and, in accordance with GAAP, since it does not control the
+venture, does not fully consolidate the operations of Alliance with its own. As
+of December 31, 2001, Alliance had debt totaling $172 million, $119 million of
+which was owed to the joint venture’s majority partner. LII was directly
+liable for no more than $540 thousand of Alliance’s debt as of December 31,
+2001. LII also owns, through its Australian subsidiary, an 18% interest in Kulthorn
+Kirby Public Company Limited ("Kulthorn Kirby"), a Thailand company engaged in the
+manufacture of compressors for refrigeration applications. Kulthorn Kirby had
+outstanding debt to third-
+party financial institutions aggregating $37.1 million as of December 31, 2001, none
+of which was directly guaranteed by LII or its Australian subsidiary. As of
+December 31, 2001,
+LII's Australian subsidiary owed approximately $1.8 million to Kulthorn Kirby as a
+non-interest bearing trade payable.
+
+ LII' domestic revolving
+and term loans contain certain financial covenant restrictions. As of December 31, 2001,
+LII was in compliance with all covenant requirements and LII believes that cash flow from operations, as well as
+available borrowings under its revolving credit facility and other sources of funding, will be
+sufficient to fund its operations for the forseeable future. LII is currently reviewing its capital
+structure, and this review may include modifying current sources of capital or obtaining alternative
+sources of capital with a goal of providing additional financial flexibility to LII.
+
+Market Risk
+
+ LII's results of operations can be affected by changes in exchange rates.
+Net sales and expenses in currencies other than the United States dollar are
+translated into United States dollars for financial reporting purposes based on
+the average exchange rate for the period. During 2001, 2000 and 1999, net sales
+from outside the United States represented 21.3%, 21.2% and 26.7%, respectively,
+of total net sales. Historically, foreign currency transaction gains (losses)
+have not had a material effect on LII's overall operations.
+
+ LII from time to time enters into foreign exchange contracts to hedge
+receivables or payables denominated in foreign currencies. These contracts do
+not subject LII to risk from exchange rate movements because the gains or losses
+on the contracts offset losses or gains, respectively, on the items being
+hedged. As of December 31, 2001, LII had currency futures contracts maturing at
+various dates through December of 2002, for which the fair value was a liability
+of $1.1 million. Accordingly, $0.7 million, net of applicable income tax, has
+been charged to Other Comprehensive Income (Loss).
+
+ The Company enters into commodity futures contracts to stabilize prices expected to
+be paid for raw materials and parts containing high copper and aluminum content.
+These contracts are for quantities equal to, or less than, quantities expected
+to be consumed in future production. As of December 31, 2001, LII was committed
+for 45.5 million pounds of aluminum and 46.1 million pounds of copper under such
+arrangements. The net fair value of these contracts was a liability of $3.8
+million as of December 31, 2001 and an asset of $0.3 million as of December 31,
+2000. Accordingly, $2.3 million, net of applicable income tax, has been charged
+to Other Comprehensive Income (Loss).
+
+Inflation
+
+ Historically, inflation has not had a material effect on LII's results of
+operations.
+
+Critical Accounting Policies
+
+ The preparation of financial statements
+requires the use of judgments and estimates. The critical accounting policies
+are described below to provide a better understanding of how the Company
+develops its judgments about future events and related estimations and how they
+can impact the financial statements. A critical accounting policy is one that
+requires the most difficult, subjective or complex estimates and assessments and
+is fundamental to the results of operations. The Company identified the most
+critical accounting policies to be:
+
+19
+
+Estimation of warranty liabilities;
+
+Valuation of goodwill and intangible assets; and
+
+Adequacy of allowance for doubtful accounts.
+
+ This
+discussion and analysis should be read in conjunction with the consolidated
+financial statements and related notes beginning on page 22.
+
+Product Warranties
+
+ A liability for estimated warranty expense is established by a charge
+against operations at the time products are sold. The subsequent costs incurred
+for warranty claims serve to reduce the product warranty liability. The Company
+recorded warranty expense of $27.2 million, $24.0 million and $21.5 million for
+the years ended December 31, 2001, 2000 and 1999, respectively.
+
+ The Company's estimate of future warranty costs is determined for each
+product line. The number of units that are expected to be repaired or replaced
+is determined by applying the estimated failure rate, which is generally based
+on historical experience, to the number of units that have been sold and are
+still under warranty. The estimated units to be repaired under warranty are
+multiplied by the average cost (undiscounted) to repair or replace such products
+to determine the Company's estimated future warranty cost. The Company's
+estimated future warranty cost is subject to adjustment from time to time
+depending on actual experience.
+
+ Total liabilities for estimated warranty expense are $61.9 million and
+$62.0 million as of December 31, 2001 and 2000, respectively, and are included
+in the following captions on the accompanying Consolidated Balance Sheets (in
+thousands):
+
+December 31,
+ -----------------
+ 2001 2000
+
+ ------- -------
+ Accrued expenses..... $22,168 $23,359
+ Other liabilities.... 39,734 38,624
+ ------- -------
+ $61,902 $61,983
+ ======= =======
+
+Goodwill and Other Intangible Assets
+
+ Goodwill and other intangible assets have been recorded based on their fair
+value at the date of acquisition and are being amortized on a straight-line
+basis over periods generally ranging from thirty to forty years. As of December
+31, 2001 and 2000, accumulated amortization was $83.3 million and $60.7 million,
+respectively.
+
+ The Company periodically reviews long-lived assets and identifiable
+intangibles for impairment as events or changes in circumstances indicate that
+the carrying amount of such assets may not be recoverable. In order to assess
+recoverability, the Company compares the estimated expected future cash flows
+(undiscounted and without interest charges) identified with each long-lived
+asset or related asset grouping to the carrying amount of such assets. For
+purposes of such comparisons, portions of goodwill are attributed to related
+long-lived assets and identifiable intangible assets based upon relative fair
+values of such assets at acquisition. If the expected future cash flows do not
+exceed the carrying value of the asset or assets being reviewed, an impairment
+loss is recognized based on the excess of the carrying amount of the impaired
+assets over their fair value. As a result of these periodic reviews, there have
+been no adjustments to the carrying value of long-lived assets, identifiable
+intangibles, or goodwill in 2000 and 1999. Certain assets, including goodwill,
+of an Australian subsidiary were adjusted in 2001.
+
+Allowance for Doubtful Accounts
+
+ The allowance for doubtful accounts is
+generally established during the period in which receivables are recognized and
+is maintained at a level deemed appropriate by management based on historical
+and other factors that affect collectibility. Such factors include the
+historical trends of write-offs and recovery of previously written-off accounts,
+the financial strength of the customer and projected economic and market
+conditions. The evaluation of these factors involves complex, subjective
+judgments. Thus, changes in these factors may significantly impact the
+Consolidated Financial Statements. Different assumptions or changes in economic
+circumstances could result in additional changes to the allowance for doubtful
+accounts. See Note 2 in the Notes to Consolidated Financial Statements.
+
+20
+
+Recent Accounting Pronouncements
+
+ Statement of Financial Accounting Standards
+No. 142, "Goodwill and Other Intangible Assets," ("SFAS No. 142") becomes
+effective for the company on January 1, 2002. SFAS No. 142 requires that
+goodwill and other intangible assets with an indefinite useful life no longer be
+amortized as expenses of operations, but rather carried on the balance sheet as
+permanent assets. These intangible assets are to be subject to at least annual
+assessments for impairment by applying a fair-value-based test. Amortization of
+goodwill and other indefinite-lived intangible assets amounted to $18.7 million
+($16.3 million on an after-tax basis) for 2001. These expense amounts, under
+SFAS No. 142, will not be recorded in years after 2001.
+
+ The Company is currently evaluating the fair
+value of its operations in which goodwill and other indefinite-lived intangibles
+have been recorded. This evaluation is being conducted in consultation with
+independent valuation advisors. The preliminary indications are that the Company
+will record an impairment charge as a cumulative effect of a change in
+accounting principle in the first quarter of 2002. This charge is estimated
+to range from $250 million to $300 million, subject to independent
+auditors’ review.
+
+ Statement of Financial Accounting Standards
+No. 144, "Accounting for the Impairment or Disposal of Long-Lived Assets" ("SFAS
+144") becomes effective for the Company on January 1, 2002. SFAS 144 addresses
+financial accounting and reporting for the impairment of long-lived assets and
+for long-lived assets to be disposed of. This statement supersedes SFAS 121;
+however, this statement retains the fundamental provisions of SFAS 121 for (a)
+recognition and measurement of the impairment of long-lived assets to be held
+and used and (b) measurement of long-lived assets to be disposed of by sale.
+This Statement also supersedes the accounting and reporting provisions of APB
+Opinion No. 30, "Reporting the Results of Operations - Reporting the Effects of
+Disposal of a Segment of a Business, and Extraordinary, Unusual and Infrequently
+Occurring Events and Transactions" for segments of a business to be disposed of.
+The Company does not believe that the adoption of SFAS 144 will have a material
+effect on its financial position or results of operations.

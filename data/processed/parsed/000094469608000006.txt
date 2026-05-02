@@ -1,0 +1,907 @@
+and Analysis of Financial Condition and
+Results of Operations
+
+The following information is provided in
+connection with, and should be read in conjunction with, the
+consolidated financial statements and notes included in this
+Annual Report on Form 10-K.
+
+GENERAL
+
+Integrity Mutual Funds, Inc., is a holding
+company which operates its current business units in two
+reportable segments, 1) as an investment advisor, distributor,
+and provider of administrative services to sponsored mutual
+funds, and 2) as a broker-dealer.
+
+Integrity Mutual Funds, Inc., derives a
+portion of its revenues and net income from providing investment
+management, distribution, shareholder services, fund accounting,
+and related services to the Funds. CFS provides another
+substantial portion of revenue through sales of mutual funds,
+insurance products, and various other securities. The
+majority of the Company's assets under management consist of
+single-state municipal bond funds for the states of North Dakota,
+Montana, Kansas, Nebraska, Oklahoma, Maine, and New
+Hampshire.
+
+ASSETS UNDER
+MANAGEMENT
+
+By Investment Objective
+
+As of December
+31,
+
+2007
+
+2006
+
+2005
+
+FIXED-INCOME
+
+Tax-Free Funds
+
+$ 196,493,687
+
+$ 207,235,701
+
+$ 213,405,941
+
+Taxable Funds (Corporate/Government)
+
+138,559,709
+
+143,385,144
+
+62,121,269
+
+TOTAL FIXED-INCOME FUNDS
+
+$ 335,053,396
+
+$ 350,620,845
+
+ $ 275,527,210
+
+EQUITY
+
+Fund of Funds
+
+$
+13,483,262
+
+$ 9,889,657
+
+$ 6,029,000
+
+Equity Funds
+
+47,127,424
+
+81,498,062
+
+100,358,182
+
+TOTAL EQUITY FUNDS
+
+$
+60,610,686
+
+$
+91,387,719
+
+$ 106,387,182
+
+TOTAL ASSETS UNDER MANAGEMENT
+
+$ 395,664,082
+
+$ 442,008,564
+
+$ 381,914,392
+
+A substantial portion of the Company's
+revenues depends upon the amount of assets under its
+management. Assets under management can be affected by the
+addition of new funds to the group, the acquisition of another
+investment management company, purchases and redemptions of
+mutual fund shares, and investment performance, which may depend
+on general market conditions. Assets under the Company's
+management decreased by $46,344,482 (10.5%) in 2007 compared to
+2006 and increased by $60,094,172 (15.7%) in 2006 compared to
+2005. Fixed income assets decreased by 4.4% in 2007
+compared to 2006, and increased by 27.3% in 2006 compared to
+2005. Fixed income assets accounted for 84.7% of the total
+assets under management in 2007 and 79.3% in 2006. Equity
+assets decreased by 33.7% in 2007 compared to 2006, and decreased
+14.1% in 2006 compared to 2005. Equity assets accounted for 15.3%
+of total assets under management in 2007 and 20.7% in 2006.
+
+RESULTS OF
+OPERATIONS
+
+The following table sets forth, for the
+periods indicated, amounts included in the Company's Consolidated
+Statements of Operations and the percentage change in those
+amounts from period to period.
+
+Variance 2007 to 2006
+
+Variance 2006 to 2005
+
+2007
+
+2006
+
+2005
+
+OPERATING
+REVENUES
+
+Fee income
+
+$
+
+8,171,653
+
+$
+
+6,732,222
+
+$
+
+4,788,853
+
+21.4%
+
+40.6%
+
+Commission income
+
+30,318,836
+
+20,054,742
+
+14,651,903
+
+51.2%
+
+36.9%
+
+Total revenue
+
+$
+
+38,490,489
+
+$
+
+26,786,964
+
+$
+
+19,440,756
+
+43.7%
+
+37.8%
+
+OPERATING
+EXPENSES
+
+Compensation and
+benefits
+
+$
+
+4,233,481
+
+$
+
+3,729,425
+
+$
+
+3,330,165
+
+13.5%
+
+12.0%
+
+Commission
+expense
+
+29,027,276
+
+19,370,607
+
+13,283,057
+
+49.9%
+
+45.8%
+
+General and
+administrative expenses
+
+2,602,750
+
+2,242,721
+
+2,139,042
+
+16.1%
+
+4.8%
+
+Sub-advisory
+expenses
+
+961,837
+
+887,896
+
+432,534
+
+8.3%
+
+105.3%
+
+Sales commissions
+amortized
+
+443,661
+
+334,254
+
+316,928
+
+32.7%
+
+5.5%
+
+Depreciation and
+amortization
+
+223,624
+
+157,361
+
+143,155
+
+42.1%
+
+9.9%
+
+Total operating
+expenses
+
+$
+
+37,492,629
+
+$
+
+26,722,264
+
+$
+
+19,644,881
+
+40.3%
+
+36.0%
+
+OPERATING INCOME (LOSS)
+
+$
+
+997,860
+
+$
+
+64,700
+
+$
+
+(204,125)
+
+1,442.3%
+
+131.7%
+
+OTHER INCOME (EXPENSES)
+
+Interest and other
+income
+
+$
+
+351,742
+
+$
+
+233,610
+
+$
+
+54,896
+
+50.6%
+
+325.6%
+
+Interest
+expense
+
+(331,687)
+
+(346,606)
+
+(301,934)
+
+(4.3)%
+
+14.8%
+
+Net other income
+(expenses)
+
+$
+
+20,055
+
+$
+
+(112,996)
+
+$
+
+(247,038)
+
+117.7%
+
+54.3%
+
+INCOME (LOSS) BEFORE INCOME TAX BENEFIT (EXPENSE)
+
+$
+
+1,017,915
+
+$
+
+(48,296)
+
+$
+
+(451,163)
+
+2,207.7%
+
+89.3%
+
+INCOME TAX BENEFIT (EXPENSE)
+
+(434,702)
+
+(11,091)
+
+118,750
+
+3,819.4%
+
+109.3%
+
+NET INCOME (LOSS)
+
+$
+
+583,213
+
+$
+
+(59,387)
+
+$
+
+(332,413)
+
+1,082.1%
+
+82.1%
+
+INCOME (LOSS) PER COMMON SHARE:
+
+.03
+
+(.01)
+
+(.03)
+
+Year Ended
+December 31, 2007, compared with Year Ended December 31,
+2006
+:
+
+Operating Revenues
+
+-
+ Total
+operating revenues for 2007 were $38,490,489, an increase of
+43.7% from $26,786,964 in 2006. The increase results from
+increased fee income received from the Funds, as well as
+increased commission and fee income relating to CFS.
+
+Fee Income -
+ Fee income for
+2007 was $8,171,653, a 21.4% increase from $6,732,222 in
+2006. The increase was due to fees derived from asset
+growth resulting from new sales in certain of the Funds.
+The increase was also due to fees derived from additional assets
+under management in CFS' registered investment advisor, resulting
+from ongoing recruiting efforts.
+
+The Company receives fees for providing
+investment advisory services to the Funds. In some cases,
+all or a portion of the investment advisory fees received by the
+Company are paid to outside investment advisors for advisory
+services provided to the Funds. These fees constituted 6%
+of the Company's consolidated revenues in 2007.
+
+The Company also earns investment advisory
+fees in connection with CFS' registered investment advisor.
+The Company pays the registered representatives a portion of this
+fee income as commission expense and retains the balance.
+These fees constituted 6% of the Company's consolidated revenues
+in 2007.
+
+The Company receives fees from the Funds for
+providing transfer agency, fund accounting, and other
+administrative services. These fees constituted 6% of the
+Company's consolidated revenues in 2007.
+
+The Company earns Rule 12b-1 fees in
+connection with the distribution of Fund shares. A portion
+of these fees are paid out to other broker-dealers, with the
+remaining amount retained by the Company to pay for expenses
+related to the distribution of the Funds. These fees
+constituted 4% of the Company's consolidated revenues in
+2007.
+
+Commission Income -
+ Commission
+income includes CFS commissions and 12b-1 fees associated with
+the sale of mutual funds, insurance products, and various other
+securities. The Company pays the registered representatives
+a percentage of this income as commission expense and retains the
+balance. Commission income also includes underwriting fees
+associated with sales of Fund shares subject to front-end sales
+loads ("FESLs"), and the dealer commission associated with sales
+of Fund shares subject to FESLs, which is paid out to other
+broker-dealers as commission expense. Commission income for
+2007 was $30,318,836, a 51.2% increase over $20,054,742 in
+2006. The increase was due primarily to ongoing recruiting
+efforts for new registered representatives in CFS.
+Commission revenues constituted 78% of the Company's consolidated
+revenues in 2007.
+
+Operating Expenses
+
+-
+ Total
+operating expenses for 2007 were $37,492,629, a 40.3% increase
+from $26,722,264 in 2006. The increase resulted primarily
+from increased commission expense, which corresponds to increases
+in fee and commission income.
+
+Compensation and Benefits -
+
+Compensation and benefits expense for 2007 was $4,233,481, a
+13.5% increase from $3,729,425 in 2006. The increase
+results primarily from increased incentive overrides paid to
+certain employees for the recruitment of new registered
+representatives in CFS, and a separation agreement entered into
+by the Company.
+
+On January 24, 2007, the Company announced
+the retirement of Robert E. Walstad, the Company's founder, chief
+executive officer and chairman of the board of directors,
+effective February 1, 2007. In connection with Mr.
+Walstad's retirement, the Company entered into a separation
+agreement with Mr. Walstad. Under the terms of the
+separation agreement, subject to Mr. Walstad meeting his
+obligations thereunder in all respects, Mr. Walstad is entitled
+to receive a cash payment in the amount of $274,500, options to
+purchase 60,000 common shares, and certain commission
+payments. The $274,500 separation payment was expensed in
+February of 2007.
+
+Commission Expense -
+
+Commission expense for 2007 was $29,027,276, a 49.9% increase
+from $19,370,607 in 2006. The increase corresponds with the
+increases in fee and commission income.
+
+General and Administrative Expenses
+-
+ Total general and administrative expenses for 2007 were
+$2,602,750, an increase of 16.1% from $2,242,721 in 2006.
+The increase was due primarily to increased reimbursements made
+to certain Funds due to low assets levels, increased 12b-1 fees
+paid to other broker-dealers for selling the Funds, and increased
+legal costs.
+
+Sub-advisory Expenses
+ -
+
+Sub-advisory expenses for 2007 were $961,837, an 8.3% increase
+from $887,896 in 2006. The increase was due to higher
+levels of sub-advisory fees paid due to asset growth resulting
+from new sales in certain of the Funds. Sub-advisory fees
+are paid to outside investment advisors for advisory services
+provided to some of the Funds. The amount of sub-advisory
+fees paid out will continue to increase if the net asset levels
+in certain of the Funds continue to increase.
+
+Sales Commissions Amortized -
+
+Sales commissions paid to broker-dealers in connection with the
+sale of shares of the sponsored mutual funds sold without a
+front-end sales charge (B and C shares), are capitalized and
+amortized on a straight-line basis over a period not exceeding
+eight years, which approximates the period of time during which
+deferred sales commissions are expected to be recovered from
+distribution plan payments received from various sponsored mutual
+funds and potential contingent deferred sales charges received
+from shareholders of the various sponsored mutual funds.
+Contingent deferred sales charges received by the Company are
+recorded as a reduction of unamortized deferred sales
+commissions. In accordance with Statement of Position 98-5, the
+commissions paid for the sale of Integrity Fund of Funds, Inc.'s
+shares have been expensed as incurred. The contingent
+deferred sales charges received from early redemptions from
+Integrity Fund of Funds, Inc. have been recorded as
+revenue. Amortization of deferred sales commissions for
+2007 was $443,661, a 32.7% increase from $334,254 in 2006.
+These expenses can be expected to increase if sales of shares of
+Funds sold without a FESL increase.
+
+Depreciation and Amortization
+-
+ Depreciation and amortization for 2007 was $223,624, a
+42.1% increase from $157,361 in 2006. The primary reason
+for the change was an increase in amortization of computer
+software costs.
+
+Interest and Other Income -
+
+Interest and other income for 2007 was $351,742, a 50.6% increase
+from $233,610 in 2006. Other income is comprised, in part,
+from income derived from services billed back to registered
+representatives in CFS.
+
+Interest Expense
+ - Interest
+expense was $331,687 for 2007, a 4.3% decrease from $346,606 in
+2006.
+
+Year Ended
+December 31, 2006, compared with Year Ended December 31,
+2005:
+
+Operating Revenues
+
+-
+ Total
+operating revenues for 2006 were $26,786,964, an increase of
+37.8% from $19,440,756 in 2005. The increase results from
+increased fee income received from the Funds, as well as
+increased commission and fee income relating to CFS.
+
+Fee Income -
+ Fee income for
+2006 was $6,732,222, a 40.6% increase from $4,788,853 in
+2005. The increase was due to fees received in connection
+with new Funds that were acquired and/or opened during 2005, and
+fees derived from asset growth resulting from new sales in
+certain of the Funds. The increase was also due to fees
+derived from additional assets under management in CFS'
+registered investment advisor, resulting from recruiting efforts
+during 2005 and 2006.
+
+The Company receives fees for providing
+investment advisory services to the Funds. In some cases,
+all or a portion of the investment advisory fees received by the
+Company are paid to outside investment advisors for advisory
+services provided to the Funds. These fees constituted 7%
+of the Company's consolidated revenues in 2006.
+
+The Company also earns investment advisory
+fees in connection with CFS' registered investment advisor.
+The Company pays the registered representatives a portion of this
+fee income as commission expense and retains the balance.
+These fees constituted 5% of the Company's consolidated revenues
+in 2006.
+
+The Company receives fees from the Funds for
+providing transfer agency, fund accounting, and other
+administrative services. These fees constituted 8% of the
+Company's consolidated revenues in 2006.
+
+The Company earns Rule 12b-1 fees in
+connection with the distribution of Fund shares. A portion
+of these fees are paid out to other broker-dealers, with the
+remaining amount retained by the Company to pay for expenses
+related to the distribution of the Funds. These fees
+constituted 5% of the Company's consolidated revenues in
+2006.
+
+Commission Income -
+ Commission
+income includes CFS commissions and 12b-1 fees associated with
+the sale of mutual funds, insurance products, and various other
+securities. The Company pays the registered representatives
+a percentage of this income as commission expense and retains the
+balance. Commission income also includes underwriting fees
+associated with sales of Fund shares subject to front-end sales
+loads ("FESLs"), and the dealer commission associated with sales
+of Fund shares subject to FESLs, which is paid out to other
+broker-dealers as commission expense. Commission income for
+2006 was $20,054,742, a 36.9% increase over $14,651,903 in
+2005. The increase was due primarily to recruiting efforts
+for new registered representatives in CFS during 2005 and
+2006. Commission revenues constituted 75% of the Company's
+consolidated revenues in 2006.
+
+Operating Expenses
+
+-
+ Total
+operating expenses for 2006 were $26,722,264, a 36.0% increase
+from $19,644,881 in 2005. The increase resulted primarily
+from increased commission expense, which corresponds to increases
+in fee and commission income.
+
+Compensation and Benefits -
+
+Compensation and benefits expense for 2006 was $3,729,425, a
+12.0% increase from $3,330,165 in 2005. The increase
+results primarily from increased incentive overrides paid to
+certain employees for the recruitment of new registered
+representatives in the Company's broker-dealer segment, and a
+separation agreement entered into by the Company with a former
+employee.
+
+On July 13, 2006, Integrity Mutual Funds,
+Inc., entered into an agreement with Jerry J. Szilagyi, Senior
+Vice President of Business Development, the terms of which
+provide for the termination of Mr. Szilagyi's employment
+agreement and his separation from the Company, effective as of
+July 16, 2006. Pursuant to the terms of the Agreement, the
+Company agreed to pay Mr. Szilagyi $210,000 over a ten month
+period and certain additional compensation, including amounts
+with respect to assets under management in certain of the
+Company's mutual funds. The $210,000 separation payment was
+expensed in July of 2006.
+
+Commission Expense -
+
+Commission expense for 2006 was $19,370,607, a 45.8% increase
+from $13,283,057 in 2005. The increase corresponds with the
+increases in fee and commission income.
+
+General and Administrative Expenses
+-
+ Total general and administrative expenses for 2006 were
+$2,242,721, an increase of 4.8% from $2,139,042 in 2005.
+The increase was due primarily to increased incentive overrides
+paid to the Company's contracted wholesalers resulting from
+increased sales in the Funds, as well as increased recruiting
+costs in the Company's broker-dealer segment.
+
+Sub-advisory Expenses
+ -
+
+Sub-advisory expenses for 2006 were $887,896, a 105.3% increase
+from $432,534 in 2005. The increase was due to sub-advisory
+fees paid in connection with new Funds that were acquired and/or
+opened during 2005, and higher levels of fees paid due to asset
+growth resulting from new sales in certain of the Funds.
+Sub-advisory fees are paid to outside investment advisors for
+advisory services provided to some of the Funds. The amount
+of sub-advisory fees paid out will continue to increase as the
+net asset levels in certain of the Funds continue to
+increase.
+
+Sales Commissions Amortized -
+
+Sales commissions paid to broker-dealers in connection with the
+sale of shares of the sponsored mutual funds sold without a
+front-end sales charge (B and C shares), are capitalized and
+amortized on a straight-line basis over a period not exceeding
+eight years, which approximates the period of time during which
+deferred sales commissions are expected to be recovered from
+distribution plan payments received from various sponsored mutual
+funds and potential contingent deferred sales charges received
+from shareholders of the various sponsored mutual funds.
+Contingent deferred sales charges received by the Company are
+recorded as a reduction of unamortized deferred sales
+commissions. In accordance with Statement of Position 98-5, the
+commissions paid for the sale of Integrity Fund of Funds, Inc.'s
+shares have been expensed as incurred. The contingent
+deferred sales charges received from early redemptions from
+Integrity Fund of Funds, Inc. have been recorded as
+revenue. Amortization of deferred sales commissions for
+2006 was $334,254, a 5.5% increase from $316,928 in 2005.
+These expenses can be expected to increase if sales of shares of
+Funds sold without a FESL increase.
+
+Depreciation and Amortization
+-
+ Depreciation and amortization for 2006 was $157,361, a
+9.9% increase from $143,155 in 2005. The primary reason for
+the change was an increase in amortization of computer software
+costs.
+
+Interest and Other Income -
+
+Interest and other income for 2006 was $233,610, a 325.6%
+increase from $54,896 in 2005. Other income is comprised,
+in part, from income derived from services billed back to
+registered representatives in CFS.
+
+Interest Expense
+ - Interest
+expense was $346,606 for 2006, a 14.8% increase from $301,934 in
+2005. The increase was primarily the result of the issuance
+of $2 million of 91⁄4% subordinated corporate notes during
+2005, which was used, in part, to retire $595,000 of 12%
+subordinated debentures that matured in June of 2005.
+
+FINANCIAL
+CONDITION
+
+On December 31, 2007, the Company's assets
+aggregated $18,114,830, an increase of 17.1% from $15,466,130 in
+2006, due to increases in cash and cash equivalents, accounts
+receivable, net property and equipment, and goodwill offset by
+decreases in securities available-for-sale, income taxes
+receivable, deferred tax assets, prepaids, deferred sales
+commissions, and other assets. Stockholders equity was
+$10,213,625 on December 31, 2007, compared to $9,398,208 on
+December 31, 2006.
+
+On December 31, 2006, the Company's assets
+aggregated $15,466,130, an increase of 1.8% from $15,192,914 in
+2005, due to increases in cash and cash equivalents, securities
+available-for-sale, and accounts receivable, offset by decreases
+in income taxes receivable, deferred tax assets, prepaids, net
+property and equipment, deferred sales commissions, goodwill, and
+other assets. Stockholders equity was $9,398,208 on
+December 31, 2006, compared to $9,403,721 on December 31,
+2005.
+
+Cash provided by operating activities was
+$1,568,087 for the year ended December 31, 2007, as compared to
+net cash provided by operating activities of $570,573 for
+the year ended December 31, 2006 and net cash provided by
+operating activities of $265,950 for the year ended December 31,
+2005.
+
+Net cash used by investing activities was
+$343,414 for the year ended December 31, 2007, as compared to net
+cash used by investing activities of $47,990 for the year ended
+December 31, 2006 and net cash used by investing activities of
+$308,119 for the year ended December 31, 2005. The primary
+uses of cash for investing activities in 2007 were the purchase
+of additional computer equipment and the purchase of certain
+assets from United Heritage Financial Services, Inc.
+
+Net cash provided by financing activities
+was $67,328 for the year ended December 31, 2007, as compared to
+net cash used by financing activities of $208,725 for the year
+ended December 31, 2006, and net cash provided by financing
+activities of $712,032 for the year ended December 31,
+2005. During the year ended December 31, 2007, the Company
+received $60,000 in connection with the exercise of 100,000
+outstanding warrants, and received a $120,085 advance on a line
+of credit with First Western Bank. Also during the year
+ended December 31, 2007, the Company paid out $91,500 in
+preferred stock dividends, and repaid $32,254 of bank debt.
+
+LIQUIDITY AND
+CAPITAL RESOURCES
+
+On December 31, 2007, the Company held
+$3,143,250 in cash and cash equivalents, as compared to
+$1,851,249 on December 31, 2006, and $1,537,391 on December 31,
+2005. Liquid assets, which consist of cash and cash
+equivalents and securities available-for-sale, totaled $3,143,250
+at December 31, 2007, as compared to $1,851,462 on December 31,
+2006, and $1,537,599 on December 31, 2005. The Company is
+required to maintain certain levels of cash and liquid securities
+in its broker-dealer subsidiaries to meet regulatory net capital
+requirements.
+
+In January of 2006, the Company repaid
+$250,000 in convertible debentures that matured pursuant to its
+acquisition of CFS, which was paid by using available cash.
+In May of 2006, an existing loan with First Western Bank was
+modified. The modification called for a $301,866 cash
+injection to the outstanding balance of the loan. After the
+modification, the loan carried an interest rate of 8.25%, and
+based on the monthly payments of $23,200, would be paid in full
+on May 10, 2010. In June of 2006, the Company paid off its
+$100,000 revolving bank line of credit, which was paid by
+utilizing a portion of the proceeds received from the $301,866
+cash injection. In October of 2006, the Company issued a
+$950,000 convertible promissory note to PawnMart, Inc., in a
+private placement. The unsecured note carries an interest
+rate of 6.5% per annum, payable semi-annually, and matures on
+October 15, 2016. The holder of the note has the right, at
+any time after October 15, 2009, to convert the note in whole or
+in part, into $0.0001 par value common shares of the
+Company. The conversion price is equal to $0.50 per
+share. The entire principal amount of the note will
+automatically convert into common shares at the conversion price
+on October 15, 2016. Approximately $845,000 of the $950,000
+in convertible promissory note proceeds was used to pay off the
+existing loan with First Western Bank mentioned above.
+
+The Company has received an operating line
+of credit from First Western Bank & Trust in the amount of $1
+million. In March of 2007, the Company received a $120,085
+advance on the line of credit. The Company currently has
+approximately $900,000 still available through the line of
+credit, which carries an interest rate of 8.00%. The
+Company anticipates that proceeds received from the line of
+credit will be used primarily to pay for sales costs in the
+Funds.
+
+The Company has historically relied upon
+sales of its equity securities and debt instruments, as well as
+bank loans, for liquidity and growth. Management believes
+that the Company's existing liquid assets, along with cash flow
+from operations, will provide the Company with sufficient
+resources to meet its ordinary operating expenses during the next
+twelve months. Significant, unforeseen or extraordinary
+expenses may require the Company to seek alternative financing
+sources, including common or preferred share issuance or
+additional debt financing.
+
+In addition to the liabilities coming due in
+the next twelve months, management expects that the principal
+needs for cash may be to advance sales commissions on Funds
+subject to CDSCs, acquire additional investment management or
+financial services firms, acquire the management rights to
+additional outside mutual funds, repurchase shares of the
+Company's common stock, and service debt. Management also
+expects to realize increases in expenses associated with
+regulatory compliance with Section 404 of the Sarbanes-Oxley Act
+of 2002, including increased legal, audit, staff, and consultant
+expenses.
+
+Sales of fund shares with FESLs provide
+current distribution revenue to the Company in the form of the
+Company's share of the FESLs, and distribution revenue, over
+time, in the form of 12b-1 payments. Sales of fund shares
+subject to CDSCs provide distribution revenue, over time, in the
+form of 12b-1 fees and, if shares are redeemed within five years,
+CDSCs. However, the Company pays commissions on sales of
+Fund shares subject to CDSCs, reflects such commissions as
+deferred sales commissions on its balance sheet and amortizes
+such commissions over a period of up to eight years, thereby
+recognizing distribution expenses. Therefore, to the extent
+that sales of Fund shares subject to CDSCs increases over time
+relative to sales of shares subject to FESLs, current
+distribution expenses may increase relative to current
+distribution revenues in certain periods, which would negatively
+impact the Company's cash flow in such periods. In
+addition, the Company may need to find additional sources of
+funding if existing cash flow and debt facilities are
+insufficient to fund commissions payable to selling
+broker-dealers on shares subject to CDSCs if sales of Fund shares
+subject to CDSCs increase significantly.
