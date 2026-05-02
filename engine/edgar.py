@@ -129,18 +129,43 @@ class EdgarClient:
 
     # ---- low-level ---------------------------------------------------------
 
-    def _get(self, url: str, *, host: str | None = None, timeout: float = 30.0) -> requests.Response:
-        self._limiter.acquire()
-        headers = dict(self._session.headers)
-        if host:
-            headers["Host"] = host
-        else:
-            from urllib.parse import urlparse
+    def _get(
+        self,
+        url: str,
+        *,
+        host: str | None = None,
+        timeout: float = 60.0,
+        max_retries: int = 4,
+    ) -> requests.Response:
+        """GET with rate limiting + simple exponential backoff.
 
-            headers["Host"] = urlparse(url).netloc
-        resp = self._session.get(url, headers=headers, timeout=timeout)
-        resp.raise_for_status()
-        return resp
+        EDGAR occasionally drops connections during high-throughput cohort
+        enumeration. We retry on connection errors, read timeouts, and
+        5xx responses; we do NOT retry on 4xx.
+        """
+        from urllib.parse import urlparse
+
+        headers = dict(self._session.headers)
+        headers["Host"] = host or urlparse(url).netloc
+
+        last_exc: Exception | None = None
+        for attempt in range(max_retries):
+            self._limiter.acquire()
+            try:
+                resp = self._session.get(url, headers=headers, timeout=timeout)
+            except (requests.ConnectionError, requests.Timeout) as e:
+                last_exc = e
+                backoff = 2 ** attempt
+                time.sleep(backoff)
+                continue
+            if resp.status_code >= 500:
+                last_exc = requests.HTTPError(f"{resp.status_code} from {url}")
+                time.sleep(2 ** attempt)
+                continue
+            resp.raise_for_status()
+            return resp
+        assert last_exc is not None
+        raise last_exc
 
     # ---- submissions JSON --------------------------------------------------
 
