@@ -1,0 +1,43 @@
+# Class-action deny-list — companies with securities class-action settlements
+# > $1M within ~5 years of a fiscal year we care about. Lines are CIK (numeric)
+# or case-insensitive name substrings. Comments start with `#`. Empty lines
+# ignored.
+#
+# Sourced from public knowledge of major settlements; this list is
+# INTENTIONALLY INCOMPLETE and the limitation is disclosed in the report.
+
+# FY2000-era major class actions (post-dot-com):
+cisco
+lucent
+qwest
+xerox
+nortel
+ibm
+microstrategy
+3com
+juniper
+sycamore
+
+# FY2001-era:
+adelphia
+global crossing
+worldcom
+tyco
+parmalat
+peregrine systems
+critical path
+
+# FY2007-era (financial crisis):
+countrywide
+washington mutual
+wachovia
+ambac
+mbia
+lehman
+
+# FY2014-era:
+hertz
+sunedison
+weatherford
+volkswagen
+toshiba

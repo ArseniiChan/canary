@@ -1,0 +1,41 @@
+# AAER deny-list — companies named in SEC Accounting and Auditing Enforcement
+# Releases (AAERs) within ~5 years of a fiscal year we care about (2000, 2001,
+# 2007, 2014). Lines are CIK (numeric) or case-insensitive name substrings.
+# Comments start with `#`. Empty lines ignored.
+#
+# This list is INCOMPLETE by design — it is a pragmatic safety net, not a
+# comprehensive AAER index. We document this limitation in the report.
+#
+# Known AAER respondents from the FY2000-2002 era (relevant to Enron/WorldCom/
+# Tyco/HealthSouth cohorts):
+adelphia
+xerox
+lucent
+qwest
+nortel
+parmalat
+tyco
+worldcom
+healthsouth
+enron
+sunbeam
+waste management
+bristol-myers
+kmart
+mci
+
+# FY2007-era (Lehman cohort):
+fannie mae
+freddie mac
+countrywide
+washington mutual
+bear stearns
+new century financial
+indymac
+
+# FY2014-era (Valeant cohort):
+sunedison
+weatherford
+hertz
+toshiba
+volkswagen
