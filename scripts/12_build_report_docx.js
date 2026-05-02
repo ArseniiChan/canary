@@ -422,6 +422,70 @@ children.push(h1("References"));
   spacing: { ...LINE, before: 80 }, indent: { left: 360, hanging: 360 },
 })));
 
+// Appendix F — Model inventory
+children.push(h1("Appendix F — Model inventory"));
+children.push(p(
+  "The Canary project uses three distinct kinds of model, totalling eleven model instances:",
+  { indent: { firstLine: 360 } }
+));
+[
+  "(F.1) Pretrained transformer — used as a frozen feature extractor. sentence-transformers/all-MiniLM-L6-v2, a 6-layer MiniLM-based transformer pretrained by Microsoft Research and the Hugging Face Sentence-Transformers project on more than one billion sentence pairs. Approximately 22M parameters. Outputs 384-dimensional sentence vectors. We do not train this model — we freeze it and use it as the input encoder for every MD&A sentence in the project. Course mapping: AI 33 Attention and transformers; AI 35 Encoders and decoders; Meetings 22–23 (LLMs, Apr 30 and May 5).",
+  "(F.2) Custom autoencoders — the models trained for this project. Five PyTorch autoencoders, one per cohort (HRC, LEH, TYC, VRX, WCOM), with architecture 384 → 128 → 32 → 128 → 384 and ReLU activations between layers. Approximately 117,000 parameters each. Mean squared error reconstruction loss; Adam optimizer at learning rate 1e-3; batch size 16; maximum 200 epochs with early stopping (patience 20) on a 20% validation split; numpy / torch / Python random seeds all 42. Trained from scratch on each cohort's leave-one-cohort-out and time-controlled training corpus. Saved checkpoints at data/processed/models/<TICKER>.pt reload cleanly and reproduce the committed per-cohort fraud scores to six decimal places (verified at the validation freeze and re-verified before the May 7 presentation). Course mapping: AI 27 Neural networks; AI 35 Encoders and decoders; AI 28 Tensors; AI 31 Computational graphs; AI 10 Optimizers (Adam).",
+  "(F.3) Classical-ML baseline — post-hoc, council-mandated. Five TF-IDF + TruncatedSVD pipelines, one per cohort, trained on the same LOCO + time-controlled training corpora the autoencoders saw. TF-IDF vectorizer with English stop-word removal, sublinear term-frequency scaling, and a 20,000-feature cap; TruncatedSVD with 32 components — matching the autoencoder bottleneck dimension exactly so the comparison is apples-to-apples on bottleneck capacity. Course mapping: AI 12 Introduction to machine learning.",
+  "The three model families together let us answer not only \"is the autoencoder a model that runs?\" (yes — Appendix G) but also \"does the neural model earn its complexity beyond a 1990s LSA baseline?\" (no, on this dataset — Section 7.4).",
+].forEach((t) => children.push(p(t, { indent: { firstLine: 360 } })));
+
+// Appendix G — Training-quality diagnostics
+children.push(h1("Appendix G — Training-quality diagnostics"));
+children.push(p(
+  "Three diagnostics, all from scripts/14_training_quality_diagnostics.py, prove that the autoencoders trained for this project are real working models, not artifacts that merely compiled.",
+  { indent: { firstLine: 360 } }
+));
+
+children.push(h2("G.1 Per-epoch convergence"));
+children.push(p(
+  "Each of the five cohort autoencoders converged via early stopping at best epoch 50–59 of a 200-epoch maximum, with patience 20. Final train loss ranged from 0.000736 (HRC) to 0.000911 (VRX); final validation loss from 0.000947 (HRC) to 0.001129 (TYC). The train-validation gap was small everywhere — between 0.000111 (VRX, largest training set) and 0.000301 (TYC, smallest training set) — a healthy ratio for a project at this dataset size. The full training log is at data/processed/training_log.json.",
+  { indent: { firstLine: 360 } }
+));
+
+children.push(h2("G.2 Noise sanity check"));
+children.push(p(
+  "The decisive test that the autoencoder learned a meaningful manifold rather than a trivial constant function. For each cohort autoencoder, I scored four kinds of input under the same per-sentence MSE reconstruction-error metric: (i) the cohort's clean-peer sentences, (ii) the cohort's fraud-filing sentences, (iii) 1,000 random unit-norm Gaussian vectors of the same dimensionality (matched in magnitude to real MiniLM embeddings), and (iv) 1,000 raw N(0, 1) vectors (much larger in magnitude than real embeddings). Table G.1 reports mean per-sentence MSE across the four input types.",
+  { indent: { firstLine: 360 } }
+));
+children.push(caption("Table G.1. Noise sanity check across all five cohort autoencoders."));
+children.push(buildTable(
+  ["Cohort", "Real peer", "Real fraud", "Unit-norm Gaussian", "Raw N(0,1)", "Noise / real ratio"],
+  [
+    ["HRC",  "0.001406", "0.001266", "0.002954", "1.076235", "2.1× / 765×"],
+    ["LEH",  "0.001337", "0.001395", "0.002966", "1.077481", "2.2× / 806×"],
+    ["TYC",  "0.001362", "0.001271", "0.002891", "1.022643", "2.1× / 751×"],
+    ["VRX",  "0.001442", "0.001295", "0.002896", "1.103497", "2.0× / 765×"],
+    ["WCOM", "0.001375", "0.001259", "0.002858", "1.041342", "2.1× / 760×"],
+  ],
+  [1100, 1300, 1400, 1900, 1500, 2160]
+));
+children.push(image("noise_sanity_check.png"));
+children.push(caption("Figure G.1. Mean per-sentence reconstruction error by input type, log scale. Out-of-distribution input — Gaussian noise of matched magnitude — produces ~2× higher reconstruction error than real MD&A text; raw N(0,1) noise produces ~750× higher. The autoencoders demonstrably learned the structure of MiniLM-encoded MD&A text."));
+children.push(p(
+  "Out-of-distribution input — Gaussian noise — produces reconstruction error 2× higher (matched magnitude) and roughly 750× higher (raw white noise) than real MD&A sentences. The autoencoders demonstrably learned the structure of MiniLM-encoded MD&A text.",
+  { indent: { firstLine: 360 } }
+));
+
+children.push(h2("G.3 The painful gap that explains the negative result"));
+children.push(image("recon_error_hist_per_cohort.png"));
+children.push(caption("Figure G.2. Per-cohort per-sentence reconstruction-error distributions: fraud sentences (canary) vs peer sentences (gray). The fraud and peer distributions overlap heavily in every cohort — only Lehman shows a slight rightward shift in the fraud distribution."));
+children.push(image("dynamic_range_per_cohort.png"));
+children.push(caption("Figure G.3. Filing-level mean per-sentence reconstruction error per cohort: fraud (★) vs peers (•). The within-cohort dynamic range is the basis of the per-fraud rank metric reported in Section 7.2."));
+children.push(p(
+  "Table G.1 also makes the negative result visible: real fraud and real peer sentences differ by roughly 10% in mean reconstruction error (around 0.0013 vs around 0.0014), whereas real text and matched-magnitude Gaussian noise differ by approximately 100% (around 0.0014 vs around 0.0029). The model can clearly distinguish MD&A text from non-text; it cannot reliably distinguish fraud-filing MD&A from clean-peer MD&A. That gap is the substantive finding of the project.",
+  { indent: { firstLine: 360 } }
+));
+children.push(p(
+  "Reading these diagnostics together: the autoencoders are real, working, and well-trained models in the technical sense — they reconstruct in-distribution input two orders of magnitude better than out-of-distribution input. The autoencoders are not, however, useful detectors of accounting fraud at this dataset size on this signal. Distinguishing those two claims is the central methodological discipline of the report.",
+  { indent: { firstLine: 360 } }
+));
+
 // Build & save
 const doc = new Document({
   styles: {
