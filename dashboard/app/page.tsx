@@ -237,6 +237,34 @@ export default function Home() {
         </p>
       </section>
 
+      {/* BASELINE-CHECK CALLOUT — narrative consistency with the report */}
+      <section className="bg-surface accent-border-top rounded-md shadow-card px-6 md:px-10 py-7 md:py-8">
+        <div className="grid md:grid-cols-[2fr,1fr] gap-6 md:gap-10 items-center">
+          <div>
+            <div className="eyebrow mb-3">A post-hoc check rewrote the headline</div>
+            <h2 className="font-serif text-[1.5rem] md:text-[1.75rem] font-semibold text-navy-900 leading-[1.2]">
+              A 1990s baseline matches or beats the autoencoder on every cohort.
+            </h2>
+            <p className="mt-3 text-sm md:text-base text-ink-2 leading-relaxed max-w-prose-narrow">
+              TF-IDF + truncated-SVD with the same 32-dim bottleneck and the
+              same training corpora lands Lehman at rank&nbsp;
+              <strong className="num text-navy-700">1 of 13</strong> with
+              <span className="num"> p&nbsp;&asymp;&nbsp;5&times;10⁻²² </span>—
+              stronger than the autoencoder on every metric.
+            </p>
+          </div>
+          <div className="flex md:justify-end">
+            <Link
+              href="/baseline/"
+              className="inline-flex items-center gap-1.5 px-5 py-3 rounded-md bg-navy-700 text-white text-sm font-semibold hover:bg-navy-800 transition-colors shadow-card"
+            >
+              <span>See the baseline check</span>
+              <span aria-hidden>→</span>
+            </Link>
+          </div>
+        </div>
+      </section>
+
       {/* TAKEAWAY — clean dark card, modern */}
       <section className="bg-navy-900 text-white rounded-md px-6 md:px-10 py-10 md:py-14 relative overflow-hidden">
         <div

@@ -36,6 +36,9 @@ export default function RootLayout({
               <Link href="/results/" className="hover:text-navy-700 transition-colors">
                 Results
               </Link>
+              <Link href="/baseline/" className="hover:text-navy-700 transition-colors">
+                Baseline check
+              </Link>
               <Link href="/methodology/" className="hover:text-navy-700 transition-colors">
                 Methodology
               </Link>
