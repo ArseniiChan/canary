@@ -95,9 +95,14 @@ s1.addText([
   x: 0.7, y: 6.3, w: 12, h: 0.4,
   fontFace: SANS, fontSize: 14,
 });
-s1.addText("github.com/ArseniiChan/canary", {
+s1.addText([
+  { text: "Live demo: ", options: { color: "CFD8E8" } },
+  { text: "canary-psi.vercel.app", options: { color: CANARY, bold: true } },
+  { text: "    ·    Code: ", options: { color: "CFD8E8" } },
+  { text: "github.com/ArseniiChan/canary", options: { color: CANARY } },
+], {
   x: 0.7, y: 6.7, w: 12, h: 0.3,
-  fontFace: SANS, fontSize: 11, color: CANARY,
+  fontFace: SANS, fontSize: 11,
 });
 
 // ---------- Slide 2: Driving question ----------
@@ -435,13 +440,15 @@ lessons.forEach((l, i) => {
 });
 
 s7.addText([
-  { text: "Code & data:  ", options: { color: "CFD8E8" } },
+  { text: "Try it:  ", options: { color: "CFD8E8" } },
+  { text: "canary-psi.vercel.app/scan", options: { color: CANARY, bold: true } },
+  { text: "    ·    Code:  ", options: { color: "CFD8E8" } },
   { text: "github.com/ArseniiChan/canary", options: { color: CANARY, bold: true } },
-  { text: "       ·       Frozen spec tag:  ", options: { color: "CFD8E8" } },
+  { text: "    ·    Tag:  ", options: { color: "CFD8E8" } },
   { text: "validation-spec-frozen", options: { color: CANARY, bold: true } },
 ], {
   x: 0.7, y: 6.5, w: 12, h: 0.4,
-  fontFace: SANS, fontSize: 13,
+  fontFace: SANS, fontSize: 12,
 });
 s7.addText("Thanks.", {
   x: 0.7, y: 6.9, w: 12, h: 0.4,

@@ -2,6 +2,8 @@
 
 **A pre-registered single-signal novelty study on SEC 10-K MD&A text — CSC 44800 (CCNY, Spring 2026).**
 
+**Live demo:** https://canary-psi.vercel.app · **Try it on a 10-K:** https://canary-psi.vercel.app/scan · **Inference endpoint:** https://arseniichan--score.modal.run
+
 Can a computer reading the words in a public company's annual report tell which companies turned out to be committing accounting fraud? This project tests one specific answer to that question, freezes the methodology before the validation runs, and reports the result as-is — including the part where a 1990s baseline matches the 2020s neural model.
 
 The short version of what this repo is and what it found:
