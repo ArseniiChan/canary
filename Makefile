@@ -3,7 +3,7 @@ PIP    ?= $(PYTHON) -m pip
 VENV   ?= .venv
 ACT    := . $(VENV)/bin/activate &&
 
-.PHONY: help venv install pin-accessions data parse embeddings train score validate figures ablation test reproduce clean
+.PHONY: help venv install pin-accessions data parse embeddings train score validate figures test reproduce clean
 
 help:
 	@echo "Canary build targets:"
@@ -52,13 +52,10 @@ validate:
 figures:
 	$(ACT) $(PYTHON) scripts/07_generate_figures.py
 
-ablation:
-	$(ACT) $(PYTHON) scripts/08_entity_masking_ablation.py
-
 test:
 	$(ACT) pytest
 
-reproduce: data embeddings train score validate figures ablation
+reproduce: data embeddings train score validate figures
 	@echo "Reproduction complete. See data/results/ and reports/figures/."
 
 clean:

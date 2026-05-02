@@ -238,12 +238,12 @@ This is the trust signal of the project — read carefully.
    constraint described in Section 4.1, not by analyst choice.
 2. **MiniLM pretraining contamination.** `all-MiniLM-L6-v2` was
    pre-trained on the public web and may have seen post-2008
-   commentary about these specific frauds. We provide an entity-masking
-   ablation on Enron only (see Appendix) as defensive evidence:
-   masking "Enron"/"Skilling"/"Andersen"/etc. and recomputing the
-   reconstruction error tells us whether the signal is driven by
-   literal name leakage. Masking does not, however, address possible
-   contamination via paraphrase or topical leakage.
+   commentary about these specific frauds. We pre-registered an
+   entity-masking ablation on Enron as defensive evidence, but
+   Enron has no native autoencoder under LOCO + time-controlled
+   training (Section 4.1) and we declined to run the ablation
+   against a non-native cohort model post-hoc. The contamination
+   risk therefore remains disclosed but empirically unaddressed.
 3. **Peer-matching residuals.** SIC 2-digit matching plus same fiscal
    year does not perfectly control for size, geography, or business
    model. EDGAR's currently-reported SIC may differ from a firm's
@@ -298,8 +298,9 @@ status and by year, plus failure list for manual review.
 * Sentence aggregation: mean (primary), trimmed-mean@5%, max
   ([data/results/scores.csv](../data/results/scores.csv) for raw values).
 * Sentence cap: 100 (primary), 50, 200 — descriptive sensitivity.
-* **Entity-masking on Enron only** — see
-  [data/results/entity_masking_ablation.json](../data/results/entity_masking_ablation.json).
+
+The pre-registered entity-masking ablation on Enron was not run; see
+Section 5 (Limitation 2) for the methodology rationale.
 
 ## Appendix E — Reproducibility
 
