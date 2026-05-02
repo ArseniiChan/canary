@@ -1,3 +1,4 @@
+import Link from "next/link";
 import perFraud from "../../public/data/per_fraud_metrics.json";
 
 interface PerFraudRow {
@@ -25,10 +26,26 @@ export default function Results() {
           Detailed results
         </h1>
         <p className="mt-2 text-sm text-secondary">
-          Per-cohort detail. The frozen analysis spec is at git tag{" "}
+          Per-cohort detail for the pre-registered autoencoder. The frozen
+          analysis spec is at git tag{" "}
           <span className="num">validation-spec-frozen</span>; this page is
           generated once from the validation script's output and not iterated.
         </p>
+        <div className="mt-4 rounded-md border border-rule bg-surface px-5 py-4 text-sm">
+          <div className="text-[10px] uppercase tracking-[0.14em] text-ink-3 font-semibold mb-1">
+            Read this alongside the baseline check
+          </div>
+          <p className="text-ink-2 leading-relaxed">
+            The numbers on this page are the autoencoder's, single-pass
+            against the frozen spec. After validation, I ran a post-hoc
+            TF-IDF + SVD32 baseline that tied or beat the autoencoder on
+            every cohort.{" "}
+            <Link href="/baseline/" className="underline hover:text-navy-700">
+              See the head-to-head comparison
+            </Link>{" "}
+            before drawing conclusions from the autoencoder column alone.
+          </p>
+        </div>
       </section>
 
       <section>

@@ -1,5 +1,6 @@
 import Link from "next/link";
 import perFraud from "../public/data/per_fraud_metrics.json";
+import perFraudTfidf from "../public/data/per_fraud_metrics_tfidf.json";
 import aggregate from "../public/data/aggregate_metrics.json";
 import { RankStat } from "./components/Stat";
 import { RankBar } from "./components/RankBar";
@@ -18,6 +19,15 @@ interface PerFraudRow {
   null_p_le_observed: number;
 }
 
+interface TfidfRow {
+  ticker: string;
+  fraud_rank: number;
+  n_total: number;
+  hit_at_1: number; hit_at_3: number; hit_at_5: number;
+  mw_p: number;
+  mw_effect_rank_biserial: number;
+}
+
 const FRAUD_NAMES: Record<string, string> = {
   ENE: "Enron Corp.", WCOM: "WorldCom Inc.", TYC: "Tyco International",
   HRC: "HealthSouth Corp.", VRX: "Valeant Pharmaceuticals", LEH: "Lehman Brothers",
@@ -29,8 +39,18 @@ const FRAUD_FY: Record<string, string> = {
 
 export default function Home() {
   const rows = (perFraud as { per_fraud: PerFraudRow[] }).per_fraud;
+  const tfRows = (perFraudTfidf as { per_fraud: TfidfRow[] }).per_fraud;
+  const tfByTicker: Record<string, TfidfRow> = Object.fromEntries(
+    tfRows.map((r) => [r.ticker, r])
+  );
+  const tfAgg = {
+    hit_at_1: tfRows.reduce((s, r) => s + r.hit_at_1, 0) / tfRows.length,
+    hit_at_3: tfRows.reduce((s, r) => s + r.hit_at_3, 0) / tfRows.length,
+    hit_at_5: tfRows.reduce((s, r) => s + r.hit_at_5, 0) / tfRows.length,
+  };
   const agg = (aggregate as { aggregate: Record<string, number> }).aggregate;
   const lehman = rows.find((r) => r.ticker === "LEH")!;
+  const lehmanTf = tfByTicker["LEH"];
   const others = rows.filter((r) => r.ticker !== "LEH").sort((a, b) => a.ticker.localeCompare(b.ticker));
 
   return (
@@ -75,13 +95,22 @@ export default function Home() {
               Lehman Brothers, FY2007
             </h2>
             <p className="mt-4 text-base text-ink-2 leading-relaxed max-w-prose-narrow">
-              Lehman's annual report — filed in January 2008, eight months before
+              Lehman's annual report — filed January 2008, eight months before
               Chapter 11 — ranks{" "}
-              <strong className="num text-navy-700">3 of 13</strong> in its
-              industry-and-year-matched cohort by mean per-sentence reconstruction
-              error. The Mann-Whitney U test on per-sentence errors is highly
-              significant (<span className="num">p ≈ 1.3 × 10⁻⁹</span>) but the
-              effect size is small. We report the result. We do not claim a method.
+              <strong className="num text-navy-700">{lehman.fraud_rank} of {lehman.n_total}</strong>{" "}
+              under the autoencoder and{" "}
+              <strong className="num text-navy-700">{lehmanTf.fraud_rank} of {lehmanTf.n_total}</strong>{" "}
+              under a post-hoc TF-IDF&nbsp;+&nbsp;SVD32 baseline. Both methods
+              place it above chance. The Mann-Whitney U test is highly
+              significant in both cases (<span className="num">p ≈ 1.3 × 10⁻⁹</span>{" "}
+              for the autoencoder; <span className="num">p ≈ 5 × 10⁻²²</span>{" "}
+              for the baseline) with small effect sizes. The simpler method
+              produces the cleaner result.{" "}
+              <strong className="text-ink">We report the result. We do not claim a method.</strong>{" "}
+              <Link href="/baseline/" className="underline hover:text-navy-700">
+                See the head-to-head
+              </Link>
+              .
             </p>
             <Link
               href="/per-fraud/leh/"
@@ -136,11 +165,11 @@ export default function Home() {
             <thead className="bg-surface-2 text-ink-3 text-[11px] uppercase tracking-[0.12em]">
               <tr>
                 <th className="px-5 py-3 text-left font-semibold">Cohort</th>
-                <th className="px-5 py-3 text-right font-semibold">Rank</th>
-                <th className="px-5 py-3 text-right font-semibold">Pct.</th>
-                <th className="px-5 py-3 text-left font-semibold w-1/3">Distribution</th>
-                <th className="px-5 py-3 text-right font-semibold">M-W p</th>
-                <th className="px-5 py-3 text-right font-semibold">Effect</th>
+                <th className="px-5 py-3 text-right font-semibold">AE rank</th>
+                <th className="px-5 py-3 text-right font-semibold">TF-IDF rank</th>
+                <th className="px-5 py-3 text-left font-semibold w-1/3">AE distribution</th>
+                <th className="px-5 py-3 text-right font-semibold">AE M-W p</th>
+                <th className="px-5 py-3 text-right font-semibold">AE effect</th>
                 <th className="px-5 py-3"></th>
               </tr>
             </thead>
@@ -157,8 +186,10 @@ export default function Home() {
                   <td className="px-5 py-4 text-right">
                     <RankStat rank={r.fraud_rank} total={r.n_total} size="sm" />
                   </td>
-                  <td className="px-5 py-4 text-right num text-ink-2">
-                    {r.fraud_percentile.toFixed(0)}%
+                  <td className={`px-5 py-4 text-right num ${tfByTicker[r.ticker] && tfByTicker[r.ticker].fraud_rank < r.fraud_rank ? "text-navy-700 font-semibold" : "text-ink-2"}`}>
+                    {tfByTicker[r.ticker]
+                      ? `${tfByTicker[r.ticker].fraud_rank} / ${tfByTicker[r.ticker].n_total}`
+                      : "—"}
                   </td>
                   <td className="px-5 py-4">
                     <RankBar
@@ -209,60 +240,42 @@ export default function Home() {
         </h2>
         <div className="grid grid-cols-3 divide-x divide-rule bg-surface rounded-md shadow-card">
           {[
-            { label: "Hit @ 1", obs: agg.hit_at_1, rnd: agg.random_hit_at_1 },
-            { label: "Hit @ 3", obs: agg.hit_at_3, rnd: agg.random_hit_at_3 },
-            { label: "Hit @ 5", obs: agg.hit_at_5, rnd: agg.random_hit_at_5 },
+            { label: "Hit @ 1", ae: agg.hit_at_1, tf: tfAgg.hit_at_1, rnd: agg.random_hit_at_1 },
+            { label: "Hit @ 3", ae: agg.hit_at_3, tf: tfAgg.hit_at_3, rnd: agg.random_hit_at_3 },
+            { label: "Hit @ 5", ae: agg.hit_at_5, tf: tfAgg.hit_at_5, rnd: agg.random_hit_at_5 },
           ].map((m) => {
-            const beats = m.obs > m.rnd;
+            const tfBeats = m.tf > m.rnd;
             return (
-              <div key={m.label} className="p-6 md:p-7">
-                <div className="text-[10px] uppercase tracking-[0.14em] text-ink-3 font-medium mb-2">
+              <div key={m.label} className="p-5 md:p-6">
+                <div className="text-[10px] uppercase tracking-[0.14em] text-ink-3 font-medium mb-3">
                   {m.label}
                 </div>
-                <div className="flex items-baseline gap-3">
-                  <div className={`num font-semibold text-4xl ${beats ? "text-navy-700" : "text-ink"}`}>
-                    {m.obs.toFixed(2)}
+                <dl className="space-y-1.5">
+                  <div className="flex items-baseline justify-between">
+                    <dt className="text-[11px] uppercase tracking-[0.1em] text-ink-3">AE</dt>
+                    <dd className="num font-semibold text-2xl text-ink">{m.ae.toFixed(2)}</dd>
                   </div>
-                  <div className="text-xs text-ink-3 num">
-                    random&nbsp;{m.rnd.toFixed(3)}
+                  <div className="flex items-baseline justify-between">
+                    <dt className="text-[11px] uppercase tracking-[0.1em] text-ink-3">TF-IDF</dt>
+                    <dd className={`num font-semibold text-2xl ${tfBeats ? "text-navy-700" : "text-ink"}`}>
+                      {m.tf.toFixed(2)}
+                    </dd>
                   </div>
-                </div>
+                  <div className="flex items-baseline justify-between">
+                    <dt className="text-[11px] uppercase tracking-[0.1em] text-ink-3">random</dt>
+                    <dd className="num text-2xl text-ink-3">{m.rnd.toFixed(3)}</dd>
+                  </div>
+                </dl>
               </div>
             );
           })}
         </div>
         <p className="mt-3 text-xs text-ink-3 max-w-prose-narrow">
-          Aggregate over the five primary-result cohorts. Observed rates fall at
-          or <em>below</em> the random baseline at every threshold.
+          The autoencoder rates fall at or <em>below</em> the random baseline
+          at every threshold. The post-hoc TF-IDF + SVD32 baseline (added
+          after results were observed; <Link href="/baseline/" className="underline hover:text-ink-2">see the baseline check</Link>)
+          is the only configuration in this study that exceeds random at any k.
         </p>
-      </section>
-
-      {/* BASELINE-CHECK CALLOUT — narrative consistency with the report */}
-      <section className="bg-surface accent-border-top rounded-md shadow-card px-6 md:px-10 py-7 md:py-8">
-        <div className="grid md:grid-cols-[2fr,1fr] gap-6 md:gap-10 items-center">
-          <div>
-            <div className="eyebrow mb-3">A post-hoc check rewrote the headline</div>
-            <h2 className="font-serif text-[1.5rem] md:text-[1.75rem] font-semibold text-navy-900 leading-[1.2]">
-              A 1990s baseline matches or beats the autoencoder on every cohort.
-            </h2>
-            <p className="mt-3 text-sm md:text-base text-ink-2 leading-relaxed max-w-prose-narrow">
-              TF-IDF + truncated-SVD with the same 32-dim bottleneck and the
-              same training corpora lands Lehman at rank&nbsp;
-              <strong className="num text-navy-700">1 of 13</strong> with
-              <span className="num"> p&nbsp;&asymp;&nbsp;5&times;10⁻²² </span>—
-              stronger than the autoencoder on every metric.
-            </p>
-          </div>
-          <div className="flex md:justify-end">
-            <Link
-              href="/baseline/"
-              className="inline-flex items-center gap-1.5 px-5 py-3 rounded-md bg-navy-700 text-white text-sm font-semibold hover:bg-navy-800 transition-colors shadow-card"
-            >
-              <span>See the baseline check</span>
-              <span aria-hidden>→</span>
-            </Link>
-          </div>
-        </div>
       </section>
 
       {/* TAKEAWAY — clean dark card, modern */}

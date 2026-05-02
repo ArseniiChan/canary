@@ -75,30 +75,82 @@ export default function BaselineCheck() {
       {/* HERO */}
       <section>
         <div className="eyebrow mb-4">
-          A post-hoc check that rewrote the headline
+          A post-hoc baseline that sharpens the same null
         </div>
         <h1 className="font-serif text-[2rem] md:text-[2.5rem] font-semibold text-navy-900 leading-[1.1] max-w-3xl">
-          A 1990s baseline matches or beats the autoencoder on every cohort.
+          On these five cohorts, a 1990s TF-IDF baseline tied or beat the autoencoder on every metric.
         </h1>
         <span className="h1-rule" aria-hidden />
         <p className="mt-5 text-base md:text-lg text-ink-2 leading-relaxed max-w-prose-narrow">
-          The pre-registered analysis used a PyTorch autoencoder over MiniLM
-          sentence embeddings. After the validation results came in, the
-          council reviewing this work demanded a baseline — a TF-IDF +
-          truncated-SVD pipeline with the same 32-dim bottleneck and the
-          same training corpora. The baseline was added <em>after</em> the
-          autoencoder ran, with a pre-committed decision rule: report it as
-          headline only if it (i) matches or beats AE on aggregate hit@k and
-          (ii) reproduces AE&rsquo;s top-cohort ordering. Both conditions
-          held.
+          A short reading guide before the numbers: the project asks
+          whether the language of a public company&rsquo;s annual report
+          (the &ldquo;MD&amp;A&rdquo; section, where management explains
+          the year in their own words) can flag the companies that turned
+          out to be committing accounting fraud. Both methods on this page
+          score a filing by how unusual its sentences look against
+          industry-and-year-matched peer filings.&nbsp;
+          <strong>Rank&nbsp;1 = the most unusual filing in its cohort.</strong>{" "}
+          That&rsquo;s the &ldquo;winning&rdquo; rank — fraud filings should
+          land near rank&nbsp;1 if the method works.
+        </p>
+        <p className="mt-4 text-sm md:text-base text-ink-2 leading-relaxed max-w-prose-narrow">
+          The pre-registered method was a PyTorch autoencoder over MiniLM
+          sentence embeddings. After validation ran, I added a much simpler
+          baseline — a TF-IDF + truncated-SVD pipeline with the same 32-dim
+          bottleneck, the same training corpora, and the same statistical
+          tests. The baseline was added <em>after</em> the autoencoder ran,
+          which means it is a post-hoc analysis. To keep it from drifting
+          into hypothesizing-after-results, I pre-committed two acceptance
+          conditions before running it; <Link href="#decision-rule" className="underline hover:text-navy-700">see the decision rule below</Link>.
+          The framing of the result on the rest of this page is the
+          honest one: TF-IDF tied or beat the autoencoder on every cohort
+          in this study, which means the autoencoder did not add a
+          measurable contribution beyond the simpler baseline. That does
+          not generalize to autoencoders in general — only to this signal,
+          on N&nbsp;=&nbsp;6 frauds.
+        </p>
+      </section>
+
+      {/* DECISION RULE — explicit, addresses HARKing concern */}
+      <section id="decision-rule" className="bg-surface rounded-md shadow-card px-6 md:px-8 py-6">
+        <div className="text-[10px] uppercase tracking-[0.14em] text-ink-3 font-semibold mb-2">
+          Pre-committed decision rule (post-hoc analyses)
+        </div>
+        <p className="text-sm text-ink-2 leading-relaxed">
+          Before I ran either of the two post-hoc analyses on this page, I
+          wrote down — and committed to — two acceptance conditions in
+          §6.6 of the report:
+        </p>
+        <ol className="mt-3 list-decimal list-outside ml-5 text-sm text-ink-2 space-y-1">
+          <li>
+            The TF-IDF baseline counts as a headline finding only if it
+            (a) matches or exceeds the autoencoder on aggregate hit@k at
+            any k, AND (b) reproduces the autoencoder&rsquo;s top-cohort
+            ordering (Lehman as the only above-chance cohort).
+          </li>
+          <li>
+            The entity-masking ablation counts as defensive evidence only
+            if Lehman&rsquo;s rank delta is at most one position.
+          </li>
+        </ol>
+        <p className="mt-3 text-sm text-ink-2 leading-relaxed">
+          Both held: TF-IDF aggregate hit@5 = 0.40 vs AE 0.20 with
+          identical Lehman-as-top-cohort ordering, and Lehman&rsquo;s
+          rank under masking is 3&nbsp;→&nbsp;3 (delta&nbsp;=&nbsp;0). Had
+          either failed, the corresponding analysis would have moved to
+          the appendix and not appeared on this page.
         </p>
       </section>
 
       {/* HEAD-TO-HEAD TABLE */}
       <section>
-        <h2 className="h-section text-[1.5rem] mb-5">
+        <h2 className="h-section text-[1.5rem] mb-2">
           Head-to-head: autoencoder vs TF-IDF + SVD32
         </h2>
+        <p className="text-sm text-ink-3 mb-5">
+          A bolded TF-IDF cell means the baseline beat the autoencoder on
+          that metric. Lower rank = more anomalous = better detection.
+        </p>
         <div className="bg-surface rounded-md shadow-card overflow-hidden">
           <table className="w-full text-sm">
             <thead className="bg-surface-2 text-ink-3 text-[11px] uppercase tracking-[0.12em]">
@@ -292,6 +344,15 @@ export default function BaselineCheck() {
           leakage (post-2008 commentary on repo accounting, off-balance-sheet
           vehicles) remains disclosed but unaddressed empirically.
         </p>
+        <p className="mt-3 text-xs text-ink-3 max-w-prose-narrow">
+          <em>A note on the table:</em> Lehman and Tyco both show 93 token
+          replacements. That is a coincidence, not a copy-paste artifact:
+          Lehman decomposes as 64 mentions of &ldquo;Lehman&rdquo; +
+          29 mentions of &ldquo;Lehman Brothers&rdquo;, while Tyco decomposes
+          as 87 mentions of &ldquo;Tyco&rdquo; + 6 mentions of &ldquo;ADT&rdquo;.
+          The two cohorts use entirely disjoint entity-token lists (verified
+          independently in <span className="num">scripts/10_entity_masking_posthoc.py</span>).
+        </p>
       </section>
 
       {/* INTERPRETATION */}
@@ -305,21 +366,25 @@ export default function BaselineCheck() {
             Reading the baseline check
           </div>
           <p className="text-[1.35rem] md:text-[1.55rem] leading-[1.45] max-w-3xl text-white font-medium">
-            At N&nbsp;=&nbsp;6 frauds, on this single MD&amp;A signal, the
-            2020s neural autoencoder did not earn its complexity. A 1990s
-            latent-semantic-analysis baseline matched or exceeded it on every
-            cohort.
+            On these five cohorts, on this single MD&amp;A signal, the
+            autoencoder showed no measurable advantage over a TF-IDF +
+            SVD32 baseline.
           </p>
           <p className="mt-5 text-[15px] md:text-base text-navy-200 leading-relaxed max-w-3xl">
-            That is the contribution: a pre-registered null result with a
-            baseline check that the field claims to want and rarely produces.
-            For the methodology in full, see the&nbsp;
+            The honest reading is narrow on purpose: this does not mean
+            autoencoders cannot detect fraud, or that neural models are
+            generally unhelpful. It means that on N&nbsp;=&nbsp;6 historical
+            frauds, on Item 7 MD&amp;A text, with a frozen pre-registered
+            spec, the simpler method was as informative as the more complex
+            one. The pre-registration discipline — not the head-to-head
+            outcome — is the project&rsquo;s actual deliverable. See the
+            full discussion in the&nbsp;
             <Link href="/methodology/" className="underline hover:text-canary">
               methodology page
             </Link>
-            ; for the limitations,&nbsp;
+            &nbsp;and the&nbsp;
             <Link href="/limitations/" className="underline hover:text-canary">
-              read here
+              limitations
             </Link>
             .
           </p>
