@@ -65,12 +65,18 @@ export default function Scan() {
   // Demo-mode pre-fill: ?demo=1 in the URL loads the prepared snippet and
   // switches to "Paste text" mode. Used at the May 7 presentation when the
   // podium machine doesn't have clipboard access. See reports/demo_script.md.
+  // The query param is stripped from the URL after firing so a shared link
+  // doesn't carry the pre-fill behavior unexpectedly.
   useEffect(() => {
     if (typeof window === "undefined") return;
     const params = new URLSearchParams(window.location.search);
     if (params.get("demo") === "1") {
       setMode("text");
       setText(DEMO_SNIPPET);
+      // Replace history without the query string so the URL the audience
+      // sees is /scan/, not /scan/?demo=1.
+      const cleanUrl = window.location.pathname + window.location.hash;
+      window.history.replaceState(null, "", cleanUrl);
     }
   }, []);
 
@@ -158,7 +164,7 @@ export default function Scan() {
                 onChange={(e) => setText(e.target.value)}
                 rows={12}
                 placeholder="Paste the Management's Discussion & Analysis (Item 7) section of a 10-K here. 200+ characters minimum; the full section (10-100k chars) gives the most useful signal."
-                className="w-full bg-surface-2 border border-rule rounded-md p-4 text-[13px] font-mono leading-relaxed text-ink focus:outline-none focus:ring-2 focus:ring-navy-500 focus:border-navy-500 placeholder:text-ink-3"
+                className="w-full bg-surface-2 border border-rule rounded-md p-4 text-[16px] md:text-[13px] font-mono leading-relaxed text-ink focus:outline-none focus:ring-2 focus:ring-navy-500 focus:border-navy-500 placeholder:text-ink-3"
               />
               <p className="mt-2 text-xs text-ink-3">
                 <span className="num">{text.length}</span> characters

@@ -160,7 +160,68 @@ export default function Home() {
           </h2>
           <span className="text-xs text-ink-3 hidden md:inline">rank 1 = highest reconstruction error</span>
         </div>
-        <div className="bg-surface rounded-md shadow-card overflow-x-auto">
+
+        {/* Mobile: per-cohort cards (TF-IDF rank stays visible without horizontal scroll) */}
+        <div className="md:hidden space-y-3">
+          {others.map((r) => {
+            const tf = tfByTicker[r.ticker];
+            const tfBeats = tf && tf.fraud_rank < r.fraud_rank;
+            return (
+              <div key={r.ticker} className="bg-surface rounded-md shadow-card px-4 py-4">
+                <div className="flex items-start justify-between mb-3">
+                  <div>
+                    <div className="font-medium text-ink">{FRAUD_NAMES[r.ticker]}</div>
+                    <div className="text-xs text-ink-3">{FRAUD_FY[r.ticker]}</div>
+                  </div>
+                  <Link
+                    href={`/per-fraud/${r.ticker.toLowerCase()}/`}
+                    className="text-ink-3 hover:text-navy-700 text-sm py-1 px-2 -m-1"
+                    aria-label={`Drill into ${FRAUD_NAMES[r.ticker]}`}
+                  >→</Link>
+                </div>
+                <dl className="grid grid-cols-2 gap-x-4 gap-y-2 text-sm">
+                  <div>
+                    <dt className="text-[10px] uppercase tracking-[0.14em] text-ink-3 font-medium">AE rank</dt>
+                    <dd className="num text-lg font-semibold text-ink">
+                      {r.fraud_rank} / {r.n_total}
+                    </dd>
+                  </div>
+                  <div>
+                    <dt className="text-[10px] uppercase tracking-[0.14em] text-ink-3 font-medium">TF-IDF rank</dt>
+                    <dd className={`num text-lg font-semibold ${tfBeats ? "text-navy-700" : "text-ink"}`}>
+                      {tf ? `${tf.fraud_rank} / ${tf.n_total}` : "—"}
+                    </dd>
+                  </div>
+                  <div>
+                    <dt className="text-[10px] uppercase tracking-[0.14em] text-ink-3 font-medium">AE M-W p</dt>
+                    <dd className="num text-sm text-ink-2">
+                      {r.mw_p < 0.001 ? r.mw_p.toExponential(1) : r.mw_p.toFixed(3)}
+                    </dd>
+                  </div>
+                  <div>
+                    <dt className="text-[10px] uppercase tracking-[0.14em] text-ink-3 font-medium">AE effect</dt>
+                    <dd className={`num text-sm ${r.mw_effect_rank_biserial > 0 ? "text-navy-700" : "text-ink-2"}`}>
+                      {r.mw_effect_rank_biserial > 0 ? "+" : ""}{r.mw_effect_rank_biserial.toFixed(2)}
+                    </dd>
+                  </div>
+                </dl>
+              </div>
+            );
+          })}
+          <div className="bg-surface-2/60 rounded-md shadow-card px-4 py-4">
+            <div className="font-medium text-ink-2 mb-1">Enron Corp.</div>
+            <div className="text-xs text-ink-3 mb-2">FY2000 — methodological exclusion</div>
+            <div className="text-xs text-ink-3 italic">
+              Filed 2001‑04‑02 — earlier than every peer in every other cohort.
+              Strict leave-one-cohort-out + time-controlled training admits no
+              eligible data. Exclusion is the finding.
+            </div>
+          </div>
+          <p className="text-xs text-ink-3 mt-2">rank 1 = highest reconstruction error (most anomalous)</p>
+        </div>
+
+        {/* Desktop: full table (md+ only) */}
+        <div className="hidden md:block bg-surface rounded-md shadow-card overflow-x-auto">
           <table className="w-full text-sm min-w-[640px]">
             <thead className="bg-surface-2 text-ink-3 text-[11px] uppercase tracking-[0.12em]">
               <tr>

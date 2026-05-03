@@ -29,27 +29,27 @@ export default function RootLayout({
                 A 10-K reading experiment
               </span>
             </Link>
-            <nav className="flex items-center gap-4 md:gap-6 text-[13px] font-medium text-ink-2 overflow-x-auto -mx-4 px-4 md:mx-0 md:px-0 whitespace-nowrap">
-              <Link href="/scan/" className="hover:text-navy-700 transition-colors shrink-0">
+            <nav className="grid grid-cols-3 gap-x-4 gap-y-2 md:flex md:items-center md:gap-6 text-[13px] font-medium text-ink-2">
+              <Link href="/scan/" className="hover:text-navy-700 transition-colors py-2 md:py-0 min-h-[44px] md:min-h-0 flex md:inline items-center">
                 Scan a filing
               </Link>
-              <Link href="/results/" className="hover:text-navy-700 transition-colors shrink-0">
+              <Link href="/results/" className="hover:text-navy-700 transition-colors py-2 md:py-0 min-h-[44px] md:min-h-0 flex md:inline items-center">
                 Results
               </Link>
-              <Link href="/baseline/" className="hover:text-navy-700 transition-colors shrink-0">
-                Baseline check
+              <Link href="/baseline/" className="hover:text-navy-700 transition-colors py-2 md:py-0 min-h-[44px] md:min-h-0 flex md:inline items-center">
+                Baseline
               </Link>
-              <Link href="/methodology/" className="hover:text-navy-700 transition-colors shrink-0">
+              <Link href="/methodology/" className="hover:text-navy-700 transition-colors py-2 md:py-0 min-h-[44px] md:min-h-0 flex md:inline items-center">
                 Methodology
               </Link>
-              <Link href="/limitations/" className="hover:text-navy-700 transition-colors shrink-0">
+              <Link href="/limitations/" className="hover:text-navy-700 transition-colors py-2 md:py-0 min-h-[44px] md:min-h-0 flex md:inline items-center">
                 Limitations
               </Link>
               <a
                 href="https://github.com/ArseniiChan/canary"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="hover:text-navy-700 transition-colors shrink-0"
+                className="hover:text-navy-700 transition-colors py-2 md:py-0 min-h-[44px] md:min-h-0 flex md:inline items-center"
               >
                 Source
               </a>
