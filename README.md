@@ -13,7 +13,7 @@ The short version of what this repo is and what it found:
 - **What it found.** A negative result, named honestly: of the six frauds, Enron is excluded by methodological necessity (the leave-one-cohort-out + time-controlled rule admits no eligible training data for the chronologically earliest fraud), and of the remaining five, only Lehman Brothers ranks in the top three within its cohort. A post-hoc TF-IDF + truncated-SVD trivial baseline matches or exceeds the autoencoder on every cohort, including a stronger Lehman result. At N = 6 frauds, on this single signal, the neural model adds nothing beyond a 1990s latent-semantic-analysis baseline.
 - **What it is not.** Not a fraud detector. Not a working production system. Not a claim that any of the six frauds would have been "caught early." It is a comparative novelty study with N = 6, run honestly, reported as-is, and useful as evidence that pre-registration discipline can survive an uncomfortable result.
 
-The full report is at [reports/canary_report.md](reports/canary_report.md); a one-page result summary follows.
+The full report is at [reports/Chan_Arsenii_CSC44800_FinalReport.md](reports/Chan_Arsenii_CSC44800_FinalReport.md); a one-page result summary follows.
 
 ## Headline numbers
 
@@ -49,7 +49,7 @@ canary/
 ├── data/
 │   ├── processed/           # Cohorts, parsed MD&A, training log, deny-lists
 │   └── results/             # Single-pass validation outputs + post-hoc
-├── reports/                 # canary_report.md, parsing_qa.md, cohort_overview.md, figures/
+├── reports/                 # Final report, parsing QA, cohort overview, figures/
 ├── dashboard/               # Next.js dashboard reading from data/results/
 └── serve/                   # Modal-deployed FastAPI inference endpoint for /scan
 ```
@@ -97,4 +97,4 @@ MIT. Use it, replicate it, beat the baseline.
 
 CSC 44800 — Artificial Intelligence, City College of New York, Spring 2026. Advisor: Prof. Erik K. Grimmelmann. Engineering quality bar set by the companion CSC 30100 project at https://github.com/ArseniiChan/startup-growth-simulator.
 
-Two adversarial review rounds and a five-advisor council deliberation shaped the methodology before code was written; a sixth council pass after the pre-registered validation forced the post-hoc TF-IDF baseline and the post-hoc entity-masking ablation into this report. The frozen-spec discipline survived all of it. Whatever the numbers say, that is the result.
+Multiple adversarial review rounds shaped the methodology before code was written; a final review after the pre-registered validation added the post-hoc TF-IDF baseline and the post-hoc entity-masking ablation to this report. The frozen-spec discipline survived all of it. Whatever the numbers say, that is the result.

@@ -304,10 +304,10 @@ members will type it on their phones. Be ready for follow-ups:
 
 ## Or — should the demo happen at all?
 
-The First Principles advisor's verdict was: **cut the demo entirely.**
-Their argument: a working dashboard URL on slide 7 does the same job
-at zero risk and zero contradiction cost. Live demos exist to prove
-something a screenshot can't, and here nothing qualifies.
+A serious case can be made to **cut the demo entirely.** The argument:
+a working dashboard URL on slide 7 does the same job at zero risk and
+zero contradiction cost. Live demos exist to prove something a
+screenshot can't, and here nothing qualifies.
 
 I'm keeping the demo because (a) the entity-masking framing of v2
 genuinely demonstrates something the screenshot can't (the result is

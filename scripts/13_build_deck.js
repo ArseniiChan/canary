@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /* eslint-disable */
-// Build canary deck (7 slides) per council verdict ordering:
+// Build canary deck (7 slides) ordering:
 //   1. Title
 //   2. Driving question (pull quote)
 //   3. The methodological contract  (the LEDE, not the result)

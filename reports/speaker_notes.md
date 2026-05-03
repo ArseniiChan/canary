@@ -1,7 +1,7 @@
-# Canary — Speaker Notes for May 7 Presentation (v2 — council-revised)
+# Canary — Speaker Notes for May 7 Presentation (v2)
 
 **Length:** 6–7 minute slot, 7 slides.
-**Realistic time budget:** target 6:30, hard ceiling 6:55. (The Executor advisor flagged that "6:05" was fiction for a cold first run; building in real buffer.)
+**Realistic time budget:** target 6:30, hard ceiling 6:55. ("6:05" was fiction for a cold first run; building in real buffer.)
 **Pacing rules:**
 1. **No jargon out loud.** "Autoencoder", "MD&A", "rank-biserial", "truncated SVD", "MiniLM", "bottleneck", "out-of-sample" all stay on the slide and never leave your mouth.
 2. **Don't pre-announce the conclusion.** Slide 1 sets the question; Slide 5 lands the punchline.
@@ -163,8 +163,6 @@ That gives you 1:25 of buffer for transitions, slow start, panel laughter, and t
 ---
 
 ## Rehearsal schedule (Mon May 4 — Thu May 7)
-
-Per the Executor advisor:
 
 - **Sun May 3 evening:** Full run with phone timer. Record audio. Don't edit notes yet — just listen back.
 - **Mon May 4:** Listen to Sunday's recording. Edit notes where you stumbled. Two short runs in the afternoon, focused on the ROUGH spots, not full talks.

@@ -25,13 +25,13 @@ I tested one such answer. The driving question is:
 
 The one-line answer this report defends: **at N = 6 frauds, with a frozen pre-registered specification and strict leave-one-cohort-out plus time-controlled training, the answer is no for four of five evaluable cohorts; the one that ranks high (Lehman) is matched or exceeded by a 1990s-era TF-IDF baseline; and the sixth (Enron) cannot be evaluated under the pre-registered rules at all.**
 
-The report is structured as follows. Section 2 states the methodological contract that governs every downstream choice. Section 3 describes the data construction. Section 4 covers MD&A extraction. Section 5 specifies the single signal. Section 6 covers the statistical defense, including the post-hoc TF-IDF baseline that the council reviewing this work demanded. Section 7 reports per-fraud results. Section 8 collects conclusions, limitations, and future work.
+The report is structured as follows. Section 2 states the methodological contract that governs every downstream choice. Section 3 describes the data construction. Section 4 covers MD&A extraction. Section 5 specifies the single signal. Section 6 covers the statistical defense, including the post-hoc TF-IDF baseline added during the post-observation review. Section 7 reports per-fraud results. Section 8 collects conclusions, limitations, and future work.
 
 Canary is not a fraud detector. The project is a comparative novelty study with N = 6 positive examples, evaluated as a held-out probe set under a contract that was written down and immutable before any number was looked at. The discipline of the contract is the deliverable; the numbers it produced are evidence the contract held. The components map to the CSC 44800 lecture sequence: AI 27 Neural networks and AI 35 Encoders/decoders (the autoencoder); AI 33 Attention and transformers and Meetings 22-23 LLMs (MiniLM embeddings); AI 28 Tensors, AI 31 Computational graphs, AI 10 Optimizers (the PyTorch implementation); AI 12 Introduction to machine learning (the post-hoc TF-IDF baseline).
 
 ## 2. The Methodological Contract
 
-The plan went through two adversarial review rounds and a five-advisor council deliberation before any code ran. The output is `analysis_spec.md`, committed to the repository and tagged `validation-spec-frozen`. Once tagged, the file is immutable: `scripts/06_validate.py` runs once against the frozen spec and produces a single set of numbers reported as-is. The full forensic record is on the repository: commit `98d2585`, tag `validation-spec-frozen`, datestamp 2026-05-01 13:42:42 EDT.
+The plan went through multiple structured pre-registration review rounds before any code ran. The output is `analysis_spec.md`, committed to the repository and tagged `validation-spec-frozen`. Once tagged, the file is immutable: `scripts/06_validate.py` runs once against the frozen spec and produces a single set of numbers reported as-is. The full forensic record is on the repository: commit `98d2585`, tag `validation-spec-frozen`, datestamp 2026-05-01 13:42:42 EDT.
 
 Three rules govern the analysis. **Leave-one-cohort-out.** For each held-out fraud cohort *C*, the autoencoder is trained on clean peer filings from cohorts other than *C*. The fraud filing in *C* and its peers are never in the training set. **Time-controlled training.** Only filings dated on or before each fraud's filing date are eligible within the LOCO training set; the model cannot be informed by post-fraud disclosure language. **Single pass, no tuning.** Architecture, hyperparameters, sentence cap, seeds, and the test set were all committed before validation. No tuning of any of these choices took place after observing per-fraud rank numbers.
 
@@ -78,7 +78,7 @@ Two design choices that did not work were caught in the build before the spec wa
 
 ## 6. Statistical Defense
 
-The frozen spec specifies four primary statistical analyses per cohort, all computed by `scripts/06_validate.py`. After observing primary results, council review demanded one additional analysis as a post-hoc check.
+The frozen spec specifies four primary statistical analyses per cohort, all computed by `scripts/06_validate.py`. After observing primary results, a post-observation review added one additional analysis as a post-hoc check.
 
 **Per-fraud rank within cohort with random-baseline comparison.** All filings in a cohort are sorted by mean per-sentence reconstruction error descending (rank 1 = highest). Random-baseline expected rank for a cohort of size *N* is (*N*+1)/2 ≈ 6-7. Hit@k for *k* ∈ {1, 3, 5} is computed per cohort and aggregated.
 
