@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /* eslint-disable */
-// Build canary_report_short.docx — the 12-15 page submission body.
+// Build canary_report_short.docx, the 12-15 page submission body.
 // Mirrors scripts/12_build_report_docx.js styling (Times New Roman 12pt
 // double-spaced, US Letter, 1" margins, page numbers in footer) but
 // uses ONLY the body content from canary_report_short.md and includes
@@ -128,7 +128,7 @@ children.push(new Paragraph({
   alignment: AlignmentType.CENTER,
   spacing: { before: 0, after: 120, line: 280, lineRule: "auto" },
   children: [new TextRun({
-    text: "Canary — A Pre-Registered Single-Signal Novelty Study on SEC 10-K MD&A Text",
+    text: "Canary: A Pre-Registered Single-Signal Novelty Study on SEC 10-K MD&A Text",
     font: TIMES, size: 32, bold: true,
   })],
 }));
@@ -138,7 +138,7 @@ children.push(new Paragraph({
 }));
 children.push(new Paragraph({
   alignment: AlignmentType.CENTER, spacing: SINGLE,
-  children: [new TextRun({ text: "CSC 44800 — Artificial Intelligence", font: TIMES, size: BODY })],
+  children: [new TextRun({ text: "CSC 44800, Artificial Intelligence", font: TIMES, size: BODY })],
 }));
 children.push(new Paragraph({
   alignment: AlignmentType.CENTER, spacing: SINGLE,
@@ -159,14 +159,14 @@ children.push(new Paragraph({
 // Abstract
 children.push(h1("Abstract"));
 [
-  "Can a computer reading the words in an annual report tell which companies turned out to be committing accounting fraud? This project tests one specific answer. I treat each Form 10-K filing's Management's Discussion and Analysis section (Item 7) as a sequence of sentences, embed every sentence with all-MiniLM-L6-v2, train a small autoencoder (384 → 128 → 32 → 128 → 384) on clean peer filings, and score each filing by mean per-sentence reconstruction error. Training is leave-one-cohort-out and time-controlled: the model only sees clean peer filings from other cohorts dated on or before each fraud's filing date. The held-out evaluation set is six historical accounting frauds — Enron (FY2000), WorldCom (FY2001), Tyco (FY2001), HealthSouth (FY2001), Valeant (FY2014), and Lehman Brothers (FY2007). The analysis specification, including exact accession numbers, was committed and git-tagged validation-spec-frozen before any validation script ran.",
-  "The headline is honest about three things. First, the pre-registered design was infeasible for Enron — under the strict LOCO + time-controlled rule no eligible training data exists, because Enron's filing date precedes every peer in every other cohort. Enron is excluded from the primary results; the exclusion is a finding about pre-registration, not fraud detection. Second, of the five remaining cohorts only Lehman ranks in the top three (rank 3/13, sentence-level Mann-Whitney p ≈ 1.3 × 10⁻⁹, rank-biserial effect +0.12); the other four rank at or below random. Aggregate hit-rates are at or below the random baseline. Third, a post-hoc TF-IDF + truncated-SVD trivial baseline matches or exceeds the autoencoder on every cohort and produces a stronger Lehman signal (p ≈ 5 × 10⁻²², rank 1/13). On this dataset, the 2020s neural model adds no measurable signal beyond a 1990s latent-semantic-analysis baseline. The contribution is methodological: pre-registration that survives an uncomfortable result, plus a baseline check the field claims to want and rarely produces.",
+  "Can a computer reading the words in an annual report tell which companies turned out to be committing accounting fraud? This project tests one specific answer. I treat each Form 10-K filing's Management's Discussion and Analysis section (Item 7) as a sequence of sentences, embed every sentence with all-MiniLM-L6-v2, train a small autoencoder (384 → 128 → 32 → 128 → 384) on clean peer filings, and score each filing by mean per-sentence reconstruction error. Training is leave-one-cohort-out and time-controlled: the model only sees clean peer filings from other cohorts dated on or before each fraud's filing date. The held-out evaluation set is six historical accounting frauds: Enron (FY2000), WorldCom (FY2001), Tyco (FY2001), HealthSouth (FY2001), Valeant (FY2014), and Lehman Brothers (FY2007). The analysis specification, including exact accession numbers, was committed and git-tagged validation-spec-frozen before any validation script ran.",
+  "The headline is honest about three things. First, the pre-registered design was infeasible for Enron. Under the strict LOCO + time-controlled rule no eligible training data exists, because Enron's filing date precedes every peer in every other cohort. Enron is excluded from the primary results; the exclusion is a finding about pre-registration, not fraud detection. Second, of the five remaining cohorts only Lehman ranks in the top three (rank 3/13, sentence-level Mann-Whitney p ≈ 1.3 × 10⁻⁹, rank-biserial effect +0.12); the other four (HealthSouth 7/12, Tyco 9/13, Valeant 8/13, WorldCom 12/13) rank no better than the random baseline (expected rank ≈ 7). Aggregate hit-rates are at or below the random baseline. Third, a post-hoc TF-IDF + truncated-SVD trivial baseline matches or exceeds the autoencoder on every cohort and produces a stronger Lehman signal (p ≈ 5 × 10⁻²², rank 1/13). On this dataset, the 2020s neural model adds no measurable signal beyond a 1990s latent-semantic-analysis baseline. The contribution is methodological: pre-registration that survives an uncomfortable result, plus a baseline check the field claims to want and rarely produces.",
 ].forEach(t => children.push(p(t, { indent: { firstLine: 360 } })));
 
 // 1. Introduction
 children.push(h1("1. Introduction and Driving Question"));
 [
-  "The Management's Discussion and Analysis (MD&A) section of a 10-K is the longest stretch of free-form prose in a public company's annual report — Item 7 in the standard SEC form, where management explains the year in their own words. A literature in accounting and finance argues that companies that later turn out to have been committing fraud leave detectable linguistic fingerprints in their pre-discovery filings. The natural question is whether unsupervised novelty detection — sentence embeddings plus a reconstruction-error model trained on clean filings — can recover that fingerprint without ever seeing a fraud label.",
+  "The Management's Discussion and Analysis (MD&A) section of a 10-K is the longest stretch of free-form prose in a public company's annual report. It is Item 7 in the standard SEC form, where management explains the year in their own words. A literature in accounting and finance argues that companies that later turn out to have been committing fraud leave detectable linguistic fingerprints in their pre-discovery filings. The natural question is whether unsupervised novelty detection, treated as sentence embeddings plus a reconstruction-error model trained on clean filings, can recover that fingerprint without ever seeing a fraud label.",
   "I tested one such answer. The driving question is:",
 ].forEach(t => children.push(p(t, { indent: { firstLine: 360 } })));
 children.push(new Paragraph({
@@ -189,7 +189,7 @@ children.push(buildTable(
     ["MiniLM sentence embeddings (the input to every model)", "AI 33 Attention and transformers; AI 35 Encoders and decoders; Meetings 22–23 (LLMs, Apr 30 / May 5)"],
     ["Custom autoencoder, 384 → 128 → 32 → 128 → 384 ReLU, MSE, Adam", "AI 27 Neural networks; AI 35 Encoders and decoders; AI 28 Tensors; AI 31 Computational graphs; AI 10 Optimizers"],
     ["Post-hoc TF-IDF + truncated-SVD baseline", "AI 12 Introduction to machine learning"],
-    ["Mann-Whitney U + bootstrap + null permutation", "Adjacent — Russell & Norvig general framing of empirical evaluation"],
+    ["Mann-Whitney U + bootstrap + null permutation", "Adjacent: Russell & Norvig, general framing of empirical evaluation"],
   ],
   [3500, 5860]
 ));
@@ -197,8 +197,8 @@ children.push(buildTable(
 // 2. Methodological Contract
 children.push(h1("2. The Methodological Contract"));
 [
-  "The plan went through two adversarial review rounds and a five-advisor council deliberation before any code ran. The output is analysis_spec.md, committed to the repository and tagged validation-spec-frozen. Once tagged, the file is immutable: scripts/06_validate.py runs once against the frozen spec and produces a single set of numbers reported as-is. The full forensic record — commit 98d2585, tag validation-spec-frozen, datestamp 2026-05-01 13:42:42 EDT — is on the repository.",
-  "Three rules govern the analysis. Out-of-sample, always — leave-one-cohort-out: for each held-out fraud cohort C, the autoencoder is trained on clean peer filings from cohorts other than C, and the fraud filing in C and its peers are never in the training set. Time-controlled training: only filings dated on or before each fraud's filing date are eligible within the LOCO training set; the model cannot be informed by post-fraud disclosure language. Single pass, no tuning: architecture, hyperparameters, sentence cap, seeds, and the test set were all committed before validation, and no tuning of any of these choices took place after observing per-fraud rank numbers.",
+  "The plan went through two adversarial review rounds and a five-advisor council deliberation before any code ran. The output is analysis_spec.md, committed to the repository and tagged validation-spec-frozen. Once tagged, the file is immutable: scripts/06_validate.py runs once against the frozen spec and produces a single set of numbers reported as-is. The full forensic record is on the repository: commit 98d2585, tag validation-spec-frozen, datestamp 2026-05-01 13:42:42 EDT.",
+  "Three rules govern the analysis. The first is leave-one-cohort-out: for each held-out fraud cohort C, the autoencoder is trained on clean peer filings from cohorts other than C, and the fraud filing in C and its peers are never in the training set. The second is time-controlled training: within that LOCO training set, only filings dated on or before each fraud's filing date are eligible, so the model cannot be informed by post-fraud disclosure language. The third is single-pass, no tuning: architecture, hyperparameters, sentence cap, seeds, and the test set were all committed before validation, and no tuning of any of these choices took place after observing per-fraud rank numbers.",
   "A peer is admitted to a cohort iff three rules hold: the CIK is not on an editable AAER deny-list (sourced from public knowledge of SEC enforcement releases); the same CIK has filed no Form 10-K/A within five years post-filing; the CIK or company name is not on an editable class-action deny-list. Both deny-lists are committed at data/processed/aaer_denylist.txt and data/processed/classaction_denylist.txt.",
   "What this project deliberately does not do: call itself a fraud detector; train any supervised classifier on fraud labels; use Benford's Law (an early draft did; the second adversarial review pointed out Benford applies to financial-statement line items, not narrative); include foreign-issuer 20-Fs; compose multiple signals into a \"Canary score\"; claim that any fraud would have been \"flagged N months early\"; or modify the primary configuration after observing primary results.",
 ].forEach(t => children.push(p(t, { indent: { firstLine: 360 } })));
@@ -223,24 +223,25 @@ children.push(buildTable(
   [600, 1900, 1100, 500, 1200, 700, 1360]
 ));
 [
-  "Each cohort is constructed as same-SIC-2-digit and same-fiscal-year peers, screened against the operational clean rule. Final cohort sizes: Enron 12, HealthSouth 11, Tyco 12, Valeant 12, Lehman 12, WorldCom 12 clean peers. None required SIC-1-digit fallback.",
-  "Two limitations of the data construction matter for interpretation. First, AAER and class-action screening were applied via editable deny-lists rather than systematic database lookups; a peer that committed undisclosed fraud could appear in a cohort, which would push the null toward zero (peers behave more like frauds) and make the test conservative. Second, EDGAR reports each company's currently-reported SIC, which may differ from its at-time-of-filing SIC. I use what EDGAR currently reports and apply it symmetrically across fraud and peer filings — the cleanest available rule but not a perfect control for sector-at-filing.",
+  "Each cohort is constructed as same SIC (Standard Industrial Classification) 2-digit and same-fiscal-year peers, screened against the operational clean rule. Final cohort sizes: Enron 12, HealthSouth 11, Tyco 12, Valeant 12, Lehman 12, WorldCom 12 clean peers. None required SIC-1-digit fallback.",
+  "Two limitations of the data construction matter for interpretation. First, AAER and class-action screening were applied via editable deny-lists rather than systematic database lookups; a peer that committed undisclosed fraud could appear in a cohort, which would push the null toward zero (peers behave more like frauds) and make the test conservative. Second, EDGAR reports each company's currently-reported SIC, which may differ from its at-time-of-filing SIC. I use what EDGAR currently reports and apply it symmetrically across fraud and peer filings. This is the cleanest available rule, though not a perfect control for sector-at-filing.",
 ].forEach(t => children.push(p(t, { indent: { firstLine: 360 } })));
 
 // 4. MD&A Extraction
 children.push(h1("4. MD&A Extraction"));
 [
   "10-K filings span three formats relevant to this project: SGML-era plain-text (most pre-2002 filings), early HTML, and modern HTML. The parser at engine/parsing.py handles all three through a prioritized candidate list: it strips HTML when present, normalizes whitespace, and locates the most likely (start, end) boundary pair from a list led by (first Item 7 past TOC threshold, last Item 7A in document), with fallbacks for filings whose body MD&A header lacks a literal \"Item 7\" prefix (Tyco-style incorporation by reference). Candidate (Item 7, Item 7A) pairs within 1,000 characters of each other are filtered as TOC entries; bodies under 3,000 or over 400,000 characters are rejected.",
-  "I committed in advance to a hard 80% extraction-success gate before proceeding. The parser hits 73 of 78 filings (93.6%) across all six cohorts. All six fraud filings parsed successfully (100%); the five failures are pre-2001-vintage peer filings with missing primary-document attachments or missing Item 7A end-anchors. No manual extraction fixes were applied — every parse is the parser's first attempt — so there is no possibility of asymmetric manual correction biasing the fraud-vs-peer comparison. Per-cohort detail is in reports/parsing_qa.md.",
+  "I committed in advance to a hard 80% extraction-success gate before proceeding. The parser hits 73 of 78 filings (93.6%) across all six cohorts. All six fraud filings parsed successfully (100%); the five failures are pre-2001-vintage peer filings with missing primary-document attachments or missing Item 7A end-anchors. No manual extraction fixes were applied. Every parse is the parser's first attempt, so there is no possibility of asymmetric manual correction biasing the fraud-vs-peer comparison. Per-cohort detail is in reports/parsing_qa.md.",
 ].forEach(t => children.push(p(t, { indent: { firstLine: 360 } })));
 
 // 5. The Single Signal
 children.push(h1("5. The Single Signal"));
 [
   "Each filing's MD&A body is sentence-tokenized using a regex-based splitter that protects common abbreviations. Sentences shorter than 20 characters or composed mostly of digits are dropped. Each remaining sentence is embedded with sentence-transformers/all-MiniLM-L6-v2 (384 dimensions); embeddings are cached on disk per (filing, model) for deterministic reproducibility.",
-  "I implement a small symmetric autoencoder in PyTorch at engine/autoencoder.py: 384 → 128 → 32 → 128 → 384 with ReLU activations, MSE reconstruction loss, Adam optimizer at learning rate 1e-3, batch size 16, maximum 200 epochs with early stopping (patience 20) on a 20% validation split. The 32-dimensional bottleneck is small relative to the 384-dim input by design — a lossy bottleneck forces the model to retain training-distribution structure and reconstruct out-of-distribution sentences poorly. Random seeds for numpy, torch, and Python random are all 42.",
+  "I implement a small symmetric autoencoder in PyTorch at engine/autoencoder.py: 384 → 128 → 32 → 128 → 384 with ReLU activations, MSE reconstruction loss, Adam optimizer at learning rate 1e-3, batch size 16, maximum 200 epochs with early stopping (patience 20) on a 20% validation split. The 32-dimensional bottleneck is small relative to the 384-dim input by design. A lossy bottleneck forces the model to retain training-distribution structure and reconstruct out-of-distribution sentences poorly. Random seeds for numpy, torch, and Python random are all 42.",
   "For each held-out fraud cohort C, the training corpus is constructed by replaying the spec's rule: every sentence from every clean peer filing in cohorts other than C, restricted to filings dated on or before C's fraud filing date. A per-filing sentence cap of 100 prevents long-MD&A pseudoreplication during training. The five trained autoencoders had training-set sizes of 1,477 (WCOM), 861 (TYC), 2,283 (HRC), 4,327 (VRX), and 3,367 (LEH) sentences. Section 8 examines whether the factor-of-five spread between Tyco and Valeant explains per-cohort rank ordering; it does not.",
   "At inference, each filing's MD&A is embedded the same way; the autoencoder's per-sentence reconstruction error is MSE between input and output for that sentence; the filing's score is the mean per-sentence reconstruction error. Per-filing scores for fraud and clean peers in each of the five LOCO cohorts are written to data/results/scores.csv and feed Section 6.",
+  "Two design choices that did not work were caught in the build before the spec was frozen and are documented for transparency. First, an early version of this pipeline used Benford's Law on MD&A text as an auxiliary signal. The second adversarial review pointed out that Benford applies to financial-statement line items, not narrative prose, so the method was incoherent on its face; Benford was removed from the spec before any code ran. Second, the original peer-matching rule used SIC-1-digit codes; preliminary cohort assembly produced peer pools that were too heterogeneous (SIC-1 mixes consumer durables with industrial machinery, for example), so I tightened the rule to SIC-2-digit before freezing the spec. The autoencoder bottleneck dimension itself was frozen at 32 a priori without a sensitivity sweep; that is named as a limitation in Section 8 rather than fixed post-hoc, since changing the bottleneck after observing per-fraud rank numbers would have violated the contract.",
 ].forEach(t => children.push(p(t, { indent: { firstLine: 360 } })));
 
 // 6. Statistical Defense
@@ -258,8 +259,8 @@ children.push(h1("6. Statistical Defense"));
 children.push(h1("7. Results"));
 children.push(h2("7.1 Methodological exclusion of Enron"));
 [
-  "Enron's FY2000 10-K was filed 2001-04-02. The earliest filing in any other cohort is Tyco's, dated 2001-12-28 — 270 days later. Under the strict LOCO + time-controlled rule, Enron's eligible training set is empty: no autoencoder was trained, and no per-filing score, rank, Mann-Whitney result, or bootstrap CI can be reported for Enron without violating the frozen spec.",
-  "This is the correct outcome of the contract, not a workaround for missing data. The honest reading is uncomfortable: the pre-registered design was infeasible for the most famous fraud in the dataset, and the design freeze did not catch the consequence. That is a finding about pre-registration, not fraud detection. It also illustrates a generalizable problem in held-out evaluation under temporal constraints — when held-out positive examples include the chronologically earliest one in the eligible universe, time-controlled training has no out-of-sample data to consume.",
+  "Enron's FY2000 10-K was filed 2001-04-02. The earliest filing in any other cohort is Tyco's, dated 2001-12-28, 270 days later. Under the strict LOCO + time-controlled rule, Enron's eligible training set is empty: no autoencoder was trained, and no per-filing score, rank, Mann-Whitney result, or bootstrap CI can be reported for Enron without violating the frozen spec.",
+  "This is the correct outcome of the contract, not a workaround for missing data. The honest reading is uncomfortable: the pre-registered design was infeasible for the most famous fraud in the dataset, and the design freeze did not catch the consequence. That is a finding about pre-registration, not fraud detection. It also illustrates a generalizable problem in held-out evaluation under temporal constraints. When held-out positive examples include the chronologically earliest one in the eligible universe, time-controlled training has no out-of-sample data to consume.",
 ].forEach(t => children.push(p(t, { indent: { firstLine: 360 } })));
 
 children.push(h2("7.2 Per-fraud rank under the pre-registered autoencoder"));
@@ -276,7 +277,7 @@ children.push(buildTable(
   [1700, 600, 700, 1500, 1400, 900, 1100]
 ));
 [
-  "Lehman is the only cohort that ranks among the top three. The Mann-Whitney p-value of 1.3 × 10⁻⁹ on Lehman is small, but must be read alongside the effect size: rank-biserial of +0.12 (small) with 1,051 fraud sentences against 5,763 peer sentences. Sentence-level p-values scale aggressively with sentence count under fixed effect size; the rank-biserial effect is the more honest summary statistic. The other four cohorts show negative effect sizes — fraud per-sentence errors are statistically lower than peers' — meaning the autoencoder's signal on those cohorts is in the opposite of the predicted direction.",
+  "Lehman is the only cohort that ranks among the top three. The Mann-Whitney p-value of 1.3 × 10⁻⁹ on Lehman is small, but must be read alongside the effect size: rank-biserial of +0.12 (small) with 1,051 fraud sentences against 5,763 peer sentences. Sentence-level p-values scale aggressively with sentence count under fixed effect size; the rank-biserial effect is the more honest summary statistic. The other four cohorts show negative effect sizes. Fraud per-sentence errors are statistically lower than peers', which means the autoencoder's signal on those cohorts is in the opposite of the predicted direction.",
   "Across the five LOCO cohorts, aggregate hit@1 = 0.00, hit@3 = 0.20, hit@5 = 0.20, against random-baseline 0.08 / 0.23 / 0.39. The observed hit-rates fall at or below random expectation at every threshold. Hit@3 and hit@5 correspond entirely to Lehman.",
 ].forEach(t => children.push(p(t, { indent: { firstLine: 360 } })));
 
@@ -294,9 +295,9 @@ children.push(buildTable(
   [1700, 800, 1000, 1300, 1300, 900, 1000]
 ));
 children.push(image("ae_vs_tfidf_rank.png", 5.5));
-children.push(caption("Figure 1. Per-fraud rank: pre-registered autoencoder vs post-hoc TF-IDF + SVD32 baseline. The trivial baseline matches the autoencoder on Valeant and WorldCom and outperforms it on Lehman, HealthSouth, and Tyco."));
+children.push(caption("Figure 1. Per-fraud rank, pre-registered autoencoder vs post-hoc TF-IDF + SVD32 baseline. The trivial baseline matches the autoencoder on Valeant and WorldCom and outperforms it on Lehman, HealthSouth, and Tyco."));
 [
-  "The TF-IDF + SVD32 baseline matches the autoencoder on Valeant and WorldCom and outperforms it on Lehman, HealthSouth, and Tyco. On Lehman, the trivial baseline lands the fraud at rank 1 of 13 with MW p ≈ 5 × 10⁻²² and rank-biserial +0.19, both stronger than the autoencoder. Aggregate hit-rates for the trivial baseline are hit@1 = 0.20, hit@3 = 0.20, hit@5 = 0.40 — the only configuration in this study that exceeds the random baseline at any k.",
+  "The TF-IDF + SVD32 baseline matches the autoencoder on Valeant and WorldCom and outperforms it on Lehman, HealthSouth, and Tyco. On Lehman, the trivial baseline lands the fraud at rank 1 of 13 with MW p ≈ 5 × 10⁻²² and rank-biserial +0.19, both stronger than the autoencoder. Aggregate hit-rates for the trivial baseline are hit@1 = 0.20, hit@3 = 0.20, hit@5 = 0.40. This is the only configuration in this study that exceeds the random baseline at any k.",
   "The interpretation requires care. The trivial baseline being competitive does not validate the autoencoder; it indicates that whatever signal exists at this dataset size is captured by sentence-level vocabulary distinctiveness alone. The signal that survives is text-distributional, not deep-learning-specific. At N = 6, on this signal, the 2020s neural model contributes nothing beyond a 1990s LSA baseline.",
 ].forEach(t => children.push(p(t, { indent: { firstLine: 360 } })));
 
@@ -324,7 +325,7 @@ children.push(p(
 
 children.push(h2("7.5 Leave-one-fraud-out + interpretation"));
 children.push(p(
-  "Removing each fraud in turn does not produce a regime under which the four-fraud aggregate beats random; removing Lehman drops hit@3 and hit@5 to 0.00. The aggregate result is entirely Lehman. Two readings are consistent with the data — either the single signal has no out-of-sample power at N = 6, or MD&A language is too heterogeneous for a single autoencoder reconstruction-error signal to discriminate fraud from clean peers without supervision. Both yield the same conclusion: at this dataset size, on this signal, the answer to the driving question is no.",
+  "Removing each fraud in turn does not produce a regime under which the four-fraud aggregate beats random; removing Lehman drops hit@3 and hit@5 to 0.00. The aggregate result is entirely Lehman. Two readings are consistent with the data. Either the single signal has no out-of-sample power at N = 6, or MD&A language is too heterogeneous for a single autoencoder reconstruction-error signal to discriminate fraud from clean peers without supervision. Both yield the same conclusion: at this dataset size, on this signal, the answer to the driving question is no.",
   { indent: { firstLine: 360 } }
 ));
 
@@ -333,11 +334,11 @@ children.push(h1("8. Conclusions, Limitations, Future Work"));
 children.push(p("Three substantive findings emerged.", { indent: { firstLine: 360 } }));
 [
   "First, a pre-registered single-signal unsupervised novelty study on SEC 10-K MD&A text, evaluated under strict LOCO + time-controlled training against six historical fraud filings, produces a negative result. Of five evaluable cohorts, four rank fraud filings at or below the random-baseline expectation. The single positive cohort (Lehman) is matched or exceeded by a 1990s-era TF-IDF + truncated-SVD trivial baseline.",
-  "Second, the pre-registered design was infeasible for Enron under LOCO + time-controlled training because the chronologically earliest held-out positive has no eligible training data. That is a finding about pre-registration discipline, not fraud-detection capability — and a generalizable lesson: any held-out evaluation under temporal constraints must verify that every held-out positive admits at least one eligible training cohort under the proposed rule before the spec is frozen.",
+  "Second, the pre-registered design was infeasible for Enron under LOCO + time-controlled training because the chronologically earliest held-out positive has no eligible training data. That is a finding about pre-registration discipline, not fraud-detection capability. It is also a generalizable lesson: any held-out evaluation under temporal constraints must verify that every held-out positive admits at least one eligible training cohort under the proposed rule before the spec is frozen.",
   "Third, the trivial-baseline gap is the most decisive result. Without it, the project would have reported \"Lehman is detectable\" as the clean positive. With it, the honest claim is \"Lehman is detectable by both methods, and the more expensive method does not beat the cheaper one.\" The lesson is that a sharp baseline is not optional; a result that does not survive a baseline check is not a result.",
-  "Three lessons follow. Pre-registration is load-bearing only if it survives contact with the data — the frozen spec held; I did not iterate the autoencoder, redefine \"clean,\" or retreat from Enron's exclusion. Methodological exclusions are content if owned — Section 7.1 reports Enron's exclusion as a finding rather than a workaround. The Lehman training-size confound is real, partially refuted, and named — Valeant trained on more sentences (4,327) than Lehman (3,367) and ranks 8/13, so size alone does not explain Lehman's rank; the TF-IDF baseline reproduces the Lehman-specific result, weakly arguing for a real text-distributional Lehman signature rather than a method-specific artifact.",
+  "Three lessons follow from the work itself. Pre-registration was load-bearing only because the frozen spec held under data that disappointed: I did not iterate the autoencoder, redefine \"clean,\" or retreat from Enron's exclusion. The Enron exclusion is content rather than missing data because Section 7.1 reports it as a finding. And the Lehman training-size confound, which is the obvious objection to the one positive cohort, is partially refuted by the project's own data: Valeant trained on more sentences (4,327) than Lehman (3,367) yet ranks 8/13, so training-corpus size alone does not explain Lehman's rank. The TF-IDF baseline reproduces the Lehman-specific result, which weakly argues for a real text-distributional Lehman signature rather than a method-specific artifact.",
   "Limitations. N = 6 (effective N = 5) is too small for confidence intervals to constrain anything tightly. MiniLM pretraining contamination beyond literal-name leakage was not addressed empirically. SIC-2-digit + same-fiscal-year peer matching is coarse and admits residual heterogeneity. EDGAR's currently-reported SIC differs in some cases from the firm's at-time-of-filing SIC. The operational \"clean\" rule is editable-deny-list-only with partial coverage. The autoencoder bottleneck dimension was frozen at 32 without a sensitivity sweep.",
-  "Future work. The most informative single direction is change-detection within firm: instead of comparing a fraud filing's MD&A against industry peers, compare it against the same firm's prior-year MD&A. This controls for firm-specific style at the cost of losing the fraud-vs-clean comparison and converts the question from \"is this filing anomalous against peers\" to \"is this filing anomalous against itself.\" Other directions: multi-section integration (Item 1A risk factors, Item 8 financial notes); structured-plus-unstructured fusion; a genuinely larger held-out set conditioned on AAER-confirmed fraud rather than the high-profile six; a supervised classical-ML baseline (logistic regression on TF-IDF features) once a larger fraud-label set is available — that would violate this study's contract but is the obvious follow-up.",
+  "Future work. The most informative single direction is change-detection within firm: instead of comparing a fraud filing's MD&A against industry peers, compare it against the same firm's prior-year MD&A. This controls for firm-specific style at the cost of losing the fraud-vs-clean comparison and converts the question from \"is this filing anomalous against peers\" to \"is this filing anomalous against itself.\" Other directions: multi-section integration (Item 1A risk factors, Item 8 financial notes); structured-plus-unstructured fusion; a genuinely larger held-out set conditioned on AAER-confirmed fraud rather than the high-profile six; a supervised classical-ML baseline (logistic regression on TF-IDF features) once a larger fraud-label set is available. That would violate this study's contract but is the obvious follow-up.",
 ].forEach(t => children.push(p(t, { indent: { firstLine: 360 } })));
 
 // References
@@ -356,95 +357,6 @@ children.push(h1("References"));
   spacing: { ...LINE, before: 80 }, indent: { left: 360, hanging: 360 },
 })));
 
-// ---- APPENDICES (do not count toward body page limit per syllabus) ----
-
-children.push(h1("Appendix A — Frozen analysis spec"));
-children.push(p(
-  "Committed at analysis_spec.md in the project repository, git-tagged validation-spec-frozen at commit 98d2585 on 2026-05-01 13:42:42 EDT before any validation script ran. Contains exact accession numbers for all six fraud filings, verified pre-discovery dates and sources, and the full primary-configuration block (architecture, optimizer, seeds, sentence cap, statistical methods, peer-matching rule, and operational \"clean\" definition).",
-  { indent: { firstLine: 360 } }
-));
-
-children.push(h1("Appendix B — Cohort overview"));
-children.push(p(
-  "Per-cohort peer lists, clean-rule outcomes per peer, and SIC-distribution within each cohort are in reports/cohort_overview.md. The five trained autoencoders had training-set sizes: WCOM 1,477 sentences from 19 filings; TYC 861 from 11; HRC 2,283 from 29; VRX 4,327 from 55; LEH 3,367 from 43.",
-  { indent: { firstLine: 360 } }
-));
-
-children.push(h1("Appendix C — Parsing QA"));
-children.push(p(
-  "Extraction success rate by fraud-vs-peer status and by year, per-filing parse method and character/sentence counts, and the failure list are in reports/parsing_qa.md. Total: 73/78 filings successfully extracted (93.6%); fraud filings: 6/6 (100%); five failures all in pre-2001-vintage peer filings with missing primary documents or missing Item 7A end-anchors.",
-  { indent: { firstLine: 360 } }
-));
-
-children.push(h1("Appendix D — Post-hoc analyses (script paths)"));
-children.push(p(
-  "TF-IDF + SVD32 trivial baseline: scripts/09_tfidf_baseline.py; outputs at data/results/scores_tfidf.csv and data/results/per_fraud_metrics_tfidf.json. Entity-masking ablation: scripts/10_entity_masking_posthoc.py; output at data/results/entity_masking_posthoc.json. Both clearly labeled post-hoc and exploratory; neither displaces the primary numbers in data/results/per_fraud_metrics.json.",
-  { indent: { firstLine: 360 } }
-));
-
-children.push(h1("Appendix E — Reproducibility"));
-children.push(new Paragraph({
-  spacing: SINGLE,
-  children: [new TextRun({
-    font: "Consolas", size: SMALL,
-    text: "make install                                          # one-time\nmake pin-accessions                                   # Phase 0; commits + tags spec\nmake reproduce                                        # full pipeline through figures\nmake test                                             # 36 unit tests\n.venv/bin/python scripts/09_tfidf_baseline.py         # post-hoc baseline\n.venv/bin/python scripts/10_entity_masking_posthoc.py # post-hoc masking\n.venv/bin/python scripts/14_training_quality_diagnostics.py  # Appendix G figures",
-  })],
-}));
-children.push(p(
-  "Random seeds for numpy, torch, and Python random are fixed at 42. Embeddings are cached on disk per (filing, model). Every figure in reports/figures/ regenerates from data/results/.",
-  { indent: { firstLine: 360 } }
-));
-
-children.push(h1("Appendix F — Model inventory"));
-children.push(p(
-  "The Canary project uses three distinct kinds of model, totalling eleven model instances:",
-  { indent: { firstLine: 360 } }
-));
-[
-  "(F.1) Pretrained transformer — used as a frozen feature extractor. sentence-transformers/all-MiniLM-L6-v2, a 6-layer MiniLM-based transformer pretrained by Microsoft Research and the Hugging Face Sentence-Transformers project on more than one billion sentence pairs. Approximately 22M parameters. Outputs 384-dimensional sentence vectors. We do not train this model — we freeze it and use it as the input encoder for every MD&A sentence in the project.",
-  "(F.2) Custom autoencoders — the models trained for this project. Five PyTorch autoencoders, one per cohort (HRC, LEH, TYC, VRX, WCOM), with architecture 384 → 128 → 32 → 128 → 384 and ReLU activations between layers. Approximately 117,000 parameters each. MSE reconstruction loss; Adam at learning rate 1e-3; batch size 16; maximum 200 epochs with early stopping (patience 20) on a 20% validation split; numpy / torch / Python random seeds all 42. Trained from scratch on each cohort's leave-one-cohort-out and time-controlled training corpus. Saved checkpoints at data/processed/models/<TICKER>.pt reload cleanly and reproduce the committed per-cohort fraud scores to six decimal places (verified at the validation freeze and re-verified before the May 7 presentation).",
-  "(F.3) Classical-ML baseline — post-hoc, council-mandated. Five TF-IDF + TruncatedSVD pipelines, one per cohort, trained on the same LOCO + time-controlled training corpora. TF-IDF vectorizer with English stop-word removal, sublinear term-frequency scaling, and a 20,000-feature cap; TruncatedSVD with 32 components — matching the autoencoder bottleneck dimension exactly so the comparison is apples-to-apples on bottleneck capacity.",
-].forEach(t => children.push(p(t, { indent: { firstLine: 360 } })));
-
-children.push(h1("Appendix G — Training-quality diagnostics"));
-children.push(p(
-  "Three diagnostics, all from scripts/14_training_quality_diagnostics.py, prove that the autoencoders trained for this project are real working models, not artifacts that merely compiled.",
-  { indent: { firstLine: 360 } }
-));
-
-children.push(h2("G.1 Per-epoch convergence"));
-children.push(p(
-  "Each of the five cohort autoencoders converged via early stopping at best epoch 50–59 of a 200-epoch maximum, with patience 20. Final train loss ranged from 0.000736 (HRC) to 0.000911 (VRX); final validation loss from 0.000947 (HRC) to 0.001129 (TYC). The train-validation gap was small everywhere — between 0.000111 (VRX, largest training set) and 0.000301 (TYC, smallest training set). Full training log: data/processed/training_log.json.",
-  { indent: { firstLine: 360 } }
-));
-
-children.push(h2("G.2 Noise sanity check"));
-children.push(p(
-  "The decisive test that the autoencoder learned a meaningful manifold rather than a trivial constant function. For each cohort autoencoder, I scored four kinds of input under the same per-sentence MSE reconstruction-error metric: (i) the cohort's clean-peer sentences, (ii) the cohort's fraud-filing sentences, (iii) 1,000 unit-norm Gaussian vectors of the same dimensionality, and (iv) 1,000 raw N(0, 1) vectors.",
-  { indent: { firstLine: 360 } }
-));
-children.push(caption("Table G.1. Mean per-sentence reconstruction error by input type."));
-children.push(buildTable(
-  ["Cohort", "Real peer", "Real fraud", "Unit-norm Gaussian", "Raw N(0,1)", "Noise / real ratio"],
-  [
-    ["HRC",  "0.001406", "0.001266", "0.002954", "1.076235", "2.1× / 765×"],
-    ["LEH",  "0.001337", "0.001395", "0.002966", "1.077481", "2.2× / 806×"],
-    ["TYC",  "0.001362", "0.001271", "0.002891", "1.022643", "2.1× / 751×"],
-    ["VRX",  "0.001442", "0.001295", "0.002896", "1.103497", "2.0× / 765×"],
-    ["WCOM", "0.001375", "0.001259", "0.002858", "1.041342", "2.1× / 760×"],
-  ],
-  [1100, 1300, 1400, 1900, 1500, 2160]
-));
-children.push(p(
-  "Out-of-distribution input — Gaussian noise — produces reconstruction error 2× higher (matched magnitude) and roughly 750× higher (raw white noise) than real MD&A sentences. The autoencoders demonstrably learned the structure of MiniLM-encoded MD&A text.",
-  { indent: { firstLine: 360 } }
-));
-
-children.push(h2("G.3 The painful gap that explains the negative result"));
-children.push(p(
-  "Table G.1 also makes the negative result visible: real fraud and real peer sentences differ by roughly 10% in mean reconstruction error (around 0.0013 vs around 0.0014), whereas real text and matched-magnitude Gaussian noise differ by approximately 100% (around 0.0014 vs around 0.0029). The model can clearly distinguish MD&A text from non-text; it cannot reliably distinguish fraud-filing MD&A from clean-peer MD&A. That gap is the substantive finding of the project. The autoencoders are real, working, and well-trained models in the technical sense — they reconstruct in-distribution input two orders of magnitude better than out-of-distribution input. They are not, however, useful detectors of accounting fraud at this dataset size on this signal.",
-  { indent: { firstLine: 360 } }
-));
 
 // Build & save
 const doc = new Document({
@@ -471,7 +383,7 @@ const doc = new Document({
         children: [new Paragraph({
           alignment: AlignmentType.CENTER,
           children: [
-            new TextRun({ text: "Canary — Arsenii Chan — CSC 44800 — Page ", font: TIMES, size: SMALL }),
+            new TextRun({ text: "Arsenii Chan  ·  CSC 44800  ·  Page ", font: TIMES, size: SMALL }),
             new TextRun({ children: [PageNumber.CURRENT], font: TIMES, size: SMALL }),
           ],
         })],
