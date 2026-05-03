@@ -13,7 +13,7 @@ export function FileDropZone({
   onFileSelected,
   file,
   accept = ".html,.htm,.txt,text/html,text/plain",
-  maxBytes = 12 * 1024 * 1024,
+  maxBytes = 8 * 1024 * 1024,
 }: FileDropZoneProps) {
   const [dragging, setDragging] = useState(false);
   const [error, setError] = useState<string | null>(null);

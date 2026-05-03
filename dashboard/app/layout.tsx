@@ -20,7 +20,7 @@ export default function RootLayout({
         <div className="h-1 bg-navy-700" />
 
         <header className="bg-surface border-b border-rule">
-          <div className="mx-auto max-w-6xl px-6 h-16 flex items-center justify-between">
+          <div className="mx-auto max-w-6xl px-4 md:px-6 h-auto md:h-16 py-3 md:py-0 flex flex-col md:flex-row md:items-center md:justify-between gap-2 md:gap-0">
             <Link href="/" className="flex items-baseline gap-2.5">
               <span className="font-serif text-[1.6rem] leading-none font-semibold text-navy-900 tracking-tightish">
                 Canary
@@ -29,27 +29,27 @@ export default function RootLayout({
                 A 10-K reading experiment
               </span>
             </Link>
-            <nav className="flex items-center gap-6 text-[13px] font-medium text-ink-2">
-              <Link href="/scan/" className="hover:text-navy-700 transition-colors">
+            <nav className="flex items-center gap-4 md:gap-6 text-[13px] font-medium text-ink-2 overflow-x-auto -mx-4 px-4 md:mx-0 md:px-0 whitespace-nowrap">
+              <Link href="/scan/" className="hover:text-navy-700 transition-colors shrink-0">
                 Scan a filing
               </Link>
-              <Link href="/results/" className="hover:text-navy-700 transition-colors">
+              <Link href="/results/" className="hover:text-navy-700 transition-colors shrink-0">
                 Results
               </Link>
-              <Link href="/baseline/" className="hover:text-navy-700 transition-colors">
+              <Link href="/baseline/" className="hover:text-navy-700 transition-colors shrink-0">
                 Baseline check
               </Link>
-              <Link href="/methodology/" className="hover:text-navy-700 transition-colors">
+              <Link href="/methodology/" className="hover:text-navy-700 transition-colors shrink-0">
                 Methodology
               </Link>
-              <Link href="/limitations/" className="hover:text-navy-700 transition-colors">
+              <Link href="/limitations/" className="hover:text-navy-700 transition-colors shrink-0">
                 Limitations
               </Link>
               <a
                 href="https://github.com/ArseniiChan/canary"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="hover:text-navy-700 transition-colors"
+                className="hover:text-navy-700 transition-colors shrink-0"
               >
                 Source
               </a>

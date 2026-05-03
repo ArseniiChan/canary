@@ -96,7 +96,7 @@ export default function Results() {
           Mann-Whitney U on per-sentence reconstruction error
         </h2>
         <div className="overflow-x-auto rounded-lg border border-border">
-          <table className="min-w-full text-sm">
+          <table className="min-w-[700px] w-full text-sm">
             <thead className="bg-bg-1 text-secondary">
               <tr>
                 <th className="px-4 py-3 text-left">Cohort</th>

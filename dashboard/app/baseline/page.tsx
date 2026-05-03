@@ -151,8 +151,8 @@ export default function BaselineCheck() {
           A bolded TF-IDF cell means the baseline beat the autoencoder on
           that metric. Lower rank = more anomalous = better detection.
         </p>
-        <div className="bg-surface rounded-md shadow-card overflow-hidden">
-          <table className="w-full text-sm">
+        <div className="bg-surface rounded-md shadow-card overflow-x-auto">
+          <table className="w-full text-sm min-w-[640px]">
             <thead className="bg-surface-2 text-ink-3 text-[11px] uppercase tracking-[0.12em]">
               <tr>
                 <th className="px-5 py-3 text-left font-semibold">Cohort</th>
@@ -291,8 +291,8 @@ export default function BaselineCheck() {
           <span className="num"> [ENTITY] </span>
           should collapse the rank. It does not.
         </p>
-        <div className="bg-surface rounded-md shadow-card overflow-hidden">
-          <table className="w-full text-sm">
+        <div className="bg-surface rounded-md shadow-card overflow-x-auto">
+          <table className="w-full text-sm min-w-[640px]">
             <thead className="bg-surface-2 text-ink-3 text-[11px] uppercase tracking-[0.12em]">
               <tr>
                 <th className="px-5 py-3 text-left font-semibold">Cohort</th>

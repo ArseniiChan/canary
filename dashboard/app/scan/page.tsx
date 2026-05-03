@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Link from "next/link";
 import { FileDropZone } from "../components/FileDropZone";
 import { Verdict } from "../components/Verdict";
@@ -8,6 +8,11 @@ import { RankBar } from "../components/RankBar";
 import { RankStat, formatNumber } from "../components/Stat";
 
 const API_URL = process.env.NEXT_PUBLIC_CANARY_API || "";
+
+// Pre-baked entity-stripped Lehman MD&A for the live demo path. See
+// reports/demo_snippet.txt and reports/demo_script.md. Loaded when the
+// page is opened with ?demo=1.
+const DEMO_SNIPPET = `We expect global fixed income origination to decline in 2008 as a result of lower volumes of securitizations and M&A financings. Fixed income capital markets are expected to continue to face uncertainties in the 2008 calendar year. In the U.S., economic growth showed signs of strength at the beginning of our fiscal year, driven by higher net exports and consumption levels, among other indicators, but the pace of growth slowed in the latter half. Over the twelve-month period, the U.S. housing market weakened, business confidence declined, and, in the last six months of the year, consumer confidence dropped. The labor market followed the same trajectory, showing signs of deterioration in the second half of the period as unemployment levels increased modestly and payroll data showed some signs of weakness. Responding to concerns over liquidity in the financial markets and inflationary pressures, the U.S. Federal Reserve reduced rates three times during the calendar year and made an additional inter-meeting rate cut in January 2008, and most observers anticipate additional reductions will occur in the early part of our 2008 fiscal year. Long-term bond yields declined, with the 10-year Treasury note yield ending our fiscal year down 52 basis points at 3.94%. The S&P 500 Index, Dow Jones Industrial Average and NASDAQ composites were up 5.7%, 9.4%, and 9.4%, respectively, from November 2006 levels. The current high levels of U.S. home inventories suggest that an extended period of construction declines and housing price cuts will combine with tighter credit conditions and increasing oil prices to slow down consumer spending.`;
 
 const FRAUD_NAMES: Record<string, string> = {
   ENE: "Enron Corp.", WCOM: "WorldCom Inc.", TYC: "Tyco International",
@@ -56,6 +61,18 @@ export default function Scan() {
   const [submitting, setSubmitting] = useState(false);
   const [result, setResult] = useState<ScanResult | null>(null);
   const [elapsedMs, setElapsedMs] = useState<number | null>(null);
+
+  // Demo-mode pre-fill: ?demo=1 in the URL loads the prepared snippet and
+  // switches to "Paste text" mode. Used at the May 7 presentation when the
+  // podium machine doesn't have clipboard access. See reports/demo_script.md.
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const params = new URLSearchParams(window.location.search);
+    if (params.get("demo") === "1") {
+      setMode("text");
+      setText(DEMO_SNIPPET);
+    }
+  }, []);
 
   const ready =
     (mode === "file" && file !== null) ||

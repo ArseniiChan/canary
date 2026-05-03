@@ -160,17 +160,17 @@ export default function Home() {
           </h2>
           <span className="text-xs text-ink-3 hidden md:inline">rank 1 = highest reconstruction error</span>
         </div>
-        <div className="bg-surface rounded-md shadow-card overflow-hidden">
-          <table className="w-full text-sm">
+        <div className="bg-surface rounded-md shadow-card overflow-x-auto">
+          <table className="w-full text-sm min-w-[640px]">
             <thead className="bg-surface-2 text-ink-3 text-[11px] uppercase tracking-[0.12em]">
               <tr>
-                <th className="px-5 py-3 text-left font-semibold">Cohort</th>
-                <th className="px-5 py-3 text-right font-semibold">AE rank</th>
-                <th className="px-5 py-3 text-right font-semibold">TF-IDF rank</th>
-                <th className="px-5 py-3 text-left font-semibold w-1/3">AE distribution</th>
-                <th className="px-5 py-3 text-right font-semibold">AE M-W p</th>
-                <th className="px-5 py-3 text-right font-semibold">AE effect</th>
-                <th className="px-5 py-3"></th>
+                <th className="px-3 md:px-5 py-3 text-left font-semibold">Cohort</th>
+                <th className="px-3 md:px-5 py-3 text-right font-semibold whitespace-nowrap">AE rank</th>
+                <th className="px-3 md:px-5 py-3 text-right font-semibold whitespace-nowrap">TF-IDF rank</th>
+                <th className="px-3 md:px-5 py-3 text-left font-semibold w-1/3 whitespace-nowrap">AE distribution</th>
+                <th className="px-3 md:px-5 py-3 text-right font-semibold whitespace-nowrap">AE M-W p</th>
+                <th className="px-3 md:px-5 py-3 text-right font-semibold whitespace-nowrap">AE effect</th>
+                <th className="px-3 md:px-5 py-3"></th>
               </tr>
             </thead>
             <tbody>
