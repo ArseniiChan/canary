@@ -67,33 +67,48 @@ function rule(slide, x, y, w, color = CANARY, h = 0.04) {
 const s1 = pres.addSlide();
 s1.background = { color: NAVY_DARK };
 s1.addText("CANARY", {
-  x: 0.7, y: 1.4, w: 12, h: 0.6,
+  x: 0.7, y: 0.55, w: 12, h: 0.4,
   fontFace: SANS, fontSize: 14, bold: true, color: CANARY,
   charSpacing: 12,
 });
-s1.addText("Can a computer reading the words in a 10-K\nrank known fraud filings as anomalous?", {
-  x: 0.7, y: 2.1, w: 12, h: 2.1,
-  fontFace: SERIF, fontSize: 36, color: "FFFFFF", italic: false, valign: "top", lineSpacingMultiple: 1.15,
+s1.addText("Can a computer reading a company's annual report\ntell which ones turned out to be committing accounting fraud?", {
+  x: 0.7, y: 1.3, w: 12, h: 1.8,
+  fontFace: SERIF, fontSize: 30, color: "FFFFFF", italic: false, valign: "top", lineSpacingMultiple: 1.15,
 });
-rule(s1, 0.7, 4.5, 1.2, CANARY, 0.05);
-s1.addText("A pre-registered single-signal novelty study on SEC 10-K MD&A text.", {
-  x: 0.7, y: 4.7, w: 12, h: 0.5,
-  fontFace: SERIF, fontSize: 18, italic: true, color: "CFD8E8",
+rule(s1, 0.7, 3.4, 1.2, CANARY, 0.05);
+s1.addText("A pre-registered novelty study on SEC 10-K filings.", {
+  x: 0.7, y: 3.6, w: 12, h: 0.4,
+  fontFace: SERIF, fontSize: 16, italic: true, color: "CFD8E8",
 });
-s1.addText(
-  "Primary contribution: a pre-registered null result plus a baseline that beat the autoencoder.",
-  {
-    x: 0.7, y: 5.25, w: 12, h: 0.7,
-    fontFace: SERIF, fontSize: 14, italic: true, color: CANARY, lineSpacingMultiple: 1.25,
-  }
-);
+
+// AI model summary (what was trained vs what was reused)
+s1.addText([
+  { text: "Trained: ", options: { bold: true, color: CANARY } },
+  { text: "five small autoencoders in PyTorch, one per held-out fraud cohort.", options: { color: "FFFFFF" } },
+], { x: 0.7, y: 4.4, w: 12, h: 0.45, fontFace: SANS, fontSize: 15 });
+s1.addText([
+  { text: "Reused: ", options: { bold: true, color: CANARY } },
+  { text: "a pretrained MiniLM transformer, frozen, as a sentence-to-vector encoder.", options: { color: "FFFFFF" } },
+], { x: 0.7, y: 4.85, w: 12, h: 0.45, fontFace: SANS, fontSize: 15 });
+s1.addText([
+  { text: "Tested: ", options: { bold: true, color: CANARY } },
+  { text: "six historical accounting frauds; methodology locked in git before any number was looked at.", options: { color: "FFFFFF" } },
+], { x: 0.7, y: 5.3, w: 12, h: 0.45, fontFace: SANS, fontSize: 15 });
+
 s1.addText([
   { text: "Arsenii Chan",   options: { bold: true, color: "FFFFFF" } },
   { text: "   ·   CSC 44800 Artificial Intelligence",   options: { color: "CFD8E8" } },
   { text: "   ·   Spring 2026 · CCNY",   options: { color: "CFD8E8" } },
 ], {
-  x: 0.7, y: 6.3, w: 12, h: 0.4,
+  x: 0.7, y: 6.5, w: 9, h: 0.4,
   fontFace: SANS, fontSize: 14,
+});
+
+// QR code pointing to the live demo (so the audience can try it on their phones)
+s1.addImage({ path: FIG("qr_demo.png"), x: 11.4, y: 5.7, w: 1.3, h: 1.3 });
+s1.addText("scan to try", {
+  x: 11.2, y: 7.0, w: 1.7, h: 0.25,
+  fontFace: SANS, fontSize: 9, italic: true, color: "CFD8E8", align: "center",
 });
 s1.addNotes(
 `TARGET: 0:25.
@@ -479,49 +494,55 @@ s7.addText("CONCLUSION", {
 rule(s7, 0.7, 1.0, 0.6, CANARY);
 
 s7.addText("What survived: pre-registration.", {
-  x: 0.7, y: 1.4, w: 12, h: 0.7,
-  fontFace: SERIF, fontSize: 32, bold: true, color: "FFFFFF",
+  x: 0.7, y: 1.4, w: 10.5, h: 0.7,
+  fontFace: SERIF, fontSize: 28, bold: true, color: "FFFFFF",
 });
 s7.addText("What failed: the autoencoder beyond the TF-IDF baseline.", {
-  x: 0.7, y: 2.15, w: 12, h: 0.7,
-  fontFace: SERIF, fontSize: 32, bold: true, color: "FFFFFF",
+  x: 0.7, y: 2.1, w: 10.5, h: 0.7,
+  fontFace: SERIF, fontSize: 28, bold: true, color: "FFFFFF",
 });
 
 s7.addText(
   "A result that loses to a baseline is not evidence for the neural model. The contract held; the model did not.",
   {
-    x: 0.7, y: 3.2, w: 12, h: 0.9,
-    fontFace: SERIF, fontSize: 16, italic: true, color: "CFD8E8", lineSpacingMultiple: 1.3,
+    x: 0.7, y: 3.2, w: 10.5, h: 0.9,
+    fontFace: SERIF, fontSize: 15, italic: true, color: "CFD8E8", lineSpacingMultiple: 1.3,
   }
 );
 
 s7.addText("Next experiment", {
-  x: 0.7, y: 4.4, w: 12, h: 0.4,
+  x: 0.7, y: 4.4, w: 10.5, h: 0.4,
   fontFace: SANS, fontSize: 12, bold: true, color: CANARY, charSpacing: 4,
 });
 rule(s7, 0.7, 4.8, 0.4, CANARY);
 s7.addText(
   "Same autoencoder, within-firm temporal delta. Does Lehman's MD&A look anomalous against Lehman's own prior-year MD&A?",
   {
-    x: 0.7, y: 5.0, w: 12, h: 0.9,
-    fontFace: SERIF, fontSize: 16, color: "FFFFFF", lineSpacingMultiple: 1.3,
+    x: 0.7, y: 5.0, w: 10.5, h: 0.9,
+    fontFace: SERIF, fontSize: 15, color: "FFFFFF", lineSpacingMultiple: 1.3,
   }
 );
 
-s7.addText([
-  { text: "Pipeline demo (not a fraud scanner):  ", options: { color: "CFD8E8" } },
-  { text: "canary-psi.vercel.app/scan", options: { color: CANARY, bold: true } },
-  { text: "    ·    Code:  ", options: { color: "CFD8E8" } },
-  { text: "github.com/ArseniiChan/canary", options: { color: CANARY, bold: true } },
-  { text: "    ·    Tag:  ", options: { color: "CFD8E8" } },
-  { text: "validation-spec-frozen", options: { color: CANARY, bold: true } },
-], {
-  x: 0.7, y: 6.5, w: 12, h: 0.4,
-  fontFace: SANS, fontSize: 12,
+// QR code (links to the live pipeline demo) — bottom right corner
+s7.addText("Scan to try the pipeline", {
+  x: 11.0, y: 4.55, w: 2.0, h: 0.3,
+  fontFace: SANS, fontSize: 10, italic: true, color: "CFD8E8", align: "center",
 });
+s7.addImage({ path: FIG("qr_demo.png"), x: 11.25, y: 4.9, w: 1.5, h: 1.5 });
+
+s7.addText([
+  { text: "Pipeline demo (not a fraud scanner): ", options: { color: "CFD8E8" } },
+  { text: "canary-psi.vercel.app/scan", options: { color: CANARY, bold: true } },
+], { x: 0.7, y: 6.55, w: 12, h: 0.3, fontFace: SANS, fontSize: 12 });
+s7.addText([
+  { text: "Code: ", options: { color: "CFD8E8" } },
+  { text: "github.com/ArseniiChan/canary", options: { color: CANARY, bold: true } },
+  { text: "    ·    Tag: ", options: { color: "CFD8E8" } },
+  { text: "validation-spec-frozen", options: { color: CANARY, bold: true } },
+], { x: 0.7, y: 6.85, w: 12, h: 0.3, fontFace: SANS, fontSize: 12 });
 s7.addText("Thanks.", {
-  x: 0.7, y: 6.9, w: 12, h: 0.4,
-  fontFace: SERIF, fontSize: 16, italic: true, color: "FFFFFF",
+  x: 0.7, y: 7.2, w: 12, h: 0.3,
+  fontFace: SERIF, fontSize: 14, italic: true, color: "FFFFFF",
 });
 s7.addNotes(
 `TARGET: 0:45. LAND THE URLs CLEANLY. PAUSE ONE BEAT AFTER "THANKS."
