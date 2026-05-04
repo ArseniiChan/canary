@@ -81,7 +81,7 @@ s1.addText("A pre-registered single-signal novelty study on SEC 10-K MD&A text."
   fontFace: SERIF, fontSize: 18, italic: true, color: "CFD8E8",
 });
 s1.addText(
-  "Primary contribution: a pre-registered null result plus a baseline that beat the proposed model.",
+  "Primary contribution: a pre-registered null result plus a baseline that beat the autoencoder.",
   {
     x: 0.7, y: 5.25, w: 12, h: 0.7,
     fontFace: SERIF, fontSize: 14, italic: true, color: CANARY, lineSpacingMultiple: 1.25,
@@ -147,15 +147,15 @@ const colW = 4.0;
 const cols = [
   {
     x: 0.7, label: "Out-of-sample, always",
-    body: "Leave-one-cohort-out. For each held-out fraud, the autoencoder is trained on clean filings from other cohorts only. The fraud and its peers are never in the training set."
+    body: "Leave-one-cohort-out (LOCO): for each held-out fraud, the autoencoder is trained on clean filings from other cohorts only. The fraud and its peers are never in the training set."
   },
   {
     x: 4.7, label: "Time-controlled training",
-    body: "Within the LOCO training set, only filings dated on or before that fraud's filing date are eligible. The model's representation of \"clean\" cannot include post-fraud disclosure language."
+    body: "Within the LOCO training set, only filings dated on or before that fraud's filing date are eligible. The autoencoder's training corpus cannot include post-fraud disclosure language. (MiniLM pretraining is a separate caveat.)"
   },
   {
     x: 8.7, label: "Single pass, no tuning",
-    body: "Architecture, hyperparameters, sentence cap, seeds: all committed and tagged before validation ran. scripts/06_validate.py runs once. Whatever the numbers say, that is the result."
+    body: "Architecture, hyperparameters, sentence cap, seeds: all committed and tagged before validation ran. scripts/06_validate.py runs once. No model tuning after validation."
   },
 ];
 cols.forEach((c) => {
@@ -200,9 +200,9 @@ const s4 = pres.addSlide();
 s4.background = { color: SURFACE_2 };
 eyebrow(s4, 0.7, 0.5, "RESULTS · 5 OF 6 COHORTS · ENRON EXCLUDED BY THE RULE");
 rule(s4, 0.7, 0.95, 0.6);
-s4.addText("One high-ranked outlier. Four non-positive. One excluded by design.", {
+s4.addText("Only Lehman ranks above random expectation; the aggregate still loses to random.", {
   x: 0.7, y: 1.1, w: 12, h: 0.6,
-  fontFace: SERIF, fontSize: 26, bold: true, color: NAVY_DARK,
+  fontFace: SERIF, fontSize: 24, bold: true, color: NAVY_DARK,
 });
 
 // Table: per-fraud results (rank only; statistical detail moves to speaker notes)
@@ -220,27 +220,27 @@ const tableData = [
   [
     { text: "HealthSouth (HRC)", options: {} },
     { text: "7 / 12",            options: { align: "center" } },
-    { text: "non-positive",      options: { color: INK_2 } },
+    { text: "at or below random",  options: { color: INK_2 } },
   ],
   [
     { text: "Valeant (VRX)",     options: {} },
     { text: "8 / 13",            options: { align: "center" } },
-    { text: "non-positive",      options: { color: INK_2 } },
+    { text: "at or below random",  options: { color: INK_2 } },
   ],
   [
     { text: "Tyco (TYC)",        options: {} },
     { text: "9 / 13",            options: { align: "center" } },
-    { text: "non-positive",      options: { color: INK_2 } },
+    { text: "at or below random",  options: { color: INK_2 } },
   ],
   [
     { text: "WorldCom (WCOM)",   options: {} },
     { text: "12 / 13",           options: { align: "center" } },
-    { text: "non-positive",      options: { color: INK_2 } },
+    { text: "at or below random",  options: { color: INK_2 } },
   ],
   [
     { text: "Enron (ENE, FY 2000)", options: { italic: true, color: INK_2 } },
     { text: "—",                    options: { align: "center", italic: true, color: INK_2 } },
-    { text: "not evaluable under the frozen rule", options: { italic: true, color: INK_2 } },
+    { text: "not evaluable: filed earliest, no eligible training data", options: { italic: true, color: INK_2 } },
   ],
 ];
 s4.addTable(tableData, {
@@ -288,12 +288,16 @@ s5.background = { color: SURFACE_2 };
 eyebrow(s5, 0.7, 0.5, "THE BASELINE CHECK · TF-IDF + SVD32 (POST-HOC)");
 rule(s5, 0.7, 0.95, 0.6);
 s5.addText("A 1990s baseline matched or beat the autoencoder on every cohort.", {
-  x: 0.7, y: 1.1, w: 12, h: 0.6,
+  x: 0.7, y: 1.1, w: 12, h: 0.5,
   fontFace: SERIF, fontSize: 24, bold: true, color: NAVY_DARK,
 });
-s5.addImage({ path: FIG("ae_vs_tfidf_rank.png"), x: 1.5, y: 1.95, w: 10.3, h: 4.2 });
+s5.addText("Post-hoc: tests whether the autoencoder earned its complexity, does not rescue the primary result.", {
+  x: 0.7, y: 1.65, w: 12, h: 0.35,
+  fontFace: SANS, fontSize: 12, italic: true, color: INK_2,
+});
+s5.addImage({ path: FIG("ae_vs_tfidf_rank.png"), x: 1.5, y: 2.15, w: 10.3, h: 4.0 });
 s5.addText(
-  "Lehman: AE rank 3/13, TF-IDF rank 1/13. Aggregate hit@5 is 0.40 (TF-IDF) vs 0.20 (autoencoder). Mann-Whitney p is much smaller for TF-IDF on Lehman; exact values are in the report. The pre-registered model is not the signal carrier.",
+  "Lehman: AE rank 3/13, TF-IDF rank 1/13. Aggregate hit@5 is 0.40 (TF-IDF) vs 0.20 (autoencoder). Mann-Whitney p is much smaller for TF-IDF on Lehman; exact values are in the report. The pre-registered model does not beat the trivial baseline.",
   {
     x: 0.7, y: 6.25, w: 12, h: 0.7,
     fontFace: SERIF, fontSize: 13, italic: true, color: INK, lineSpacingMultiple: 1.3,
@@ -306,10 +310,6 @@ const s6 = pres.addSlide();
 s6.background = { color: SURFACE };
 eyebrow(s6, 0.7, 0.5, "QUESTIONS I EXPECT");
 rule(s6, 0.7, 0.95, 0.6);
-s6.addText("Questions I expect.", {
-  x: 0.7, y: 1.1, w: 12, h: 0.6,
-  fontFace: SERIF, fontSize: 24, bold: true, color: NAVY_DARK,
-});
 
 const qa = [
   {
@@ -317,16 +317,16 @@ const qa = [
     a: "Yes. TF-IDF + truncated-SVD, same bottleneck dimension, same training corpora. It matches or beats the autoencoder on every cohort. The honest claim is that the autoencoder adds nothing here. Slide 5."
   },
   {
-    q: "Why is Enron excluded; isn't that convenient?",
-    a: "The pre-registered LOCO + time-controlled rule admits no training data for Enron because it was filed earliest. The exclusion is the rule biting back. I report Enron as a design failure, not a result."
+    q: "The baseline is post-hoc. Isn't that HARKing (hypothesizing after results)?",
+    a: "The pre-registered hypothesis was about the autoencoder, and the autoencoder result is reported unchanged. The TF-IDF baseline was added after seeing the null and is reported as post-hoc. The primary null does not depend on it."
   },
   {
     q: "Could MiniLM have memorized 'Lehman' / 'Repo 105' / etc.?",
     a: "Tested post-hoc. Masked 93 such mentions with [ENTITY] and re-scored. Lehman's rank held at 3/13 (delta = 0). Exact-token name leakage did not explain the rank; topical leakage remains open."
   },
 ];
-const qaY = 1.95;
-const qaH = 1.55;
+const qaY = 1.3;
+const qaH = 1.7;
 qa.forEach((item, i) => {
   const y = qaY + i * (qaH + 0.1);
   s6.addShape(pres.ShapeType.rect, {
@@ -389,7 +389,7 @@ s7.addText(
 );
 
 s7.addText([
-  { text: "Try it:  ", options: { color: "CFD8E8" } },
+  { text: "Pipeline demo (not a fraud scanner):  ", options: { color: "CFD8E8" } },
   { text: "canary-psi.vercel.app/scan", options: { color: CANARY, bold: true } },
   { text: "    ·    Code:  ", options: { color: "CFD8E8" } },
   { text: "github.com/ArseniiChan/canary", options: { color: CANARY, bold: true } },
