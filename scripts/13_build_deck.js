@@ -267,7 +267,7 @@ const tableData = [
   [
     { text: "Lehman (LEH, FY 2007)  ⚠", options: { bold: true, color: NAVY_DARK } },
     { text: "3 / 13",                    options: { align: "center", bold: true, color: NAVY_DARK } },
-    { text: "n = 1, baseline beats AE",  options: { italic: true, color: INK_2 } },
+    { text: "n = 1, baseline beats autoencoder",  options: { italic: true, color: INK_2 } },
   ],
   [
     { text: "HealthSouth (HRC)", options: {} },
@@ -369,7 +369,7 @@ s5.addText("Post-hoc: tests whether the autoencoder earned its complexity, does 
 });
 s5.addImage({ path: FIG("ae_vs_tfidf_rank.png"), x: 1.5, y: 2.15, w: 10.3, h: 4.0 });
 s5.addText(
-  "Lehman: AE rank 3/13, TF-IDF rank 1/13. Aggregate hit@5 is 0.40 (TF-IDF) vs 0.20 (autoencoder). Mann-Whitney p is much smaller for TF-IDF on Lehman; exact values are in the report. The pre-registered model does not beat the trivial baseline.",
+  "How to read the chart: shorter bar = lower rank number = better detection (rank 1 is most anomalous). Lehman: autoencoder rank 3/13, TF-IDF rank 1/13. Aggregate hit@5 is 0.40 (TF-IDF) vs 0.20 (autoencoder). The pre-registered model does not beat the trivial baseline.",
   {
     x: 0.7, y: 6.25, w: 12, h: 0.7,
     fontFace: SERIF, fontSize: 13, italic: true, color: INK, lineSpacingMultiple: 1.3,
