@@ -24,11 +24,11 @@ pres.title = "Canary: Pre-Registered Single-Signal Novelty Study on SEC 10-K MD&
 pres.author = "Arsenii Chan";
 pres.company = "CSC 44800, CCNY, Spring 2026";
 
-// Palette: navy + canary yellow accent (the "canary" name)
+// Palette: black + electric blue accent (taken from Canva template slide 1)
 const NAVY = "1A2B4C";
-const NAVY_DARK = "0E1A33";
+const NAVY_DARK = "141519";    // template background near-black
 const NAVY_LIGHT = "5B7BB0";
-const CANARY = "D4A017";       // muted canary yellow
+const CANARY = "0A279F";       // electric blue accent (was canary yellow)
 const INK = "1A1A1A";
 const INK_2 = "555555";
 const INK_3 = "8A8A8A";
