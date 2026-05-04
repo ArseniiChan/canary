@@ -95,6 +95,19 @@ s1.addText([
   x: 0.7, y: 6.3, w: 12, h: 0.4,
   fontFace: SANS, fontSize: 14,
 });
+s1.addNotes(
+`TARGET: 0:25.
+
+SAY:
+"I'm Arsenii Chan. The question I built this project around is a simple one: can a computer reading the words in a public company's annual report tell you which companies turned out to be committing accounting fraud? Six famous cases. One specific test. Let me show you what came back."
+
+(Pause. Click to slide 2.)
+
+STAGE NOTES:
+- Don't announce the conclusion. Don't say "honestly" or "negative result" — both pre-spoil the talk.
+- Open with the question. The audience leans forward.
+- No jargon out loud: never say "autoencoder" or "MD&A" aloud. Keep them on the slide only.`
+);
 
 // ---------- Slide 2: Driving question ----------
 const s2 = pres.addSlide();
@@ -125,6 +138,22 @@ s2.addText(
   }
 );
 pageFooter(s2, 2, 7);
+s2.addNotes(
+`TARGET: 0:45.
+
+SAY:
+"Six historical fraud cases — Enron, WorldCom, Tyco, HealthSouth, Valeant, Lehman Brothers. Each one paired against companies in the same industry, same year, that turned out to be clean.
+
+The model never sees the word 'fraud' during training. It just learns what a typical annual report from that industry and year looks like, and flags filings that don't fit.
+
+The formal question is on the slide [point at pull-quote]. The one-line answer this report defends is on the next bullet [point at it]. I'll spend the rest of the talk on the evidence."
+
+(Click to slide 3.)
+
+STAGE NOTES:
+- Don't read the pull-quote out loud. It's full of jargon and the audience can read it faster than you can speak it. Just point.
+- Same with the one-line answer. Pointing is faster than reading.`
+);
 
 // ---------- Slide 3: The methodological contract (the lede) ----------
 const s3 = pres.addSlide();
@@ -194,6 +223,29 @@ s3.addText([
   fontFace: "Consolas", lineSpacingMultiple: 1.3,
 });
 pageFooter(s3, 3, 7);
+s3.addNotes(
+`TARGET: 0:50. THIS IS THE MOST IMPORTANT SLIDE. SLOW DOWN.
+
+SAY:
+"Before I show you any number, I want to put the methodology on the table — because the methodology is what makes the result mean anything.
+
+Three rules I locked in BEFORE I ran the test. [point at columns]
+
+One: the model never sees a fraud during training. For each fraud case, the model trains on clean filings from OTHER cases. The fraud being tested is held out.
+
+Two: the model never sees the future. Within that training set, only filings dated on or before the fraud's filing date are eligible. The model can't be informed by language that came out AFTER the fraud was discovered.
+
+Three: single pass, no tuning. Architecture, hyperparameters, the test set — all written down and locked into the repo BEFORE the test ran. [point at git-tag panel:] Top right shows the actual lock — committed and tagged on May 1st, before any result came in.
+
+Test ran once. Whatever it said, that's the result."
+
+(Click to slide 4.)
+
+STAGE NOTES:
+- The git-tag panel is small. Say "top right shows" rather than gesturing at the podium.
+- If anyone in the room knows what pre-registration is, this is where you've already won them over.
+- Avoid jargon: don't say "LOCO" or "MiniLM" aloud. Say "leave-one-out" or "the embedding model" if pressed.`
+);
 
 // ---------- Slide 4: Per-fraud results ----------
 const s4 = pres.addSlide();
@@ -281,6 +333,26 @@ s4.addText(
   }
 );
 pageFooter(s4, 4, 7);
+s4.addNotes(
+`TARGET: 1:00.
+
+SAY:
+"Here's what came back. Five cases evaluable, one excluded — I'll come back to the excluded one.
+
+[point at Lehman row] Only Lehman lands in the top three within its peer group. Three out of thirteen. The statistical test is highly significant, BUT the effect size is small [point at warning glyph]. Both numbers matter — reporting either one alone is misleading.
+
+[quick scan with hand] The other four — HealthSouth, Valeant, Tyco, WorldCom — all rank at or below random expectation. The test goes the OPPOSITE direction from what we'd want. Aggregate hit rates fall at or below random.
+
+Now — Enron. [point at italicized row] Enron's filing date is April 2nd, 2001. Every other peer in every other case is dated later. Under the strict rule I locked in, Enron has no eligible training data.
+
+So I had a choice: relax the rule and rerun, or report the exclusion. I reported the exclusion. The pre-registered design was infeasible for Enron, and I didn't catch that before I locked the spec. That's a finding about pre-registration, not about fraud detection."
+
+(Click to slide 5.)
+
+STAGE NOTES:
+- Hands ON the slide. Don't quote numbers from memory — point at them on the projection.
+- The Enron exclusion is the most likely Q&A target. Pre-empt it: "I had a choice — relax the rule or report the exclusion. I reported the exclusion."`
+);
 
 // ---------- Slide 5: Trivial baseline ----------
 const s5 = pres.addSlide();
@@ -304,6 +376,34 @@ s5.addText(
   }
 );
 pageFooter(s5, 5, 7);
+s5.addNotes(
+`TARGET: 1:10. THIS IS THE LEDE OF THE TALK. DON'T RUSH.
+
+SAY:
+"Now the part that I think actually matters.
+
+After the test ran, I asked myself the question every machine-learning paper should answer and most don't: would a method from before I was born produce the same result?
+
+So I ran one. [point at chart] TF-IDF plus truncated SVD. It's the kind of thing you could have written in 1995 from a textbook. Same training data, same statistical tests, same pipeline shape. No neural network. No transformer.
+
+[point at chart] On four of five cases, the 1995 method TIES the modern one. [point at Lehman bar] On Lehman — the one case the modern method got — the 1995 method gets it BETTER. By thirteen orders of magnitude on the statistical test.
+
+Let me say what I'm not saying and then what I am saying.
+
+I am NOT saying the modern method is broken, or that neural networks are unhelpful for this kind of problem.
+
+I AM saying that on these five cases, with the rules I locked in, the modern method did not show a measurable advantage over a method I could have run in 1995.
+
+If you take one thing from this talk, this is it: a sharp baseline isn't optional. A result that loses to a baseline is not evidence for the neural model."
+
+(Click to slide 6.)
+
+STAGE NOTES:
+- The "before I was born" / "1995" framing is the kill line. Practice deadpan delivery.
+- If the room is silent after, that's fine. Keep going.
+- The "I am not saying / I am saying" structure prevents the misread "the AI didn't work."
+- Don't say "TF-IDF" or "truncated SVD" aloud unless someone asks. "1995 method" is the spoken phrase.`
+);
 
 // ---------- Slide 6: Anticipated questions (Q&A defense) ----------
 const s6 = pres.addSlide();
@@ -348,6 +448,26 @@ qa.forEach((item, i) => {
   });
 });
 pageFooter(s6, 6, 7);
+s6.addNotes(
+`TARGET: 0:40. SPEED.
+
+SAY:
+"Three questions I expect — quick answers so we have time for whatever else you actually want to ask.
+
+Did you check a trivial baseline? Yes. Same bottleneck dimension, same training data. The 1995 baseline matches or beats the modern method on every case. The honest claim is that the modern method adds nothing here. Slide 5.
+
+The baseline is post-hoc — isn't that HARKing? The pre-registered hypothesis was about the modern method, and that result is reported unchanged. The 1995 baseline was added after seeing the null and is reported as post-hoc. The primary null doesn't depend on it.
+
+Could the embedding model have memorized 'Lehman' or 'Repo 105'? I tested that. Masked 93 such mentions in Lehman's filing with a placeholder, re-scored. Lehman's rank held at 3/13. Exact-token name leakage doesn't explain the rank."
+
+(Click to slide 7.)
+
+STAGE NOTES:
+- Three Q&As live on slide. The Enron exclusion question is best handled in actual Q&A if asked (already covered on slide 4).
+- Don't try to deliver all three under pressure if you're running long. Two minimum.
+- If asked about supervised classifier: "At six fraud examples a supervised classifier overfits trivially. Future work."
+- If asked about the parser: "Five failures are pre-2001 peer filings. All six fraud filings parsed at 100%."`
+);
 
 // ---------- Slide 7: Conclusion + next experiment + repo + thanks ----------
 const s7 = pres.addSlide();
@@ -403,6 +523,44 @@ s7.addText("Thanks.", {
   x: 0.7, y: 6.9, w: 12, h: 0.4,
   fontFace: SERIF, fontSize: 16, italic: true, color: "FFFFFF",
 });
+s7.addNotes(
+`TARGET: 0:45. LAND THE URLs CLEANLY. PAUSE ONE BEAT AFTER "THANKS."
+
+SAY:
+"Two takeaways.
+
+What survived: the pre-registration. The contract held. I didn't iterate the model, I didn't redefine 'clean,' I didn't retreat from the Enron exclusion when the result was uncomfortable.
+
+What failed: the modern method beyond the 1990s baseline. A result that loses to a baseline is not evidence for the neural model.
+
+The next experiment is on the slide — same model, same filings, but compare the company against ITSELF across years instead of against peers. That's the falsifiable next step this study couldn't run.
+
+[point at footer] Try the pipeline at the link below — paste any 10-K, see how it scores against the five fraud cases. Code is on GitHub. The frozen-spec git tag is in the repo.
+
+Thanks. Happy to take questions."
+
+(End. Open Q&A.)
+
+STAGE NOTES:
+- Pause for ONE beat after "Thanks." Don't run into the next sentence.
+- Look UP at the audience for the URL line. That's the call-to-action.
+- If you've delivered slides 1-7 cleanly, your face should look calm.
+
+Q&A FALLBACK LINE if you don't know an answer:
+"That's a real gap I haven't characterized. Let me follow up after the talk."
+
+Don't fake numbers under pressure. "I don't know" is graduate-school behavior, not weakness.
+
+TIME TARGETS:
+Slide 1: 0:25  |  Slide 2: 0:45  |  Slide 3: 0:50  |  Slide 4: 1:00
+Slide 5: 1:10  |  Slide 6: 0:40  |  Slide 7: 0:45
+Total target: 5:35.  Hard ceiling: 6:55.  Buffer: 1:25.
+
+IF RUNNING LONG, CUTS:
+- Drop "I am not saying / I am saying" on Slide 5 (-15s)
+- Skip third Q&A on Slide 6 (-15s)
+- Skip next-experiment line on Slide 7 (-10s)`
+);
 
 // ---------- Save ----------
 pres.writeFile({ fileName: OUT })
