@@ -1,4 +1,4 @@
-"""Phase 6 (post-hoc) — figures comparing the autoencoder against the TF-IDF
+"""Phase 6 (post-hoc): figures comparing the autoencoder against the TF-IDF
 trivial baseline, and showing the post-hoc entity-masking ablation.
 
 Outputs:
@@ -50,7 +50,7 @@ def fig_rank_compare(ae: list[dict], tf: list[dict]) -> None:
     ax.set_xticks(x)
     ax.set_xticklabels(tickers)
     ax.set_ylabel("Rank within cohort (1 = highest reconstruction error)")
-    ax.set_title("Per-fraud rank — autoencoder vs TF-IDF + SVD32 baseline")
+    ax.set_title("Per-fraud rank: autoencoder vs TF-IDF + SVD32 baseline")
     ax.invert_yaxis()
     ax.legend(loc="lower right")
     fig.tight_layout()

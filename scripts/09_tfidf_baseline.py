@@ -1,4 +1,4 @@
-"""Phase 6 (post-hoc, council-recommended) — TF-IDF + truncated-SVD trivial baseline.
+"""Phase 6 (post-hoc): TF-IDF + truncated-SVD trivial baseline.
 
 For each of the 5 cohorts that have a LOCO + time-controlled autoencoder, build
 the same training corpus the autoencoder saw (clean peer sentences from OTHER
