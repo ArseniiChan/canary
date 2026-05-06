@@ -157,9 +157,9 @@ s2.addNotes(
 `TARGET: 0:45.
 
 SAY:
-"Six historical fraud cases: Enron, WorldCom, Tyco, HealthSouth, Valeant, Lehman Brothers. Each one paired against companies in the same industry, same year, that turned out to be clean.
+"Six historical fraud cases: Enron, WorldCom, Tyco, HealthSouth, Valeant, Lehman Brothers. Each one was later proven to have been misrepresenting its financial condition at the time of this filing. The SEC or class-action lawsuits exposed them years afterward; each cost investors over a billion dollars. I paired each fraud filing against companies in the same industry, same year, that turned out to be clean.
 
-The model never sees the word 'fraud' during training. It just learns what a typical annual report from that industry and year looks like, and ranks the ones that look most unusual against their peers.
+The model never sees the word 'fraud' during training. It just reads the long English-prose section of each annual report, where management explains the year in their own words, and learns what a 'normal' filing looks like industry by industry. Then it ranks the unusual filings against their peers.
 
 The formal question is on the slide [point at pull-quote]. The one-line answer this report defends is on the next bullet [point at it]. I'll spend the rest of the talk on the evidence."
 
@@ -167,7 +167,9 @@ The formal question is on the slide [point at pull-quote]. The one-line answer t
 
 STAGE NOTES:
 - Don't read the pull-quote out loud. It's full of jargon and the audience can read it faster than you can speak it. Just point.
-- Same with the one-line answer. Pointing is faster than reading.`
+- Same with the one-line answer. Pointing is faster than reading.
+- The "long English-prose section where management explains the year" is the plain-English explanation of MD&A. Don't say "MD&A" out loud unless someone asks — the slide pull-quote shows the formal name for the technical reader.
+- The context line about each cohort being a multi-billion-dollar fraud is critical for audience comprehension. By the time they reach slide 4 they need to know these names matter. Don't skip it.`
 );
 
 // ---------- Slide 3: The methodological contract (the lede) ----------
@@ -354,7 +356,7 @@ s4.addNotes(
 SAY:
 "Here's what came back. Five cases evaluable, one excluded; I'll come back to the excluded one.
 
-[point at Lehman row] Only Lehman lands in the top three within its peer group. Three out of thirteen. The statistical test is highly significant, BUT the effect size is small [point at warning glyph]. Both numbers matter; reporting either one alone is misleading. And as you'll see on the next slide, even on Lehman, a 1990s baseline beats my model.
+[point at Lehman row] Only Lehman — the investment bank whose collapse triggered the 2008 financial crisis — lands in the top three within its peer group. Three out of thirteen. The statistical test is highly significant, BUT the effect size is small [point at warning glyph]. Both numbers matter; reporting either one alone is misleading. And as you'll see on the next slide, even on Lehman, a 1990s baseline beats my model.
 
 [quick scan with hand] The other four (HealthSouth, Valeant, Tyco, WorldCom) all rank no better than random expectation. The test goes the OPPOSITE direction from what we'd want. Aggregate hit rates fall at or below random.
 
