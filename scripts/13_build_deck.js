@@ -146,7 +146,7 @@ s2.addText("The one-line answer this report defends:", {
   fontFace: SANS, fontSize: 13, color: INK_2, bold: true,
 });
 s2.addText(
-  "At N = 6 frauds, with strict pre-registration: no useful autoencoder signal across four of five evaluable cohorts; Enron is not evaluable under the frozen rule; the one cohort that ranks high (Lehman) is n = 1, and a 1990s TF-IDF baseline ranks it higher.",
+  "At N = 6 frauds, with strict pre-registration: no useful autoencoder signal across four of five evaluable cohorts; Enron is not evaluable under the frozen rule; the one cohort the autoencoder did rank highly (Lehman) is n = 1, and a 1990s TF-IDF baseline beats the autoencoder on it.",
   {
     x: 0.7, y: 5.15, w: 12, h: 1.7,
     fontFace: SERIF, fontSize: 18, color: INK, lineSpacingMultiple: 1.3,
@@ -267,9 +267,9 @@ const s4 = pres.addSlide();
 s4.background = { color: SURFACE_2 };
 eyebrow(s4, 0.7, 0.5, "RESULTS · 5 OF 6 COHORTS · ENRON EXCLUDED BY THE RULE");
 rule(s4, 0.7, 0.95, 0.6);
-s4.addText("Only Lehman ranks above random expectation; the aggregate still loses to random.", {
+s4.addText("Only Lehman ranks better than random expectation; even there, a 1990s baseline beats the autoencoder.", {
   x: 0.7, y: 1.1, w: 12, h: 0.6,
-  fontFace: SERIF, fontSize: 24, bold: true, color: NAVY_DARK,
+  fontFace: SERIF, fontSize: 22, bold: true, color: NAVY_DARK,
 });
 
 // Table: per-fraud results (rank only; statistical detail moves to speaker notes)
@@ -341,7 +341,7 @@ s4.addText([
 ], { x: 9.15, y: 2.65, w: 3.5, h: 2.6, lineSpacingMultiple: 1.5 });
 
 s4.addText(
-  "⚠ Lehman is the only rank better than random expectation, and a 1990s baseline ranks it higher (slide 5). The aggregate is entirely Lehman.",
+  "⚠ Lehman is the only rank better than random expectation, and a 1990s baseline beats the autoencoder there too (slide 5). The aggregate is entirely Lehman.",
   {
     x: 0.7, y: 5.7, w: 12, h: 0.8,
     fontFace: SERIF, fontSize: 13, italic: true, color: INK_2, lineSpacingMultiple: 1.3,
@@ -354,7 +354,7 @@ s4.addNotes(
 SAY:
 "Here's what came back. Five cases evaluable, one excluded; I'll come back to the excluded one.
 
-[point at Lehman row] Only Lehman lands in the top three within its peer group. Three out of thirteen. The statistical test is highly significant, BUT the effect size is small [point at warning glyph]. Both numbers matter; reporting either one alone is misleading.
+[point at Lehman row] Only Lehman lands in the top three within its peer group. Three out of thirteen. The statistical test is highly significant, BUT the effect size is small [point at warning glyph]. Both numbers matter; reporting either one alone is misleading. And as you'll see on the next slide, even on Lehman, a 1990s baseline beats my model.
 
 [quick scan with hand] The other four (HealthSouth, Valeant, Tyco, WorldCom) all rank no better than random expectation. The test goes the OPPOSITE direction from what we'd want. Aggregate hit rates fall at or below random.
 
@@ -366,6 +366,7 @@ So I had a choice: relax the rule and rerun, or report the exclusion. I reported
 
 STAGE NOTES:
 - Hands ON the slide. Don't quote numbers from memory; point at them on the projection.
+- The forward-pointer line ("a 1990s baseline beats my model") is critical. If a listener tunes out during slide 5, they need to walk away with this on slide 4. Don't skip it.
 - The Enron exclusion is the most likely Q&A target. Pre-empt it: "I had a choice: relax the rule or report the exclusion. I reported the exclusion."`
 );
 
