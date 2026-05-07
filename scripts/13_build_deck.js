@@ -509,47 +509,60 @@ s7.addText("What failed: the autoencoder beyond the TF-IDF baseline.", {
 s7.addText(
   "A result that loses to a baseline is not evidence for the neural model. The contract held; the model did not.",
   {
-    x: 0.7, y: 3.2, w: 10.5, h: 0.9,
-    fontFace: SERIF, fontSize: 15, italic: true, color: "CFD8E8", lineSpacingMultiple: 1.3,
+    x: 0.7, y: 3.1, w: 10.5, h: 0.7,
+    fontFace: SERIF, fontSize: 14, italic: true, color: "CFD8E8", lineSpacingMultiple: 1.3,
+  }
+);
+
+s7.addText("What I'd do differently", {
+  x: 0.7, y: 4.0, w: 10.5, h: 0.3,
+  fontFace: SANS, fontSize: 11, bold: true, color: CANARY, charSpacing: 4,
+});
+rule(s7, 0.7, 4.35, 0.4, CANARY);
+s7.addText(
+  "Confirm every held-out fraud is evaluable under the pre-registered rule BEFORE freezing the spec. Enron taught that the hard way.",
+  {
+    x: 0.7, y: 4.5, w: 10.5, h: 0.6,
+    fontFace: SERIF, fontSize: 13, color: "FFFFFF", lineSpacingMultiple: 1.3,
   }
 );
 
 s7.addText("Next experiment", {
-  x: 0.7, y: 4.4, w: 10.5, h: 0.4,
-  fontFace: SANS, fontSize: 12, bold: true, color: CANARY, charSpacing: 4,
+  x: 0.7, y: 5.25, w: 10.5, h: 0.3,
+  fontFace: SANS, fontSize: 11, bold: true, color: CANARY, charSpacing: 4,
 });
-rule(s7, 0.7, 4.8, 0.4, CANARY);
+rule(s7, 0.7, 5.6, 0.4, CANARY);
 s7.addText(
   "Same autoencoder, within-firm temporal delta. Does Lehman's MD&A look anomalous against Lehman's own prior-year MD&A?",
   {
-    x: 0.7, y: 5.0, w: 10.5, h: 0.9,
-    fontFace: SERIF, fontSize: 15, color: "FFFFFF", lineSpacingMultiple: 1.3,
+    x: 0.7, y: 5.75, w: 10.5, h: 0.55,
+    fontFace: SERIF, fontSize: 13, color: "FFFFFF", lineSpacingMultiple: 1.3,
   }
 );
 
-// QR code (links to the live pipeline demo) — bottom right corner
+// QR code (links to the live pipeline demo) — right side
 s7.addText("Scan to try the pipeline", {
-  x: 11.0, y: 4.55, w: 2.0, h: 0.3,
+  x: 11.0, y: 3.85, w: 2.0, h: 0.25,
   fontFace: SANS, fontSize: 10, italic: true, color: "CFD8E8", align: "center",
 });
-s7.addImage({ path: FIG("qr_demo.png"), x: 11.25, y: 4.9, w: 1.5, h: 1.5 });
+s7.addImage({ path: FIG("qr_demo.png"), x: 11.3, y: 4.15, w: 1.4, h: 1.4 });
 
 s7.addText([
   { text: "Pipeline demo (not a fraud scanner): ", options: { color: "CFD8E8" } },
   { text: "canary-psi.vercel.app/scan", options: { color: CANARY, bold: true } },
-], { x: 0.7, y: 6.55, w: 12, h: 0.3, fontFace: SANS, fontSize: 12 });
+], { x: 0.7, y: 6.55, w: 12, h: 0.25, fontFace: SANS, fontSize: 11 });
 s7.addText([
   { text: "Code: ", options: { color: "CFD8E8" } },
   { text: "github.com/ArseniiChan/canary", options: { color: CANARY, bold: true } },
   { text: "    ·    Tag: ", options: { color: "CFD8E8" } },
   { text: "validation-spec-frozen", options: { color: CANARY, bold: true } },
-], { x: 0.7, y: 6.85, w: 12, h: 0.3, fontFace: SANS, fontSize: 12 });
+], { x: 0.7, y: 6.85, w: 12, h: 0.25, fontFace: SANS, fontSize: 11 });
 s7.addText("Thanks.", {
-  x: 0.7, y: 7.2, w: 12, h: 0.3,
-  fontFace: SERIF, fontSize: 14, italic: true, color: "FFFFFF",
+  x: 0.7, y: 7.2, w: 12, h: 0.25,
+  fontFace: SERIF, fontSize: 13, italic: true, color: "FFFFFF",
 });
 s7.addNotes(
-`TARGET: 0:45. LAND THE URLs CLEANLY. PAUSE ONE BEAT AFTER "THANKS."
+`TARGET: 0:50. LAND THE URLs CLEANLY. PAUSE ONE BEAT AFTER "THANKS."
 
 SAY:
 "Two takeaways.
@@ -558,7 +571,9 @@ What survived: pre-registration. The contract held. I didn't iterate the model, 
 
 What failed: the modern method beyond the 1990s baseline. A result that loses to a baseline is not evidence for the neural model.
 
-The next experiment is on the slide: same model, same filings, but compare the company against ITSELF across years instead of against peers. That's the falsifiable next step this study couldn't run.
+What I'd do differently: confirm every held-out fraud is actually evaluable under the rule BEFORE freezing the spec. Enron was unevaluable under my own rule, and I didn't catch it until validation ran.
+
+Next experiment: same model, same filings, but compare each company against ITSELF across years instead of against peers. That's the falsifiable next step this study couldn't run.
 
 [point at footer] Try the pipeline at the link below: paste any annual report, see how it scores against the five fraud cases. Code is on GitHub. The frozen-spec git tag is in the repo.
 
