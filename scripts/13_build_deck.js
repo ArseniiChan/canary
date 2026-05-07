@@ -71,9 +71,9 @@ s1.addText("CANARY", {
   fontFace: SANS, fontSize: 14, bold: true, color: CANARY,
   charSpacing: 12,
 });
-s1.addText("Can a computer reading a company's annual report\ntell which ones turned out to be committing accounting fraud?", {
+s1.addText("Do companies committing accounting fraud\nwrite their annual reports differently?", {
   x: 0.7, y: 1.3, w: 12, h: 1.8,
-  fontFace: SERIF, fontSize: 30, color: "FFFFFF", italic: false, valign: "top", lineSpacingMultiple: 1.15,
+  fontFace: SERIF, fontSize: 36, color: "FFFFFF", italic: false, valign: "top", lineSpacingMultiple: 1.15,
 });
 rule(s1, 0.7, 3.4, 1.2, CANARY, 0.05);
 s1.addText("A pre-registered novelty study on SEC 10-K filings.", {
@@ -114,14 +114,15 @@ s1.addNotes(
 `TARGET: 0:25.
 
 SAY:
-"I'm Arsenii Chan. The question I built this project around is a simple one: can a computer reading the words in a public company's annual report tell you which companies turned out to be committing accounting fraud? Six famous cases. One specific test. Let me show you what came back."
+"I'm Arsenii Chan. The question I built this project around is a simple one: do companies that turn out to have been committing accounting fraud write their annual reports differently from honest companies, and can a machine learning model detect that difference? Six famous cases. One specific test. Let me show you what came back."
 
 (Pause. Click to slide 2.)
 
 STAGE NOTES:
 - Don't announce the conclusion. Don't say "honestly" or "negative result"; both pre-spoil the talk.
 - Open with the question. The audience leans forward.
-- No jargon out loud: never say "autoencoder" or "MD&A" aloud. Keep them on the slide only.`
+- No jargon out loud: never say "autoencoder" or "MD&A" aloud. Keep them on the slide only.
+- The slide shows just the first half of the question ("do they write differently"). You verbally complete it ("and can a model detect that"). The audience reads the slide while you fill in the rest.`
 );
 
 // ---------- Slide 2: Driving question ----------
@@ -220,7 +221,7 @@ cols.forEach((c) => {
   });
 });
 s3.addText(
-  "The contract makes the null result interpretable, not conclusive.",
+  "Whatever the test produces, the contract makes the result interpretable.",
   {
     x: 0.7, y: 6.4, w: 8.0, h: 0.5,
     fontFace: SERIF, fontSize: 14, italic: true, color: NAVY,
