@@ -16,7 +16,7 @@ const PptxGenJS = require("pptxgenjs");
 
 const ROOT = path.resolve(__dirname, "..");
 const FIG = (n) => path.join(ROOT, "reports/figures", n);
-const OUT = path.join(ROOT, "reports/canary_deck.pptx");
+const OUT = path.join(ROOT, "reports/Chan_Arsenii_CSC44800_Presentation.pptx");
 
 const pres = new PptxGenJS();
 pres.layout = "LAYOUT_WIDE"; // 13.33 x 7.5
