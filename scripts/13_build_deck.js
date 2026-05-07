@@ -84,11 +84,11 @@ s1.addText("A pre-registered novelty study on SEC 10-K filings.", {
 // AI model summary (what was trained vs what was reused)
 s1.addText([
   { text: "Trained: ", options: { bold: true, color: CANARY } },
-  { text: "five small autoencoders in PyTorch, one per held-out fraud cohort.", options: { color: "FFFFFF" } },
+  { text: "five small autoencoders in PyTorch, one per fraud case (each tested against industry peers).", options: { color: "FFFFFF" } },
 ], { x: 0.7, y: 4.4, w: 12, h: 0.45, fontFace: SANS, fontSize: 15 });
 s1.addText([
   { text: "Reused: ", options: { bold: true, color: CANARY } },
-  { text: "a pretrained MiniLM transformer, frozen, as a sentence-to-vector encoder.", options: { color: "FFFFFF" } },
+  { text: "MiniLM, a pretrained sentence encoder. Used as-is, no fine-tuning.", options: { color: "FFFFFF" } },
 ], { x: 0.7, y: 4.85, w: 12, h: 0.45, fontFace: SANS, fontSize: 15 });
 s1.addText([
   { text: "Tested: ", options: { bold: true, color: CANARY } },
@@ -114,15 +114,14 @@ s1.addNotes(
 `TARGET: 0:25.
 
 SAY:
-"I'm Arsenii Chan. The question I built this project around is a simple one: do companies that turn out to have been committing accounting fraud write their annual reports differently from honest companies, and can a machine learning model detect that difference? Six famous cases. One specific test. Let me show you what came back."
+"I'm Arsenii Chan. The question I built this project around is simple. Do companies committing accounting fraud write their annual reports differently from honest companies? And can a machine learning model spot the difference? Six famous fraud cases. One test. Let me show you what came back."
 
 (Pause. Click to slide 2.)
 
 STAGE NOTES:
 - Don't announce the conclusion. Don't say "honestly" or "negative result"; both pre-spoil the talk.
 - Open with the question. The audience leans forward.
-- No jargon out loud: never say "autoencoder" or "MD&A" aloud. Keep them on the slide only.
-- The slide shows just the first half of the question ("do they write differently"). You verbally complete it ("and can a model detect that"). The audience reads the slide while you fill in the rest.`
+- The slide shows the first half of the question. You verbally complete it ("and can a model spot the difference"). Audience reads while you fill in the rest.`
 );
 
 // ---------- Slide 2: Driving question ----------
@@ -135,7 +134,7 @@ s2.addText('"', {
   fontFace: SERIF, fontSize: 110, color: CANARY, bold: false,
 });
 s2.addText(
-  "Does an unsupervised autoencoder trained on industry-and-year-matched clean 10-K MD&A text assign elevated reconstruction error to known historical fraud filings, under strictly out-of-sample evaluation?",
+  "If an autoencoder trains only on clean annual reports from the same industry and year, will it rank known fraud filings as more unusual than its peers?",
   {
     x: 1.7, y: 1.5, w: 11, h: 2.6,
     fontFace: SERIF, fontSize: 26, italic: true, color: NAVY_DARK, lineSpacingMultiple: 1.25,
@@ -147,7 +146,7 @@ s2.addText("The one-line answer this report defends:", {
   fontFace: SANS, fontSize: 13, color: INK_2, bold: true,
 });
 s2.addText(
-  "At N = 6 frauds, with strict pre-registration: no useful autoencoder signal across four of five evaluable cohorts; Enron is not evaluable under the frozen rule; the one cohort the autoencoder did rank highly (Lehman) is n = 1, and a 1990s TF-IDF baseline beats the autoencoder on it.",
+  "At N = 6 frauds, with strict pre-registration: no useful autoencoder signal in four of five test cases; Enron couldn't be evaluated under the frozen rule; the one case the autoencoder did rank highly (Lehman) is n = 1, and a 1990s TF-IDF baseline beats the autoencoder there.",
   {
     x: 0.7, y: 5.15, w: 12, h: 1.7,
     fontFace: SERIF, fontSize: 18, color: INK, lineSpacingMultiple: 1.3,
@@ -158,19 +157,19 @@ s2.addNotes(
 `TARGET: 0:45.
 
 SAY:
-"Six historical fraud cases: Enron, WorldCom, Tyco, HealthSouth, Valeant, Lehman Brothers. Each one was later proven to have been misrepresenting its financial condition at the time of this filing. The SEC or class-action lawsuits exposed them years afterward; each cost investors over a billion dollars. I paired each fraud filing against companies in the same industry, same year, that turned out to be clean.
+"Six historical fraud cases: Enron, WorldCom, Tyco, HealthSouth, Valeant, Lehman Brothers. Each one turned out to be misrepresenting its finances at the time it filed this report. The SEC or class-action lawsuits exposed them years later. Each cost investors over a billion dollars. I paired each fraud filing against companies in the same industry, same year, that were clean.
 
-The model never sees the word 'fraud' during training. It just reads the long English-prose section of each annual report, where management explains the year in their own words, and learns what a 'normal' filing looks like industry by industry. Then it ranks the unusual filings against their peers.
+The model never sees the word 'fraud' during training. It just reads the long prose section of each annual report (where management explains the year in their own words) and learns what 'normal' looks like, industry by industry. Then it ranks the unusual filings against their peers.
 
-The formal question is on the slide [point at pull-quote]. The one-line answer this report defends is on the next bullet [point at it]. I'll spend the rest of the talk on the evidence."
+[point at pull-quote] The formal question is on the slide. [point at the answer line] The plain-English answer is right below it. I'll spend the rest of the talk on the evidence."
 
 (Click to slide 3.)
 
 STAGE NOTES:
-- Don't read the pull-quote out loud. It's full of jargon and the audience can read it faster than you can speak it. Just point.
-- Same with the one-line answer. Pointing is faster than reading.
-- The "long English-prose section where management explains the year" is the plain-English explanation of MD&A. Don't say "MD&A" out loud unless someone asks — the slide pull-quote shows the formal name for the technical reader.
-- The context line about each cohort being a multi-billion-dollar fraud is critical for audience comprehension. By the time they reach slide 4 they need to know these names matter. Don't skip it.`
+- Don't read the pull-quote out loud. It's the formal academic version. The audience reads while you point.
+- Pointing is faster than reading.
+- Don't say MD&A out loud. The phrase "long prose section where management explains the year" replaces it.
+- The context about the six companies being multi-billion-dollar frauds is critical. The audience needs to know these names matter before reaching slide 4. Don't skip it.`
 );
 
 // ---------- Slide 3: The methodological contract (the lede) ----------
@@ -198,7 +197,7 @@ const cols = [
   },
   {
     x: 4.7, label: "Time-controlled training",
-    body: "Within the LOCO training set, only filings dated on or before that fraud's filing date are eligible. The autoencoder's training corpus cannot include post-fraud disclosure language. (MiniLM pretraining is a separate caveat.)"
+    body: "Within the LOCO training set, only filings dated on or before that fraud's filing date are eligible. The autoencoder's training corpus cannot include post-fraud disclosure language. (The MiniLM encoder isn't time-controlled.)"
   },
   {
     x: 8.7, label: "Single pass, no tuning",
@@ -245,15 +244,15 @@ s3.addNotes(
 `TARGET: 0:50. THIS IS THE MOST IMPORTANT SLIDE. SLOW DOWN.
 
 SAY:
-"Before I show you any number, I want to put the methodology on the table. The methodology is what makes the result mean anything.
+"Before I show you any number, I want to walk through the methodology. It's what makes the result mean anything.
 
 Three rules I locked in BEFORE I ran the test. [point at columns]
 
-One: the model never sees a fraud during training. For each fraud case, the model trains on clean filings from OTHER cases. The fraud being tested is held out.
+One: the model never sees a fraud during training. For each fraud case, the model trains only on clean filings from OTHER cases. The fraud I'm testing is held out.
 
-Two: the model never sees the future. Within that training set, only filings dated on or before the fraud's filing date are eligible. The model can't be informed by language that came out AFTER the fraud was discovered.
+Two: the model never sees the future. Within that training set, only filings dated on or before the fraud's filing date are allowed. The model can't pick up language that came out AFTER the fraud was discovered.
 
-Three: single pass, no tuning. Architecture, hyperparameters, the test set: all written down and locked into the repo BEFORE the test ran. [point at git-tag panel:] Top right shows the actual lock, committed and tagged on May 1st, before any result came in.
+Three: single pass, no tuning. The architecture, the hyperparameters, the test set: all of that was written down and locked into the repo BEFORE the test ran. [point at git-tag panel] Top right shows the actual lock. Committed and tagged on May 1st, before any result came in.
 
 Test ran once. Whatever it said, that's the result."
 
@@ -262,7 +261,7 @@ Test ran once. Whatever it said, that's the result."
 STAGE NOTES:
 - The git-tag panel is small. Say "top right shows" rather than gesturing at the podium.
 - If anyone in the room knows what pre-registration is, this is where you've already won them over.
-- Avoid jargon: don't say "LOCO" or "MiniLM" aloud. Say "leave-one-out" or "the embedding model" if pressed.`
+- Don't say "LOCO" or "MiniLM" aloud. The slide shows them; you say "leave-one-out" or "the embedding model" if you need to.`
 );
 
 // ---------- Slide 4: Per-fraud results ----------
@@ -355,22 +354,22 @@ s4.addNotes(
 `TARGET: 1:00.
 
 SAY:
-"Here's what came back. Five cases evaluable, one excluded; I'll come back to the excluded one.
+"Here's what came back. Five cases I could test, one excluded. I'll come back to the excluded one.
 
-[point at Lehman row] Only Lehman — the investment bank whose collapse triggered the 2008 financial crisis — lands in the top three within its peer group. Three out of thirteen. The statistical test is highly significant, BUT the effect size is small [point at warning glyph]. Both numbers matter; reporting either one alone is misleading. And as you'll see on the next slide, even on Lehman, a 1990s baseline beats my model.
+[point at Lehman row] Only Lehman, the investment bank whose collapse triggered the 2008 financial crisis, lands in the top three within its peer group. Three out of thirteen. The statistical test is highly significant, but the effect size is small [point at warning glyph]. Both numbers matter. Reporting either one alone would be misleading. And as you'll see on the next slide, even on Lehman, a 1990s baseline beats my model.
 
-[quick scan with hand] The other four (HealthSouth, Valeant, Tyco, WorldCom) all rank no better than random expectation. The test goes the OPPOSITE direction from what we'd want. Aggregate hit rates fall at or below random.
+[quick scan with hand] The other four (HealthSouth, Valeant, Tyco, WorldCom) all rank no better than random. The test actually goes in the OPPOSITE direction from what we'd want. Overall my hit rates are at or below random.
 
-Now, Enron. [point at italicized row] Enron's filing date is April 2nd, 2001. Every other peer in every other case is dated later. Under the strict rule I locked in, Enron has no eligible training data.
+Now, Enron. [point at italicized row] Enron's filing date is April 2nd, 2001. Every other peer in every other case was dated later. Under the strict rule I locked in, there's no clean filing Enron could have trained on.
 
-So I had a choice: relax the rule and rerun, or report the exclusion. I reported the exclusion. The pre-registered design was infeasible for Enron, and I didn't catch that before I locked the spec. That's a finding about pre-registration, not about fraud detection."
+So I had a choice. Relax the rule and rerun, or report the exclusion. I reported the exclusion. The pre-registered design was infeasible for Enron, and I didn't catch that before I locked the spec. That's a finding about pre-registration, not about fraud detection."
 
 (Click to slide 5.)
 
 STAGE NOTES:
 - Hands ON the slide. Don't quote numbers from memory; point at them on the projection.
-- The forward-pointer line ("a 1990s baseline beats my model") is critical. If a listener tunes out during slide 5, they need to walk away with this on slide 4. Don't skip it.
-- The Enron exclusion is the most likely Q&A target. Pre-empt it: "I had a choice: relax the rule or report the exclusion. I reported the exclusion."`
+- The forward-pointer ("a 1990s baseline beats my model") is critical. If a listener tunes out during slide 5, they need to walk away with this on slide 4. Don't skip it.
+- The Enron exclusion is the most likely Q&A target. Pre-empt it: "I had a choice. Relax the rule, or report the exclusion. I reported the exclusion."`
 );
 
 // ---------- Slide 5: Trivial baseline ----------
@@ -399,21 +398,21 @@ s5.addNotes(
 `TARGET: 1:10. THIS IS THE LEDE OF THE TALK. DON'T RUSH.
 
 SAY:
-"Now the part that I think actually matters.
+"Now the part I think actually matters.
 
-After the test ran, I asked myself the question every machine-learning paper should answer and most don't: would a method from before I was born produce the same result?
+After the test ran, I asked myself the question every machine-learning paper should answer and most don't. Would a method from before I was born produce the same result?
 
-So I ran one. [point at chart] A simple word-counting method with the same compression step. The kind of thing you could have written in 1995 from a textbook. Same training data, same statistical tests, same pipeline shape. No neural network. No transformer.
+So I ran one. [point at chart] A simple word-counting method. The kind of thing you could have written in 1995 from a textbook. Same training data, same statistical tests, same pipeline shape. No neural network. No transformer.
 
-[point at chart] On four of five cases, the 1995 method TIES the modern one. [point at Lehman bar] On Lehman, the one case the modern method got, the 1995 method gets it BETTER. The p-value is many orders of magnitude smaller.
+[point at chart] On four of five cases, the 1995 method TIES the modern one. [point at Lehman bar] And on Lehman, the one case the modern method got, the 1995 method gets it BETTER. The statistical test is way more confident.
 
-Let me say what I'm not saying and then what I am saying.
+Let me say what I'm not saying, and then what I am saying.
 
-I am NOT saying the modern method is broken, or that neural networks are unhelpful for this kind of problem.
+I am NOT saying the modern method is broken, or that neural networks are useless for this kind of problem.
 
-I AM saying that on these five cases, with the rules I locked in, the modern method did not show a measurable advantage over a method I could have run in 1995.
+I AM saying that on these five cases, with the rules I locked in, the modern method did not beat a method I could have run in 1995.
 
-If you take one thing from this talk, this is it: a sharp baseline isn't optional. A result that loses to a baseline is not evidence for the neural model."
+If you take one thing from this talk, this is it. A sharp baseline isn't optional. A result that loses to a baseline isn't evidence for the neural model."
 
 (Click to slide 6.)
 
@@ -421,7 +420,7 @@ STAGE NOTES:
 - The "before I was born" / "1995" framing is the kill line. Practice deadpan delivery.
 - If the room is silent after, that's fine. Keep going.
 - The "I am not saying / I am saying" structure prevents the misread "the AI didn't work."
-- Don't say "TF-IDF" or "truncated SVD" aloud unless someone asks. "1995 method" or "simple word-counting method" is the spoken phrase. The slide and chart already show the technical names.`
+- Don't say "TF-IDF" or "truncated SVD" aloud unless someone asks. "1995 method" or "simple word-counting method" is the spoken phrase.`
 );
 
 // ---------- Slide 6: Anticipated questions (Q&A defense) ----------
@@ -473,11 +472,11 @@ s6.addNotes(
 SAY:
 "Three questions I expect, with quick answers so we have time for whatever else you actually want to ask.
 
-Did you check a trivial baseline? Yes. Same compression dimension, same training data. The 1995 baseline matches or beats the modern method on every case. The honest claim is that the modern method adds nothing here. Slide 5.
+Did you check a trivial baseline? Yes. Same training data, same compression. The 1995 baseline matches or beats the modern method on every case. The honest claim is that the modern method adds nothing here. Slide 5.
 
-The baseline is post-hoc, isn't that HARKing? The pre-registered hypothesis was about the modern method, and that result is reported unchanged. The 1995 baseline was added after seeing the null and is reported as post-hoc. The primary null doesn't depend on it.
+The baseline is post-hoc, isn't that HARKing? The pre-registered hypothesis was about the modern method, and I report that result unchanged. The 1995 baseline was added after seeing the null result, and I label it as post-hoc. The main result doesn't depend on the baseline.
 
-Could the embedding model have memorized 'Lehman' or 'Repo 105'? I tested that. I masked 93 such mentions in Lehman's filing with a placeholder and re-scored. Lehman's rank held at 3 out of 13. Exact-token name leakage doesn't explain the rank."
+Could the embedding model have memorized 'Lehman' or 'Repo 105'? I tested that. I replaced 93 of those words in Lehman's filing with a placeholder and re-scored. Lehman's rank held at 3 out of 13. So the model isn't just spotting the word 'Lehman.'"
 
 (Click to slide 7.)
 
@@ -533,7 +532,7 @@ s7.addText("Next experiment", {
 });
 rule(s7, 0.7, 5.6, 0.4, CANARY);
 s7.addText(
-  "Same autoencoder, within-firm temporal delta. Does Lehman's MD&A look anomalous against Lehman's own prior-year MD&A?",
+  "Same autoencoder, but compare each company against its own past filings (not industry peers). Does Lehman's MD&A look anomalous against Lehman's own prior-year MD&A?",
   {
     x: 0.7, y: 5.75, w: 10.5, h: 0.55,
     fontFace: SERIF, fontSize: 13, color: "FFFFFF", lineSpacingMultiple: 1.3,
@@ -565,17 +564,17 @@ s7.addNotes(
 `TARGET: 0:50. LAND THE URLs CLEANLY. PAUSE ONE BEAT AFTER "THANKS."
 
 SAY:
-"Two takeaways.
+"Two takeaways and one next step.
 
-What survived: pre-registration. The contract held. I didn't iterate the model, I didn't redefine 'clean,' I didn't retreat from the Enron exclusion when the result was uncomfortable.
+What survived: pre-registration. The contract held. I didn't tweak the model, I didn't redefine 'clean,' I didn't backtrack on the Enron exclusion when the result got uncomfortable.
 
-What failed: the modern method beyond the 1990s baseline. A result that loses to a baseline is not evidence for the neural model.
+What failed: the modern method, beyond what the 1990s baseline already does. A result that loses to a baseline is not evidence for the neural model.
 
-What I'd do differently: confirm every held-out fraud is actually evaluable under the rule BEFORE freezing the spec. Enron was unevaluable under my own rule, and I didn't catch it until validation ran.
+What I'd do differently: make sure every held-out fraud actually has training data under the rule, BEFORE freezing the spec. Enron was unevaluable under my own rule, and I didn't catch it until validation ran.
 
-Next experiment: same model, same filings, but compare each company against ITSELF across years instead of against peers. That's the falsifiable next step this study couldn't run.
+Next experiment: same model, same filings, but compare each company against ITSELF across years, instead of against industry peers. That's the next step this study couldn't run.
 
-[point at footer] Try the pipeline at the link below: paste any annual report, see how it scores against the five fraud cases. Code is on GitHub. The frozen-spec git tag is in the repo.
+[point at footer] Try the pipeline at the link below. Paste any annual report and see how it scores against the five fraud cases. Code is on GitHub. The frozen-spec git tag is in the repo.
 
 Thanks. Happy to take questions."
 
