@@ -164,5 +164,5 @@ Reimers, N., & Gurevych, I. (2019). Sentence-BERT: Sentence embeddings using Sia
 
 U.S. Securities and Exchange Commission. *EDGAR full-text search and submissions JSON.* https://www.sec.gov/edgar.
 
-U.S. Securities and Exchange Commission. *Accounting and Auditing Enforcement Releases.* https://www.sec.gov/divisions/enforce/friactions.shtml.
+U.S. Securities and Exchange Commission. *Accounting and Auditing Enforcement Releases.* https://www.sec.gov/enforcement-litigation/accounting-auditing-enforcement-releases.
 

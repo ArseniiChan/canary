@@ -346,7 +346,7 @@ children.push(h1("References"));
   "Loughran, T., & McDonald, B. (2011). When is a liability not a liability? Textual analysis, dictionaries, and 10-Ks. The Journal of Finance, 66(1), 35–65.",
   "Reimers, N., & Gurevych, I. (2019). Sentence-BERT: Sentence embeddings using Siamese BERT-networks. Proc. EMNLP-IJCNLP 2019.",
   "U.S. Securities and Exchange Commission. EDGAR full-text search and submissions JSON. https://www.sec.gov/edgar.",
-  "U.S. Securities and Exchange Commission. Accounting and Auditing Enforcement Releases. https://www.sec.gov/divisions/enforce/friactions.shtml.",
+  "U.S. Securities and Exchange Commission. Accounting and Auditing Enforcement Releases. https://www.sec.gov/enforcement-litigation/accounting-auditing-enforcement-releases.",
 ].forEach(t => children.push(new Paragraph({
   children: [new TextRun({ text: t, font: TIMES, size: BODY })],
   spacing: { ...LINE, before: 80 }, indent: { left: 360, hanging: 360 },
